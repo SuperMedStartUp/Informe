@@ -352,5 +352,70 @@ Hemos creado los repositorios que usaremos a lo largo del desarrollo del proyect
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
 
+<div align=justify>
 Para gestionar el despliegue de nuestro backend y de la base de datos, hemos decidido usar la plataforma Railway.
-Railway es una plataforma de desarrollo en la nube que permite desplegar, alojar y gestionar aplicaciones y bases de datos de manera sencilla y rápida. 
+Railway es una plataforma de desarrollo en la nube que permite desplegar, alojar y gestionar aplicaciones y bases de datos de manera sencilla y rápida.
+</div>
+
+<div id='5.2.'><h3> 5.2.	Landing Page, Services & Applications Implemetation.</h3></div>
+
+<div id='5.2.1.'><h4> 5.2.1.	Sprint 1.</h4></div>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+
+Se planeó el primer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 1</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Planning Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Virtual</td>
+		</tr>
+		<tr>
+			<td>Prepared by</td>
+			<td>Palomino Santa Cruz, Erick Joaquin</td>
+		</tr>
+		<tr>
+			<td>Attendees (to planning meeting)</td>
+			<td>- Boronda Heidinger, Astrid Jimena <br> - Ventura Chancafe, Eduardo Renato <br> - Palma Obispo, Adrián Enrique Jesús <br> - Montes Figueroa. Juan Eduardo <br> - Palomino Santa Cruz, Erick Joaquin</td>
+		</tr>
+		<tr>
+			<td>Sprint n - 1 Review Summary</td>
+			<td>No hubo sprint anterior</td>
+		</tr>
+		<tr>
+			<td>Sprint n - 1 Retrospective Summary</td>
+			<td>No hubo sprint anterior</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Goal</td>
+			<td>Desarollo de la landing page y desarrollo de funcionalidad principal</td>
+		</tr>
+		<tr>
+			<td>Sprint 1 Velocity</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td>12</td>
+		</tr>
+	</tbody>
+</table>
