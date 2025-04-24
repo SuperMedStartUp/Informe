@@ -389,7 +389,7 @@ Nuestro enfoque inicial será dirigirnos tanto a doctores especialistas en traum
 
 ### 1.2.2.4. Lean UX Canvas
 
-<img src="assets/solution-profile/LeanUXCanvas.jpg" alt="Lean Ux Canvas">
+<img src="assets/LeanUXCanvas.jpg" alt="Lean Ux Canvas">
 
 ### 1.3. Segmentos objetivo
 
