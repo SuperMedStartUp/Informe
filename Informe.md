@@ -2050,7 +2050,7 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 
 <div id='5.2.2.'><h4> 5.2.2. Sprint 2.</h4></div>
 
-<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 2.</h5></div>
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
 
 Se planeó el primer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.
 
@@ -2097,7 +2097,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 		</tr>
 		<tr>
 			<td>Sprint 2 Goal</td>
-			<td>El objetivo principal que tiene este sprint 2 es elaborar la primera versión y despliegue del front end web applications para el negocio y desarrollo de la aplicación móvil en flutter</td>
+			<td>El objetivo principal que tiene este sprint 2 es elaborar la primera versión y despliegue del front end web applications para el negocio y desarrollo de la aplicación móvil en flutter.</td>
 		</tr>
 		<tr>
 			<td>Sprint 2 Velocity</td>
@@ -2106,6 +2106,239 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 		<tr>
 			<td>Sum of Story Points</td>
 			<td>19</td>
+		</tr>
+	</tbody>
+</table>
+
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 2.</h5></div>
+
+<table>
+	<tbody>
+		<tr>
+			<td colspan="2">Sprint #</td>
+			<td colspan="6">Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work-Item</td>
+		</tr>
+		<tr>
+			<td>ID</td>
+			<td>Title</td>
+			<td>ID</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US07</td>
+			<td rowspan="2">Registro de nueva cita</td>
+			<td>T01</td>
+			<td>Creación de la sección de registar nueva cita</td>
+			<td>Crear la sección de registar nueva cita, que permite programar una cita seleccionando la fecha, hora, doctor, y lugar.</td>
+			<td>6</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Crear sección de citas</td>
+			<td>Crear la sección de citas donde el paciente podrá ver el listado de sus citas pendientes asi como el historial de sus citas.</td>
+			<td>4</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US02</td>
+			<td rowspan="2">Gestión de citas</td>
+			<td>T01</td>
+			<td>Sección de gestionar citas</td>
+			<td>Crear la sección que le permitrá al doctor ver todas sus citas pendientes del día.</td>
+			<td>4</td>
+			<td>Eduardo Ventura</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Citas detalladas</td>
+			<td>Incorporar un botón para mostar los detalles completos de las citas y permitir añadir notas.</td>
+			<td>3</td>
+			<td>Eduardo Ventura</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US04</td>
+			<td rowspan="2">Acceso Eficiente al Historial Médico Completo</td>
+			<td>T01</td>
+			<td>Sección de historial Médico</td>
+			<td>Crear la sección donde el doctor podrá ver una lista de historiales médicos de sus pacientes a cargo.</td>
+			<td>4</td>
+			<td>Erick Palomino</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Añadir filtro de búsqueda</td>
+			<td>Añadir un cuadro de texto para que el doctor pueda lograr una búsqueda más personalizada.</td>
+			<td>2</td>
+			<td>Erick Palomino</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US15</td>
+			<td rowspan="2">Actualización de Planes de Tratamient</td>
+			<td>T01</td>
+			<td>Crear Sección de tratamientos</td>
+			<td>Crear la sección donde el paciente podrá visualizar su lista de tratamientos a detalle.</td>
+			<td>6</td>
+			<td>Juan Montes</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Gestionar sección de tratamientos</td>
+			<td>Incorporar botones en la vista del doctor para la creación, edición o eliminación de los tratamientos.</td>
+			<td>4</td>
+			<td>Juan Montes</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US29</td>
+			<td rowspan="2">Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas</td>
+			<td>T01</td>
+			<td>Sección de registro de resultados</td>
+			<td>Crear la sección de registro de resultados, donde el doctor visualizará la lista de exámenes médicos realizados pacientes.</td>
+			<td>6</td>
+			<td>Astrid Boronda</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Sección Historial de resultados</td>
+			<td>Crear la sección de historial de resultados donde el paciente visualizará todos sus exámenes médicos realizados.</td>
+			<td>4</td>
+			<td>Astrid Boronda</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US12</td>
+			<td>Re-agendamiento de Citas</td>
+			<td>T01</td>
+			<td>Opción de posponer cita</td>
+			<td>Crear la opción posponer cita que permita aplazar la cita una hora durante el día.</td>
+			<td>2</td>
+			<td>Eduardo Ventura</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US04</td>
+			<td rowspan="2">Herramienta de comunicación</td>
+			<td>T01</td>
+			<td>Chat de texto</td>
+			<td>implementar un chat de texto en tiempo real</td>
+			<td>6</td>
+			<td>Astrid Boronda</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Lista de chats</td>
+			<td>Implementar un chat de texto en tiempo real.</td>
+			<td>6</td>
+			<td>Astrid Boronda</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>US40</td>
+			<td>Iniciar conversación con el doctor</td>
+			<td>T01</td>
+			<td>Iniciar conversación con el doctor</td>
+			<td>Como paciente, quiero poder iniciar una conversación con el doctor que me atendió, para poder hacerle preguntas o discutir sobre mi tratamiento en cualquier momento.</td>
+			<td>4</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US42</td>
+			<td>Enviar archivos y documentos en el chat</td>
+			<td>T01</td>
+			<td>Enviar archivos y documentos en el chat</td>
+			<td>Como paciente, quiero poder enviar archivos o imágenes relevantes al doctor a través del chat, para proporcionar información adicional sobre mi estado o exámenes médicos.</td>
+			<td>2</td>
+			<td>Adrián Palma</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>US44</td>
+			<td>Guardar y consultar historial de conversaciones</td>
+			<td>T01</td>
+			<td>Guardar y consultar historial de conversaciones</td>
+			<td>Como paciente, quiero que el chat guarde automáticamente el historial de conversaciones, para poder revisar información anterior o recomendaciones previas en cualquier momento.</td>
+			<td>3</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US46</td>
+			<td>Programación de citas médicas</td>
+			<td>T01</td>
+			<td>Programación de citas médicas</td>
+			<td>Como paciente, deseo poder programar mis citas médicas a través de la plataforma, para asegurarme de que las fechas y horas seleccionadas se ajusten a mi disponibilidad.</td>
+			<td>5</td>
+			<td>Juan Montes</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US47</td>
+			<td>Visualización del historial de citas</td>
+			<td>T01</td>
+			<td>Visualización del historial de citas</td>
+			<td>Como paciente, deseo poder acceder a un historial completo de mis citas médicas pasadas y futuras, para llevar un registro de mis consultas y tratamientos</td>
+			<td>3</td>
+			<td>Juan Montes</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>US51</td>
+			<td>Cancelación de citas médicas</td>
+			<td>T01</td>
+			<td>Cancelación de citas médicas</td>
+			<td>Como paciente, deseo poder cancelar una cita médica al hacer clic en un botón que diga "cancelar cita", para poder reorganizar mi agenda si ya no puedo asistir a la cita programada.</td>
+			<td>2</td>
+			<td>Juan Montes</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US52</td>
+			<td>Creación y gestión de planes de tratamiento</td>
+			<td>T01</td>
+			<td>Creación y gestión de planes de tratamiento</td>
+			<td>Como doctor traumatológico, deseo poder crear y gestionar planes de tratamiento personalizados para mis pacientes, para ofrecer una atención médica adaptada a sus necesidades específicas.</td>
+			<td>4</td>
+			<td>Eduardo Ventura</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US54</td>
+			<td>Eliminación de tratamiento del doctor</td>
+			<td>T01</td>
+			<td>Eliminación de tratamiento del doctor</td>
+			<td>Como doctor traumatológico, deseo poder eliminar un tratamiento previamente creado al seleccionarlo desde un menú en la plataforma, para poder gestionar eficazmente los tratamientos de mis pacientes y mantener la información actualizada.</td>
+			<td>3</td>
+			<td>Astrid Boronda</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>US06</td>
+			<td>Seguridad y Protección de Datos de Pacientes</td>
+			<td>T01</td>
+			<td>Seguridad y Protección de Datos de Pacientes</td>
+			<td>Como doctor traumatológico, quiero que la plataforma garantice la seguridad y protección de los datos de los pacientes, para asegurar que toda la información sobre tratamientos y historial doctor se maneje de manera confidencial y segura.</td>
+			<td></td>
+			<td>Erick Palomino y Adrián Palma</td>
+			<td>Done</td>
 		</tr>
 	</tbody>
 </table>
