@@ -295,9 +295,11 @@ Herramienta para guardar, a través de repositorios, los proyecto que se desarro
 * **Github Pages:** 
 Herramienta dentro de github que permite alojar una pagina web de un repositorio HTML: Un lenguaje de marcado para crear tanto la estructura y el contenido de una página web.
 
-* **JavaScript:** Lenguaje de programación para agregar funcionalidad a las páginas webs.
+* **JavaScript:**
+Lenguaje de programación para agregar funcionalidad a las páginas webs.
   
-* **CSS:** Lenguaje utilizado para dar estilo a las páginas webs.
+* **CSS:**
+Lenguaje utilizado para dar estilo a las páginas webs.
 
 * **Visual Studio Code:** [https://code.visualstudio.com/](https://code.visualstudio.com/) <br>
 Editor de código que se utiliza para realizar distintos trabajos con respecto a la programación, este soporta una gran cantidad de lenguajes, como Python, JavaScript, HTML, entre otros.
@@ -312,16 +314,39 @@ Plataforma que permite alojar y gestionar proyectos de software de forma colabor
 
 **Software Deployment**
 
-* **Railway:** [https://railway.app/](https://railway.app/)
+* **Railway:** [https://railway.app/](https://railway.app/) <br>
 Plataforma que facilita el despliegue de las aplicaciones en la nube de una forma sencilla. Es ideal para desarrolladores que buscan una solución para la gestión del desarrollo hasta la producción de sus aplicaciones.
 
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
 
 Hemos creado los repositorios que usaremos a lo largo del desarrollo del proyecto, esto incluye el de la documentación, landing page, frontend y backend.
 
-**Link del repositorio de documentacion:** [https://github.com/SuperMedStartUp/Informe](https://github.com/SuperMedStartUp/Informe)
-**Link del repositorio de la Landing Page:**  
-**Link del repositorio del Backend:** [https://github.com/LosLuminosos-SW57/Backend-MedSystem](https://github.com/LosLuminosos-SW57/Backend-MedSystem)
-**Link del repositorio del Frontend-Web:** [https://github.com/LosLuminosos-SW57/Frontend-MedSystem](https://github.com/LosLuminosos-SW57/Frontend-MedSystem)
-**Link del repositorio del Frontend-Movil:** [https://github.com/MedSolutions-SW65/MedSystem-Frontend](https://github.com/MedSolutions-SW65/MedSystem-Frontend)
+**Link del repositorio de documentacion:** [https://github.com/SuperMedStartUp/Informe](https://github.com/SuperMedStartUp/Informe) <br>
+**Link del repositorio de la Landing Page:**  <br>
+**Link del repositorio del Backend:** [https://github.com/LosLuminosos-SW57/Backend-MedSystem](https://github.com/LosLuminosos-SW57/Backend-MedSystem) <br>
+**Link del repositorio del Frontend-Web:** [https://github.com/LosLuminosos-SW57/Frontend-MedSystem](https://github.com/LosLuminosos-SW57/Frontend-MedSystem) <br>
+**Link del repositorio del Frontend-Movil:** [https://github.com/MedSolutions-SW65/MedSystem-Frontend](https://github.com/MedSolutions-SW65/MedSystem-Frontend) <br>
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+**HTML:**
+Indentación: Mantener una indentación clara para mejorar la legibilidad.
+Semántica: Utilizar elementos HTML semánticos para una estructura clara y accesible.
+Comentarios: Documentar el código HTML con comentarios claros y concisos.
+Atributos Alt: Proporcionar textos alternativos para imágenes y otros elementos.
+
+**CSS:**
+Nomenclatura de Clases: Utilizar una convención de nomenclatura consistente, como BEM.
+Separación de Intereses: Separar estilos del HTML utilizando clases y selectores específicos.
+Reutilización de Estilos: Identificar estilos comunes y reutilizarlos para mantener la coherencia.
+
+**JavaScript:**
+Nomenclatura de Variables: Utilizar nombres descriptivos, significativos y breves.
+Modularidad: Dividir el código en módulos pequeños y reutilizables.
+Manejo de Errores: Implementar un manejo de errores robusto.
+
+**Kotlin:**
+Nomenclatura: Usar camelCase para variables y funciones, PascalCase para clases y objetos.
+Indentación: Utilizar indentación de 4 espacios para mejorar la claridad del código.
+Modularidad y Reutilización: Dividir el código en clases, métodos y módulos pequeños y reutilizables.
 
