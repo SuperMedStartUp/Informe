@@ -330,23 +330,27 @@ Hemos creado los repositorios que usaremos a lo largo del desarrollo del proyect
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
 
 **HTML:**
-Indentación: Mantener una indentación clara para mejorar la legibilidad.
-Semántica: Utilizar elementos HTML semánticos para una estructura clara y accesible.
-Comentarios: Documentar el código HTML con comentarios claros y concisos.
-Atributos Alt: Proporcionar textos alternativos para imágenes y otros elementos.
+* **Indentación:** Mantener una indentación clara para mejorar la legibilidad.
+* **Semántica:** Utilizar elementos HTML semánticos para una estructura clara y accesible.
+* **Comentarios:** Documentar el código HTML con comentarios claros y concisos.
+* **Atributos Alt:** Proporcionar textos alternativos para imágenes y otros elementos.
 
 **CSS:**
-Nomenclatura de Clases: Utilizar una convención de nomenclatura consistente, como BEM.
-Separación de Intereses: Separar estilos del HTML utilizando clases y selectores específicos.
-Reutilización de Estilos: Identificar estilos comunes y reutilizarlos para mantener la coherencia.
+* **Nomenclatura de Clases:** Utilizar una convención de nomenclatura consistente, como BEM.
+* **Separación de Intereses:** Separar estilos del HTML utilizando clases y selectores específicos.
+* **Reutilización de Estilos:** Identificar estilos comunes y reutilizarlos para mantener la coherencia.
 
 **JavaScript:**
-Nomenclatura de Variables: Utilizar nombres descriptivos, significativos y breves.
-Modularidad: Dividir el código en módulos pequeños y reutilizables.
-Manejo de Errores: Implementar un manejo de errores robusto.
+* **Nomenclatura de Variables:** Utilizar nombres descriptivos, significativos y breves.
+* **Modularidad:** Dividir el código en módulos pequeños y reutilizables.
+* **Manejo de Errores:** Implementar un manejo de errores robusto.
 
 **Kotlin:**
-Nomenclatura: Usar camelCase para variables y funciones, PascalCase para clases y objetos.
-Indentación: Utilizar indentación de 4 espacios para mejorar la claridad del código.
-Modularidad y Reutilización: Dividir el código en clases, métodos y módulos pequeños y reutilizables.
+* **Nomenclatura:** Usar camelCase para variables y funciones, PascalCase para clases y objetos.
+* **Indentación:** Utilizar indentación de 4 espacios para mejorar la claridad del código.
+* **Modularidad y Reutilización:** Dividir el código en clases, métodos y módulos pequeños y reutilizables.
 
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+Para gestionar el despliegue de nuestro backend y de la base de datos, hemos decidido usar la plataforma Railway.
+Railway es una plataforma de desarrollo en la nube que permite desplegar, alojar y gestionar aplicaciones y bases de datos de manera sencilla y rápida. 
