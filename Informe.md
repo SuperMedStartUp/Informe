@@ -1514,6 +1514,12 @@ Plataforma que permite alojar y gestionar proyectos de software de forma colabor
 * **Railway:** [https://railway.app/](https://railway.app/) <br>
 Plataforma que facilita el despliegue de las aplicaciones en la nube de una forma sencilla. Es ideal para desarrolladores que buscan una solución para la gestión del desarrollo hasta la producción de sus aplicaciones.
 
+* **Github:** [https://github.com](https://github.com) <br>
+Herramienta para guardar, a través de repositorios, los proyecto que se desarrollen, además que permite guardar un historial de versiones, utilizando Git.
+
+* **Github Pages:** <br>
+Herramienta dentro de github que permite alojar una pagina web de un repositorio HTML: Un lenguaje de marcado para crear tanto la estructura y el contenido de una página web.
+
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
 
 Hemos creado los repositorios que usaremos a lo largo del desarrollo del proyecto, esto incluye el de la documentación, landing page, frontend y backend.
