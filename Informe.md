@@ -1626,3 +1626,47 @@ Hemos realizado los acceptance test para las user stories del sprint:
 **When** el doctor selecciona un paciente en específico <br>
 **Then** el sistema muestra el historial médico completo del paciente <br>
 **And** se incluyen los exámenes realizados, diagnósticos y medicaciones prescritas
+
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
+
+Desarrollo de la barra de navegacion para la correcta navagacion a travez de todo el documento y la seccion home:
+
+<img src= "./assets/evidence-barra-navegacion.png"/>
+
+Sección de About Us:
+
+<img src= "./assets/evidence-about-us.png"/>
+
+Sección de Product:
+
+<img src= "./assets/evidence-product.png"/>
+
+Sección de Team:
+
+<img src= "./assets/evidence-team.png"/>
+
+Seccion de Contact Us y Footer:
+
+<img src= "./assets/evidence-contact-footer.png"/>
+
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
+
+No se realizo ningun trabajo con servicios web.
+
+<div id='5.2.1.7.'><h5> 5.2.1.7. Services Documentation Evidence for Sprint Review. </h5></div>
+
+Se procede a desplegar la landing page una vez terminada, por lo que se usarla Github Pages.
+
+<img src= "./assets/service-despliegue.png"/>
+
+Luego en la seccion "branch" cambiamos en donde dice "None" a "main" que es la rama donde estaria el html:
+
+<img src= "./assets/service-branch.png"/>
+
+Presionamos save y tendremos que esperar que se despliegue la página
+
+<img src= "./assets/service-save.png"/>
+
+<img src= "./assets/service-despliegue.png"/>
+
+**Link de la landing page desplegada:** 
