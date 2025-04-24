@@ -275,21 +275,21 @@ En esta sección se describen brevemente todas las herramientas que se han utili
 
 **UX/UI Design:**
 
-* **Miro:** [https://miro.com/es/](https://miro.com/es/)
+* **Miro:** [https://miro.com/es/](https://miro.com/es/) <br>
 Es una plataforma que permite el trabajo colaborativo a través de una pizarra virtual. Es muy útil para organizar ideas, crear tablas que organicen la información de forma detallada, tomar decisiones y gestionar proyectos.
 
-* **UXPressia:** [https://uxpressia.com/](https://uxpressia.com/)
+* **UXPressia:** [https://uxpressia.com/](https://uxpressia.com/) <br>
 UXPressia es una herramienta enfocada en lo que es la experiencia de usuario, ya que esta permite crear User Personas, Customer Journey, Impact maps, etc.
 
-* **Figma:** [https://miro.com/es/](https://miro.com/es/)
+* **Figma:** [https://miro.com/es/](https://miro.com/es/) <br>
 Plataforma de diseño que permite a los usuario la creación de interfaces (UI) y prototipos interactivos. Resulta muy útil para el trabajo colaborativo remoto al poder diseñar como equipos las interfaces en tiempo real.
 
-* **Structurizr:** [https://structurizr.com/](https://structurizr.com/)
+* **Structurizr:** [https://structurizr.com/](https://structurizr.com/) <br>
 Es una página web donde nos permite desarrollar modelos en C4, de la arquitectura de nuestro proyecto describiendo los contenedores, componentes y contextos de nuestra solución web.
 
 **Software Development:**
 
-* **Github:** [https://github.com](https://github.com)
+* **Github:** [https://github.com](https://github.com) <br>
 Herramienta para guardar, a través de repositorios, los proyecto que se desarrollen, además que permite guardar un historial de versiones, utilizando Git.
 
 * **Github Pages:** 
@@ -299,18 +299,29 @@ Herramienta dentro de github que permite alojar una pagina web de un repositorio
   
 * **CSS:** Lenguaje utilizado para dar estilo a las páginas webs.
 
-* **Visual Studio Code:** [https://code.visualstudio.com/](https://code.visualstudio.com/)
+* **Visual Studio Code:** [https://code.visualstudio.com/](https://code.visualstudio.com/) <br>
 Editor de código que se utiliza para realizar distintos trabajos con respecto a la programación, este soporta una gran cantidad de lenguajes, como Python, JavaScript, HTML, entre otros.
 
 **Project Managment:**
 
-* **Trello:** [https://trello.com/es](https://trello.com/es)
+* **Trello:** [https://trello.com/es](https://trello.com/es) <br>
 La plataforma permite mantener la organización de tareas y los plazos controlados. Utiliza un sistema de tableros para representar a los proyectos, las tarjetas para representar las etapas del proceso del proyecto y listas para las tareas individuales. Esto permitió tener un mejor cronograma de las tareas del día a día principalmente con los sprints a desarrollar.
 
-* **GitHub:** [https://github.com/](https://github.com/ )
+* **GitHub:** [https://github.com/](https://github.com/ ) <br>
 Plataforma que permite alojar y gestionar proyectos de software de forma colaborativa. Se usó esta plataforma para controlar las versiones del código, colaborar con otros desarrolladores, gestionar las tareas del proyecto y mantener un registro del historial de cambios.
 
 **Software Deployment**
 
 * **Railway:** [https://railway.app/](https://railway.app/)
 Plataforma que facilita el despliegue de las aplicaciones en la nube de una forma sencilla. Es ideal para desarrolladores que buscan una solución para la gestión del desarrollo hasta la producción de sus aplicaciones.
+
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
+Hemos creado los repositorios que usaremos a lo largo del desarrollo del proyecto, esto incluye el de la documentación, landing page, frontend y backend.
+
+**Link del repositorio de documentacion:** [https://github.com/SuperMedStartUp/Informe](https://github.com/SuperMedStartUp/Informe)
+**Link del repositorio de la Landing Page:**  
+**Link del repositorio del Backend:** [https://github.com/LosLuminosos-SW57/Backend-MedSystem](https://github.com/LosLuminosos-SW57/Backend-MedSystem)
+**Link del repositorio del Frontend-Web:** [https://github.com/LosLuminosos-SW57/Frontend-MedSystem](https://github.com/LosLuminosos-SW57/Frontend-MedSystem)
+**Link del repositorio del Frontend-Movil:** [https://github.com/MedSolutions-SW65/MedSystem-Frontend](https://github.com/MedSolutions-SW65/MedSystem-Frontend)
+
