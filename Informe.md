@@ -1437,10 +1437,10 @@ Hemos realizado los acceptance test para las user stories del sprint:
 
 * **US31**
 
-**Feature:** Sección About Us en la Landing Page
-**Scenario:** Visualización de la sección About Us 
-**Given** el usuario desea conocer sobre la empresa 
-**When** ingresa al Landing Page 
+**Feature:** Sección About Us en la Landing Page<br>
+**Scenario:** Visualización de la sección About Us <br>
+**Given** el usuario desea conocer sobre la empresa <br>
+**When** ingresa al Landing Page <br>
 **Then** se mostrará la sección About Us que permita al usuario conocer la misión, visión y valores de la empresa.
 
 **Examples: INPUT**
@@ -1471,10 +1471,10 @@ Hemos realizado los acceptance test para las user stories del sprint:
 
 * **US32**
 
-**Feature:** Sección Sobre El Producto en el Landing Page
-**Scenario:** Visualización de la sección Sobre el Producto 
-**Given** el usuario desea conocer detalles del producto 
-**When** ingresa al Landing Page 
+**Feature:** Sección Sobre El Producto en el Landing Page <br>
+**Scenario:** Visualización de la sección Sobre el Producto <br>
+**Given** el usuario desea conocer detalles del producto <br>
+**When** ingresa al Landing Page <br>
 **Then** se mostrará la sección Sobre el Producto que explique cómo funciona el producto, sus beneficios y ventajas competitivas.
 
 **Examples: INPUT**
@@ -1505,10 +1505,10 @@ Hemos realizado los acceptance test para las user stories del sprint:
 
 * **US34**
 
-**Feature:** Sección Equipo en la Landing Page
-**Scenario:** Visualización de la sección Equipo 
-**Given** el usuario desea conocer al equipo detrás de la empresa 
-**When** ingresa al Landing Page 
+**Feature:** Sección Equipo en la Landing Page<br>
+**Scenario:** Visualización de la sección Equipo <br>
+**Given** el usuario desea conocer al equipo detrás de la empresa <br>
+**When** ingresa al Landing Page <br>
 **Then** se mostrará la sección Equipo que presente información detallada de los miembros del equipo.
 
 **Examples: INPUT**
@@ -1539,10 +1539,10 @@ Hemos realizado los acceptance test para las user stories del sprint:
 
 * **US35**
 
-**Feature:** Sección Equipo en la Landing Page
-**Scenario:** Visualización de la sección Equipo 
-**Given** el usuario desea conocer al equipo detrás de la empresa 
-**When** ingresa al Landing Page 
+**Feature:** Sección Equipo en la Landing Page <br>
+**Scenario:** Visualización de la sección Equipo <br>
+**Given** el usuario desea conocer al equipo detrás de la empresa <br>
+**When** ingresa al Landing Page <br>
 **Then** se mostrará la sección Equipo que presente información detallada de los miembros del equipo.
 
 **Examples: INPUT**
@@ -1573,10 +1573,10 @@ Hemos realizado los acceptance test para las user stories del sprint:
 
 * **US36**
 
-**Feature:** Barra de navegación en la Landing Page
-**Scenario:** Visualización de NavBar 
-**Given** el usuario desea navegar a través de la página 
-**When** ingresa al Landing Page 
+**Feature:** Barra de navegación en la Landing Page <br>
+**Scenario:** Visualización de NavBar <br>
+**Given** el usuario desea navegar a través de la página <br>
+**When** ingresa al Landing Page <br>
 **Then** se mostrará el Navbar que permita al usuario navegar de forma sencilla.
 
 **Examples: INPUT**
@@ -1607,22 +1607,22 @@ Hemos realizado los acceptance test para las user stories del sprint:
 
 * **US47**
 
-**Feature:** Visualización del historial de citas
-**Scenario:** Mostrar una lista de las citas y filtrarlas según categoría (fechas, doctor)
-**Given** el usuario ha iniciado sesión en el sistema
-**And** el usuario está en la página de historial de citas
-**When** el usuario solicita ver el historial de citas
-**Then** el sistema muestra una lista de las citas pasadas
-**When** el usuario selecciona una categoría de filtrado (fecha o doctor)
-**Then** el sistema filtra las citas según la categoría seleccionada
+**Feature:** Visualización del historial de citas <br>
+**Scenario:** Mostrar una lista de las citas y filtrarlas según categoría (fechas, doctor) <br>
+**Given** el usuario ha iniciado sesión en el sistema <br>
+**And** el usuario está en la página de historial de citas <br>
+**When** el usuario solicita ver el historial de citas <br>
+**Then** el sistema muestra una lista de las citas pasadas <br>
+**When** el usuario selecciona una categoría de filtrado (fecha o doctor) <br>
+**Then** el sistema filtra las citas según la categoría seleccionada <br>
 **And** muestra las citas filtradas en la pantalla
 
 * **US59**
 
-**Feature:** Visualización detallada del historial médico del paciente\
-**Scenario:** Visualización del historial médico de un paciente con exámenes, diagnósticos y medicaciones
-**Given** el doctor ha iniciado sesión en el sistema
-**And** el doctor está en la página del historial médico del paciente
-**When** el doctor selecciona un paciente en específico
-**Then** el sistema muestra el historial médico completo del paciente
+**Feature:** Visualización detallada del historial médico del paciente <br>
+**Scenario:** Visualización del historial médico de un paciente con exámenes, diagnósticos y medicaciones <br>
+**Given** el doctor ha iniciado sesión en el sistema <br>
+**And** el doctor está en la página del historial médico del paciente <br>
+**When** el doctor selecciona un paciente en específico <br>
+**Then** el sistema muestra el historial médico completo del paciente <br>
 **And** se incluyen los exámenes realizados, diagnósticos y medicaciones prescritas
