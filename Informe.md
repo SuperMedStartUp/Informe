@@ -398,7 +398,701 @@ Nuestros segmentos objetivos en este se dividen en tres grupos fundamentales. Co
 ---
 
 <br>
+# Capítulo IV: Product Design
 
+## 4.1. Style Guidelines
+
+<p>Para optimizar la experiencia de todos los usuarios, dentro de nuestro landing Page proponemos un diseño de interfaz atractivo, y responsivo que se adapte a distintas dimensiones para los distintos dispositivos. Asimismo, hemos elegido colores llamativos, imágenes de buena calidad y se implementa un navbar intuitivo para que el usuario pueda desplazarse por la página de manera cómoda y fluida. Con todo esto, buscamos proporcionar una experiencia amigable y práctica para todos los usuarios.
+</p>
+
+### 4.1.1. General Style Guidelines
+
+<h4><strong>Branding:</strong><br></h4>
+<p>
+Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a los traumatólogos con un sistema médico, es por esto que en nuestro logo se ve una cruz que hace referencia a la salud de una persona. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
+</p>
+<img src="assets/images/logo_branding.png" alt="Logo del sistema" width="30%">
+
+<h4><strong>Typography:</strong><br></h4>
+<p>
+En cuanto a la elección de la tipografía, se eligió la fuente “Poppins”, puesto que no solo se quería que la fuente sea solo un estilo que intentara captar la atención del usuario, sino también era fundamental que sea legible y estéticamente agradable para el usuario. Con esta fuente, se logra lo deseado y se consigue brindar la información de manera clara dentro de la página. Además, para algunos subtitulos se utiliza la fuente "Oswald", para brindar variedad; y en caso de errores se utiliza fuentes "sans-serif" en caso de que alguna de las fuentes anteriores no funcionen.
+</p>
+<img src="assets/images/typography_1.png" alt="Tipografia 1" width="30%"><br>
+<img src="assets/images/typography_2.png" alt="Tipografia 2" width="30%">
+
+<h4><strong>Paleta de colores:</strong><br></h4>
+<p>
+La paleta de colores se baso en algunos colores llamativos parecidos al color azul, que tuvo ciertas variaciones en la página, como el difuminado en la imagen representativa o el degradado que tuvo en el footer.
+</p>
+<img src="assets/images/color_1.png" alt="Color 1" width="30%"><br>
+<img src="assets/images/color_3.png" alt="Color 3" width="30%"><br>
+<img src="assets/images/color_2.png" alt="Color 2" width="30%">
+
+<h4><strong>Colores neutros:</strong><br></h4>
+<p>
+El único color neutro que se eligió fue el blanco
+</p>
+<img src="assets/images/color_neutro.png" alt="Color neutro" width="30%">
+
+### 4.1.2. Web Style Guidelines
+
+<p>
+En MedSystem, se ha elegido cuidadosamente los elementos de estilo web para que el usuario tenga una experiencia que refleje la esencia de la plataforma y atienda a las necesidades de los segmentos objetivo de pacientes, doctores y laboratorios. Los colores base elegidos son variaciones al azul, para que haya más sintonía con la página y se vea agradable a la vista. Para el estilo de letra elegido, se optó por una tipografía legible y formal, ya que se desea que el usuario logre entender la información de manera clara y efectiva, es por esto que también se emplean distintos tamaños de fuente, con el fin de dar accesibilidad a todo los usuarios, y puedan interactuar con la plataforma sin ningún problema. 
+</p>
+<h4><strong>Colores base:</strong><br></h4>
+<img src="assets/images/color_1.png" alt="Color 1" width="30%"><br>
+<img src="assets/images/color_3.png" alt="Color 3" width="30%"><br>
+<img src="assets/images/color_2.png" alt="Color 2" width="30%">
+
+<h4><strong>Colores neutros:</strong><br></h4>
+<img src="assets/images/color_neutro.png" alt="Color neutro" width="30%">
+
+<h4><strong>Estilo de letras:</strong><br></h4>
+<img src="assets/images/estilo_letra_1.jpg" alt="Estilo de letra 1" width="30%"><br>
+<img src="assets/images/estilo_letra_2.jpg" alt="Estilo de letra 1" width="30%">
+
+<h4><strong>Botones:</strong><br></h4>
+<img src="assets/images/botones_1.png" alt="Botones 1" width="30%"><br>
+<img src="assets/images/botones_2.png" alt="Botones 2" width="30%">
+
+## 4.2. Information Architecture
+
+### 4.2.1. Organization Systems
+
+<p>
+El principal objetivo de este punto es ofrecer una guía y apoyo para estructurar la información de la página web. Esto asegurará que, al llevar a cabo la implementación del sistema, sea accesible y sencillo de utilizar para los usuarios. En este nuevo proyecto, se ha decidido emplear la organización jerárquica para las diversas secciones del Landing Page. Esta elección se fundamenta en la variedad de grupos de usuarios y las diferencias según el tipo de usuario que la utilice. Además, para la clasificación del contenido, se opta por un orden numérico para las fucnionalidades que mencionamos en la aplicación.
+</p>
+
+### 4.2.2. Labeling Systems
+
+<p>
+En este caso, las etiquetas de información se representarán en el idioma inglés, y estas serán claras y concisas para que el usuario entienda por completo la funcionalidad. Las etiquetas más importantes de nuestra aplicación son: 
+</p>
+
+<p><strong>Appointments:</strong> Aquí se muestran las opciones para agendar citas, las que se desean programar, y las que ya tienen una fecha programada de asistencia, junto con todos los datos del paciente, el doctor a cargo de la consulta y la fecha y hora de esta.</p>
+
+<p><strong>Chat:</strong> En este apartado se muestran todos los chats de los pacientes con los que el doctor ha tenido contacto, y en el caso del paciente, se le muestra los doctores con los que ha tenido consulta. Por este medio se pueden aclarar dudas y su uso es solo para fines médicos. </p>
+
+<p><strong>Treatments for patient:</strong> En este apartado el usuario podrá visualizar el tratamiento que debe realizar de acuerdo a las indicaciones del médico, el cual también podra ir editando en este apartado e ir viendo como evoluciona el paciente.</p>
+
+<p><strong>Request history:</strong> En este apartado el médico va poder ver diagnósticos anteriores del paciente, que tratamientos ha llevado y datos médicos específicos del paciente; con el fin de saber cual sería el mejor tratamiento para llevarse a cabo. Asimismo, podrá actualizar el historial clínico del paciente, una vez haya terminado cierto tratamiento. 
+</p>
+
+<p><strong>Request results:</strong> En este apartado el médico podrá pedir los resultados de un paciente a un laboratorio, brindando los datos del examen tomado y del paciente. De esta forma, el doctor obtiene los resultados y sabe que tratamiento llevar a cabo.
+</p>
+
+### 4.2.3. SEO Tags and Meta Tag
+
+A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de nuestra aplicación MedSystem.
+
+Landing Page:
+
+Title: MedSystem
+
+Description: MedSystem - Los Luminosos Oficial Landing Page
+
+Keywords: Appointments, treatments, doctors, patients, laboratories.
+
+Authors: Los Luminosos Team
+
+Web application:
+
+Title: MedSystem
+
+Description: MedSystem - Los Luminosos Oficial Web Site
+
+Keywords: Appointments, Clinic History, Treatment Tracking, medical tests, test results, registration, diagnosis.
+
+Authors: Los Luminosos team
+
+### 4.2.4. Searching Systems
+
+<p>
+El sistema de búsqueda es un elemento fundamental en nuestra aplicación, puesto que se va usar bastante al momento ded pedir las historias clinicas del paciente, al momento de pedir los resultados, y al momento de buscar a un paciente en el apartado de chats. Considerando que el sistema maneja una gran cantidad de datos, y a medida que estos van incrementando, se ha pensado en un sistema de busqueda ágil que funcione con la base de datos de manera fluída, y de esta forma los usuarios no tengan alguna insatisfacción al momento de usar el sistema.
+</p>
+### 4.2.5. Navigation Systems
+<p>
+El método de navegación entre las diversas secciones de la landing page estará facilitado por una barra superior. Esta barra estará compuesta por los títulos representativos de cada sección, permitiendo que los usuarios puedan acceder directamente a la información deseada simplemente haciendo clic en el título correspondiente. En el caso de la aplicación web, la navegación se irá dando a través de una barra lateral, la cual contendrá los títulos de cada función que se ofrece. Esta estructura de navegación se ha diseñado para integrarse de manera armoniosa con la interfaz visual de la Landing Page y la aplicación web, proporcionando una experiencia agradable y fluida para los usuarios.
+</p>
+
+## 4.3. Landing Page UI Design
+
+### 4.3.1. Landing Page Wireframe
+En los wireframes de nuestra landing page, se han tenido en cuenta la usabilidad y la experiencia de los usuarios. Los wireframes reflejan un diseño intuitivo y fácil de navegar, con una disposición de los elementos y jerarquía visual clara, garantizando que nuestros usuarios puedan acceder fácilmente a la información relevante y completar las acciones que deseen sin problemas.
+
+- Es una interfáz principal de nuestro landing page:
+<td><p align="center">
+  <img src="assets/images/wireframe_1_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+- La sección "About Us" tendrá la siguiente interfáz detallando quienes somos y que hacemos:
+<td><p align="center">
+  <img src="assets/images/wireframe_2_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+- La sección "Product" tendrá información hacia quienes va dirigido nuestro producto:
+<td><p align="center">
+  <img src="assets/images/wireframe_3_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/wireframe_4_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>  
+<td><p align="center">
+  <img src="assets/images/wireframe_5_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/wireframe_6_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+- La sección "Team" tendrá información sobre quienes conforman el equipo de MedSystem:
+<td><p align="center">
+  <img src="assets/images/wireframe_7_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+- L asección "Contact" tendrá información de contacto para que los usuarios puedan comunicarse con nosotros:
+<td><p align="center">
+  <img src="assets/images/wireframe_8_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+
+Figma:https://www.figma.com/file/xe8QMJ0qrwJtStkiB7l8zH/MEDSYSTEM?type=design&node-id=0%3A1&mode=design&t=ZtX8VrqTo4qt5UtH-1
+
+### 4.3.2. Landing Page Mock-up
+
+<td><p align="center">
+  <img src="assets/images/Landing-page-mockup-1.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/Landing-page-mockup-2.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/Landing-page-mockup-3.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/Landing-page-mockup-4.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/Landing-page-mockup-5.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/Landing-page-mockup-6.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/Landing-page-mockup-7.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/Landing-page-mockup-8.PNG" alt="wireframes" width="100%"></p></td>
+
+Figma:https://www.figma.com/file/xe8QMJ0qrwJtStkiB7l8zH/MEDSYSTEM?type=design&node-id=0%3A1&mode=design&t=ZtX8VrqTo4qt5UtH-1
+
+### 4.4.1. Web Applications Wireframes
+
+Para desarrollar nuestra diseños wireframes de aplicación web usamos la herramienta Figma.
+
+Login patient
+
+La página de inicio de sesión del paciente es la primera pantalla que verá el usuario al acceder a la aplicación. Aquí, el paciente podrá ingresar su nombre de usuario y contraseña para acceder a su cuenta y ver su información personal, citas programadas, historial médico y más.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Login-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td> 
+Login doctor
+
+La página de inicio de sesión del doctor es la primera pantalla que verá el usuario al acceder a la aplicación. Aquí, el doctor podrá ingresar su nombre de usuario y contraseña para acceder a su cuenta y ver su información personal, citas programadas, historial de pacientes y más.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Login-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Login consultancy
+
+La página de inicio de sesión de la consultoría es la primera pantalla que verá el usuario al acceder a la aplicación. Aquí, el consultor podrá ingresar su nombre de usuario y contraseña para acceder a su cuenta y ver su información personal, muestras médicas, análisis médicos y más.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Login-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Register patient
+
+La página de registro de pacientes es donde los nuevos pacientes pueden crear una cuenta en la aplicación. Aquí, los pacientes pueden ingresar su información personal, datos de contacto y más para registrarse en el sistema y comenzar a programar citas y recibir tratamientos médicos.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Register-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Register doctor
+
+La página de registro de doctores es donde los nuevos doctores pueden crear una cuenta en la aplicación. Aquí, los doctores pueden ingresar su información personal, datos de contacto y más para registrarse en el sistema y comenzar a gestionar citas y tratar pacientes.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Register-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Register consultancy
+
+La página de registro de consultorías es donde las nuevas consultorías pueden crear una cuenta en la aplicación. Aquí, las consultorías pueden ingresar su información personal, datos de contacto y más para registrarse en el sistema y comenzar a gestionar muestras médicas y análisis médicos.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Register-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor appointment
+
+La página de citas del doctor es donde el doctor puede gestionar citas con sus pacientes. Aquí, el doctor puede ver las citas programadas, editar citas existentes y más para garantizar una gestión eficiente de su agenda.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Doctor-appointment.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+
+<td><p align="center">
+  <img src="assets/images/Wireframe-Doctor-appointment-2.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor chat
+
+La página de chat del doctor es donde el doctor puede comunicarse con sus pacientes de forma segura. Aquí, el doctor puede enviar mensajes, responder preguntas y más para mantener una línea abierta de comunicación con sus pacientes durante todo el proceso de tratamiento.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Doctor-chat.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor treatments for pacient
+
+La página de tratamientos del doctor es donde el doctor puede ver y gestionar los tratamientos de sus pacientes. Aquí, el doctor puede ver los tratamientos actuales, agregar nuevos tratamientos, actualizar los tratamientos existentes y más para garantizar un seguimiento preciso del progreso de sus pacientes.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor request history
+
+La página de historial de solicitudes del doctor es donde el doctor puede ver el historial de solicitudes de sus pacientes. Aquí, el doctor puede ver las solicitudes anteriores, los resultados de las solicitudes y más para mantener un registro detallado de las interacciones con sus pacientes.
+<td><p align="center">
+  <img src="assets/images/Wireframe-Doctor-request-history.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor request results
+<td><p align="center">
+  <img src="assets/images/Wireframe-Doctor-request-results.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+
+Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+User goal 1: Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.
+
+<td><p align="center">
+  <img src="assets/images/wireframes-user-goal-1.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/wireframes-user-goal-1_2.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+User goal 2: Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.
+
+<td><p align="center">
+  <img src="assets/images/wireframes-user-goal-2.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+User goal 3: Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.
+
+<td><p align="center">
+  <img src="assets/images/wireframes-user-goal-3.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+User goal 4: Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento.
+
+<td><p align="center">
+  <img src="assets/images/wireframes-user-goal-4.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+User goal 5: Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.
+
+<td><p align="center">
+  <img src="assets/images/wireframes-user-goal-5.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
+
+### 4.4.2. Web Applications Mock-ups
+
+Login patient
+
+<td><p align="center">
+  <img src="assets/images/Mockup-Login-patient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td> 
+Login doctor
+<td><p align="center">
+  <img src="assets/images/Mockup-Login-doctor.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Login consultancy
+<td><p align="center">
+  <img src="assets/images/Mockup-Login-consultancy.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Register patient
+<td><p align="center">
+  <img src="assets/images/Mockup-Register-patient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Register doctor
+<td><p align="center">
+  <img src="assets/images/Mockup-Register-doctor.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Register consultancy
+<td><p align="center">
+  <img src="assets/images/Mockup-Register-consultancy.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Doctor appointment
+<td><p align="center">
+  <img src="assets/images/Mockup-Doctor-appointment.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Doctor appointment 2
+<td><p align="center">
+  <img src="assets/images/Mockup-Doctor-appointment-2.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  Doctor chat
+<td><p align="center">
+  <img src="assets/images/Mockup-Doctor-chat.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Doctor treatments for pacient
+<td><p align="center">
+  <img src="assets/images/Mockup-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Doctor request history
+<td><p align="center">
+  <img src="assets/images/Mockup-Doctor-request-history.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Doctor request results
+<td><p align="center">
+  <img src="assets/images/Mockup-Doctor-request-results.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy sample 
+<td><p align="center">
+  <img src="assets/images/sample-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy sample add form
+<td><p align="center">
+  <img src="assets/images/sample-add-form-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy analysis 
+<td><p align="center">
+  <img src="assets/images/analysis-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy analysis add form
+<td><p align="center">
+  <img src="assets/images/analysis-add-form-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy results send form
+<td><p align="center">
+  <img src="assets/images/results-add-form-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+
+Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
+
+### 4.4.3. Web Applications User Flow Diagrams
+
+User goal 1: Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.
+
+<td><p align="center">
+  <img src="assets/images/mockup-user-goal-1.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+<td><p align="center">
+  <img src="assets/images/mockup-user-goal-1_2.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+
+User goal 2: Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.
+
+<td><p align="center">
+  <img src="assets/images/mockup-user-goal-2.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+
+User goal 3: Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.
+
+<td><p align="center">
+  <img src="assets/images/mockup-user-goal-3.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+
+User goal 4: Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento.
+
+<td><p align="center">
+  <img src="assets/images/mockup-user-goal-4.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+
+User goal 5: Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.
+
+<td><p align="center">
+  <img src="assets/images/mockup-user-goal-5.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+
+Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
+
+## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+<img alt= "c41" src="assets/images/c41.png">
+
+### 4.6.2. Software Architecture Container Diagrams
+
+<img alt= "c42" src="assets/images/c42.png">
+
+### 4.6.3. Software Architecture Components Diagrams
+
+<img alt= "c43" src="assets/images/c43.png">
+
+## 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagram
+Para desarrollar el diagrama de clases para nuestro proyecto, se usó la herramienta de Lucidchart.
+
+<img alt= "class-diagram" src="assets/images/class-diagram.png">
+
+### 4.7.2. Class Dictionary
+
+Class User
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for client</td>
+  </tr>
+  <tr>
+    <td>firstname</td>
+    <td>string</td>
+    <td>Name of the client</td>
+  </tr>
+  <tr>
+    <td>lastname</td>
+    <td>string</td>
+    <td>Last name of the client</td>
+  </tr>
+  <tr>
+    <td>gender</td>
+    <td>char</td>
+    <td>Gender of de client</td>
+  </tr>
+</table>
+
+Class Credential
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for client</td>
+  </tr>
+  <tr>
+    <td>username</td>
+    <td>string</td>
+    <td>Username of the client</td>
+  </tr>
+  <tr>
+    <td>password</td>
+    <td>string</td>
+    <td>Password of the client</td>
+  </tr>
+</table>
+
+Class Procedure
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for procedure</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More information about the procedure</td>
+  </tr>
+  
+</table>
+
+Class Doctor
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for doctor</td>
+  </tr>
+  <tr>
+    <td>field</td>
+    <td>string</td>
+    <td>Field of the doctor<td>
+  </tr>
+</table>
+
+Class MedicalHistory
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalHistory</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More information about the MedicalHistory</td>
+  </tr>
+</table>
+
+Class Appointment
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Appointment</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>date</td>
+    <td>Specific date of the appointment</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the Appointment</td>
+  </tr>
+  <tr>
+    <td>time</td>
+    <td>time</td>
+    <td>Exact time of the Appointment</td>
+  </tr>
+</table>
+
+Class Agenda
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Agenda</td>
+  </tr>
+  <tr>
+    <td>listOfAppointments</td>
+    <td>list&lt;Appointment&gt;</td>
+    <td>List of appointments</td>
+  </tr>
+</table>
+
+Class Notification
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Notification</td>
+  </tr>
+  <tr>
+    <td>message</td>
+    <td>string</td>
+    <td>Message appearing on the notification</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>date</td>
+    <td>Date of the notification</td>
+  </tr>
+</table>
+
+Class MedicalResult
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalResult</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the MedicalResult</td>
+  </tr>
+</table>
+
+Class MedicalSample
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalSample</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the MedicalSample</td>
+  </tr>
+</table>
+
+Class MedicalAnalisis
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalAnalisis</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the MedicalAnalisis</td>
+  </tr>
+</table>
+
+Class Message
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Message</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the Message</td>
+  </tr>
+</table>
+
+Class Progress
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Progress</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the Progress</td>
+  </tr>
+</table>
+
+Class Treatment
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Treatment</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the Treatment</td>
+  </tr>
+</table>
+
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
+Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
+
+<img src="assets/images/database_model.png" alt="database image" width="100%">
+
+---
+
+<br>
 
 <div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment. </h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
