@@ -2051,3 +2051,61 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 <div id='5.2.2.'><h4> 5.2.2. Sprint 2.</h4></div>
 
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 2.</h5></div>
+
+Se planeó el primer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 2</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Planning Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Virtual</td>
+		</tr>
+		<tr>
+			<td>Prepared by</td>
+			<td>Palomino Santa Cruz, Erick Joaquin</td>
+		</tr>
+		<tr>
+			<td>Attendees (to planning meeting)</td>
+			<td>- Boronda Heidinger, Astrid Jimena <br> - Ventura Chancafe, Eduardo Renato <br> - Palma Obispo, Adrián Enrique Jesús <br> - Montes Figueroa. Juan Eduardo <br> - Palomino Santa Cruz, Erick Joaquin</td>
+		</tr>
+		<tr>
+			<td>Sprint n - 1 Review Summary</td>
+			<td>Durante el primer sprint, el equipo logró implementar el landing page y desplegarlo satisfactoriamente. Todas las tareas planificadas fueron completadas según las especificaciones requeridas. El despliegue se llevó a cabo sin problemas y el landing page está funcionando correctamente en producción, reflejando una ejecución exitosa del sprint. Además, se desarrolló la funcionalidad de programación de citas médicas.
+</td>
+		</tr>
+		<tr>
+			<td>Sprint n - 1 Retrospective Summary</td>
+			<td>El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado y poder cambiar de lenguaje de desarrollo de Kotlin a Flutter.</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Goal</td>
+			<td>El objetivo principal que tiene este sprint 2 es elaborar la primera versión y despliegue del front end web applications para el negocio y desarrollo de la aplicación móvil en flutter</td>
+		</tr>
+		<tr>
+			<td>Sprint 2 Velocity</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td>19</td>
+		</tr>
+	</tbody>
+</table>
