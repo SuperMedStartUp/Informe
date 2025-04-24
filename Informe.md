@@ -269,178 +269,135 @@
 |     |     |     |
 
 
-<div id='1.'><h2>CAPÍTULO I: INTRODUCCIÓN</h2></div>
+## 1.2 Solution Profile
 
-<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+### 1.2.1. Antecedentes y problemática
 
-<div id='1.1.1.'><h4> 1.1.1. Descripción de la Startup.</h4></div>
-<div align="justify">
+Muchos pacientes necesitan atención que requiere una toma de decisiones conjunta entre múltiples actores y/o servicios. La evaluación de interconsultas es tediosa e ineficaz debido a la estructura actual de atención en la mayoría de los consultorios y clínicas. Los pacientes con diabetes de pie que están hospitalizados en los pabellones de medicina son un ejemplo típico en el que la demora en los procedimientos o intervenciones quirúrgicas realizadas por los servicios de traumatología puede resultar en complicaciones graves e incluso en la muerte del paciente.
 
-</div>
+La Encuesta Nacional de Hogares (ENAHO) de 2022 revela que 7 de cada 10 personas que necesitaron atención médica no la obtuvieron . El 35 % de ellos mencionó demoras como la razón principal, mientras que razones como distancia y falta de seguro solo fueron citadas por el 13 % y el 3 %, respectivamente.
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo. </h4></div>
+La situación actual enfatiza la importancia de una solución tecnológica que facilite la comunicación entre pacientes y especialistas, optimice el seguimiento de tratamientos, centralice el almacenamiento de historias clínicas y simplifique la gestión de citas. Además, se vuelve necesario incorporar consultas virtuales y recordatorios automáticos de citas para mejorar la accesibilidad y la eficiencia de la atención médica en el campo de la traumatología.
 
-|**Integrante**|**Perfil**|
-| :-: | :-: |
-| <p>**Astrid Jimena Boronda Heidinger - U202215823**<p> <img src= "./assets/foto-Astrid.png" style="width=75%"/> | Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, Java y Python. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. Me adapto muy bien a los trabajos en equipo. |
-| <p>****<p> <img src= "" style="width=75%"/> | |
-| <p>**- **<p> <img src= "" style="width=75%"/> ||
-| <p>**Juan Eduardo Montes Figueroa- U202210775**<p> <img src= "./assets/foto-Juan.png" style="width=75%"/> |Mi nombre es Juan Montes, tengo 20 años, tengo conocimientos en C++, IntelliJ IDEA Ultimate, Rider, Webstorm, Android Studio, Flutter y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles. |
+Se aplica la técnica 5W-2H que permite analizar las necesidades de nuestros usuarios al realizar una reflexión de las características principales de la situación general. Presentamos la información obtenida de las respuestas a las preguntas planteadas en la técnica.
 
-<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
-<div align="justify">
-En esta sección se describe el problema que el proyecto tiene como objetivo resolver. Se detalla el enunciado del problema, descripción de los puntos importantes a resolver y considerar de la solución, objetivos, restricción y aplicación del Lean UX Process describiendo el cómo se resolverá el problema mediante el uso de modelo de negocio.
-</div>
+- **What(¿Qué?)**
 
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+  El problema radica en la falta de un sistema integral y automatizado en el área de traumatología, lo que resulta en largos tiempos de espera para programar consultas, cirugías y exámenes. Esto afecta la experiencia del paciente y puede obstaculizar su recuperación.
 
-<h5> **Antecedentes:** </h5>
-<div align="justify">
+- **When(¿Cuándo?)**
 
-</div>
+  El problema se manifiesta en el momento en que los pacientes requieren atención médica traumatológica, especialmente en situaciones que demandan decisiones rápidas y coordinadas entre múltiples actores. Las demoras pueden ocurrir en cualquier momento del proceso de atención, desde la consulta inicial hasta la realización de procedimientos o intervenciones quirúrgicas.
 
-<h1> **Problemática** (5Ws y 2Hs):** </h1>
+- **Where(¿Dónde?)**
 
-##### WHAT/QUÉ 
-  
+  Los problemas se observan en la atención médica traumatológica, tanto en consultorios como en clínicas. Específicamente, se destacan situaciones como la evaluación de interconsultas y la gestión de citas, donde la estructura actual de atención presenta deficiencias.
 
+- **Who(¿Quién?)**
 
-##### WHERE/DÓNDE 
-  
+  El problema afecta tanto a pacientes como a especialistas en traumatología, así como a otros actores involucrados en el proceso de atención médica, como personal administrativo y de apoyo.
 
-##### WHY/POR QUÉ 
+- **Why(¿Por qué?)**
 
+  El problema surge debido a la falta de comunicación eficiente entre los diferentes actores involucrados, la falta de centralización en el almacenamiento de historias clínicas, la complejidad en la gestión de citas y la falta de acceso a la atención médica oportuna.
 
+- **How(¿Cómo?)**
 
-##### WHEN/CUANDO
+  El problema se diferencia del estado óptimo por la presencia de demoras en la atención, complicaciones graves para los pacientes y una falta de accesibilidad generalizada. La tendencia indica una necesidad creciente de soluciones tecnológicas que mejoren la comunicación, la gestión de datos y la accesibilidad en la atención traumatológica.
 
+- **How much(¿Cuánto?)**
 
+  La Encuesta Nacional de Hogares (ENAHO) de 2022 revela que 7 de cada 10 personas que necesitaron atención médica no la obtuvieron, lo que indica que una gran cantidad de personas son afectadas por problemas de acceso y gestión en el área de salud. Los costos asociados pueden ser significativos, tanto en términos de salud pública como en la calidad de vida de los pacientes y la eficiencia de los servicios médicos.
 
-##### WHO/QUIÉN
+### 1.2.2. Lean UX Process
 
+### 1.2.2.1. Lean UX Problem Statements
 
-##### HOW/CÓMO
+El estado actual de la atención médica en el campo de la traumatología se ha centrado principalmente en la prestación de servicios tradicionales, lo que ha resultado en demoras significativas en los procedimientos, interconsultas ineficaces y una falta de accesibilidad para muchos pacientes. Lo que los productos/servicios existentes no logran abordar es la integración efectiva de tecnología para facilitar la comunicación entre doctores y pacientes, optimizar el seguimiento de tratamientos, centralizar el almacenamiento de historias clínicas y simplificar la gestión de citas.
 
+Nuestro producto, MedSystem, abordará esta brecha mediante el desarrollo de una solución web innovadora que aprovecha tecnologías modernas. Nos enfocaremos en proporcionar una plataforma que permita a los pacientes sacar citas en línea, acceder fácilmente a su historial médico, realizar consultas virtuales y recibir recordatorios automáticos de citas. Además, facilitaremos la comunicación fluida entre doctores y pacientes, así como entre doctores, para mejorar la coordinación del cuidado.
 
+Nuestro enfoque inicial será dirigirnos tanto a doctores especialistas en traumatología como a pacientes con necesidades específicas de atención médica traumatológica, como aquellos con lesiones deportivas, fracturas o condiciones crónicas relacionadas. Sabremos que tenemos éxito cuando veamos una disminución significativa en las demoras en los procedimientos, un aumento en la satisfacción del paciente, una mayor eficiencia en la coordinación del cuidado y una mejora en la accesibilidad general a la atención médica en el campo de la traumatología.
 
-##### HOW MUCH/CUÁNTO
+### 1.2.2.2. Lean UX Assumptions
 
+- **Business outcomes:**
 
+  1. El usuario necesita optimizar la gestión de citas y procesos en el área de traumatología de manera eficiente.
+  2. Las necesidades del usuario se resolverán a través de una aplicación web integrada en línea que permite programar citas, cirugías, exámenes y seguimiento de tratamientos.
+  3. Los usuarios son pacientes que buscan atención en el área de traumatología y profesionales médicos especializados en el tratamiento.
+  4. El usuario desea una interfaz fácil de usar para reservar citas, acceder a los registros médicos y comunicarse con los proveedores de atención médica.
+  5. A través de nuestro servicio, los usuarios también pueden obtener consultas virtuales, recordatorios automáticos de citas y análisis de datos para mejorar los procesos.
+  6. Ganaré dinero cobrando a los proveedores de atención médica tarifas de suscripción por el uso de la plataforma y posiblemente ofreciendo características premium por un cargo adicional.
+  7. Mi competencia principal es el software de programación de citas independientes y los sistemas de gestión hospitalaria actuales.
+  8. Con una solución más completa y específicamente diseñada para la atención traumatológica, que incluye características como consultas virtuales y recordatorios automáticos, venceremos a la competencia.
+  9. Mi mayor riesgo es la resistencia de los proveedores de atención médica a adoptar nuevas tecnologías o integrarlas en sus sistemas existentes.
+  10. Mediante la capacitación y el soporte extensivos al personal de atención médica durante el proceso de incorporación y la demostración de los claros beneficios del uso de la plataforma, reduciremos el riesgo.
 
-<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
-<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
+- **User Assumptions:**
 
-<h5><strong>Domain:</strong></h5>
+  - **¿Quién es el usuario?**
 
+    Pacientes que necesitan atención traumatológica y médicos especializados en el área.
 
+  - **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
-<h5><strong>Customer Segments:</strong></h5>
+    El producto servirá como un lugar central para administrar citas traumatológicas, registros médicos y comunicación entre pacientes y proveedores de atención médica.
 
+  - **¿Qué problema tiene nuestro producto? ¿Cómo se resuelve?**
 
-<h5><strong>Paint Points:</strong></h5>
+    Reduce los tiempos de espera, facilita la programación de citas, centraliza los registros médicos para una toma de decisiones informada y permite consultas virtuales para mayor comodidad.
 
-**** <br>
-* 
-* 
+  - **¿Cuándo y cómo es usado nuestro producto?**
 
-<h5><strong>Gap:</strong></h5>
+    Los usuarios pueden acceder a la plataforma desde una variedad de dispositivos, como computadoras de escritorio y teléfonos inteligentes, para reservar citas, revisar registros médicos y comunicarse con proveedores de atención médica desde casa, el trabajo o en movimiento.
 
-<div align="justify">
+  - **¿Qué características son importantes?**
 
-</div>
+    La programación de citas, el acceso a los registros médicos, las consultas virtuales y los recordatorios automáticos de citas mejoran la experiencia del paciente y el proceso de atención traumatológica.
 
-<h5><strong>Visión/Estrategia:</strong></h5>
+  - **¿Cómo debe verse nuestro producto y comportarse?**
 
-* 
-*
-* 
+    El producto debe tener una interfaz limpia e intuitiva, ser fácil de navegar e integrarse perfectamente con los sistemas de atención médica actuales para los proveedores de atención médica. Además, debe ser fácil de usar y accesible para pacientes de todos los grupos demográficos.
 
-<h5><strong>Initial Segment:</strong></h5>
+- **User Benefits:**
 
-<div align="justify">
+  - **Acceso rápido y fácil a la atención médica en traumatología:** Los usuarios pueden obtener atención médica de forma rápida y sencilla, lo que les permite abordar sus necesidades de salud de manera oportuna.
+  - **Gestión eficiente de citas y procesos médicos:** Los usuarios pueden gestionar sus citas y procesos médicos de manera eficiente, lo que reduce los tiempos de espera y mejora la organización en la clínica.
+  - **Comunicación fluida entre pacientes y especialistas:** Los usuarios pueden comunicarse de manera fluida con los especialistas médicos, lo que facilita la discusión de problemas de salud y la obtención de orientación médica adecuada.
+  - **Centralización de registros médicos para una toma de decisiones informada:** Los usuarios tienen acceso a sus registros médicos centralizados, lo que les permite tomar decisiones informadas sobre su salud y tratamiento en colaboración con los especialistas.
 
-</div>
+- **Business Assumptions:**
 
-<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+  - Existe demanda de un sistema de programación y gestión de citas simplificado en consultorios de traumatología.
+  - Las instituciones médicas están dispuestas a adoptar nuevas tecnologías para mejorar sus procesos de programación de citas y gestión de pacientes.
+  - Las consultas virtuales son efectivas para satisfacer las necesidades de pacientes y profesionales médicos en traumatología.
+  - Las características y beneficios de la plataforma conducirán a una mayor eficiencia y una mayor satisfacción del paciente, lo que resultará en rentabilidad para el negocio.
 
-**Features**
+- **Features:**
+  - **Programación de citas en línea:** Permite a los usuarios reservar citas de manera conveniente a través de una interfaz fácil de usar.
+  - **Consulta Virtual:** Permite a los usuarios tener consultas con especialistas médicos de forma remota mediante llamadas de video o audio.
+  - **Historias clínicas centralizadas:** Proporciona a los usuarios acceso seguro a su historial médico, resultados de pruebas y planes de tratamiento.
+  - **Recordatorios automatizados de citas:** Envía recordatorios automatizados a los usuarios por correo electrónico o SMS para notificarles sobre citas próximas.
+  - **Canales de comunicación seguros:** Facilita la comunicación entre usuarios y profesionales médicos mientras se mantiene la seguridad de los datos y la confidencialidad del paciente.
 
+### 1.2.2.3. Lean UX Hypothesis Statements
 
-**Business Outcomes**
+- Creemos que los tiempos de espera se reducirán significativamente si los pacientes puede programar citas de manera rápida y eficiente a través de una plataforma en línea
+- Creemos que la comunicación entre especialistas mejorará si se implementa un sistema para compartir historias clínicas y procesos médicos de manera rápida y efectiva
+- Creemos que la experiencia del paciente mejorará si se ofrecen consultas virtuales y recordatorios automáticos de citas
 
-* **** 
-* **** 
-* **** 
+### 1.2.2.4. Lean UX Canvas
 
-**Users**
+<img src="assets/solution-profile/LeanUXCanvas.jpg" alt="Lean Ux Canvas">
 
+### 1.3. Segmentos objetivo
 
-**User Outcomes & Benefits**
+Nuestros segmentos objetivos en este se dividen en tres grupos fundamentales. Como primer segmento contamos con los pacientes que son los que han sufrido algún tipo de accidente y requieren una atención en el área de traumatología. En segundo lugar serían los médicos especialistas en el área de traumatología que requerirán de nuestro sistema para la gestión de sus citas y establecer una buena comunicación entre sus demás colegas de profesión, o laboratorios para una correcta coordinación de algún proceso que se lleve a cabo con el paciente. Por último están las consultorías o laboratorios quienes recibirán la información del paciente, brindada por los doctores, incluyendo procedimientos que requiera el paciente ya sea un tratamiento o algún tipo de examen.
 
-* **** 
+---
 
-**User assumptions**
-
-* **¿Quién es el usuario?**
-
-* **¿Dónde encaja nuestro producto en sus trabajos o vidas?**
-
-* **¿Qué problema resuelve nuestro producto?*
-
-* **¿Cuándo y cómo es usado nuestro producto?**
-
-* **¿Qué características son importantes?**
-
-
-* **¿Cómo debería verse y comportarse nuestro producto?**
-
-**Business Assumptions**
-
-<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
-
-**Hipótesis 1:**
-**Creemos que** al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. **Sabremos que** hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.
-
-**Hipótesis 2:**
-**Creemos que** el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. **Sabremos que** hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.
-
-<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
-
-<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
-  <tbody>
-    <tr>
-      <td colspan="2" rowspan="2" style="font-weight: bold; text-align: justify;">Lean UX Canvas</td>
-      <td style="text-align: right; font-weight: bold;">Fecha: 19/04/2025</td>
-    </tr>
-    <tr>
-      <td style="text-align: right; font-weight: bold;">Iteración 1</td>
-    </tr>
-    <tr>
-      <td style="text-align: justify;"><strong>1. Problema de negocios:</strong><br>Los usuarios enfrentan dificultades para mantener sus plantas saludables y prósperas debido a la falta de información y herramientas adecuadas para su cuidado.</td>
-      <td rowspan="2" style="text-align: justify;"><strong>5. Ideas de solución:</strong><br>Desarrollar una aplicación que integre sensores que informe sobre el estado de la planta y proporcione recomendaciones o acciones personalizadas para el cuidado óptimo de la planta.</td>
-      <td rowspan="2" style="text-align: justify;"><strong>2. Resultados comerciales:</strong><br>- Mejora en la calidad de crecimiento de las plantas.<br>- Reducción de pérdidas.<br>- Aumento de la satisfacción del cliente.</td>
-    </tr>
-    <tr>
-      <td style="text-align: justify;"><strong>3. Usuarios y Clientes:</strong><br>Personas interesadas en el cuidado de plantas.</td>
-    </tr>
-    <tr>
-      <td rowspan="2" style="text-align: justify;"><strong>6. Hipótesis</strong><br>* Creemos que al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. Sabremos que hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.<br><br>* Creemos que el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.</td>
-      <td rowspan="2" style="text-align: justify;"><strong>7. ¿Qué es lo más importante que debemos aprender primero?</strong><br>Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en el cuidado de plantas y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.</td>
-      <td style="text-align: justify;"><strong>4. Beneficios del usuario:</strong><br>* Optimización del cuidado de las plantas a través del monitoreo y recomendaciones personalizadas.<br>* Disminución de la pérdida de plantas debido a un cuidado inadecuado y a la falta de información.</td>
-    </tr>
-    <tr>
-      <td style="text-align: justify;"><strong>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?</strong><br>La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.<br><br>Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio.</td>
-    </tr>
-  </tbody>
-</table>
-
-<div id='1.3.'><h3> 1.3. Segmentos objetivo.</h3></div>
-
-* **Aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas:** Los usuarios utilizarán "Plantita" para acceder a información personalizada, herramientas de monitoreo y una comunidad de apoyo, con el fin de mejorar la salud y el crecimiento de sus plantas.
-
-* **Características Demográficas:** Personas entre 20 y 50 años, que viven en áreas urbanas y suburbanas, con un interés en la jardinería y el cuidado de plantas pero con conocimientos limitados.  Posiblemente con un nivel educativo medio o superior y con acceso a dispositivos móviles y tecnología.
-
-* **Características Geográficas:** Inicialmente enfocado en áreas urbanas y suburbanas en Perú, con potencial de expansión a otras regiones y países con un interés similar en la jardinería doméstica y el cuidado de plantas.
+<br>
 
 
 <div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment. </h2></div>
