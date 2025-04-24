@@ -1670,3 +1670,13 @@ Presionamos save y tendremos que esperar que se despliegue la página
 <img src= "./assets/service-despliegue.png"/>
 
 **Link de la landing page desplegada:** 
+
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
+
+Los insights se sacaron del mismo apartado de Insights dentro del repositiorio de la landing page:
+
+<img src= "./assets/team-landing.png"/>
+
+<div id='5.2.2.'><h4> 5.2.2. Sprint 2.</h4></div>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 2.</h5></div>
