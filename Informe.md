@@ -268,6 +268,181 @@
 | :-: | :-: | :-: |
 |     |     |     |
 
+
+<div id='1.'><h2>CAPÍTULO I: INTRODUCCIÓN</h2></div>
+
+<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+
+<div id='1.1.1.'><h4> 1.1.1. Descripción de la Startup.</h4></div>
+<div align="justify">
+
+</div>
+
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo. </h4></div>
+
+|**Integrante**|**Perfil**|
+| :-: | :-: |
+| <p>**Astrid Jimena Boronda Heidinger - U202215823**<p> <img src= "./assets/foto-Astrid.png" style="width=75%"/> | Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, Java y Python. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. Me adapto muy bien a los trabajos en equipo. |
+| <p>****<p> <img src= "" style="width=75%"/> | |
+| <p>**- **<p> <img src= "" style="width=75%"/> ||
+| <p>**Juan Eduardo Montes Figueroa- U202210775**<p> <img src= "./assets/foto-Juan.png" style="width=75%"/> |Mi nombre es Juan Montes, tengo 20 años, tengo conocimientos en C++, IntelliJ IDEA Ultimate, Rider, Webstorm, Android Studio, Flutter y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles. |
+
+<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
+<div align="justify">
+En esta sección se describe el problema que el proyecto tiene como objetivo resolver. Se detalla el enunciado del problema, descripción de los puntos importantes a resolver y considerar de la solución, objetivos, restricción y aplicación del Lean UX Process describiendo el cómo se resolverá el problema mediante el uso de modelo de negocio.
+</div>
+
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+
+<h5> **Antecedentes:** </h5>
+<div align="justify">
+
+</div>
+
+<h1> **Problemática** (5Ws y 2Hs):** </h1>
+
+##### WHAT/QUÉ 
+  
+
+
+##### WHERE/DÓNDE 
+  
+
+##### WHY/POR QUÉ 
+
+
+
+##### WHEN/CUANDO
+
+
+
+##### WHO/QUIÉN
+
+
+##### HOW/CÓMO
+
+
+
+##### HOW MUCH/CUÁNTO
+
+
+
+<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
+<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
+
+<h5><strong>Domain:</strong></h5>
+
+
+
+<h5><strong>Customer Segments:</strong></h5>
+
+
+<h5><strong>Paint Points:</strong></h5>
+
+**** <br>
+* 
+* 
+
+<h5><strong>Gap:</strong></h5>
+
+<div align="justify">
+
+</div>
+
+<h5><strong>Visión/Estrategia:</strong></h5>
+
+* 
+*
+* 
+
+<h5><strong>Initial Segment:</strong></h5>
+
+<div align="justify">
+
+</div>
+
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+
+**Features**
+
+
+**Business Outcomes**
+
+* **** 
+* **** 
+* **** 
+
+**Users**
+
+
+**User Outcomes & Benefits**
+
+* **** 
+
+**User assumptions**
+
+* **¿Quién es el usuario?**
+
+* **¿Dónde encaja nuestro producto en sus trabajos o vidas?**
+
+* **¿Qué problema resuelve nuestro producto?*
+
+* **¿Cuándo y cómo es usado nuestro producto?**
+
+* **¿Qué características son importantes?**
+
+
+* **¿Cómo debería verse y comportarse nuestro producto?**
+
+**Business Assumptions**
+
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+
+**Hipótesis 1:**
+**Creemos que** al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. **Sabremos que** hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.
+
+**Hipótesis 2:**
+**Creemos que** el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. **Sabremos que** hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.
+
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas</h5></div>
+
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif;">
+  <tbody>
+    <tr>
+      <td colspan="2" rowspan="2" style="font-weight: bold; text-align: justify;">Lean UX Canvas</td>
+      <td style="text-align: right; font-weight: bold;">Fecha: 19/04/2025</td>
+    </tr>
+    <tr>
+      <td style="text-align: right; font-weight: bold;">Iteración 1</td>
+    </tr>
+    <tr>
+      <td style="text-align: justify;"><strong>1. Problema de negocios:</strong><br>Los usuarios enfrentan dificultades para mantener sus plantas saludables y prósperas debido a la falta de información y herramientas adecuadas para su cuidado.</td>
+      <td rowspan="2" style="text-align: justify;"><strong>5. Ideas de solución:</strong><br>Desarrollar una aplicación que integre sensores que informe sobre el estado de la planta y proporcione recomendaciones o acciones personalizadas para el cuidado óptimo de la planta.</td>
+      <td rowspan="2" style="text-align: justify;"><strong>2. Resultados comerciales:</strong><br>- Mejora en la calidad de crecimiento de las plantas.<br>- Reducción de pérdidas.<br>- Aumento de la satisfacción del cliente.</td>
+    </tr>
+    <tr>
+      <td style="text-align: justify;"><strong>3. Usuarios y Clientes:</strong><br>Personas interesadas en el cuidado de plantas.</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="text-align: justify;"><strong>6. Hipótesis</strong><br>* Creemos que al implementar un sistema que muestre las condiciones en las que se encuentran las plantas optimizará su cuidado y permitirá tomar medidas preventivas. Sabremos que hemos tenido éxito cuando se detecten problemas significativos que afecten a la planta y se pueda brindar un mejor cuidado.<br><br>* Creemos que el uso de sensores en el sistema brindará información sobre las condiciones de las plantas. Sabremos que hemos tenido éxito cuando observemos un aumento significativo en la salud y vitalidad general de las plantas, obteniendo un mayor crecimiento.</td>
+      <td rowspan="2" style="text-align: justify;"><strong>7. ¿Qué es lo más importante que debemos aprender primero?</strong><br>Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en el cuidado de plantas y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.</td>
+      <td style="text-align: justify;"><strong>4. Beneficios del usuario:</strong><br>* Optimización del cuidado de las plantas a través del monitoreo y recomendaciones personalizadas.<br>* Disminución de la pérdida de plantas debido a un cuidado inadecuado y a la falta de información.</td>
+    </tr>
+    <tr>
+      <td style="text-align: justify;"><strong>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?</strong><br>La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.<br><br>Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio.</td>
+    </tr>
+  </tbody>
+</table>
+
+<div id='1.3.'><h3> 1.3. Segmentos objetivo.</h3></div>
+
+* **Aficionados a la jardinería que buscan mejorar sus habilidades y el éxito de sus plantas:** Los usuarios utilizarán "Plantita" para acceder a información personalizada, herramientas de monitoreo y una comunidad de apoyo, con el fin de mejorar la salud y el crecimiento de sus plantas.
+
+* **Características Demográficas:** Personas entre 20 y 50 años, que viven en áreas urbanas y suburbanas, con un interés en la jardinería y el cuidado de plantas pero con conocimientos limitados.  Posiblemente con un nivel educativo medio o superior y con acceso a dispositivos móviles y tecnología.
+
+* **Características Geográficas:** Inicialmente enfocado en áreas urbanas y suburbanas en Perú, con potencial de expansión a otras regiones y países con un interés similar en la jardinería doméstica y el cuidado de plantas.
+
+
 <div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment. </h2></div>
 <div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
 
