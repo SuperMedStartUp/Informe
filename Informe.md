@@ -1428,3 +1428,201 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 		</tr>
 	</tbody>
 </table>
+
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review. </h5></div>
+
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
+
+Hemos realizado los acceptance test para las user stories del sprint:
+
+* **US31**
+
+**Feature:** Sección About Us en la Landing Page
+**Scenario:** Visualización de la sección About Us 
+**Given** el usuario desea conocer sobre la empresa 
+**When** ingresa al Landing Page 
+**Then** se mostrará la sección About Us que permita al usuario conocer la misión, visión y valores de la empresa.
+
+**Examples: INPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>usuario</td>
+		</tr>
+		<tr>
+			<td>Ana Mora</td>
+		</tr>
+	</tbody>
+</table>
+
+**Examples: OUTPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>About Us</td>
+		</tr>
+		<tr>
+			<td>Misión, Visión, Caracteristicas</td>
+		</tr>
+	</tbody>
+</table>
+
+* **US32**
+
+**Feature:** Sección Sobre El Producto en el Landing Page
+**Scenario:** Visualización de la sección Sobre el Producto 
+**Given** el usuario desea conocer detalles del producto 
+**When** ingresa al Landing Page 
+**Then** se mostrará la sección Sobre el Producto que explique cómo funciona el producto, sus beneficios y ventajas competitivas.
+
+**Examples: INPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>usuario</td>
+		</tr>
+		<tr>
+			<td>Carlos Ruiz</td>
+		</tr>
+	</tbody>
+</table>
+
+**Examples: OUTPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sobre el producto</td>
+		</tr>
+		<tr>
+			<td>Funciones</td>
+		</tr>
+	</tbody>
+</table>
+
+* **US34**
+
+**Feature:** Sección Equipo en la Landing Page
+**Scenario:** Visualización de la sección Equipo 
+**Given** el usuario desea conocer al equipo detrás de la empresa 
+**When** ingresa al Landing Page 
+**Then** se mostrará la sección Equipo que presente información detallada de los miembros del equipo.
+
+**Examples: INPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>usuario</td>
+		</tr>
+		<tr>
+			<td>Roberto Díaz</td>
+		</tr>
+	</tbody>
+</table>
+
+**Examples: OUTPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>Equipo</td>
+		</tr>
+		<tr>
+			<td>Miembros, Roles</td>
+		</tr>
+	</tbody>
+</table>
+
+* **US35**
+
+**Feature:** Sección Equipo en la Landing Page
+**Scenario:** Visualización de la sección Equipo 
+**Given** el usuario desea conocer al equipo detrás de la empresa 
+**When** ingresa al Landing Page 
+**Then** se mostrará la sección Equipo que presente información detallada de los miembros del equipo.
+
+**Examples: INPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>usuario</td>
+		</tr>
+		<tr>
+			<td>Roberto Díaz</td>
+		</tr>
+	</tbody>
+</table>
+
+**Examples: OUTPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>Equipo</td>
+		</tr>
+		<tr>
+			<td>Miembros, Roles</td>
+		</tr>
+	</tbody>
+</table>
+
+* **US36**
+
+**Feature:** Barra de navegación en la Landing Page
+**Scenario:** Visualización de NavBar 
+**Given** el usuario desea navegar a través de la página 
+**When** ingresa al Landing Page 
+**Then** se mostrará el Navbar que permita al usuario navegar de forma sencilla.
+
+**Examples: INPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>usuario</td>
+		</tr>
+		<tr>
+			<td>Kelly Verde</td>
+		</tr>
+	</tbody>
+</table>
+
+**Examples: OUTPUT**
+
+<table>
+	<tbody>
+		<tr>
+			<td>Navbar</td>
+		</tr>
+		<tr>
+			<td>Home, About Us, Product, Team, Contact</td>
+		</tr>
+	</tbody>
+</table>
+
+* **US47**
+
+**Feature:** Visualización del historial de citas
+**Scenario:** Mostrar una lista de las citas y filtrarlas según categoría (fechas, doctor)
+**Given** el usuario ha iniciado sesión en el sistema
+**And** el usuario está en la página de historial de citas
+**When** el usuario solicita ver el historial de citas
+**Then** el sistema muestra una lista de las citas pasadas
+**When** el usuario selecciona una categoría de filtrado (fecha o doctor)
+**Then** el sistema filtra las citas según la categoría seleccionada
+**And** muestra las citas filtradas en la pantalla
+
+* **US59**
+
+**Feature:** Visualización detallada del historial médico del paciente\
+**Scenario:** Visualización del historial médico de un paciente con exámenes, diagnósticos y medicaciones
+**Given** el doctor ha iniciado sesión en el sistema
+**And** el doctor está en la página del historial médico del paciente
+**When** el doctor selecciona un paciente en específico
+**Then** el sistema muestra el historial médico completo del paciente
+**And** se incluyen los exámenes realizados, diagnósticos y medicaciones prescritas
