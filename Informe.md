@@ -1489,9 +1489,6 @@ Es una página web donde nos permite desarrollar modelos en C4, de la arquitectu
 * **Github:** [https://github.com](https://github.com) <br>
 Herramienta para guardar, a través de repositorios, los proyecto que se desarrollen, además que permite guardar un historial de versiones, utilizando Git.
 
-* **Github Pages:** 
-Herramienta dentro de github que permite alojar una pagina web de un repositorio HTML: Un lenguaje de marcado para crear tanto la estructura y el contenido de una página web.
-
 * **JavaScript:**
 Lenguaje de programación para agregar funcionalidad a las páginas webs.
   
