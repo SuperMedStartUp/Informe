@@ -34,11 +34,11 @@
             <td>U202215823</td>
         </tr>
         <tr>
-            <td>, Adrian</td>
+            <td>Ventura Chancafe, Eduardo Renato </td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>Palma Obispo, Adrián Enrique Jesús</td>
             <td></td>
         </tr>
         <tr>
