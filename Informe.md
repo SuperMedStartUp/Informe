@@ -1377,7 +1377,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>US47</td>
 			<td>Visualización del historial de citas</td>
 			<td>T01</td>
 			<td>Visualización del historial para registrar la consulta</td>
@@ -1387,7 +1387,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>In progress</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>US51</td>
 			<td>Cancelación de citas médicas</td>
 			<td>T01</td>
 			<td>Cancelación de citas</td>
@@ -1397,7 +1397,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>In Process</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>US59</td>
 			<td>Visualización detallada del historial doctor</td>
 			<td>T01</td>
 			<td>Visualización del historial del paciente</td>
@@ -1407,7 +1407,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>In Process</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>US55</td>
 			<td>Gestión de medicamentos y terapias complementarias</td>
 			<td>T01</td>
 			<td>Gestión de medicamentos y terapias prescritas</td>
@@ -1417,7 +1417,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>In Process</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td>US61</td>
 			<td>Registro de nuevas entradas en el historial doctor</td>
 			<td>T01</td>
 			<td>Registro dentro del historial</td>
