@@ -443,14 +443,14 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>Status (To-Do / In-Process / Review / Done)</td>
 		</tr>
 		<tr>
-			<td rowspan="2"></td>
-			<td rowspan="2"></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td rowspan="2">US36</td>
+			<td rowspan="2">Barra de navegación</td>
+			<td>T01</td>
+			<td>Creación de estructura del navbar</td>
+			<td>Crear todos los puntos del navbar en el header de nuestra landing page.</td>
+			<td>1</td>
+			<td>Juan Montes, Eduardo Ventura</td>
+			<td>Done</td>
 		</tr>
 		<tr>
 			<td></td>
