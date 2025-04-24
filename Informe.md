@@ -453,102 +453,102 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>T02</td>
+			<td>Añadir estilos al navbar</td>
+			<td>Añadir estilos al header, poniendo los puntos del navbar en forma horizontal.</td>
+			<td>1</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2"></td>
-			<td rowspan="2"></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td rowspan="2">US32</td>
+			<td rowspan="2">Sección sobre el Producto</td>
+			<td>T01</td>
+			<td>Creación de estructura para la sección "Product"</td>
+			<td>Mostrar las funcionalidades dentro de contenedores div.</td>
+			<td>1</td>
+			<td>Astrid Boronda</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>T02</td>
+			<td>Creación de estilos para la sección "Product"</td>
+			<td>Implementar estilos para cada una de las funcionalidades descritas, mostrando los divs de manera horizontal para cada segmento objetivo.</td>
+			<td>2</td>
+			<td>Erick Palomino</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2"></td>
-			<td rowspan="2"></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td rowspan="2">US31</td>
+			<td rowspan="2">Sección About Us</td>
+			<td>T01</td>
+			<td>Describir la Startup y segmentos objetivo en el HTML</td>
+			<td>Crear una breve descripción sobre la startup y los beneficions de la aplicación para cada segmento objetivo.</td>
+			<td>1</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>T02</td>
+			<td>Añadir estilos a la sección "About Us"</td>
+			<td>Creación de estilos para las descripciones en la sección "About us".</td>
+			<td>1</td>
+			<td>Astrid Boronda</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2"></td>
-			<td rowspan="2"></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td rowspan="2">US34</td>
+			<td rowspan="2">Sección de contactos</td>
+			<td>T01</td>
+			<td>Organizar sección de contactos</td>
+			<td>Mostrar los contactos principales en el content, y en el footer añadir las redes sociales de la startup.</td>
+			<td>1</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>T02</td>
+			<td>Implementar estilos en la sección "Contact"</td>
+			<td>Añadir estilos a la sección "Contact", donde se muestren horizontalmente en el content, y las redes de manera vertcal en el footer.</td>
+			<td>1</td>
+			<td>Eduardo Ventura</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2"></td>
-			<td rowspan="2"></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td rowspan="2">US33</td>
+			<td rowspan="2">Funciones que ofrece al cliente</td>
+			<td>T01</td>
+			<td>Describir funcionalidades en el HTML</td>
+			<td>Describir las funcionalidades de nuestra aplicación para cada segmento objetivo.</td>
+			<td>2</td>
+			<td>Astrid Boronda</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>T02</td>
+			<td>Añadir estilos a las funcionalidades</td>
+			<td>Alinear horizontalmente todas las funcionalidades descritas.</td>
+			<td>2</td>
+			<td>Erick Palomino</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2"></td>
-			<td rowspan="2"></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td rowspan="2">US35</td>
+			<td rowspan="2">Sección sobre el equipo</td>
+			<td>T01</td>
+			<td>Mostrar equipo de trabajo</td>
+			<td>Crear un apartado en el html que muestre a todos los integrantes del equipo junto con su nombre y foto.</td>
+			<td>1</td>
+			<td>Erick Palomino</td>
+			<td>Done</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>T02</td>
+			<td>Crear estilos para la sección "Team"</td>
+			<td>Alinear Horizontalmente las fotos del quipo de trabajo en la sección "Team"</td>
+			<td>1</td>
+			<td>Juan Montes</td>
+			<td>Done</td>
 		</tr>
 		<tr>
 			<td></td>
