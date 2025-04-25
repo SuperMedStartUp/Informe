@@ -401,94 +401,22 @@ Nuestros segmentos objetivos en este se dividen en tres grupos fundamentales. Co
 
 # 2.1.1. Análisis Competitivo
 
-**Competitive Analysis Landscape**
-
-| ¿Por qué llevar a cabo este análisis? | El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos. |
-| --- | --- |
-
-| Startup y Competidores | MedSystem | Home Medical Management | LOLIMSA | SAMA |
-| --- | --- | --- | --- | --- |
-
-### Perfil
-
-|  | **Overview** |
-| --- | --- |
-| **MedSystem** | Plataforma de gestión de procesos de un consultorio o clínica, que cuenta con diferentes funcionalidades para pacientes, doctores y laboratorios. |
-| **Home Medical Management** | Es una compañía que a través de una plataforma digital y sus profesionales, asegura la ejecución y calidad del servicio de salud domiciliaria. |
-| **LOLIMSA** | Es una empresa de software doctor con soluciones tecnológicas para la gestión de centros doctores como clínicas y hospitales, farmacias y cadenas de farmacias y clínicas veterinarias. |
-| **SAMA** | Es un consorcio de inversión dedicado a brindar servicios integrales de salud, especializados en la seguridad y salud en el trabajo. Contamos con distintas sedes a lo largo del norte del país, las cuales cuentan con el respaldo de la acreditación DIGESA/MINSA. |
-
-|  | **Ventaja competitiva – ¿Qué valor ofrece a los clientes?** |
-| --- | --- |
-| **MedSystem** | Cuenta con distintas funcionalidades como un sistema de gestión de citas en línea que permita a los pacientes y doctores programar fácilmente consultas, programación de cirugías, exámenes y seguimientos de tratamiento o recuperaciones. |
-| **Home Medical Management** | Utilizan inteligencia artificial e innovación para mejorar el servicio a los pacientes y facilitar la atención a los profesionales y prestadores de salud. |
-| **LOLIMSA** | Reduce entre 10 y 20 % tus costos hospitalarios utilizando las mejores prácticas de *Health Management* con LOLCLI, el software de gestión hospitalaria más completo de Latinoamérica. |
-| **SAMA** | Organización que orienta todos sus esfuerzos en realizar un servicio doctor de calidad a través de la presentación de resultados confiables. |
-
-### Perfil de Marketing
-
-#### Mercado objetivo
-- MedSystem: Consultorio, clínicas y hospitales.
-- Home Medical Management: Prestadores de salud, pacientes y personal doctor.
-- LOLIMSA: Clínicas y hospitales.
-- SAMA: Hospitales y clínicas.
-
-#### Estrategias de marketing
-Publicidad por redes sociales y campañas (todos los competidores).
-
-### Perfil de producto
-
-|  | **Productos & Servicios** |
-| --- | --- |
-| **MedSystem** | Una plataforma para gestionar las citas médicas, programar cirugías, exámenes y seguimiento de tratamientos. Además, la plataforma almacena el historial clínico de los pacientes. |
-| **Home Medical Management** | Un software basado en el diseño centrado en el paciente, con información integrada, que utiliza la geolocalización y la valoración del servicio como forma de optimizar la gestión del modelo. |
-| **LOLIMSA** | Software de gestión hospitalaria, impulsado por una plataforma de software de última generación que controla al detalle todas las actividades, desde que el paciente ingresa hasta que se retira del establecimiento. |
-| **SAMA** | Servicios integrales de salud: - Exámenes doctores ocupacionales - Monitores ocupacionales - Vigilancia médica ocupacional - Análisis de laboratorio - Radiografías digitales |
-
-|  | **Precios & Costos** |
-| --- | --- |
-| **MedSystem** | Varían según características de la clínica, con opciones de suscripción mensual o anual. |
-| **Home Medical Management** | Varían según el producto y pueden incluir tarifas de suscripción o costos de licencia. |
-| **LOLIMSA** | Los precios varían según el producto y pueden incluir tarifas de suscripción mensuales o costos de licencia. |
-| **SAMA** | Los precios varían según el tamaño del hospital o clínica y las características específicas de la solución, con opciones de suscripción mensual o anual. |
-
-|  | **Canales de distribución (Web y/o Móvil)** |
-| --- | --- |
-| **MedSystem** | Principalmente a través de su sitio web oficial. |
-| **Home Medical Management** | Principalmente a través de su sitio web, con posibilidad de acceso móvil. |
-| **LOLIMSA** | Principalmente a través de su sitio web oficial. |
-| **SAMA** | Principalmente a través de su sitio web oficial. |
-
-### Análisis SWOT
-
-|  | **Fortalezas** |
-| --- | --- |
-| **MedSystem** | Ofrece una solución integral para la gestión de procesos en consultorios y clínicas, lo que incluye funcionalidades específicas para pacientes, doctores y laboratorios. Esta centralización de información puede mejorar la eficiencia operativa y la coordinación entre todas las partes involucradas en el proceso de atención médica. |
-| **Home Medical Management** | Ofrece cuidados personalizados en el hogar, generando satisfacción y lealtad. Su enfoque centrado en el paciente y su capacidad de adaptación son ventajas. |
-| **LOLIMSA** | Cuenta con amplia experiencia en software doctor y ofrece soluciones integrales y personalizadas respaldadas por un sólido servicio de soporte técnico. |
-| **SAMA** | Samma ofrece una variedad de herramientas de bienestar mental y una interfaz amigable que atrae a una amplia gama de usuarios. |
-
-|  | **Debilidades** |
-| --- | --- |
-| **MedSystem** | La competencia en el mercado de software de gestión de consultorios y clínicas es intensa, con numerosas empresas que ofrecen soluciones similares. |
-| **Home Medical Management** | Limitaciones geográficas y dependencia del personal pueden afectar la expansión y la consistencia de los servicios. |
-| **LOLIMSA** | Enfrenta competencia en el mercado de software doctor y puede estar sujeta a dependencia tecnológica y costos asociados con el desarrollo de soluciones. |
-| **SAMA** | La competencia en el mercado de aplicaciones de bienestar mental puede dificultar que Samma se destaque, especialmente si enfrenta problemas de usabilidad o dependencia tecnológica. |
-
-|  | **Oportunidades** |
-| --- | --- |
-| **MedSystem** | La creciente demanda de soluciones digitales en el sector de la salud ofrece una oportunidad para capturar una parte del mercado en constante expansión. |
-| **Home Medical Management** | Puede expandir servicios, integrar tecnología y formar alianzas para llegar a más clientes y mejorar la eficiencia. |
-| **LOLIMSA** | Tiene potencial de expansión tanto nacional como internacional, además de oportunidades para desarrollar nuevas funcionalidades y establecer alianzas estratégicas. |
-| **SAMA** | La expansión internacional y la colaboración estratégica ofrecen oportunidades para llegar a nuevos mercados y asociarse con empresas o instituciones para aumentar el alcance de la aplicación. |
-
-|  | **Amenazas** |
-| --- | --- |
-| **MedSystem** | Las preocupaciones sobre la privacidad y seguridad de los datos en el sector de la salud son una amenaza constante. |
-| **Home Medical Management** | Competencia, cambios regulatorios y preocupaciones sobre privacidad y seguridad de datos pueden impactar la rentabilidad y confianza en los servicios. |
-| **LOLIMSA** | Los posibles cambios regulatorios, preocupaciones sobre seguridad de datos y avances tecnológicos rápidos representan riesgos que podrían afectar su posición en el mercado. |
-| **SAMA** | Cambios en la regulación, críticas negativas y avances tecnológicos representan amenazas potenciales para la operación y la reputación de Samma en el mercado. |
-
+<table><tr><th colspan="6" valign="top">Competitive Analysis Landscape</th></tr>
+<tr><td colspan="1" valign="top">¿Por qué llevar a cabo este análisis?</td><td colspan="5" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td></tr>
+<tr><td colspan="2" rowspan="2" valign="top">Startup y Competidores</td><td colspan="1" valign="top">MedSystem</td><td colspan="1" valign="top">Home Medical Management</td><td colspan="1" valign="top">LOLIMSA</td><td colspan="1" valign="top">SAMA</td></tr>
+<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Perfil</td><td colspan="1" valign="top">Overview</td><td colspan="1" valign="top">Plataforma de gestión de procesos de un consultorio o clínica, que cuenta con diferentes funcionalidades para pacientes, doctores y laboratorios.</td><td colspan="1" valign="top">Es una compañía que a través de una plataforma digital y sus profesionales, asegura la ejecución y calidad del servicio de salud domiciliaria.</td><td colspan="1" valign="top">Es una empresa de software doctor con soluciones tecnológicas para la gestión de centros doctores como clínicas y hospitales, farmacias y cadenas de farmacias y clínicas veterinarias.</td><td colspan="1" valign="top">Es un consorcio de inversión dedicado a brindar servicios integrales de salud, especializados en la seguridad y salud en el trabajo. Contamos con distintas sedes a lo largo del norte del país, las cuales cuentan con el respaldo de la acreditación DIGESA/MINSA.</td></tr>
+<tr><td colspan="1" valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td><td colspan="1" valign="top">Cuenta con distintas funcionalidades como un sistema de gestión de citas en línea que permita a los pacientes y doctores programar fácilmente consultas, programación de cirugías ,exámenes y seguimientos de tratamiento o recuperaciones.</td><td colspan="1" valign="top">Utilizan inteligencia artificial e innovación para mejorar el servicio a los pacientes y facilitar la atención a los profesionales y prestadores de salud.</td><td colspan="1" valign="top">Reduce entre 10 y 20% tus costos hospitalarios utilizando las mejores prácticas de Health Management con LOLCLI, el software de gestión hospitalaria más completo de Latinoamérica.</td><td colspan="1" valign="top">Organización que orienta todos sus esfuerzos en realizar un servicio doctor de calidad a través de la presentación de resultados confiables.</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">Perfil de Marketing</td><td colspan="1" valign="top">Mercado objetivo</td><td colspan="1" valign="top">Consultorio, clínicas y hospitales.</td><td colspan="1" valign="top">Prestadores de salud, pacientes y personal doctor</td><td colspan="1" valign="top">Clínicas y hospitales</td><td colspan="1" valign="top">Hospitales y clínicas</td></tr>
+<tr><td colspan="1" valign="top">Estrategias de marketing</td><td colspan="1" valign="top">Publicidad por redes sociales y campañas.</td><td colspan="1" valign="top">Publicidad por redes sociales.</td><td colspan="1" valign="top">Publicidad por redes sociales.</td><td colspan="1" valign="top">Publicidad por redes sociales.</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">Perfil de producto</td><td colspan="1" valign="top">Productos & Servicios</td><td colspan="1" valign="top">Una plataforma para gestionar las citas médicas, programar cirugías, exámenes y seguimiento de tratamientos. Además, la plataforma almacena el historial clínico de los pacientes.</td><td colspan="1" valign="top">Un software basado en el diseño centrado en el paciente, con información integrada, que utiliza la geolocalización y la valoración del servicio, como forma de optimizar la gestión del modelo.</td><td colspan="1" valign="top">Software de gestión hospitalaria, impulsado por una plataforma de software de última generación que controla al detalle todas las actividades, desde que el paciente ingresa hasta que se retira del establecimiento</td><td colspan="1" valign="top">Servicios integrales de salud: -Exámenes doctores ocupacionales -Monitores ocupacionales -Vigilancia médica ocupacional -Análisis de laboratorio -radiografias digitales</td></tr>
+<tr><td colspan="1" valign="top">Precios & Costos</td><td colspan="1" valign="top">Varían según características de la clínica, con opciones de suscripción mensual o anual.</td><td colspan="1" valign="top">Varían según el producto y pueden incluir tarifas de suscripción o costos de licencia.</td><td colspan="1" valign="top">Los precios varían según el producto y pueden incluir tarifas de suscripción mensuales o costos de licencia.</td><td colspan="1" valign="top">Los precios varían según el tamaño del hospital o clínica y las características específicas de la solución, con opciones de suscripción mensual o anual</td></tr>
+<tr><td colspan="1" valign="top">Canales de distribución (Web y/o Móvil)</td><td colspan="1" valign="top">Principalmente a través de su sitio web oficial</td><td colspan="1" valign="top">Principalmente a través de su sitio web, con posibilidad de acceso móvil.</td><td colspan="1" valign="top">Principalmente a través de su sitio web oficial.</td><td colspan="1" valign="top">Principalmente a través de su sitio web oficial.</td></tr>
+<tr><td colspan="1" rowspan="4" valign="top">Análisis SWOT</td><td colspan="1" valign="top">Fortalezas</td><td colspan="1" valign="top">Ofrece una solución integral para la gestión de procesos en consultorios y clínicas, lo que incluye funcionalidades específicas para pacientes, doctores y laboratorios. Esta centralización de información puede mejorar la eficiencia operativa y la coordinación entre todas las partes involucradas en el proceso de atención médica.</td><td colspan="1" valign="top">Ofrece cuidados personalizados en el hogar, generando satisfacción y lealtad. Su enfoque centrado en el paciente y su capacidad de adaptación son ventajas.</td><td colspan="1" valign="top">Cuenta con amplia experiencia en software doctor y ofrece soluciones integrales y personalizadas respaldadas por un sólido servicio de soporte técnico.</td><td colspan="1" valign="top">Samma ofrece una variedad de herramientas de bienestar mental y una interfaz amigable que atrae a una amplia gama de usuarios.</td></tr>
+<tr><td colspan="1" valign="top">Debilidades</td><td colspan="1" valign="top">La competencia en el mercado de software de gestión de consultorios y clínicas es intensa, con numerosas empresas que ofrecen soluciones similares.</td><td colspan="1" valign="top">Limitaciones geográficas y dependencia del personal pueden afectar la expansión y la consistencia de los servicios.</td><td colspan="1" valign="top">Enfrenta competencia en el mercado de software doctor y puede estar sujeta a dependencia tecnológica y costos asociados con el desarrollo de soluciones.</td><td colspan="1" valign="top">La competencia en el mercado de aplicaciones de bienestar mental puede dificultar que Samma se destaque, especialmente si enfrenta problemas de usabilidad o dependencia tecnológica.</td></tr>
+<tr><td colspan="1" valign="top">Oportunidades</td><td colspan="1" valign="top">La creciente demanda de soluciones digitales en el sector de la salud ofrece una oportunidad para capturar una parte del mercado en constante expansión.</td><td colspan="1" valign="top">Puede expandir servicios, integrar tecnología y formar asociaciones para llegar a más clientes y mejorar la eficiencia.</td><td colspan="1" valign="top">Tiene potencial de expansión tanto nacional como internacional, además de oportunidades para desarrollar nuevas funcionalidades y establecer alianzas estratégicas.</td><td colspan="1" valign="top">La expansión internacional y la colaboración estratégica ofrecen oportunidades para llegar a nuevos mercados y asociarse con empresas o instituciones para aumentar el alcance de la aplicación.</td></tr>
+<tr><td colspan="1" valign="top">Amenazas</td><td colspan="1" valign="top">Las preocupaciones sobre la privacidad y seguridad de los datos en el sector de la salud son una amenaza constante.</td><td colspan="1" valign="top">Competencia, cambios regulatorios y preocupaciones sobre privacidad y seguridad de datos pueden impactar la rentabilidad y confianza en los servicios.</td><td colspan="1" valign="top">Los posibles cambios regulatorios, preocupaciones sobre seguridad de datos y avances tecnológicos rápidos representan riesgos que podrían afectar su posición en el mercado.</td><td colspan="1" valign="top">Cambios en la regulación, críticas negativas y avances tecnológicos representan amenazas potenciales para la operación y la reputación de Samma en el mercado.</td></tr>
+</table>
 # 2.1.2. Estrategias y tácticas frente a competidores
 
 MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión de procesos clínicos altamente personalizable y fácil de usar, tanto para pacientes como para profesionales de la salud, diferenciándose así de competidores como Home Medical Management y LOLIMSA. Con un enfoque específico en la atención domiciliaria, la plataforma puede ofrecer funcionalidades especializadas para la coordinación y seguimiento de la atención médica en el hogar, proporcionando comodidad y eficiencia para pacientes y cuidadores. Además, MedSystem puede invertir en el desarrollo de tecnologías avanzadas, como inteligencia artificial y análisis de datos, para mejorar la gestión de consultorios y clínicas, posicionándose como una opción innovadora frente a empresas como LOLIMSA. Para competir con SAMA en el ámbito de la salud ocupacional y la seguridad laboral, MedSystem puede ofrecer módulos especializados y herramientas de cumplimiento normativo, aprovechando su experiencia en la gestión clínica para proporcionar soluciones integrales a empresas e instituciones. Una estrategia de marketing sólida, centrada en la educación del mercado sobre la importancia de la gestión eficiente de consultorios y clínicas, así como en testimonios de usuarios satisfechos, puede ayudar a MedSystem a construir una sólida reputación y atraer clientes potenciales. Además, explorar alianzas estratégicas con instituciones médicas y otros actores del sector puede ampliar su alcance y fortalecer su posición en el mercado. En resumen, MedSystem puede destacarse mediante la combinación de personalización, tecnología avanzada, especialización en atención domiciliaria y salud ocupacional, una sólida estrategia de marketing y alianzas estratégicas, lo que le permitirá diferenciarse y prosperar en un mercado competitivo.
