@@ -5169,7 +5169,7 @@ Recomendación: Asegurar que se implementen medidas de seguridad robustas para p
 
 <div id='5.4.'><h3> 5.4. Video About the Product. </h3></div>
 
-Link del video: 
+Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e](https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e)
 
 <img src= "./assets/about-product.png"/>
 
