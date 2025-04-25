@@ -3572,3 +3572,376 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
     </tr>
   </tbody>
 </table>
+
+<div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review. </h5></div>
+
+**Fronted-Web**
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="19"></td>
+      <td>main</td>
+      <td>54fac702b33b6986ca08a5a61944236b1b40323c</td>
+      <td>feat: added option for change language</td>
+      <td></td>
+      <td>21/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-iam</td>
+      <td>b88bcf184424774749fde263b2d1d00956d268ca</td>
+      <td>feat(iam): added iam bounded context</td>
+      <td></td>
+      <td>17/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-iam</td>
+      <td>9afc3b82a6667d36b5db83f1a91eb7f7c0ec258b</td>
+      <td>fix(iam): modified endpoint authorization</td>
+      <td></td>
+      <td>17/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-iam</td>
+      <td>59f6cd9066c330f6eddc6a546c9bb6905a20d92f</td>
+      <td>feat(iam): doctor and patient aggregates added</td>
+      <td></td>
+      <td>20/06/24</td>
+    </tr>
+    <tr>
+      <td>merge</td>
+      <td>8949d7ba32e7290e2aacdf0d4cc1057e7ed7269e</td>
+      <td>Merge pull request #20 from LosLuminosos-SW57/dev-iam</td>
+      <td></td>
+      <td>20/06/24</td>
+    </tr>
+    <tr>
+      <td>consultancy</td>
+      <td>ff60b43d5d3c9079096ef71d87e2abcbdfef1fe8</td>
+      <td>feat: created new query to get an analysis by id, modified updateAnalysisCommand, implementation of commandServiceImpl, queryServiceImpl finished</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>consultancy</td>
+      <td>00e6a3bd5847aa12f86ce55df8dda538a7dae608</td>
+      <td>feat: transforms and controller created for Analysis</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>consultancy</td>
+      <td>cb7bd6bd0d1421e19829a2b6f2ff9d6431226406</td>
+      <td>feat: added sample entity, with its command and repository</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>consultancy</td>
+      <td>d45b3ca0392fe1d909a7e0ed1fe0b0c21c3bec36</td>
+      <td>feat: created services for entity sample and modified repository</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>consultancy</td>
+      <td>c3efeb2cf633f8c2a2edfbbe534a56bc3c085c48</td>
+      <td>feat: added the command service and its sample implementation</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>91ad884fc3ea78c71aaa22c1638b600bd754a199</td>
+      <td>Merge branch 'consultancy' of https://github.com/LosLuminosos-SW57/medSystem-Backend into consultancy</td>
+      <td></td>
+      <td>23/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-iam</td>
+      <td>408c961d854c784180b66dbe4966583e4b62c982</td>
+      <td>feat: added model files into IAM bounded context</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-iam</td>
+      <td>76a4524da7cb1cca6bfefdbce23eae000dbdaaef</td>
+      <td>feat: added sign-up component into IAM bounded context</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-iam</td>
+      <td>3e55a0d6fe6463875c6d6426259f1553500be255</td>
+      <td>feat: added sign-in component into IAM bounded context</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-iam</td>
+      <td>b4538bd81a98524bdd926e583416b5b16ec59852</td>
+      <td>feat: added authentication components and providers</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-laboratory</td>
+      <td>a27589a3096486b3eb8d1bf3383bcf88b505ce65</td>
+      <td>feat: services for analysis created, add routing for analysis and laboratory analysis component created</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-laboratory</td>
+      <td>67c3af82bde8cf5d2f63295eda936f62ca7d68dc</td>
+      <td>feat: new analysis component created and alert created in appointment after the POST method</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-laboratory</td>
+      <td>8ad4b460849580b606a9f2ce8b133fc4c06ec73a</td>
+      <td>feat: added model and service of sample</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>dev-laboratory</td>
+      <td>0faa6fe421b32a06815c086043f2a1c6904fd7f9</td>
+      <td>feat: added typescript of sample form component and the page where it shows</td>
+      <td></td>
+      <td>22/06/24</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>874ed49c188e4967d91e1fe4e093ac2d5545aaad</td>
+      <td>Merge pull request #25 from LosLuminosos-SW57/dev-laboratory</td>
+      <td></td>
+      <td>23/06/24</td>
+    </tr>
+  </tbody>
+</table>
+
+**Fronted-Movil**
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit ID</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="27"></td>
+      <td>main</td>
+      <td>8340709</td>
+      <td>feat: added multiple bloc provider, and fix baseUrl url</td>
+      <td></td>
+      <td>2024-11-20</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>87402b7</td>
+      <td>fix: action button in register page fixed</td>
+      <td></td>
+      <td>2024-11-20</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>18066af</td>
+      <td>feat: implemented post for appointments</td>
+      <td></td>
+      <td>2024-11-21</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>7a8d2c0</td>
+      <td>feat: files re-organization and fix overflow</td>
+      <td></td>
+      <td>2024-11-21</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>037d671</td>
+      <td>Merge pull request #9 from MedSolutions-SW65/develop</td>
+      <td></td>
+      <td>2024-11-21</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>f5bfc98</td>
+      <td>feat: improved authentication</td>
+      <td></td>
+      <td>2024-11-21</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>40bd386</td>
+      <td>feat: decorate appointments view</td>
+      <td></td>
+      <td>2024-11-21</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>5c70e2b</td>
+      <td>fix: fix some errors</td>
+      <td></td>
+      <td>2024-11-21</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>b9baba3</td>
+      <td>feat: change design in some pages</td>
+      <td></td>
+      <td>2024-11-21</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>c49e820</td>
+      <td>feat: fix post and delete treatments</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>c250c10</td>
+      <td>feat: fix imports</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>943769e</td>
+      <td>Merge branch 'feature/treatments' into feature/production</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>829eb16</td>
+      <td>feat: add possible null value</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>c4ff2f2</td>
+      <td>feat: fix profile view</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>f5322be</td>
+      <td>feat: implements delete in page</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>2dd03d2</td>
+      <td>feat: add dependence</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>6fe3694</td>
+      <td>feat: add treatmentsDelete in bloc</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>475a332</td>
+      <td>feat: add DeleteTreatmentService</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>a0b7425</td>
+      <td>feat: delete await</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>df64aab</td>
+      <td>feat: profile updated to fetch data of doctor or patient</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>2475ccf</td>
+      <td>fix: correction name</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>d1212ea</td>
+      <td>feat: submit the data of treatments</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>0a33b6e</td>
+      <td>feat: add some classes in bloc</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>0f34e4e</td>
+      <td>feat: add AddTreatmentService class</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>4333ee1</td>
+      <td>fix: modify some attributes in treatment class</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>5cb9a40</td>
+      <td>feat: appointments id fix, and authentication with roles</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>1d52766</td>
+      <td>feat: decorate treatments home view</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+    <tr>
+      <td>main</td>
+      <td>7463be5</td>
+      <td>feat: fix chat position</td>
+      <td></td>
+      <td>2024-11-22</td>
+    </tr>
+  </tbody>
+</table>
