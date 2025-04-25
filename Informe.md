@@ -3285,3 +3285,290 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 
 <div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint. </h5></div>
 
+<div id='5.2.4.'><h4> 5.2.4. Sprint 4.</h4></div>
+
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 4</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Planning Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Virtual</td>
+		</tr>
+		<tr>
+			<td>Prepared by</td>
+			<td>Palomino Santa Cruz, Erick Joaquin</td>
+		</tr>
+		<tr>
+			<td>Attendees (to planning meeting)</td>
+			<td>- Boronda Heidinger, Astrid Jimena <br> - Ventura Chancafe, Eduardo Renato <br> - Palma Obispo, Adrián Enrique Jesús <br> - Montes Figueroa. Juan Eduardo <br> - Palomino Santa Cruz, Erick Joaquin</td>
+		</tr>
+		<tr>
+			<td>Sprint n - 3 Review Summary</td>
+			<td>En el sprint 3, se logró desarrollar la vista de paciente y doctor en la aplicación. Todas las tareas planificadas fueron completadas según las especificaciones requeridas.El despliegue se llevó a cabo sin problemas y el backend está funcionando correctamente.</td>
+		</tr>
+		<tr>
+			<td>Sprint n - 3 Retrospective Summary</td>
+			<td>El equipo destacó como puntos positivos la comunicación eficaz y la colaboración en la resolución de problemas. Sin embargo, se señaló la necesidad de mejorar la planificación inicial, particularmente en la estimación del tiempo requerido para algunas tareas, y se mencionó la posibilidad de optimizar el proceso de revisión de código para asegurar una mayor calidad del producto final.</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint 4 Goal</td>
+			<td>EEl objetivo principal de este sprint fue realizar la ultima version del backend y del frontend, en el que se añadieron un nuevo bounded context de laboratorio y la autentificación</td>
+		</tr>
+		<tr>
+			<td>Sprint 4 Velocity</td>
+			<td>18</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td>19</td>
+		</tr>
+	</tbody>
+</table>
+
+<div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4.</h5></div>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>User Story ID</th>
+      <th>User Story Title</th>
+      <th>Task ID</th>
+      <th>Task Title</th>
+      <th>Description</th>
+      <th>Estimation (hours)</th>
+      <th>Assigned to</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2">US46</td>
+      <td colspan="2">Autenticación de usuarios.</td>
+      <td>T01</td>
+      <td>Implementar Endpoint POST - Registrarse en la aplicación</td>
+      <td>Crear el endpoint POST para la sección de registro, donde el paciente podrá rellenar los campos obligatorios para un registro satisfactorio.</td>
+      <td>4</td>
+      <td>Eduardo Ventura</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T02</td>
+      <td>Implementar Endpoint GET - Iniciar sesión en la aplicación</td>
+      <td>Crear el endpoint POST para la sección de iniciar sesión, donde el paciente podrá rellenar los campos obligatorios para un inicio de sesión satisfactorio.</td>
+      <td>3</td>
+      <td>Astrid Boronda</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td colspan="2">US47</td>
+      <td colspan="2">Gestión de muestras</td>
+      <td>T01</td>
+      <td>Implementar Endpoint POST - Creación de Muestras médicas</td>
+      <td>Crear el endpoint POST para la sección de muestras, donde la consultoria podrá crear las muestras con los datos solitidos de paciente correspondiente.</td>
+      <td>4</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T02</td>
+      <td>Implementar Endpoint GET - Obtención de muestras médicas</td>
+      <td>Crear el endpoint GET para la sección de muestras, donde la consultoria podrá obtener y visualizar todos las muestras médicas realizados.</td>
+      <td>3</td>
+      <td>Juan Montes Figueroa</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US48</td>
+      <td>Gestión de resultados</td>
+      <td>T01</td>
+      <td>Implementar Endpoint POST - Creación de Resultados de exámenes</td>
+      <td>Crear el endpoint POST para la sección de resultados, donde la consultoria podrá crear las resutlados con los datos solitidos del paciente correspondiente.</td>
+      <td>4</td>
+      <td>Adrián Palma</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td colspan="2">US49</td>
+      <td colspan="2">Gestión de Análisis</td>
+      <td>T01</td>
+      <td>Implementar Endpoint POST - Creación de Análisis médicos</td>
+      <td>Crear el endpoint POST para la sección de análisis, donde la consultoria podrá crear las análisis con los datos solicitados del paciente correspondiente.</td>
+      <td>4</td>
+      <td>Adrián Palma</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T02</td>
+      <td>Implementar Endpoint GET - Obtención de análisis médicas</td>
+      <td>Crear el endpoint GET para la sección de análisi, donde la consultoria podrá obtener y visualizar todos los análisis médicas realizados.</td>
+      <td>3</td>
+      <td>Juan Montes Figueroa</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US31</td>
+      <td>Selección de Idioma para la Página de Inicio</td>
+      <td>T01</td>
+      <td>Añadir opciones de idiomas disponibles</td>
+      <td>Crear versiones localizadas de la landing page mediante duplicación de HTML y traducción de contenido, con un botón de cambio de idioma para alternar entre versiones.</td>
+      <td>1</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td colspan="2">US38</td>
+      <td colspan="2">Registro en la aplicación web</td>
+      <td>T01</td>
+      <td>Creación de la sección de registro en la aplicación web</td>
+      <td>Crear la sección de registar nuevo usuario, que permite al usuario poder registrarse en la aplicación web rellenando los campos obligatorios.</td>
+      <td>4</td>
+      <td>Eduardo Ventura</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T02</td>
+      <td>Integrar el API con el formulario de registro del frontend</td>
+      <td>Integrar el formulario de registro del frontend con el endpoint, enviando los datos, manejando la respuesta y redirigiendo al usuario.</td>
+      <td>3</td>
+      <td>Astrid Boronda</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td colspan="2">US39</td>
+      <td colspan="2">Inicio de sesión en la aplicación web</td>
+      <td>T01</td>
+      <td>Creación de la sección de inicio de sesión en la aplicación web</td>
+      <td>Crear la sección de iniciar sesión, que permite al usuario poder iniciar sesión en la aplicación web con su usuario y contraseña.</td>
+      <td>4</td>
+      <td>Eduardo Ventura</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>T02</td>
+      <td>Integrar el API con el formulario inicio de sesión del frontend</td>
+      <td>Integrar el formulario inicio de sesión del frontend con el endpoint, enviando los datos, manejando la respuesta y redirigiendo al usuario.</td>
+      <td>3</td>
+      <td>Astrid Boronda</td>
+      <td>Done</td>
+    </tr>
+	<tr>
+      <td>US53</td>
+      <td>Seguimiento del progreso del paciente</td>
+      <td>T01</td>
+      <td>Seguimiento del progreso del paciente</td>
+      <td>Como doctor traumatológico, quiero realizar un seguimiento del progreso de mis pacientes a través de la plataforma, para ajustar los tratamientos según la evolución de su condición.</td>
+      <td>3 horas</td>
+      <td>Adrián Palma</td>
+      <td>In Progress</td>
+    </tr>
+    <tr>
+      <td>US55</td>
+      <td>Gestión de medicamentos y terapias complementarias</td>
+      <td>T01</td>
+      <td>Gestión de medicamentos y terapias complementarias</td>
+      <td>Como doctor traumatológico, deseo gestionar los medicamentos y terapias complementarias prescritos a mis pacientes a través de la plataforma, para garantizar que reciban un tratamiento integral.</td>
+      <td>4 horas</td>
+      <td>Astrid Boronda</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US58</td>
+      <td>Acceso rápido al historial doctor del paciente</td>
+      <td>T01</td>
+      <td>Acceso rápido al historial doctor del paciente</td>
+      <td>Como doctor, quiero acceder rápidamente al historial médico completo de mis pacientes para revisar su historial de enfermedades, tratamientos pasados, alergias y otros datos relevantes antes de una consulta o procedimiento.</td>
+      <td>3 horas</td>
+      <td>Juan Montes</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US60</td>
+      <td>Actualización en tiempo real del historial doctor</td>
+      <td>T01</td>
+      <td>Actualización en tiempo real del historial doctor</td>
+      <td>Como doctor, quiero que cualquier actualización realizada en el historial médico de un paciente se refleje inmediatamente en el sistema, para garantizar que siempre esté trabajando con la información más reciente y precisa.</td>
+      <td>4 horas</td>
+      <td>Eduardo Ventura</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US63</td>
+      <td>Registro de eventos importantes en el historial doctor</td>
+      <td>T01</td>	          
+	<td>Registro de eventos importantes en el historial doctor</td>
+      <td>Como doctor, quiero poder registrar eventos importantes en el historial médico de mis pacientes, como hospitalizaciones, cirugías importantes, cambios significativos en el estado de salud o eventos relevantes en la historia médica familiar, para tener una visión completa y contextualizada de la salud del paciente a lo largo del tiempo.</td>
+      <td>3 horas</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS02</td>
+	<td>Disponibilidad y Escalabilidad del Servicio de Chat</td>
+      <td>T01</td>
+      <td>Disponibilidad y Escalabilidad del Servicio de Chat</td>
+      <td>Como paciente, quiero que el servicio de chat esté disponible en todo momento y sea escalable para manejar un gran número de usuarios, para asegurar que siempre pueda comunicarme con mi doctor cuando lo necesite.</td>
+      <td>3 horas</td>
+      <td>Adrián Palma</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS07</td>
+	<td>Accesibilidad y Disponibilidad del Historial doctor</td>
+      <td>T01</td>
+      <td>Accesibilidad y Disponibilidad del Historial doctor</td>
+      <td>Como doctor traumatológico, deseo que el acceso al historial doctor de mis pacientes sea constante y fiable, para poder tomar decisiones informadas en cualquier momento y lugar.</td>
+      <td>4 horas</td>
+      <td>Erick Palomino</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS08</td>
+	<td>Confidencialidad y Seguridad del Historial doctor</td>
+      <td>T01</td>
+      <td>Confidencialidad y Seguridad del Historial doctor</td>
+      <td>Como doctor traumatológico, quiero asegurarme de que el historial doctor de mis pacientes esté protegido contra accesos no autorizados, para garantizar la privacidad y confidencialidad de la información médica.</td>
+      <td>4 horas</td>
+      <td>Eduardo Ventura</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS09</td>
+	<td>Integridad y Seguridad de los Datos de Muestras y Resultados</td>
+      <td>T01</td>
+      <td>Integridad y Seguridad de los Datos de Muestras y Resultados</td>
+      <td>Como técnico de laboratorio, quiero que la aplicación garantice la integridad y seguridad de los datos de muestras y resultados, para asegurar que la información sea precisa y esté protegida contra accesos no autorizados.</td>
+      <td>3 horas</td>
+      <td>Juan Montes</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>TS10</td>
+	<td>Escalabilidad de la Aplicación para Crecimiento Futuro</td>
+      <td>T01</td>
+      <td>Escalabilidad de la Aplicación para Crecimiento Futuro</td>
+      <td>Como técnico de laboratorio, quiero que la aplicación sea escalable para manejar un aumento en la cantidad de muestras y resultados en el futuro, para asegurar que el sistema continúe funcionando de manera eficiente a medida que el laboratorio crece.</td>
+      <td>3 horas</td>
+      <td>Astrid Boronda</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
