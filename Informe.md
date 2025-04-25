@@ -3361,8 +3361,8 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
   </thead>
   <tbody>
     <tr>
-      <td colspan="2">US46</td>
-      <td colspan="2">Autenticación de usuarios.</td>
+      <td rowspan="2"="2">US46</td>
+      <td rowspan="2">Autenticación de usuarios.</td>
       <td>T01</td>
       <td>Implementar Endpoint POST - Registrarse en la aplicación</td>
       <td>Crear el endpoint POST para la sección de registro, donde el paciente podrá rellenar los campos obligatorios para un registro satisfactorio.</td>
@@ -3379,8 +3379,8 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
       <td>Done</td>
     </tr>
     <tr>
-      <td colspan="2">US47</td>
-      <td colspan="2">Gestión de muestras</td>
+      <td rowspan="2">US47</td>
+      <td rowspan="2">Gestión de muestras</td>
       <td>T01</td>
       <td>Implementar Endpoint POST - Creación de Muestras médicas</td>
       <td>Crear el endpoint POST para la sección de muestras, donde la consultoria podrá crear las muestras con los datos solitidos de paciente correspondiente.</td>
@@ -3407,8 +3407,8 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
       <td>Done</td>
     </tr>
     <tr>
-      <td colspan="2">US49</td>
-      <td colspan="2">Gestión de Análisis</td>
+      <td rowspan="2">US49</td>
+      <td rowspan="2">Gestión de Análisis</td>
       <td>T01</td>
       <td>Implementar Endpoint POST - Creación de Análisis médicos</td>
       <td>Crear el endpoint POST para la sección de análisis, donde la consultoria podrá crear las análisis con los datos solicitados del paciente correspondiente.</td>
@@ -3435,8 +3435,8 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
       <td>Done</td>
     </tr>
     <tr>
-      <td colspan="2">US38</td>
-      <td colspan="2">Registro en la aplicación web</td>
+      <td rowspan="2">US38</td>
+      <td rowspan="2">Registro en la aplicación web</td>
       <td>T01</td>
       <td>Creación de la sección de registro en la aplicación web</td>
       <td>Crear la sección de registar nuevo usuario, que permite al usuario poder registrarse en la aplicación web rellenando los campos obligatorios.</td>
@@ -3453,8 +3453,8 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
       <td>Done</td>
     </tr>
     <tr>
-      <td colspan="2">US39</td>
-      <td colspan="2">Inicio de sesión en la aplicación web</td>
+      <td rowspan="2">US39</td>
+      <td rowspan="2">Inicio de sesión en la aplicación web</td>
       <td>T01</td>
       <td>Creación de la sección de inicio de sesión en la aplicación web</td>
       <td>Crear la sección de iniciar sesión, que permite al usuario poder iniciar sesión en la aplicación web con su usuario y contraseña.</td>
