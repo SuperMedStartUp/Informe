@@ -2824,7 +2824,13 @@ Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services
 <div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h5></div>
 
 * Creamos un proyecto en Firebase
+
+<img src= "./assets/deployment-2.1.png"/>
+
 * Seguimos los pasosque nos indican hasta llegar a esta pestana
+
+<img src= "./assets/deployment-2.2.png"/>
+
 * Luego en la terminal del proyecyo ponemos el siguiente comando -> ng run build
   Una vez heho eso ponemos lo siguiente -> firebase deploy
   Una vez hecho eso ya estaria desplegada la página firebase deploy
@@ -2832,10 +2838,16 @@ Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services
 **Autenticación:**
 También se hizo la autenticación con firebase con correo y contraseña
 
+<img src= "./assets/autenticacion.png"/>
+
 **Base de datos para el chat:**
 Lo hemos desplegado en firebase el servicio de chat, donde se guardarán los mensajes, las sesiones de chat entre usuarios y su información de autenticación, el correo y contraseñas
 
+<img src= "./assets/base-datos.png"/>
+
 <div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint. </h5></div>
+
+<img src= "./assets/team-2.png"/>
 
 <div id='5.2.3.'><h4> 5.2.3. Sprint 3.</h4></div>
 
@@ -3380,31 +3392,63 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
 </table>
 
 <div id='5.2.3.4.'><h5> 5.2.3.4. Testing Suite Evidence for Sprint Review. </h5></div>
+
+Email service:
+<img src= "./assets/email-service.png"/>
+
 <div id='5.2.3.5.'><h5> 5.2.3.5. Execution Evidence for Sprint Review. </h5></div>
 
 * Swagger
-* Se pondrá la evidencia del nuevo servicio de email, con el correo puesto en el body del email controller en el swagger. Esto desde la aplicación móvil se podrá hacer desde el registro de la cuenta, además que también se implementará cuando se hace la reserva de una cita.vSe usó un correo temporal yopmail para la prueba de envío pero también se podrá usar otros correos como gmail.
+
+<img src= "./assets/swagger-3.1.png"/>
+
+* Se pondrá la evidencia del nuevo servicio de email, con el correo puesto en el body del email controller en el swagger. Esto desde la aplicación móvil se podrá hacer desde el registro de la cuenta, además que también se implementará cuando se hace la reserva de una cita.Se usó un correo temporal yopmail para la prueba de envío pero también se podrá usar otros correos como gmail.
+
+**Prueba del envío del correo:**
+
+<img src= "./assets/envio-correo.png"/>
 
 <div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
 * Appointments
+
+<img src= "./assets/services-3.1.png"/>
+
 * Request Results
+
+<img src= "./assets/services-3.2.png"/>
+
 * Reports
+
+<img src= "./assets/services-3.3.png"/>
+
 * Treatments
+
+<img src= "./assets/services-3.4.png"/>
 
 <div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review. </h5></div>
 
 Para hacer el despliegue del backend lo hemos divido por dos partes, el deployment de la base de datos y del proyecto
 
-* Base de datos Primero creamos una base de datos MySQL en Azure, al momento de crearlo nos pedira un usuario y contraseña para acceder a ella
+* Base de datos Primero creamos una base de datos MySQL en Azure, al momento de crearlo nos pedira un usuario y contraseña para acceder a ella.
+
+<img src= "./assets/deploy-3.1.png"/>
 
 Una vez termine de desplegarse copiamos el nombre del servidor y vamos a MySQL Workbench y creamos una nueva conexion y pegamos el nombre del servidor, y ponemos el usuario y contraseña
 
+<img src= "./assets/deploy-3.2.png"/>
+
 Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-system-os
+
+<img src= "./assets/deploy-3.3.png"/>
 
 * Web Service Para esto creamos un App services en Azure y subimos nuestro proyecto, para esto debemos darle permisos al azure para que pueda entrar a nuestra organizacion y elegir el repositorio y rama que queremos que se despliegue.
 
+<img src= "./assets/deploy-3.4.png"/>
+
 <div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint. </h5></div>
+
+<img src= "./assets/team-3.png"/>
 
 <div id='5.2.4.'><h4> 5.2.4. Sprint 4.</h4></div>
 
