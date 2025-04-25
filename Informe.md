@@ -2361,7 +2361,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>Commited on (Date)</td>
 		</tr>
 		<tr>
-			<td rowspan="21"></td>
+			<td rowspan="22"></td>
 			<td>master</td>
 			<td>8a46e23543954eddda2eb37cd34ad4d6af1ca96a</td>
 			<td>chore:initial commit</td>
