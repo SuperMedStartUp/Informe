@@ -1805,6 +1805,48 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review. </h5></div>
 
+Registro de commits hechos por los integrantes del grupo en este sprint.
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit ID</th>
+      <th>Commit Message</th>
+      <th>Committed on</th>
+      <th>Author</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td rowspan="24"></td><td>feature/appointments</td><td>0c6e858</td><td>Initial commit</td><td></td><td>23/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>f82d9b1</td><td>chore: plugins added, and basic resources</td><td></td><td>25/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>a9e5e17</td><td>feat: add api link</td><td></td><td>25/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>fab07ad</td><td>feat: AppointmentDto implemented</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>9763b6a</td><td>feat: Appointments service and repository implemented</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>a8a07bf</td><td>feat: Added data package and Appointment</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>adc728f8</td><td>feat: Added presentation package</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>ba21f18</td><td>chore: update MainActivity and Constants</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>8600845</td><td>feat: create endpoint post</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>7692944</td><td>feat: create of the post function</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>ec589d0</td><td>feat: create of the post function in View Model</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>bb605bb</td><td>feat: create of the post function in Screen</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>df25c00</td><td>feat: implement library</td><td></td><td>26/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>efdf398</td><td>feat: add nav controller</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>94f8193</td><td>chore: remove some functions</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>95d2183</td><td>feat: implement a form</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>af849c0</td><td>chore: add colors and theme</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>4d3a7b0</td><td>chore: update dependencies</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>b371f82</td><td>feat: PostAppointmentScreen fixed</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>d372888</td><td>feat: PostAppointmentScreen fixed</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>64c354d</td><td>feat: PostAppointmentScreen fixed</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>a92a243</td><td>feat: PostAppointmentScreen fixed</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>88a4467</td><td>feat: PostAppointmentScreen fixed</td><td></td><td>27/09/2024</td></tr>
+    <tr><td>feature/appointments</td><td>6a6b9a8</td><td>Merge pull request #1 from MedSolutions-SW65/feature/appointments</td><td></td><td>27/09/2024</td></tr>
+  </tbody>
+</table>
+
+
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
 Hemos realizado los acceptance test para las user stories del sprint:
