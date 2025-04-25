@@ -2366,7 +2366,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>8a46e23543954eddda2eb37cd34ad4d6af1ca96a</td>
 			<td>chore:initial commit</td>
 			<td></td>
-			<td>22/04/24</td>
+			<td>16/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
@@ -2374,167 +2374,167 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>d57196a2c022906cfa5ae32010e283d43f05d0c4</td>
 			<td>feat: side-nav created</td>
 			<td></td>
-			<td></td>
+			<td>16/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-request-results</td>
+			<td>a8ed508d91d70ca3cf1c992d8b1bd7de9a94f70a</td>
+			<td>feat: create request results component</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>17/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-request-results</td>
+			<td>e8177b5689b48528b2ff5e9bfb1227964eeb448e</td>
+			<td>feat: update request results component</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>17/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-request-results</td>
+			<td>b700ef792920527fd0b4aef0f2b89bb6435b2379</td>
+			<td>feat: add request top appmodule.</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>17/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-request-results</td>
+			<td>11daf5f513481ecbce313ec70ff606633a77ee60</td>
+			<td>feat: fix request-results and add module table</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>17/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>master</td>
+			<td>17596dd0ebfd4c6441dadcaee2b22b00d2b40741</td>
+			<td>feat: add imports to module</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>18/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>master</td>
+			<td>197bb6a0dddddc24547491b55f5782377317811f</td>
+			<td>feat: create db.json and routes.json</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>18/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-request-results</td>
+			<td>200a65d5383715d8fcf50e25d00ce9aa883c4dc9</td>
+			<td>feat: create service and results class</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>18/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-appointments</td>
+			<td>00bb0ec116e017303d0715e26c802d5dc8114ef5</td>
+			<td>feat: appointments component updated</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>18/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-appointment-routing</td>
+			<td>b07be04649a78902381d4f9d80c5b64851303bc6</td>
+			<td>feat: routes were implemented, side-nav component was eliminated and directory pages was created.</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>18/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>master</td>
+			<td>13ab1f3e09e43a33155494ed71982a6db0799b42</td>
+			<td>feat: page not found component created</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>18/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-treatments</td>
+			<td>c5a29031469a992b83975d771358914bdf997817</td>
+			<td>feat: updated treatments components</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>19/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-request-history</td>
+			<td>a4ca5dea8012299f6ef47d867f2ab9f00a749377</td>
+			<td>feat: added request history</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>19/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-request-history</td>
+			<td>2b7da8520ecdc2d151b42a3e2da71982e77196b1</td>
+			<td>feat: modified db.json and way to retrieve the data for rquest history</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>20/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-appointments-patients</td>
+			<td>0dc6a77dfced7d2d873ab4cf6dda230c7c1ce96a</td>
+			<td>feat: review-appointment component and route created</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>20/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-treatments</td>
+			<td>c483c1bfc8c7a14c69e05f95b5c9305cea2f6316</td>
+			<td>feat: treatments component updated</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>20/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/dev-appointments</td>
+			<td>f4646c18f1046b431ede237b924b52bf014ac328</td>
+			<td>chore: refactor appointments components to doctor-appointments, created new directory for the bounded context of appointments</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>21/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/login</td>
+			<td>c84690b9d5a6110a4046496d237fdbc376b31bb3</td>
+			<td>feat: created register page</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>23/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/request-history</td>
+			<td>0c8693c59fb2ce486ef55cadde8371e5ea2d9a17</td>
+			<td>feat: added patients request history</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>24/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/request-results</td>
+			<td>a4bd117a8975948d5034c43ca124a0fd5f6557f7</td>
+			<td>feat: add patient exam results page</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>24/04/25</td>
 		</tr>
 		<tr>
 			<td></td>
+			<td>feat/login</td>
+			<td>2ae56bd54b28859ce06a228c89af7872b7958716</td>
+			<td>feat: added login and register and routes</td>
 			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>24/04/25</td>
 		</tr>
 	</tbody>
 </table>
