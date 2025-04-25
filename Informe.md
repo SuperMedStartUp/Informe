@@ -4380,23 +4380,152 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 
 <div id='5.2.4.4.'><h5> 5.2.4.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
+<img src= "./assets/testing-4.1.png"/>
+
+<img src= "./assets/testing-4.2.png"/>
+
+<img src= "./assets/testing-4.3.png"/>
+
 <div id='5.2.4.5.'><h5> 5.2.4.5. Execution Evidence for Sprint Review. </h5></div>
 
 Imagen de la aplicacion backend corriendo
+
+**Fronted-Web**
 * Swagger
+
+<img src= "./assets/swagger-4.1.png"/>
+
+**Fronted-Movil**
+
+* Pantalla de registro
+
+<img src= "./assets/movil-4.1.png"/>
+
+* Pantalla de login
+
+<img src= "./assets/movil-4.2.png"/>
+  
+* Pantalla de appointments
+	- Doctor
+<img src= "./assets/movil-4.3.png"/>
+
+  	- Paciente
+
+<img src= "./assets/movil-4.4.png"/>
+
+<img src= "./assets/movil-4.5.png"/>
+
+<img src= "./assets/movil-4.6.png"/>
+
+<img src= "./assets/movil-4.7.png"/>
+
+* Pantallas de treatments
+	- Doctor/ Paciente
+
+<img src= "./assets/movil-4.8.png"/>
+
+<img src= "./assets/movil-4.9.png"/>
+
+<img src= "./assets/movil-4.10.png"/>
+
+<img src= "./assets/movil-4.11.png"/>
+
+* Pantalla de chat
+	- Doctor/Paciente
+
+<img src= "./assets/movil-4.12.png"/>
+
+<img src= "./assets/movil-4.13.png"/>
+
+* Pantalla de profile
+	- Doctor/Paciente
+
+<img src= "./assets/movil-4.14.png"/>
 
 <div id='5.2.4.6.'><h5> 5.2.4.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
 * Appointments
+
+<img src= "./assets/service-4.1.png"/>
+
 * Results
+
+<img src= "./assets/service-4.2.png"/>
+
 * Doctors
+
+<img src= "./assets/service-4.3.png"/>
+
 * Analysis
+
+<img src= "./assets/service-4.4.png"/>
+
 * Patients
+
+<img src= "./assets/service-4.5.png"/>
+
 * Treatments
+
+<img src= "./assets/service-4.6.png"/>
+
 * Users
+
+<img src= "./assets/service-4.7.png"/>
+
 * Roles
+
+<img src= "./assets/service-4.8.png"/>
+ 
 * Authentication
+
+<img src= "./assets/service-4.9.png"/>
 
 <div id='5.2.4.7.'><h5> 5.2.4.7. Software Deployment Evidence for Sprint Review. </h5></div>
 
-<div id='5.2.4.8.'><h5> 5.2.4.8. STeam Collaboration Insights during Sprint. </h5></div>
+**Backend:**
+
+Primero deployamos la base de datos en railway
+
+<img src= "./assets/deploy-4.1.png"/>
+
+Copiamos las variables que nos da para poder acceder a la base de datos
+
+<img src= "./assets/deploy-4.2.png"/>
+
+Modificamos en el application properties con los siguientes valores
+
+<img src= "./assets/deploy-4.3.png"/>
+
+Creamos el deploy con el repositorio y confirmos el deploy
+
+<img src= "./assets/deploy-4.4.png"/>
+
+**Frontend-Web:**
+
+Usamos firebase pare el deployment
+
+En la terminal escribmos lo siguiente:
+
+npm install -g firebase-tools
+firebase login
+firebase init Nos debe aparecer esto
+
+<img src= "./assets/deploy-4.5.png"/>
+
+Luego ponemos :
+
+* npm run build
+
+<img src= "./assets/deploy-4.6.png"/>
+
+**Fronted-Movil:**
+
+* Autenticación:
+No se realizo cambio en la autenticación con firebase.
+
+* Base de datos para el chat:
+No hemos cambiado el despliegue en firebase el servicio de chat.
+
+<div id='5.2.4.8.'><h5> 5.2.4.8. Team Collaboration Insights during Sprint. </h5></div>
+
+<img src= "./assets/team-1.png"/>
