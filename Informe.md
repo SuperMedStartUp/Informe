@@ -2716,9 +2716,9 @@ Lo hemos desplegado en firebase el servicio de chat, donde se guardarán los men
 
 <div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint. </h5></div>
 
-<div id='5.2.2.'><h4> 5.2.3. Sprint 3.</h4></div>
+<div id='5.2.3.'><h4> 5.2.3. Sprint 3.</h4></div>
 
-<div id='5.2.2.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
+<div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
 
 Se planeó el tercer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.
 
@@ -2773,6 +2773,253 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
 		<tr>
 			<td>Sum of Story Points</td>
 			<td>12</td>
+		</tr>
+	</tbody>
+</table>
+
+<div id='5.2.3.2.'><h5> 5.2.3.2. Sprint Planning 3.</h5></div>
+
+<table>
+	<tbody>
+		<tr>
+			<td colspan="2">Sprint #</td>
+			<td colspan="6">Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">User Story</td>
+			<td colspan="6">Work-Item</td>
+		</tr>
+		<tr>
+			<td>ID</td>
+			<td>Title</td>
+			<td>ID</td>
+			<td>Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US40</td>
+			<td rowspan="2">Consulta de las citas de los medicos</td>
+			<td>T01</td>
+			<td>Implementar Endpoint GET - Lista de citas médicas para Doctor</td>
+			<td>Crear el endpoint GET para la sección de citas médicas, donde el doctor podrá obtener y visualizar la lista de citas médicas pendientes.</td>
+			<td>3</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Implementar Endpoint GET - Lista de citas médicas para Pacientes</td>
+			<td>Crear el endpoint GET para la sección de citas médicas, donde el paciente podrá obtener y visualizar la lista de citas médicas realizadas.</td>
+			<td>3</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US41</td>
+			<td rowspan="2">Gestión de citas</td>
+			<td>T01</td>
+			<td>Implementar Endpoint POST - Agendar citas médicas para pacientetd>
+			<td>Crear el endpoint POST para la sección de citas médicas, donde el paciente podrá agendar su cita médica rellenando los campos que se le solicite.</td>
+			<td>5</td>
+			<td>Eduardo Ventura</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Implementar Endpoint PUT - Modificar citas médicas para paciente. </td>
+			<td>Crear el endpoint PUT para la sección de citas médicas, donde el paciente podrá modificar su cita médica.</td>
+			<td>3</td>
+			<td>Eduardo Ventura</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US41</td>
+			<td>Consulta de tratamientos de los pacientes</td>
+			<td>T01</td>
+			<td>Implementar Endpoint GET - Tratamientos médicos de los pacientes</td>
+			<td>Crear el endpoint GET para la sección de tratamientos, donde el paciente podrá obtener y visualizar la lista de tratamientos asignados.</td>
+			<td>3</td>
+			<td>Erick Palomino</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US43</td>
+			<td rowspan="2">Consulta del historial médico.</td>
+			<td>T01</td>
+			<td>Implementar Endpoint GET - Historial médico para los pacientes</td>
+			<td>Crear el endpoint GET para la sección de historial médico, donde el paciente podrá obtener y visualizar su lista de historial médico.</td>
+			<td>3</td>
+			<td>Erick Palomino</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Implementar Endpoint GET - Historial médico para los doctores</td>
+			<td>Crear el endpoint GET para la sección de historial, donde el doctor podrá obtener y visualizar la lista de historial médicos de los pacientes.</td>
+			<td>3</td>
+			<td>Erick Palomino</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US44</td>
+			<td>Asignación de los tratamientos para pacientes</td>
+			<td>T01</td>
+			<td>Implementar Endpoint POST - Asignación de tratamientos para pacientes</td>
+			<td>Crear el endpoint POST para la sección de tratamientos, donde el doctor podrá asignar el tratamiento con los datos solitidos al paciente correspondiente.</td>
+			<td>4</td>
+			<td>Juan Montes</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US45</td>
+			<td rowspan="2">Consulta de exámenes médicos</td>
+			<td>T01</td>
+			<td>Implementar Endpoint GET - Registro de Resultados para Doctor</td>
+			<td>Crear el endpoint GET para la sección de registro de resultados, donde el doctor podrá obtener y visualizar la lista de exámenes médicos realizados a los pacientes.</td>
+			<td>3</td>
+			<td>Juan Montes</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T02</td>
+			<td>Implementar Endpoint GET - Historial de Resultados para Paciente</td>
+			<td>Crear el endpoint GET para la sección de historial de resultados, donde el paciente podrá obtener y visualizar todos sus exámenes médicos realizados.</td>
+			<td>3</td>
+			<td>Juan Montes</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US43</td>
+			<td>Ver el estado de conexión del doctor</td>
+			<td>T01</td>
+			<td>Ver el estado de conexión del doctor</td>
+			<td>Como paciente, quiero poder ver si mi doctor está en línea o fuera de línea, para saber si puedo esperar una respuesta inmediata o si tendré que esperar.</td>
+			<td>4</td>
+			<td>Astrid Boronda</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US45</td>
+			<td>Finalizar una conversación</td>
+			<td>T01</td>
+			<td>Finalizar una conversación</td>
+			<td>Como paciente, quiero tener la opción de finalizar una conversación con mi doctor, para poder cerrar temas que ya no son relevantes y organizar mejor mis chats.</td>
+			<td>2</td>
+			<td>Astrid Boronda</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US49</td>
+			<td>Recordatorios automáticos de citas</td>
+			<td>T01</td>
+			<td>Recordatorios automáticos de citas</td>
+			<td>Como paciente, deseo recibir recordatorios automáticos de mis citas médicas, para no olvidarme de ellas y asegurar mi asistencia puntual.</td>
+			<td>4</td>
+			<td>Eduardo Ventura</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>US50</td>
+			<td>Visualización de notas del doctor</td>
+			<td>T01</td>
+			<td>Visualización de notas del doctor</td>
+			<td>Como paciente, deseo poder ver las notas del doctor relacionadas con mis citas pasadas al hacer clic en "ver más", para poder revisar los comentarios y recomendaciones médicas en detalle.</td>
+			<td>2</td>
+			<td>Astrid Boronda</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>US56</td>
+			<td>Generación de recordatorios de tratamiento</td>
+			<td>T01</td>
+			<td>Generación de recordatorios de tratamiento</td>
+			<td>Como doctor traumatológico, quiero generar recordatorios automáticos para los pacientes sobre sus próximos tratamientos y sesiones de seguimiento, para asegurarse de que los pacientes no se olviden de asistir y continúen con su plan de tratamiento.</td>
+			<td>3</td>
+			<td>Astrid Boronda</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>US57</td>
+			<td>Consulta de historial de tratamientos anteriores</td>
+			<td>T01</td>
+			<td>Consulta de historial de tratamientos anteriores</td>
+			<td>Como doctor traumatológico, quiero consultar el historial de tratamientos anteriores de un paciente dentro de la plataforma, para revisar la evolución del paciente y ajustar el tratamiento actual basado en el historial previo.</td>
+			<td>4</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US59</td>
+			<td>Visualización detallada del historial doctor</td>
+			<td>T01</td>
+			<td>Visualización detallada del historial doctor</td>
+			<td>Como doctor, quiero poder visualizar de manera detallada el historial médico de mis pacientes, incluyendo información como diagnósticos previos, resultados de exámenes, medicaciones actuales y pasadas, procedimientos realizados, y notas de otros doctores o especialistas.</td>
+			<td>3</td>
+			<td>Adrián Palma</td>
+			<td>In-Process</td>
+		</tr>
+		<tr>
+			<td>US61</td>
+			<td>Registro de nuevas entradas en el historial doctor</td>
+			<td>T01</td>
+			<td>Registro de nuevas entradas en el historial doctor</td>
+			<td>Como doctor, quiero poder registrar nuevas entradas en el historial médico de mis pacientes, como nuevos diagnósticos, tratamientos recetados, resultados de exámenes o notas de la consulta actual, para mantener un registro completo y actualizado de su historial de salud.</td>
+			<td>2</td>
+			<td>Adrián Palma</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US62</td>
+			<td>Seguridad y privacidad del historial médico</td>
+			<td>T01</td>
+			<td>Seguridad y privacidad del historial médico</td>
+			<td>Como doctor, necesito que el acceso al historial médico de mis pacientes esté protegido por medidas de seguridad robustas, y que se cumplan estrictamente las regulaciones de privacidad de datos para garantizar la confidencialidad y la integridad de la información médica sensible.</td>
+			<td>3</td>
+			<td>Juan Montes</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US64</td>
+			<td>Interfaz personalizable para mejorar eficiencia en los análisis médicos</td>
+			<td>T01</td>
+			<td>Interfaz personalizable para mejorar eficiencia en los análisis médicos</td>
+			<td>Como técnico de laboratorio, necesito una interfaz intuitiva y personalizable en el sistema de análisis para adaptarla a las necesidades específicas de cada tipo de prueba y mejorar la eficiencia en la ejecución de los análisis médicos.</td>
+			<td>2</td>
+			<td>Juan Montes</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>TS01</td>
+			<td>Seguridad en la Comunicación de Chat</td>
+			<td>T01</td>
+			<td>Seguridad en la Comunicación de Chat</td>
+			<td>Como paciente, quiero que la comunicación en el chat con mi doctor sea segura y confidencial, para asegurar que mis datos personales y médicos estén protegidos contra accesos no autorizados.</td>
+			<td>3</td>
+			<td>Juan Montes</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>TS03</td>
+			<td>Disponibilidad y Tiempo de Actividad de la Plataforma</td>
+			<td>T01</td>
+			<td>Disponibilidad y Tiempo de Actividad de la Plataforma</td>
+			<td>Como paciente, deseo que la plataforma para la gestión de citas médicas esté disponible con alta fiabilidad, para poder organizar mis citas en cualquier momento sin enfrentar problemas de accesibilidad.</td>
+			<td>3</td>
+			<td>Eduardo Ventura</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>TS05</td>
+			<td>Rendimiento de la Plataforma de Tratamientos</td>
+			<td>T01</td>
+			<td>Rendimiento de la Plataforma de Tratamientos</td>
+			<td>Como doctor traumatológico, deseo que la plataforma para gestionar tratamientos ortopédicos responda rápidamente a mis acciones y consultas, para asegurar que pueda proporcionar una atención médica eficiente y sin demoras.</td>
+			<td>3</td>
+			<td>Astrid Boronda</td>
+			<td>In-process</td>
 		</tr>
 	</tbody>
 </table>
