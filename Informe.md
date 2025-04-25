@@ -469,11 +469,11 @@ MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión d
 
 ### 2.2.2. Registro de entrevistas.
 
-|Entrevista 2|Gonzalo Jaime Zapata Campos|
+|Entrevista 2|Abril Gloria Montes Jiménez|
 | - | - |
-|Edad|20 años|
-|Distrito|San Martin de Porres|
-|![Imagen 1.png](images/Imagen%201.png)|Gonzalo es un estudiante de 20 años que vive actualmente en San Martin de Porres. Sus sistemas operativos de preferencia son Ios en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Nos comenta que ha tenido problemas anteriormente al momento de sacar cita, como el dijo no había una buena organización de citas por lo que para sacar una ha tenido que esperar mucho tiempo. Además habla de algunas características que le gustaría tener antes de poder sacar una cita y también otra para los envíos de los resultados de algún examen médico que hice, dependiendo de la gravedad de la situación, él pueda elegir entre que sea virtual o presencial.|
+|Edad|50 años|
+|Distrito|La Molina|
+|![Imagen 1.png](assets/images/Entrevista1.2.PNG)|Abril es una adulta de 50 años que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en moviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Durante la entrevista con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad.|
 |URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
 |Timing|07:56 - 14:47|
 
