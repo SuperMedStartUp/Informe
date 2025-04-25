@@ -1824,7 +1824,7 @@ Para gestionar el despliegue de nuestro backend y de la base de datos, hemos dec
 Railway es una plataforma de desarrollo en la nube que permite desplegar, alojar y gestionar aplicaciones y bases de datos de manera sencilla y rápida.
 </div>
 
-<div id='5.2.'><h3> 5.2.	Landing Page, Services & Applications Implemetation.</h3></div>
+<div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implemetation.</h3></div>
 
 <div id='5.2.1.'><h4> 5.2.1.	Sprint 1.</h4></div>
 
@@ -4529,3 +4529,315 @@ No hemos cambiado el despliegue en firebase el servicio de chat.
 <div id='5.2.4.8.'><h5> 5.2.4.8. Team Collaboration Insights during Sprint. </h5></div>
 
 <img src= "./assets/team-1.png"/>
+
+<div id='5.3.'><h3> 5.3. Validation interviews.</h3></div>
+<div id='5.3.1.'><h4> 5.3.1. Diseño de entrevistas.</h4></div>
+
+Preguntas para el segmento objetivo paciente:
+
+1. ¿La página contiene información útil sobre la startup?
+2. ¿La información es clara y concisa?
+3. ¿La página contiene información útil sobre el producto que ofrecemos?
+4. ¿La landing page tiene las secciones necesarias? Si no que sección debería de ser agregada?
+5. ¿Las secciones de la landing page contienen información relevante?
+6. ¿Considera que el formulario para agendar una cita tiene los campos necesarios?
+7. ¿Le es de utilidad la tabla que muestra sus citas agendadas?
+8. ¿Considera útil la sección donde puede ver sus tratamientos?
+9. ¿Considera útil la sección donde puede ver los resultados de algún examen que se haya realizado?
+
+Preguntas para el segmento objetivo doctor:
+
+1. ¿Considera que el formulario para agendar una cita tiene los campos necesarios?
+2. ¿Le es de utilidad la tabla que muestra sus citas agendadas?
+3. ¿Considera útil la sección donde puede ver los tratamientos que usted ha asignado a un paciente?
+4. ¿Considera útil la sección donde puede ver los resultados de exámenes de los pacientes?
+5. ¿Considera útil la sección donde puede ver el historial clínico del paciente?
+
+<div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas.</h4></div>
+
+**Segmento objetivo - Paciente**
+
+* Entrevista 1:
+
+Fecha entrevistada: 08/06/2024
+
+Entrevistado: Gonzalo Jaime Zapata Campos
+
+Datos del entrevistado:
+
+Edad: 20 años
+Distrito: San Martin de Porres
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb1d18af%2D92e4%2D4959%2Dbed3%2Ddf3cffccbe4f](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb1d18af%2D92e4%2D4959%2Dbed3%2Ddf3cffccbe4f)
+
+Minuto de Inicio: 4:31
+Minuto de Fin: 11:06
+
+Resume: En una entrevista de validación con Gonzalo Jaime Zapata Campos, llevada a cabo mediante una videollamada en Zoom desde su teléfono móvil, Abril examinó tanto la página de inicio como el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto le pareció completa y beneficiosa para los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es detallado y la tabla de citas programadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de los exámenes.
+
+* Entrevista 2:
+
+Fecha entrevistada: 08/06/2024
+
+Entrevistado: Abril Gloria Montes Jiménez
+
+Datos del entrevistado:
+
+Edad: 50
+Distrito: La Molina
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e)
+
+Minuto de Inicio: 00:00
+Minuto de Fin: 4:30
+
+Resumen: En la entrevista de validación con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, revisó la landing page y el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto es completa y beneficia a los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es completo y la tabla de citas agendadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de exámenes.
+
+**Segmento objetivo - Doctor**
+
+* Entrevista 1:
+
+Fecha entrevistada: 09/06/2024
+
+Entrevistado: Giannina Escalante Gutierrez
+
+Datos del entrevistado:
+
+Edad: 51
+Distrito: Trujillo
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee2d1b04d%2D94ad%2D42cf%2Da494%2D670c682edc15](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee2d1b04d%2D94ad%2D42cf%2Da494%2D670c682edc15)
+
+Minuto de Inicio: 11:07
+Minuto de Fin: 22:41
+
+Resumen: En esta entrevista, Giannina nos comenta sobre nuestro Landing Page y Aplicación Web. Ella considera que la página esta bien estructurada, sin embargo, preferiría que las características sean más específicas al campo de traumatología. Por la parte de la aplicación web, considera que los coampos estan bien seccionado para la vista de doctor, pero le gustaría que en la parte de appointments se pudiera poner de acuerdo a la disponibilidad del doctor, es decir, por horarios; en vez de que el paciente elija cualquier hora y fecha. Ella prefiere marcas como Sony, MEDISONIC, Samsung y suele usar WhatsApp o Facebook como canal de interacción. Por último, ella usa Google Chrome como browser de preferencia y utliza dispositivos Android.
+
+<div id='5.3.3.'><h4> 5.3.3. Evaluación según heuristicas</h4></div>
+
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+CARRERA: Ingeniería de Software <br>
+CURSO: Diseño de Experimentos de Ingeniería de Software<br>
+SECCIÓN: 
+PROFESORES: Ivan Robles Fernández
+AUDITOR: SuperMedStartUp
+
+SITE o APP A EVALUAR:
+MedSystem
+
+TAREAS A EVALUAR: <br>
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+Página de inicio <br>
+Front-End de la plataforma <br>
+Formulario para agendar citas <br>
+Tabla de citas programadas <br>
+Sección de tratamientos <br>
+Sección de resultados de exámenes <br>
+Sección de historial clínico <br>
+
+Primer entrevistado - Gonzalo Jaime Zapata Campos <br>
+
+Tabla Resumen:
+<table>
+	<tbody>
+		<tr>
+			<td>#</td>
+			<td>Problema</td>
+			<td>Escala de Severidad</td>
+			<td>Heurística/Principio Violado</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Algunos apartados podrían simplificarse</td>
+			<td>2</td>
+			<td>Usability: Consistency & standards</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Falta una sección de testimonios</td>
+			<td>2</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>No hay opción para descargar y compartir resultados de exámenes</td>
+			<td>3</td>
+			<td>Usability: Flexibility & efficiency of use</td>
+		</tr>
+	</tbody>
+</table>
+
+Descripción de Problemas:
+
+Problema #1: Algunos apartados podrían simplificarse
+
+Severidad: 2 <br>
+Heurística violada: Usability - Consistency & standards <br>
+Descripción: Algunos apartados de la página de inicio son complejos y podrían simplificarse para mejorar la experiencia del usuario. <br>
+Recomendación: Simplificar el contenido de estos apartados para hacerlo más accesible y fácil de entender. <br>
+
+Problema #2: Falta una sección de testimonios.
+
+Severidad: 2 <br>
+Heurística violada: Usability - Credibility <br>
+Descripción: No hay una sección de testimonios o casos de estudio que podrían aumentar la credibilidad de la plataforma.<br>
+Recomendación: Incluir una sección de testimonios o casos de estudio. <br>
+
+Problema #3: No hay opción para descargar y compartir resultados de exámenes
+
+Severidad: 3 <br>
+Heurística violada: Usability - Flexibility & efficiency of use <br>
+Descripción: Los usuarios no pueden descargar ni compartir los resultados de sus exámenes desde la plataforma. <br>
+Recomendación: Añadir una opción para que los usuarios puedan descargar y compartir sus resultados. <br>
+
+Segundo entrevistado - Abril Gloria Montes Jiménez
+
+Tabla Resumen:
+
+<table>
+	<tbody>
+		<tr>
+			<td>#</td>
+			<td>Problema</td>
+			<td>Escala de Severidad</td>
+			<td>Heurística/Principio Violado</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Algunos apartados podrían simplificarse</td>
+			<td>2</td>
+			<td>Usability: Consistency & standards</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Falta una sección de testimonios</td>
+			<td>2</td>
+			<td>Usability: Credibility</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>No hay opción para descargar y compartir resultados de exámenes</td>
+			<td>3</td>
+			<td>Usability: Flexibility & efficiency of use</td>
+		</tr>
+	</tbody>
+</table>
+
+Descripción de Problemas:
+
+Problema #1: Algunos apartados podrían simplificarse
+
+Severidad: 2 <br>
+Heurística violada: Usability - Consistency & standards <br>
+Descripción: Algunos apartados de la landing page son complejos y podrían simplificarse para mejorar la experiencia del usuario. <br>
+Recomendación: Simplificar el contenido de estos apartados para hacerlo más accesible y fácil de entender. <br>
+
+Problema #2: Falta una sección de testimonios 
+
+Severidad: 2 <br>
+Heurística violada: Usability - Credibility <br>
+Descripción: No hay una sección de testimonios o casos de estudio que podrían aumentar la credibilidad de la plataforma. <br>
+Recomendación: Incluir una sección de testimonios o casos de estudio. <br>
+
+Problema #3: No hay opción para descargar y compartir resultados de exámenes
+
+Severidad: 3 <br>
+Heurística violada: Usability - Flexibility & efficiency of use <br>
+Descripción: Los usuarios no pueden descargar ni compartir los resultados de sus exámenes desde la plataforma. <br>
+Recomendación: Añadir una opción para que los usuarios puedan descargar y compartir sus resultados. <br>
+
+Tercer entrevistado - Juan Mendevil Quispe
+
+Tabla Resumen:
+
+<table>
+	<tbody>
+		<tr>
+			<td>#</td>
+			<td>Problema</td>
+			<td>Escala de Severidad</td>
+			<td>Heurística/Principio Violado</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Necesidad de recordar recomendaciones médicas</td>
+			<td>3</td>
+			<td>Usability: Memory load</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Importancia de la seguridad y privacidad de los datos médicos</td>
+			<td>4</td>
+			<td>Usability: Security & privacy</td>
+		</tr>
+	</tbody>
+</table>
+
+Descripción de Problemas:
+
+Problema #1: Necesidad de recordar recomendaciones médicas
+
+Severidad: 3 <br>
+Heurística violada: Usability - Memory load <br>
+Descripción: Los usuarios necesitan recordar las recomendaciones médicas, lo cual puede ser difícil y propenso a errores. <br>
+Recomendación: Implementar recordatorios automáticos para las recomendaciones médicas. <br>
+
+Problema #2: Importancia de la seguridad y privacidad de los datos médicos
+
+Severidad: 4 <br>
+Heurística violada: Usability - Security & privacy <br>
+Descripción: La seguridad y privacidad de los datos médicos son cruciales y deben ser protegidos adecuadamente. <br>
+Recomendación: Asegurar que se implementen medidas de seguridad robustas para proteger los datos médicos de los usuarios. <br>
+
+<div id='5.4.'><h3> 5.4. Video About the Product. </h3></div>
+
+Link del video: 
+
+<img src= "./assets/about-product.png"/>
+
+Conclusiones
+
+-Validación del Modelo de Negocio: A lo largo del proyecto, se ha confirmado la viabilidad del modelo de negocio centrado en el desarrollo y comercialización de una plataforma tecnológica destinada a la gestión de clientes en el sector automotriz peruano.
+
+-Importancia de la Colaboración Interdisciplinaria: Se ha demostrado la relevancia de la colaboración entre el equipo para crear una solución integral que satisfaga tanto las necesidades tecnológicas como comerciales del mercado automotriz.
+
+-Enfoque en la Innovación Continua: Se ha subrayado la necesidad de mantener una innovación constante y adaptarse a las cambiantes demandas del mercado para asegurar la relevancia y competitividad a largo plazo de la plataforma.
+
+-Potencial de Escalabilidad y Expansión: Con una base establecida sólidamente, existe un gran potencial para la escalabilidad y expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria automotriz en el futuro.
+
+Video About the Team
+
+Link del video: 
+
+Anexos
+
+Link del frontend-web:
+
+Link del frontend-movil:
+
+Link del backend:
+
+Link del video de exposición:
+
+Bibliografía
+
+Vásquez Dávalos, E., & Castillo Noriega, L. (2019). Factores asociados a la práctica de la cesárea en primíparas adolescentes en el Instituto Nacional Materno Perinatal, Lima, Perú. Recuperado de [http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1726-46342019000200020](http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1726-46342019000200020)
+
+World Bank. (2019). La cobertura de salud en el Perú: desafíos y oportunidades. Recuperado de [https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru#:~=La%20Encuesta%20Nacional%20de%20Hogares,y%20el%203%20%25%2C%20respectivamente](https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru#:~ =La%20Encuesta%20Nacional%20de%20Hogares,y%20el%203%20%25%2C%20respectivamente)
+
+Lucidchart (Lucid). (s.f.). Lucidchart: Diagramming and Visual Communication Made Easy. Lucid. Recuperado de [https://www.lucidchart.com] (https://www.lucidchart.com) [Consulta: 02 de Marzo de 2024].
+
+GitHub. (s.f.). Recuperado de [https://github.com](https://github.com) [Consulta: 24 de Marzo de 2024].
+
+Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. [https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/](https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/)
+
+Conventional commits. (s. f.). Conventional Commits. [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)
+
+Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. [https://markdown.es/](https://markdown.es/)
+
+Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD Medium. Medium.
+
+Carhuancho et al. (2021). Calidad de servicio en hospitales de nivel III de la ciudad de Lima, Perú. Revista Venezolana De Gerencia, 26(5), 693-707. [https://doi.org/10.52080/rvgluz.26.e5.44](https://doi.org/10.52080/rvgluz.26.e5.44)
+
+Santamaría & Hernández. (2015). Aplicaciones Médicas Móviles: definiciones, beneficios y riesgos. Revista Salud Uninorte, 31(3), 599-607. [https://rcientificas.uninorte.edu.co/index.php/salud/article/view/7622/8319](https://rcientificas.uninorte.edu.co/index.php/salud/article/view/7622/8319)
