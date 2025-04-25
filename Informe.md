@@ -395,8 +395,275 @@ Nuestro enfoque inicial será dirigirnos tanto a doctores especialistas en traum
 
 Nuestros segmentos objetivos en este se dividen en tres grupos fundamentales. Como primer segmento contamos con los pacientes que son los que han sufrido algún tipo de accidente y requieren una atención en el área de traumatología. En segundo lugar serían los médicos especialistas en el área de traumatología que requerirán de nuestro sistema para la gestión de sus citas y establecer una buena comunicación entre sus demás colegas de profesión, o laboratorios para una correcta coordinación de algún proceso que se lleve a cabo con el paciente. Por último están las consultorías o laboratorios quienes recibirán la información del paciente, brindada por los doctores, incluyendo procedimientos que requiera el paciente ya sea un tratamiento o algún tipo de examen.
 
----
-<br>
+# 2. Capítulo II: Requirements & Analysis
+
+# 2.1. Competidores
+
+# 2.1.1. Análisis Competitivo
+
+**Competitive Analysis Landscape**
+
+| ¿Por qué llevar a cabo este análisis? | El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos. |
+| --- | --- |
+
+| Startup y Competidores | MedSystem | Home Medical Management | LOLIMSA | SAMA |
+| --- | --- | --- | --- | --- |
+
+### Perfil
+
+|  | **Overview** |
+| --- | --- |
+| **MedSystem** | Plataforma de gestión de procesos de un consultorio o clínica, que cuenta con diferentes funcionalidades para pacientes, doctores y laboratorios. |
+| **Home Medical Management** | Es una compañía que a través de una plataforma digital y sus profesionales, asegura la ejecución y calidad del servicio de salud domiciliaria. |
+| **LOLIMSA** | Es una empresa de software doctor con soluciones tecnológicas para la gestión de centros doctores como clínicas y hospitales, farmacias y cadenas de farmacias y clínicas veterinarias. |
+| **SAMA** | Es un consorcio de inversión dedicado a brindar servicios integrales de salud, especializados en la seguridad y salud en el trabajo. Contamos con distintas sedes a lo largo del norte del país, las cuales cuentan con el respaldo de la acreditación DIGESA/MINSA. |
+
+|  | **Ventaja competitiva – ¿Qué valor ofrece a los clientes?** |
+| --- | --- |
+| **MedSystem** | Cuenta con distintas funcionalidades como un sistema de gestión de citas en línea que permita a los pacientes y doctores programar fácilmente consultas, programación de cirugías, exámenes y seguimientos de tratamiento o recuperaciones. |
+| **Home Medical Management** | Utilizan inteligencia artificial e innovación para mejorar el servicio a los pacientes y facilitar la atención a los profesionales y prestadores de salud. |
+| **LOLIMSA** | Reduce entre 10 y 20 % tus costos hospitalarios utilizando las mejores prácticas de *Health Management* con LOLCLI, el software de gestión hospitalaria más completo de Latinoamérica. |
+| **SAMA** | Organización que orienta todos sus esfuerzos en realizar un servicio doctor de calidad a través de la presentación de resultados confiables. |
+
+### Perfil de Marketing
+
+#### Mercado objetivo
+- MedSystem: Consultorio, clínicas y hospitales.
+- Home Medical Management: Prestadores de salud, pacientes y personal doctor.
+- LOLIMSA: Clínicas y hospitales.
+- SAMA: Hospitales y clínicas.
+
+#### Estrategias de marketing
+Publicidad por redes sociales y campañas (todos los competidores).
+
+### Perfil de producto
+
+|  | **Productos & Servicios** |
+| --- | --- |
+| **MedSystem** | Una plataforma para gestionar las citas médicas, programar cirugías, exámenes y seguimiento de tratamientos. Además, la plataforma almacena el historial clínico de los pacientes. |
+| **Home Medical Management** | Un software basado en el diseño centrado en el paciente, con información integrada, que utiliza la geolocalización y la valoración del servicio como forma de optimizar la gestión del modelo. |
+| **LOLIMSA** | Software de gestión hospitalaria, impulsado por una plataforma de software de última generación que controla al detalle todas las actividades, desde que el paciente ingresa hasta que se retira del establecimiento. |
+| **SAMA** | Servicios integrales de salud: - Exámenes doctores ocupacionales - Monitores ocupacionales - Vigilancia médica ocupacional - Análisis de laboratorio - Radiografías digitales |
+
+|  | **Precios & Costos** |
+| --- | --- |
+| **MedSystem** | Varían según características de la clínica, con opciones de suscripción mensual o anual. |
+| **Home Medical Management** | Varían según el producto y pueden incluir tarifas de suscripción o costos de licencia. |
+| **LOLIMSA** | Los precios varían según el producto y pueden incluir tarifas de suscripción mensuales o costos de licencia. |
+| **SAMA** | Los precios varían según el tamaño del hospital o clínica y las características específicas de la solución, con opciones de suscripción mensual o anual. |
+
+|  | **Canales de distribución (Web y/o Móvil)** |
+| --- | --- |
+| **MedSystem** | Principalmente a través de su sitio web oficial. |
+| **Home Medical Management** | Principalmente a través de su sitio web, con posibilidad de acceso móvil. |
+| **LOLIMSA** | Principalmente a través de su sitio web oficial. |
+| **SAMA** | Principalmente a través de su sitio web oficial. |
+
+### Análisis SWOT
+
+|  | **Fortalezas** |
+| --- | --- |
+| **MedSystem** | Ofrece una solución integral para la gestión de procesos en consultorios y clínicas, lo que incluye funcionalidades específicas para pacientes, doctores y laboratorios. Esta centralización de información puede mejorar la eficiencia operativa y la coordinación entre todas las partes involucradas en el proceso de atención médica. |
+| **Home Medical Management** | Ofrece cuidados personalizados en el hogar, generando satisfacción y lealtad. Su enfoque centrado en el paciente y su capacidad de adaptación son ventajas. |
+| **LOLIMSA** | Cuenta con amplia experiencia en software doctor y ofrece soluciones integrales y personalizadas respaldadas por un sólido servicio de soporte técnico. |
+| **SAMA** | Samma ofrece una variedad de herramientas de bienestar mental y una interfaz amigable que atrae a una amplia gama de usuarios. |
+
+|  | **Debilidades** |
+| --- | --- |
+| **MedSystem** | La competencia en el mercado de software de gestión de consultorios y clínicas es intensa, con numerosas empresas que ofrecen soluciones similares. |
+| **Home Medical Management** | Limitaciones geográficas y dependencia del personal pueden afectar la expansión y la consistencia de los servicios. |
+| **LOLIMSA** | Enfrenta competencia en el mercado de software doctor y puede estar sujeta a dependencia tecnológica y costos asociados con el desarrollo de soluciones. |
+| **SAMA** | La competencia en el mercado de aplicaciones de bienestar mental puede dificultar que Samma se destaque, especialmente si enfrenta problemas de usabilidad o dependencia tecnológica. |
+
+|  | **Oportunidades** |
+| --- | --- |
+| **MedSystem** | La creciente demanda de soluciones digitales en el sector de la salud ofrece una oportunidad para capturar una parte del mercado en constante expansión. |
+| **Home Medical Management** | Puede expandir servicios, integrar tecnología y formar alianzas para llegar a más clientes y mejorar la eficiencia. |
+| **LOLIMSA** | Tiene potencial de expansión tanto nacional como internacional, además de oportunidades para desarrollar nuevas funcionalidades y establecer alianzas estratégicas. |
+| **SAMA** | La expansión internacional y la colaboración estratégica ofrecen oportunidades para llegar a nuevos mercados y asociarse con empresas o instituciones para aumentar el alcance de la aplicación. |
+
+|  | **Amenazas** |
+| --- | --- |
+| **MedSystem** | Las preocupaciones sobre la privacidad y seguridad de los datos en el sector de la salud son una amenaza constante. |
+| **Home Medical Management** | Competencia, cambios regulatorios y preocupaciones sobre privacidad y seguridad de datos pueden impactar la rentabilidad y confianza en los servicios. |
+| **LOLIMSA** | Los posibles cambios regulatorios, preocupaciones sobre seguridad de datos y avances tecnológicos rápidos representan riesgos que podrían afectar su posición en el mercado. |
+| **SAMA** | Cambios en la regulación, críticas negativas y avances tecnológicos representan amenazas potenciales para la operación y la reputación de Samma en el mercado. |
+
+# 2.1.2. Estrategias y tácticas frente a competidores
+
+MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión de procesos clínicos altamente personalizable y fácil de usar, tanto para pacientes como para profesionales de la salud, diferenciándose así de competidores como Home Medical Management y LOLIMSA. Con un enfoque específico en la atención domiciliaria, la plataforma puede ofrecer funcionalidades especializadas para la coordinación y seguimiento de la atención médica en el hogar, proporcionando comodidad y eficiencia para pacientes y cuidadores. Además, MedSystem puede invertir en el desarrollo de tecnologías avanzadas, como inteligencia artificial y análisis de datos, para mejorar la gestión de consultorios y clínicas, posicionándose como una opción innovadora frente a empresas como LOLIMSA. Para competir con SAMA en el ámbito de la salud ocupacional y la seguridad laboral, MedSystem puede ofrecer módulos especializados y herramientas de cumplimiento normativo, aprovechando su experiencia en la gestión clínica para proporcionar soluciones integrales a empresas e instituciones. Una estrategia de marketing sólida, centrada en la educación del mercado sobre la importancia de la gestión eficiente de consultorios y clínicas, así como en testimonios de usuarios satisfechos, puede ayudar a MedSystem a construir una sólida reputación y atraer clientes potenciales. Además, explorar alianzas estratégicas con instituciones médicas y otros actores del sector puede ampliar su alcance y fortalecer su posición en el mercado. En resumen, MedSystem puede destacarse mediante la combinación de personalización, tecnología avanzada, especialización en atención domiciliaria y salud ocupacional, una sólida estrategia de marketing y alianzas estratégicas, lo que le permitirá diferenciarse y prosperar en un mercado competitivo.
+
+# 2.2. Entrevistas
+
+# 2.2.1. Diseño de entrevistas
+
+**Preguntas para el segmento objetivo paciente**
+
+- ¿Qué te motivó a buscar atención médica en el área de traumatología?
+- ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por qué?
+- ¿Qué desafíos has enfrentado al buscar tratamiento doctor para tu lesión o condición?
+- ¿Qué características consideras más importantes al elegir a un especialista en traumatología?
+- ¿Cómo prefieres programar tus citas médicas?
+- ¿Qué tipo de información te gustaría tener disponible antes de una consulta médica?
+- ¿Qué expectativas tienes en cuanto a la comunicación con tu doctor y el equipo doctor en general?
+- ¿Qué te gustaría ver mejorado en la experiencia de atención médica en el área de traumatología?
+- ¿Cómo prefieres recibir los resultados de tus exámenes médicos y pruebas diagnósticas?
+- ¿Qué aspectos valoras más en una plataforma web para el seguimiento de tu tratamiento y la comunicación con tu doctor?
+- ¿Qué preocupaciones tienes sobre la privacidad y seguridad de tus datos doctores en línea?
+
+**Preguntas para el segmento objetivo doctor**
+
+- ¿Cuáles son los mayores desafíos que enfrentas en tu práctica diaria como doctor especializado en traumatología?
+- ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por qué?
+- ¿Qué herramientas o recursos te ayudarían a optimizar la gestión de tus citas y la comunicación con otros doctores y laboratorios?
+- ¿Qué características consideras más importantes al elegir una solución tecnológica para la gestión de consultas y pacientes?
+- ¿Cómo prefieres recibir información sobre los pacientes antes de una consulta?
+- ¿Qué aspectos te gustaría mejorar en la comunicación con otros doctores y profesionales de la salud?
+- ¿Qué funcionalidades consideras cruciales en una plataforma de gestión de consultas médicas?
+- ¿Cómo manejas la coordinación de atención entre diferentes especialistas y servicios doctores?
+- ¿Qué medidas de seguridad y privacidad consideras esenciales al compartir información médica en línea?
+- ¿Qué te gustaría ver mejorado en la gestión de registros doctores y documentación de pacientes?
+- ¿Cuál es tu opinión sobre la integración de tecnología para mejorar la atención médica en traumatología?
+
+**Preguntas para el segmento objetivo laboratorio / consultoría**
+
+- ¿Cuáles son los principales desafíos que enfrenta tu laboratorio o consultoría en la recepción y gestión de información de pacientes?
+- ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por qué?
+- ¿Qué información consideras más relevante al recibir un pedido doctor de parte de un especialista en traumatología?
+- ¿Cómo prefieres recibir los pedidos y resultados de pruebas diagnósticas de parte de los doctores?
+- ¿Qué aspectos valoras más en una plataforma de comunicación con doctores y pacientes?
+- ¿Cuáles son tus mayores preocupaciones en cuanto a la seguridad y privacidad de los datos doctores que manejas?
+- ¿Cómo te gustaría optimizar el proceso de coordinación entre doctores y laboratorios para la realización de pruebas?
+- ¿Qué funcionalidades consideras esenciales en una plataforma web para la gestión de pedidos y resultados de pruebas médicas?
+- ¿Qué medidas tomas actualmente para garantizar la exactitud e integridad de los resultados de las pruebas?
+- ¿Cómo manejas los tiempos de respuesta para la realización y entrega de resultados de pruebas diagnósticas?
+- ¿Qué mejoras te gustaría ver en la comunicación y colaboración con los doctores que envían pedidos a tu laboratorio o consultoría?
+
+### 2.2.2. Registro de entrevistas.
+
+|Entrevista 2|Gonzalo Jaime Zapata Campos|
+| - | - |
+|Edad|20 años|
+|Distrito|San Martin de Porres|
+|![Imagen 1.png](images/Imagen%201.png)|Gonzalo es un estudiante de 20 años que vive actualmente en San Martin de Porres. Sus sistemas operativos de preferencia son Ios en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Nos comenta que ha tenido problemas anteriormente al momento de sacar cita, como el dijo no había una buena organización de citas por lo que para sacar una ha tenido que esperar mucho tiempo. Además habla de algunas características que le gustaría tener antes de poder sacar una cita y también otra para los envíos de los resultados de algún examen médico que hice, dependiendo de la gravedad de la situación, él pueda elegir entre que sea virtual o presencial.|
+|URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
+|Timing|07:56 - 14:47|
+
+
+|Entrevista 3|Jorge Villavicencio|
+| - | - |
+|Edad|64 años|
+|Distrito|Santiago de surco|
+|![Imagen3.png](images/Imagen3.png)|Jorge Villavicencio es un adulto de 64 años, que vive en Santiago de Surco, tiene como sistemas operativos de preferencia Windows en ordenador y IOS en móviles. Dentro de la entrevista realizada, podemos destacar la importancia que le da a la tecnologías al momento de la realización de citas médicas, como para la revisión de los resultados de sus chequeos médicos. Nos comenta el beneficio que brinda poder conocer al médico que lo atiende y poder coordinar de manera rápida  y efectiva una cita, evitando los típicos protocolos tediosos y posibles demoras que suceden a lo largo de este.|
+|URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
+|Timing|14:48 - 25:33|
+
+**Segmento Médico**
+
+
+|Entrevista 1|Gaby Manrique|
+| - | - |
+|Edad|50 años|
+|Distrito|La Molina|
+|![Entrevista2.png](images/Entrevista2.png)|Gaby Manrique es una adulta de 50 años, que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Microsoft Edge. Durante la entrevista con Gaby, llevada a cabo a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos diarios que enfrenta en su práctica médica. La doctora destacó la necesidad de herramientas tecnológicas eficientes para gestionar sus citas y comunicarse con otros profesionales de la salud y laboratorios. Mencionó que prefiere recibir pedidos médicos y resultados de pruebas de manera electrónica, utilizando plataformas seguras y fáciles de usar. En cuanto a la tecnología, el médico utilizó su computadora de escritorio con el navegador Chrome durante la videoconferencia. Además, expresó preocupación por la seguridad y privacidad de los datos médicos, destacando la importancia de medidas sólidas de protección de la información en línea.|
+|URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
+|Timing|25:34 - 33:12|
+
+
+|Entrevista 2|Javier Puertas|
+| - | - |
+|Edad|28 años|
+|Distrito|San Borja|
+|![Entrevista3.png](images/Entrevista3.png)|Javier Puertas, médico traumatólogo de 28 años en Lima, enfrenta desafíos en la gestión del tiempo y la coordinación con otros especialistas. Utiliza Windows y Android para su trabajo y prefiere herramientas tecnológicas seguras y fáciles de usar. Destaca la necesidad de aplicaciones integradas para la gestión de citas y comunicación con otros médicos. Prioriza la seguridad, facilidad de uso e integración al elegir tecnología. Además, valora la telemedicina y la historia clínica electrónica, pero señala la importancia de recibir formación adecuada para utilizar estas herramientas eficazmente.|
+|URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
+|Timing|33:13 - 43:08|
+
+
+# 2.2.3. Análisis de entrevistas
+
+- **Pacientes:** problemas con organización de citas y tiempos de espera; desean flexibilidad virtual/presencial y protección de datos.
+- **Médicos:** requieren herramientas integradas (citas, HCE, comunicación), con alta seguridad y usabilidad; la telemedicina es útil si reciben formación.
+- **Laboratorios:** enfocan en precisión e integridad de resultados; piden coordinación segura con médicos y plataforma centralizada.
+
+# 2.3. Needfinding
+
+# 2.3.1. User Personas
+
+Los Users personas que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas. Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
+
+- **Paciente:
+  ![Userpersona1.png](assets/cap2/Userpersona1.png)**
+- **Doctor:
+  ![Userpersona2.png](assets/cap2/Userpersona2.png)**
+- - **Laboratorio:
+    ![Userpersona3.png](assets/cap2/Userpersona3.png)**
+# 2.3.2. User Task Matrix
+
+| Tarea | **Pacientes** |   | **Profesionales doctores** |   | **Laboratorio** |
+|-------|---------------|---|----------------------------|---|-----------------|
+|       | Frec. | Imp. | Frec. | Imp. | Frec. | Imp. |
+| Programar una cita | Alta | Alta | Alta | Alta | – | – |
+| Acceder a resultados de exámenes | Media | Alta | Alta | Alta | Alta | Alta |
+| Realizar seguimiento de tratamiento | Alta | Alta | Alta | Alta | – | – |
+| Agendar una cirugía | Baja | Alta | Media | Alta | – | – |
+| Participar en consultas virtuales | Baja | Alta | Media | Alta | – | – |
+| Recordatorios automáticos de citas | Alta | Alta | Alta | Alta | – | – |
+| Acceder a historias clínicas | – | – | Alta | Alta | – | – |
+| Consultar información sobre medicamentos | Media | Alta | Media | Alta | – | – |
+| Comunicarse con el especialista | Alta | Alta | Media | Alta | Alta | Alta |
+| Proporcionar retroalimentación | Baja | Media | – | – | – | – |
+| Solicitar análisis clínicos | Baja | Alta | – | – | Alta | Alta |
+| Enviar resultados de análisis | – | – | – | – | Alta | Alta |
+
+**Conclusiones clave**
+
+- Coincidencia en *Programar cita* (pacientes y doctores) y *Acceder a resultados* (doctores y laboratorios).
+- Diferencias: pacientes valoran recordatorios y seguimiento; doctores, historias clínicas y telemedicina; laboratorios, exactitud y entrega puntual.
+
+# 2.3.3. User Journey Mapping
+
+En esta sección se presentan los User Journey Mapping de los segmentos objetivos, que realizamos con el fin de dar a entender cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+
+**Paciente:**
+
+![JourneyMap1.png](assets/cap2/JourneyMap1.png)
+
+**Doctor:**
+
+![JourneyMap2.png](assets/cap2/JourneyMap2.png)
+
+**Laboratorio:**
+
+![JourneyMap3.png](assets/cap2/JourneyMap3.png)
+
+# 2.3.4. Empathy Maps
+En esta sección mostramos los empathy mapping de los segmentos objetivos realizados con la información recopilada de componentes anteriores.
+
+**Paciente:**
+
+![Empathymap.png](assets/cap2/Empathymap.png)
+
+**Doctor:**
+
+![Empathymap.png](assets/cap2/Empathymap2.png)
+
+**Laboratorio:**
+
+![Empathymap.png](assets/cap2/Empathyamp3.png)
+### 2.3.5. As-is Scenario Mapping.
+
+En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia de ideas individual, revisión e identificación de fases como columnas, para conseguir los As-is Scenario Mapping de los segmentos objetivos.
+
+**Para el segmento 1 (Pacientes):**
+
+![AsIs1.jpg](assets/cap2/AsIs1.jpg)
+
+**Para el segmento 2 (Doctores):**
+
+![AsIs2.jpg](assets/cap2/AsIs2.jpg)
+
+**Para el segmento 3 (Laboratorios):**
+![AsIs3.jpg](assets/cap2/AsIs3.jpg)
 
 # Capítulo III: Requirements Specification
 
