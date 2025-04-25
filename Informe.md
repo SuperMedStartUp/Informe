@@ -3747,7 +3747,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
   </thead>
   <tbody>
     <tr>
-      <td rowspan="27"></td>
+      <td rowspan="28"></td>
       <td>main</td>
       <td>8340709</td>
       <td>feat: added multiple bloc provider, and fix baseUrl url</td>
@@ -3945,3 +3945,26 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
     </tr>
   </tbody>
 </table>
+
+<div id='5.2.4.4.'><h5> 5.2.4.4. Testing Suite Evidence for Sprint Review. </h5></div>
+
+<div id='5.2.4.5.'><h5> 5.2.4.5. Execution Evidence for Sprint Review. </h5></div>
+
+Imagen de la aplicacion backend corriendo
+* Swagger
+
+<div id='5.2.4.6.'><h5> 5.2.4.6. Services Documentation Evidence for Sprint Review. </h5></div>
+
+* Appointments
+* Results
+* Doctors
+* Analysis
+* Patients
+* Treatments
+* Users
+* Roles
+* Authentication
+
+<div id='5.2.4.7.'><h5> 5.2.4.7. Software Deployment Evidence for Sprint Review. </h5></div>
+
+<div id='5.2.4.8.'><h5> 5.2.4.8. STeam Collaboration Insights during Sprint. </h5></div>
