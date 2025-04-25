@@ -1215,6 +1215,231 @@ El único color neutro que se eligió fue el blanco
 </p>
 <img src="assets/images/color_neutro.png" alt="Color neutro" width="30%">
 
+Technical Stories
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de aceptación</th>
+      <th>Epic relacionado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>Seguridad en la Comunicación de Chat</td>
+      <td>Como paciente, quiero que la comunicación en el chat con mi doctor sea segura y confidencial, para asegurar que mis datos personales y médicos estén protegidos contra accesos no autorizados.</td>
+      <td>
+        <p>Escenario 1: Cifrado de Mensajes
+
+Dado que estoy enviando mensajes al doctor a través del chat,
+Cuando envío o recibo mensajes,
+Entonces todos los mensajes deben estar cifrados de extremo a extremo,
+Y solo yo y el doctor debemos tener acceso a los contenidos de los mensajes.
+</p>
+        <p>Escenario 2: Autenticación de Usuarios
+
+Dado que quiero acceder al chat con mi doctor,
+Cuando inicio sesión en la plataforma,
+Entonces debo pasar por un proceso de autenticación robusto,
+Y solo usuarios autenticados deben poder acceder y participar en las conversaciones.</p>
+      </td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Disponibilidad y Escalabilidad del Servicio de Chat</td>
+      <td>Como paciente, quiero que el servicio de chat esté disponible en todo momento y sea escalable para manejar un gran número de usuarios, para asegurar que siempre pueda comunicarme con mi doctor cuando lo necesite.</td>
+      <td>
+        <p>Escenario 1: Alta Disponibilidad del Servicio
+
+Dado que puedo necesitar comunicarme con mi doctor en cualquier momento,
+Cuando intento acceder al chat,
+Entonces el servicio debe estar disponible 99.9% del tiempo,
+Y cualquier interrupción debe ser mínima y comunicada con antelación.
+</p>
+        <p>Escenario 2: Escalabilidad ante Creciente Número de Usuarios
+
+Dado que la plataforma puede tener un número creciente de pacientes y doctores usando el chat,
+Cuando hay un aumento significativo en la cantidad de usuarios simultáneos,
+Entonces el sistema debe escalar automáticamente para manejar la carga adicional,
+Y la calidad y velocidad del servicio no deben verse afectadas.
+</p>
+      </td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Disponibilidad y Tiempo de Actividad de la Plataforma</td>
+      <td>Como paciente, deseo que la plataforma para la gestión de citas médicas esté disponible con alta fiabilidad, para poder organizar mis citas en cualquier momento sin enfrentar problemas de accesibilidad.</td>
+      <td>
+        <p>Escenario 1: Alta Disponibilidad
+
+Dado que estoy intentando acceder a la plataforma para gestionar mis citas,
+Cuando intento iniciar sesión o realizar cualquier acción en la plataforma,
+Entonces la plataforma debe estar disponible el 99.9% del tiempo,
+Y cualquier tiempo de inactividad no planificado debe ser minimizado y comunicado claramente.</p>
+        <p>Escenario 2: Mantenimiento Programado
+
+Dado que la plataforma necesita mantenimiento regular,
+Cuando se realice el mantenimiento programado,
+Entonces la plataforma debe informar a los usuarios con anticipación sobre el tiempo de inactividad planificado,
+Y el mantenimiento debe realizarse fuera de las horas de mayor uso para minimizar el impacto en los usuarios.</p>
+      </td>
+      <td>02</td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Escalabilidad y Manejo de Alta Demanda</td>
+      <td>Como paciente, quiero que la plataforma pueda manejar un aumento en el número de usuarios y citas médicas, para asegurar que mi experiencia sea fluida incluso durante períodos de alta demanda.</td>
+      <td>
+        <p>Escenario 1: Manejo de Aumento de Usuarios
+
+Dado que hay un aumento en el número de usuarios en la plataforma,
+Cuando múltiples pacientes intentan acceder y gestionar sus citas simultáneamente,
+Entonces la plataforma debe mantener un rendimiento óptimo sin degradación,
+Y las consultas y actualizaciones de citas deben completarse sin demoras significativas.
+</p>
+        <p>Escenario 2: Escalabilidad del Sistema
+
+Dado que la plataforma está experimentando un aumento en la cantidad de citas programadas,
+Cuando el número de citas crece significativamente,
+Entonces el sistema debe escalar automáticamente para manejar el aumento de carga,
+Y debe continuar funcionando de manera eficiente con tiempos de respuesta aceptables.</p>
+      </td>
+      <td>02</td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>Rendimiento de la Plataforma de Tratamientos</td>
+      <td>Como doctor traumatológico, deseo que la plataforma para gestionar tratamientos ortopédicos responda rápidamente a mis acciones y consultas, para asegurar que pueda proporcionar una atención médica eficiente y sin demoras.</td>
+      <td>
+        <p>Escenario 1: Tiempo de Respuesta Rápido
+
+Dado que estoy actualizando o consultando el plan de tratamiento de un paciente,
+Cuando realizo una acción o consulta en la plataforma,
+Entonces el sistema debe procesar la solicitud y mostrar los resultados en menos de 3 segundos,
+Y la plataforma debe permitir ajustes o actualizaciones sin retrasos notables.</p>
+        <p>Escenario 2: Rendimiento en la Gestión de Datos
+
+Dado que estoy gestionando múltiples tratamientos y datos de pacientes simultáneamente,
+Cuando realizo operaciones como agregar, modificar o consultar información,
+Entonces la plataforma debe manejar eficientemente grandes volúmenes de datos sin afectar el rendimiento,
+Y las operaciones deben completarse de manera rápida y precisa.</p>
+      </td>
+      <td>03</td>
+    </tr>
+    <tr>
+  <td>06</td>
+  <td>Seguridad y Protección de Datos de Pacientes</td>
+  <td>Como doctor traumatológico, quiero que la plataforma garantice la seguridad y protección de los datos de los pacientes, para asegurar que toda la información sobre tratamientos y historial doctor se maneje de manera confidencial y segura.</td>
+  <td>
+    <p>Escenario 1: Cumplimiento de Normativas de Seguridad
+
+Dado que estoy accediendo a la información de los pacientes en la plataforma,
+Cuando reviso o actualizo datos de tratamientos y historial doctor,
+Entonces la plataforma debe cumplir con normativas de privacidad y seguridad de datos.
+Y debe implementar medidas como cifrado de datos y control de acceso para proteger la información sensible.
+</p>
+    <p>Escenario 2: Protección Contra Accesos No Autorizados
+
+Dado que soy un doctor autorizado accediendo a la plataforma,
+Cuando intento realizar acciones en la plataforma,
+Entonces el sistema debe verificar y autorizar mi acceso basado en permisos específicos,
+Y debe prevenir el acceso no autorizado a datos de pacientes mediante autenticación y autorización robustas.</p>
+  </td>
+  <td>03</td>
+</tr>
+<tr>
+  <td>07</td>
+  <td>Accesibilidad y Disponibilidad del Historial doctor</td>
+  <td>Como doctor traumatológico, deseo que el acceso al historial doctor de mis pacientes sea constante y fiable, para poder tomar decisiones informadas en cualquier momento y lugar.</td>
+  <td>
+    <p>Escenario 1: Disponibilidad del Sistema
+Dado que necesito acceder al historial doctor de un paciente,
+Cuando intento abrir la sección de historial doctor en la plataforma,
+Entonces el sistema debe estar disponible y accesible al menos el 99.9% del tiempo,
+Y cualquier interrupción del servicio debe ser minimizada y notificada con anticipación.
+</p>
+    <p>Escenario 2: Acceso Rápido al Historial
+
+Dado que estoy en una consulta y necesito revisar el historial doctor de un paciente,
+Cuando realizo una búsqueda o abro el historial completo,
+Entonces el sistema debe mostrar la información solicitada en menos de 2 segundos,
+Y debe permitir la navegación fluida entre diferentes secciones del historial.</p>
+  </td>
+  <td>03</td>
+</tr>
+<tr>
+  <td>08</td>
+  <td>Confidencialidad y Seguridad del Historial doctor</td>
+  <td>Como doctor traumatológico, quiero asegurarme de que el historial doctor de mis pacientes esté protegido contra accesos no autorizados, para garantizar la privacidad y confidencialidad de la información médica.</td>
+  <td>
+    <p>Escenario 1: Control de Acceso Basado en Roles
+
+Dado que soy un usuario autorizado accediendo al historial doctor,
+Cuando intento visualizar, editar o compartir información del historial doctor,
+Entonces el sistema debe verificar que tengo los permisos adecuados antes de permitir el acceso,
+Y debe restringir cualquier intento de acceso por parte de usuarios no autorizados.
+</p>
+    <p>Escenario 2: Cifrado de Datos Sensibles
+
+Dado que la plataforma almacena datos sensibles del historial doctor,
+Cuando se transmiten o almacenan estos datos,
+Entonces el sistema debe utilizar cifrado de extremo a extremo para proteger la información,
+Y debe garantizar que solo los usuarios con las credenciales correctas puedan descifrar y acceder a estos datos.</p>
+  </td>
+  <td>04</td>
+</tr>
+<tr>
+  <td>09</td>
+  <td>Integridad y Seguridad de los Datos de Muestras y Resultados</td>
+  <td>Como técnico de laboratorio, quiero que la aplicación garantice la integridad y seguridad de los datos de muestras y resultados, para asegurar que la información sea precisa y esté protegida contra accesos no autorizados.</td>
+  <td>
+    <p>Escenario 1: Protección contra Alteraciones No Autorizadas
+
+Dado que estoy trabajando con datos sensibles de muestras y resultados,
+Cuando ingreso, actualizo o consulto estos datos en la aplicación,
+Entonces el sistema debe asegurar que solo usuarios autorizados puedan realizar modificaciones,
+Y cualquier cambio debe ser registrado con un log de auditoría que indique quién lo realizó y cuándo.</p>
+    <p>Escenario 2: Cifrado y Seguridad en el Almacenamiento de Datos
+
+Dado que la aplicación almacena información crítica de muestras y resultados,
+Cuando los datos son almacenados o transmitidos dentro del sistema,
+Entonces el sistema debe utilizar cifrado para proteger la confidencialidad e integridad de los datos,
+Y debe asegurar que solo usuarios autorizados puedan acceder a la información sensible.</p>
+  </td>
+  <td>04</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>Escalabilidad de la Aplicación para Crecimiento Futuro</td>
+  <td>Como técnico de laboratorio, quiero que la aplicación sea escalable para manejar un aumento en la cantidad de muestras y resultados en el futuro, para asegurar que el sistema continúe funcionando de manera eficiente a medida que el laboratorio crece.</td>
+  <td>
+    <p>Escenario 1: Capacidad de Manejo de Carga Incrementada
+
+Dado que el volumen de muestras procesadas por el laboratorio puede aumentar con el tiempo,
+Cuando el número de muestras y resultados procesados diariamente se incrementa significativamente,
+Entonces la aplicación debe escalar automáticamente para manejar la carga adicional sin pérdida de rendimiento,
+Y debe continuar proporcionando tiempos de respuesta rápidos y acceso fluido a la información.
+</p>
+    <p>Escenario 2: Preparación para la Integración con Nuevos Laboratorios
+
+Dado que la aplicación podría necesitar integrarse con otros laboratorios en el futuro,
+Cuando se agregan nuevos laboratorios o centros de procesamiento de muestras al sistema,
+Entonces la aplicación debe ser capaz de integrar estos nuevos datos y usuarios sin interrupciones,
+Y debe mantener la consistencia y velocidad en la gestión de todas las muestras y resultados.
+</p>
+  </td>
+  <td>05</td>
+</tr>
+  </tbody>
+</table>
+
+
 ### 4.1.2. Web Style Guidelines
 
 <p>
