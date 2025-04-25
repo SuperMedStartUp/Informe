@@ -655,7 +655,222 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 |      US36       |                               Sección sobre el equipo                                |                                                                                                                Como usuario, quiero encontrar una sección dedicada que presente información sobre el equipo detrás de la empresa.                                                                                                                 |                                                                                                                      <p>**Escenario 1:Usuario accede a la sección "Equipo"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, busca la sección "Equipo".</p><p>- Entonces, encuentra información detallada sobre los miembros del equipo, incluyendo sus roles, responsabilidades y una breve biografía.</p><p>**Escenario 2:Información actualizada en la sección "Equipo"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección "Equipo".</p><p>- Entonces., nota que la información está actualizada con los últimos miembros del equipo y cambios relevantes.</p>                                                                                                                       |            E06            |
 |      US37       |                                 Barra de navegación                                  |                                                                                                     Como usuario, quiero una barra de navegación bien organizada en la landing page para poder acceder fácilmente a las diferentes secciones.                                                                                                     |                                                                                    <p>**Escenario 1:Usuario utiliza la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para acceder a diferentes secciones.</p><p>- Entonces, encuentra que los enlaces funcionan correctamente y lo llevan a las páginas correspondientes.</p><p>**Escenario 2: Navegación intuitiva en la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para moverse por la página.</p><p>- Entonces, encuentra que la disposición de los enlaces es intuitiva y facilita la navegación por las diferentes secciones de la página.</p>                                                                                     |            E06            |
 |      US38       |                            Registro en la aplicación web                             |                                                                                                     Como nuevo usuario,quiero registrarme en la aplicación web,para poder acceder a funcionalidades personalizadas.                                                                                                    |                                                                                          <p>**Escenario 1:Registro exitoso**</p><p>- Dado, el usuario está en la página de registro.</p><p>- Cuando,  introduce información válida en todos los campos obligatorios y envía el formulario</p><p>- Entonces, se crea una nueva cuenta y el usuario es redirigido a la página de inicio de sesión.</p><p>**Escenario 2: Registro fallido - Correo electrónico duplicado**</p><p>- Dado, el usuario está en la página de registro.</p><p>- Cuando, introduce un correo electrónico que ya está registrado y envía el formulario</p><p>- Entonces, se muestra un mensaje de error indicando que el correo electrónico ya está en uso.</p>                                                                                          |            E06            |
-|      US39       |                        Inicio de sesión en la aplicación web                         |                                                                                                     Como usuario registrado,quiero iniciar sesión en la aplicación web,para poder acceder a mi cuenta.                                                                                                    |                                                                                    <p>**Escenario 1:Inicio de sesión exitoso**</p><p>- Dado, el usuario está en la página de inicio de sesión.</p><p>- Cuando, introduce credenciales válidas (correo electrónico y contraseña) y envía el formulario.</p><p>- Entonces, el usuario inicia sesión y es redirigido a la página principal de su cuenta.</p><p>**Escenario 2: Inicio de sesión fallido - Credenciales incorrectas**</p><p>- Dado, el usuario está en la página de inicio de sesión</p><p>- Cuando, introduce credenciales incorrectas y envía el formulario</p><p>- Entonces, se muestra un mensaje de error indicando que las credenciales son incorrectas</p>                                                                                     |            E06            |
+|      US39       |                        Inicio de sesión en la aplicación web                         |                                                                                                     Como usuario registrado,quiero iniciar sesión en la aplicación web,para poder acceder a mi cuenta.                                                                                                    |                                                                                    <p>**Escenario 1:Inicio de sesión exitoso**</p><p>- Dado, el usuario está en la página de inicio de sesión.</p><p>- Cuando, introduce credenciales válidas (correo electrónico y contraseña) y envía el formulario.</p><p>- Entonces, el usuario inicia sesión y es redirigido a la página principal de su cuenta.</p><p>**Escenario 2: Inicio de sesión fallido - Credenciales incorrectas**</p><p>- Dado, el usuario está en la página de inicio de sesión</p><p>- Cuando, introduce credenciales incorrectas y envía el formulario</p><p>- Entonces, se muestra un mensaje de error indicando que las credenciales son incorrectas</p>                                                                                    |            E06            |
+<table border="1">
+  <tbody>
+    <tr>
+      <td>01</td>
+      <td>Iniciar conversación con el doctor</td>
+      <td>Como paciente, quiero poder iniciar una conversación con el doctor que me atendió, para poder hacerle preguntas o discutir sobre mi tratamiento en cualquier momento.</td>
+      <td>Escenario 1: Iniciar nueva conversación. Escenario 2: Continuar conversación existente.</td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Notificaciones de nuevos mensajes</td>
+      <td>Como paciente, quiero recibir notificaciones en tiempo real cuando el doctor me envíe un nuevo mensaje, para estar informado inmediatamente de cualquier respuesta o recomendación.</td>
+      <td>Escenario 1: Recibir notificación en la plataforma. Escenario 2: Recibir notificación por correo electrónico.</td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>03</td>
+      <td>Enviar archivos y documentos en el chat</td>
+      <td>Como paciente, quiero poder enviar archivos o imágenes relevantes al doctor a través del chat, para proporcionar información adicional sobre mi estado o exámenes médicos.</td>
+      <td>Escenario 1: Enviar archivos desde el dispositivo. Escenario 2: Doctor recibe y visualiza el archivo.</td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>Ver el estado de conexión del doctor</td>
+      <td>Como paciente, quiero poder ver si mi doctor está en línea o fuera de línea, para saber si puedo esperar una respuesta inmediata o si tendré que esperar.</td>
+      <td>Escenario 1: Ver estado "en línea". Escenario 2: Ver estado "fuera de línea".</td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>Guardar y consultar historial de conversaciones</td>
+      <td>Como paciente, quiero que el chat guarde automáticamente el historial de conversaciones, para poder revisar información anterior o recomendaciones previas en cualquier momento.</td>
+      <td>Escenario 1: Consultar historial completo. Escenario 2: Buscar mensajes específicos.</td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>06</td>
+      <td>Finalizar una conversación</td>
+      <td>Como paciente, quiero tener la opción de finalizar una conversación con mi doctor, para poder cerrar temas que ya no son relevantes y organizar mejor mis chats.</td>
+      <td>Escenario 1: Marcar conversación como "finalizada". Escenario 2: Acceder a conversaciones finalizadas.</td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>07</td>
+      <td>Programación de citas médicas</td>
+      <td>Como paciente, deseo poder programar mis citas médicas a través de la plataforma, para asegurarme de que las fechas y horas seleccionadas se ajusten a mi disponibilidad.</td>
+      <td>Escenario 1: Programación de cita exitosa. Escenario 2: Intento de programar en un horario no disponible.</td>
+      <td>02</td>
+    </tr>
+    <tr>
+      <td>08</td>
+      <td>Visualización del historial de citas</td>
+      <td>Como paciente, deseo poder acceder a un historial completo de mis citas médicas pasadas y futuras, para llevar un registro de mis consultas y tratamientos.</td>
+      <td>Escenario 1: Consulta del historial completo. Escenario 2: Historial sin citas previas.</td>
+      <td>02</td>
+    </tr>
+    <tr>
+      <td>09</td>
+      <td>Evaluación de la experiencia del paciente</td>
+      <td>Como paciente, deseo poder dejar una evaluación de mi experiencia después de cada cita, para ayudar a mejorar la calidad del servicio.</td>
+      <td>Escenario 1: Evaluación positiva posterior a la cita. Escenario 2: Evaluación negativa y solicitud de contacto.</td>
+      <td>02</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Recordatorios automáticos de citas</td>
+      <td>Como paciente, deseo recibir recordatorios automáticos de mis citas médicas, para no olvidarme de ellas y asegurar mi asistencia puntual.</td>
+      <td>Escenario 1: Recepción de recordatorio en tiempo. Escenario 2: Recordatorio no recibido.</td>
+      <td>02</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Visualización de notas del doctor</td>
+      <td>Como paciente, deseo poder ver las notas del doctor relacionadas con mis citas pasadas al hacer clic en "ver más", para poder revisar los comentarios y recomendaciones médicas en detalle.</td>
+      <td>Escenario 1: Visualización exitosa de notas. Escenario 2: Cita sin notas disponibles.</td>
+      <td>02</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Cancelación de citas médicas</td>
+      <td>Como paciente, deseo poder cancelar una cita médica al hacer clic en un botón que diga "cancelar cita", para poder reorganizar mi agenda si ya no puedo asistir a la cita programada.</td>
+      <td>Escenario 1: Cancelación exitosa de cita. Escenario 2: Intento de cancelación dentro de las 24 Horas.</td>
+      <td>02</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Creación y gestión de planes de tratamiento</td>
+      <td>Como doctor traumatológico, deseo poder crear y gestionar planes de tratamiento personalizados para mis pacientes.</td>
+      <td>Escenario 1: Creación exitosa de un plan de tratamiento. Escenario 2: Edición y actualización de un plan de tratamiento.</td>
+      <td>03</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Seguimiento del progreso del paciente</td>
+      <td>Como doctor traumatológico, quiero realizar un seguimiento del progreso de mis pacientes a través de la plataforma.</td>
+      <td>Escenario 1: Registro del progreso del paciente. Escenario 2: Visualización del progreso histórico.</td>
+      <td>03</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Eliminación de tratamiento del doctor</td>
+      <td>Como doctor traumatológico, deseo poder eliminar un tratamiento previamente creado.</td>
+      <td>Escenario 1: Eliminación exitosa de un tratamiento. Escenario 2: Intento de eliminación de un tratamiento en curso.</td>
+      <td>03</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Gestión de medicamentos y terapias complementarias</td>
+      <td>Como doctor traumatológico, deseo gestionar los medicamentos y terapias complementarias prescritos a mis pacientes.</td>
+      <td>Escenario 1: Prescripción de medicamentos y terapias. Escenario 2: Revisión y modificación de prescripciones.</td>
+      <td>03</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Generación de recordatorios de tratamiento</td>
+      <td>Como doctor traumatológico, quiero generar recordatorios automáticos para los pacientes sobre sus próximos tratamientos.</td>
+      <td>Escenario 1: Generación automática de recordatorios. Escenario 2: Personalización de recordatorios.</td>
+      <td>03</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Consulta de historial de tratamientos anteriores</td>
+      <td>Como doctor traumatológico, quiero consultar el historial de tratamientos anteriores de un paciente.</td>
+      <td>Escenario 1: Acceso al historial de tratamientos. Escenario 2: Visualización de detalles de tratamientos anteriores.</td>
+      <td>03</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Acceso rápido al historial doctor del paciente</td>
+      <td>Como doctor, quiero acceder rápidamente al historial médico completo de mis pacientes.</td>
+      <td>Escenario 1 y 2: Acceso y visualización de categorías específicas.</td>
+      <td>04</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Visualización detallada del historial doctor</td>
+      <td>Como doctor, quiero visualizar de manera detallada el historial médico de mis pacientes.</td>
+      <td>Escenario 1: Visualización de exámenes. Escenario 2: Visualización de notas de otros doctores.</td>
+      <td>04</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>Actualización en tiempo real del historial doctor</td>
+      <td>Como doctor, quiero que cualquier actualización en el historial médico se refleje inmediatamente.</td>
+      <td>Escenario 1: Actualización inmediata. Escenario 2: Notificación de cambios.</td>
+      <td>04</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>Registro de nuevas entradas en el historial doctor</td>
+      <td>Como doctor, quiero registrar nuevas entradas en el historial médico.</td>
+      <td>Escenario 1: Guardar nueva entrada. Escenario 2: Visualización en el historial actualizado.</td>
+      <td>04</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>Seguridad y privacidad del historial médico</td>
+      <td>Como doctor, necesito que el acceso al historial médico esté protegido por medidas de seguridad.</td>
+      <td>Escenario 1: Autenticación de doble factor. Escenario 2: Comunicación cifrada.</td>
+      <td>04</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>Registro de eventos importantes en el historial doctor</td>
+      <td>Como doctor, quiero registrar eventos importantes en el historial médico de los pacientes.</td>
+      <td>Escenario 1: Registro de eventos importantes. Escenario 2: Visualización en el historial.</td>
+      <td>04</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>Interfaz personalizable para análisis médicos</td>
+      <td>Como técnico de laboratorio, quiero una interfaz intuitiva y personalizable para mejorar la eficiencia.</td>
+      <td>Escenario 1: Personalización de la interfaz. Escenario 2: Guardado y aplicación de personalizaciones.</td>
+      <td>05</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>Acceso a los protocolos actualizados</td>
+      <td>Como técnico de laboratorio, quiero acceder a los protocolos actualizados en la aplicación web del laboratorio.</td>
+      <td>Escenario 1: Acceso a protocolos actualizados. Escenario 2: Revisión y confirmación de los protocolos.</td>
+      <td>05</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>Sistema de comunicación y registro de resultados</td>
+      <td>Como técnico de laboratorio, quiero un sistema que registre y comunique los resultados automáticamente.</td>
+      <td>Escenario 1: Registro automático de resultados. Escenario 2: Comunicación al médico.</td>
+      <td>05</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>Protocolo de integridad de muestras</td>
+      <td>Como técnico de laboratorio, quiero asegurar la integridad de las muestras.</td>
+      <td>Escenario 1: Aplicación del protocolo. Escenario 2: Identificación de muestras comprometidas.</td>
+      <td>05</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>Registro de resultados con consideraciones clínicas</td>
+      <td>Como técnico de laboratorio, quiero registrar resultados considerando las implicaciones clínicas.</td>
+      <td>Escenario 1: Registro automatizado con contexto clínico.</td>
+      <td>05</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>Selección de Idioma para la Página de Inicio</td>
+      <td>Como usuario, quiero seleccionar el idioma de la página de inicio.</td>
+      <td>Escenario 1: Selección de español. Escenario 2: Selección de inglés.</td>
+      <td>05</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### Technical Stories
 
