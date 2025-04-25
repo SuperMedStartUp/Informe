@@ -289,7 +289,7 @@ SuperMed es una startup creada por estudiantes de la Facultad de Ingeniería de 
 |------------------------------------------------------------------------------------------| ----------------------------------- | -------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | <img src="assets/foto-Erick.jpg" width="50%" alt="Imagen del compañero">     | Palomino Santa Cruz Erick Joaquin     | u202214843           | Ingeniería de Software | Soy un estudiante de la carrera de ingeniería de software de la UPC, tengo 19 años. Tengo experiencia usando lenguajes de programación como C#, Python y JS. Además puedo ayudar al equipo en todas las tareas que se realicen para lograr un resultado óptimo.                                                                                                                                                                                                                                                                                                                                    |
 | <img src="assets/Juan.JPG" width="50%" alt="Imagen del compañero">       | Montes Figueroa, Juan Eduardo       | u202210775           | Ingeniería de Software | Mi nombre es Juan Montes, tengo 19 años, tengo conocimientos en C++, asimismo poseo conocimientos básicos en Java y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles.                                                                                                                                                                                                                                                                    |     
-| <img src="assets/foto-astrid.png" width="50%" alt="Imagen del compañero"> | Astrid Jimena Boronda Heidinger  |            | Ingeniería de Software | Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, Java y Python. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. Me adapto muy bien a los trabajos en equipo.                                                                                                                                                                                                                                                                                            |
+| <img src="assets/foto-astrid.png" width="50%" alt="Imagen del compañero"> | Astrid Jimena Boronda Heidinger  |  u202215823       | Ingeniería de Software | Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, Java y Python. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. Me adapto muy bien a los trabajos en equipo.                                                                                                                                                                                                                                                                                            |
 | <img src="assets/.jpeg" width="50%" alt="Imagen del compañero"> |  |            | Ingeniería de Software |                                                                                                                                                                                                                                                                                             |
 | <img src="assets/.jpeg" width="50%" alt="Imagen del compañero"> |  |            | Ingeniería de Software |                                                                                                                                                                                                                                                                                             |
 ## 1.2 Solution Profile
@@ -2166,10 +2166,10 @@ Herramienta dentro de github que permite alojar una pagina web de un repositorio
 Hemos creado los repositorios que usaremos a lo largo del desarrollo del proyecto, esto incluye el de la documentación, landing page, frontend y backend.
 
 **Link del repositorio de documentacion:** [https://github.com/SuperMedStartUp/Informe](https://github.com/SuperMedStartUp/Informe) <br>
-**Link del repositorio de la Landing Page:**  <br>
-**Link del repositorio del Backend:** [https://github.com/LosLuminosos-SW57/Backend-MedSystem](https://github.com/LosLuminosos-SW57/Backend-MedSystem) <br>
-**Link del repositorio del Frontend-Web:** [https://github.com/LosLuminosos-SW57/Frontend-MedSystem](https://github.com/LosLuminosos-SW57/Frontend-MedSystem) <br>
-**Link del repositorio del Frontend-Movil:** [https://github.com/MedSolutions-SW65/MedSystem-Frontend](https://github.com/MedSolutions-SW65/MedSystem-Frontend) <br>
+**Link del repositorio de la Landing Page:** [https://github.com/SuperMedStartUp/LandingPage](https://github.com/SuperMedStartUp/LandingPage) <br>
+**Link del repositorio del Backend:** [https://github.com/SuperMedStartUp/Backend](https://github.com/SuperMedStartUp/Backend) <br>
+**Link del repositorio del Frontend-Web:** [https://github.com/SuperMedStartUp/Frontend-WebApp](https://github.com/SuperMedStartUp/Frontend-WebApp) <br>
+**Link del repositorio del Frontend-Movil:** [https://github.com/SuperMedStartUp/Frontend-Mobile](https://github.com/SuperMedStartUp/Frontend-Mobile) <br>
 
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
 
@@ -2220,11 +2220,11 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 		</tr>
 		<tr>
 			<td>Date</td>
-			<td></td>
+			<td>02-09-2024</td>
 		</tr>
 		<tr>
 			<td>Time</td>
-			<td></td>
+			<td>7:00 pm</td>
 		</tr>
 		<tr>
 			<td>Location</td>
@@ -2768,11 +2768,11 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 		</tr>
 		<tr>
 			<td>Date</td>
-			<td></td>
+			<td>20-10-2024</td>
 		</tr>
 		<tr>
 			<td>Time</td>
-			<td></td>
+			<td>09:00 PM</td>
 		</tr>
 		<tr>
 			<td>Location</td>
@@ -3066,154 +3066,154 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>8a46e23543954eddda2eb37cd34ad4d6af1ca96a</td>
 			<td>chore:initial commit</td>
 			<td></td>
-			<td>16/04/24</td>
+			<td>16/10/24</td>
 		</tr>
 		<tr>
 			<td>master</td>
 			<td>d57196a2c022906cfa5ae32010e283d43f05d0c4</td>
 			<td>feat: side-nav created</td>
 			<td></td>
-			<td>16/04/24</td>
+			<td>16/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-request-results</td>
 			<td>a8ed508d91d70ca3cf1c992d8b1bd7de9a94f70a</td>
 			<td>feat: create request results component</td>
 			<td></td>
-			<td>17/04/24</td>
+			<td>17/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-request-results</td>
 			<td>e8177b5689b48528b2ff5e9bfb1227964eeb448e</td>
 			<td>feat: update request results component</td>
 			<td></td>
-			<td>17/04/24</td>
+			<td>17/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-request-results</td>
 			<td>b700ef792920527fd0b4aef0f2b89bb6435b2379</td>
 			<td>feat: add request top appmodule.</td>
 			<td></td>
-			<td>17/04/24</td>
+			<td>17/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-request-results</td>
 			<td>11daf5f513481ecbce313ec70ff606633a77ee60</td>
 			<td>feat: fix request-results and add module table</td>
 			<td></td>
-			<td>17/04/24</td>
+			<td>17/10/24</td>
 		</tr>
 		<tr>
 			<td>master</td>
 			<td>17596dd0ebfd4c6441dadcaee2b22b00d2b40741</td>
 			<td>feat: add imports to module</td>
 			<td></td>
-			<td>18/04/24</td>
+			<td>18/10/24</td>
 		</tr>
 		<tr>
 			<td>master</td>
 			<td>197bb6a0dddddc24547491b55f5782377317811f</td>
 			<td>feat: create db.json and routes.json</td>
 			<td></td>
-			<td>18/04/24</td>
+			<td>18/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-request-results</td>
 			<td>200a65d5383715d8fcf50e25d00ce9aa883c4dc9</td>
 			<td>feat: create service and results class</td>
 			<td></td>
-			<td>18/04/24</td>
+			<td>18/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-appointments</td>
 			<td>00bb0ec116e017303d0715e26c802d5dc8114ef5</td>
 			<td>feat: appointments component updated</td>
 			<td></td>
-			<td>18/04/24</td>
+			<td>18/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-appointment-routing</td>
 			<td>b07be04649a78902381d4f9d80c5b64851303bc6</td>
 			<td>feat: routes were implemented, side-nav component was eliminated and directory pages was created.</td>
 			<td></td>
-			<td>18/04/24</td>
+			<td>18/10/24</td>
 		</tr>
 		<tr>
 			<td>master</td>
 			<td>13ab1f3e09e43a33155494ed71982a6db0799b42</td>
 			<td>feat: page not found component created</td>
 			<td></td>
-			<td>18/04/24</td>
+			<td>18/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-treatments</td>
 			<td>c5a29031469a992b83975d771358914bdf997817</td>
 			<td>feat: updated treatments components</td>
 			<td></td>
-			<td>19/04/24</td>
+			<td>19/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-request-history</td>
 			<td>a4ca5dea8012299f6ef47d867f2ab9f00a749377</td>
 			<td>feat: added request history</td>
 			<td></td>
-			<td>19/04/24</td>
+			<td>19/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-request-history</td>
 			<td>2b7da8520ecdc2d151b42a3e2da71982e77196b1</td>
 			<td>feat: modified db.json and way to retrieve the data for rquest history</td>
 			<td></td>
-			<td>20/04/24</td>
+			<td>20/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-appointments-patients</td>
 			<td>0dc6a77dfced7d2d873ab4cf6dda230c7c1ce96a</td>
 			<td>feat: review-appointment component and route created</td>
 			<td></td>
-			<td>20/04/24</td>
+			<td>20/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-treatments</td>
 			<td>c483c1bfc8c7a14c69e05f95b5c9305cea2f6316</td>
 			<td>feat: treatments component updated</td>
 			<td></td>
-			<td>20/04/24</td>
+			<td>20/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/dev-appointments</td>
 			<td>f4646c18f1046b431ede237b924b52bf014ac328</td>
 			<td>chore: refactor appointments components to doctor-appointments, created new directory for the bounded context of appointments</td>
 			<td></td>
-			<td>21/04/24</td>
+			<td>21/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/login</td>
 			<td>c84690b9d5a6110a4046496d237fdbc376b31bb3</td>
 			<td>feat: created register page</td>
 			<td></td>
-			<td>23/04/24</td>
+			<td>23/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/request-history</td>
 			<td>0c8693c59fb2ce486ef55cadde8371e5ea2d9a17</td>
 			<td>feat: added patients request history</td>
 			<td></td>
-			<td>24/04/24</td>
+			<td>24/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/request-results</td>
 			<td>a4bd117a8975948d5034c43ca124a0fd5f6557f7</td>
 			<td>feat: add patient exam results page</td>
 			<td></td>
-			<td>24/04/24</td>
+			<td>24/10/24</td>
 		</tr>
 		<tr>
 			<td>feat/login</td>
 			<td>2ae56bd54b28859ce06a228c89af7872b7958716</td>
 			<td>feat: added login and register and routes</td>
 			<td></td>
-			<td>24/04/24</td>
+			<td>24/10/24</td>
 		</tr>
 	</tbody>
 </table>
@@ -3510,11 +3510,11 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
 		</tr>
 		<tr>
 			<td>Date</td>
-			<td></td>
+			<td>26-10-2024</td>
 		</tr>
 		<tr>
 			<td>Time</td>
-			<td></td>
+			<td>09:00 PM</td>
 		</tr>
 		<tr>
 			<td>Location</td>
@@ -3823,147 +3823,147 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
       <td>bf3356eea6a8789fd8669fd0e963afe58de968a6</td>
       <td>chore:initial commit</td>
       <td></td>
-      <td>25/05/24</td>
+      <td>25/10/24</td>
     </tr>
     <tr>
       <td>master</td>
       <td>47a5766356ee27545f3fce9649812ee89f691202</td>
       <td>feat: OpenApiConfiguration file modified.</td>
       <td></td>
-      <td>25/04/24</td>
+      <td>25/10/24</td>
     </tr>
     <tr>
       <td>feat/dev-appointments</td>
       <td>162fda99873f469d54d33d14e0aaadc89f3572cf</td>
       <td>feat: add AppointmentDateTime value object</td>
       <td></td>
-      <td>01/06/24</td>
+      <td>01/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-appointments</td>
       <td>7a23f01b1294a31d3e724df5dad04b58b245f399</td>
       <td>feat: add missing lines in AuditableAbstractAggregateRoot, files for bounded context of Appointments created and simple CRUD methods for appointments created</td>
       <td></td>
-      <td>01/06/24</td>
+      <td>01/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-appointments</td>
       <td>c2a0439e1478fef73b1a44a777f91f056e3d603c</td>
       <td>feat: added new endpoints</td>
       <td></td>
-      <td>05/06/24</td>
+      <td>05/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-appointments</td>
       <td>409cbe6b479c4c99d2308df2d891b752e3dcd508</td>
       <td>feat: appointments update reason</td>
       <td></td>
-      <td>05/06/24</td>
+      <td>05/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-appointments</td>
       <td>3c955c95f6a12091c43b14e011a4108125086f08</td>
       <td>feat: created delete method for appointments</td>
       <td></td>
-      <td>05/06/24</td>
+      <td>05/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-medicService</td>
       <td>596637aff1f201e1f971d03d3206bc90de4cbfc8</td>
       <td>feat: add aggregate RequestResult</td>
       <td></td>
-      <td>06/06/24</td>
+      <td>06/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-medicService</td>
       <td>d35bc9e9a52bca148347b68845a231c48c45a78d</td>
       <td>feat: add aggregate RequestRepository.</td>
       <td></td>
-      <td>06/06/24</td>
+      <td>06/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-medicService</td>
       <td>c994c26e865d97e1f0bf8017084d996754260dcf</td>
       <td>feat: add RequestQueryService and implement.</td>
       <td></td>
-      <td>06/06/24</td>
+      <td>06/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-medicService</td>
       <td>99de669569a17cb5e20edc750736568390369b7f</td>
       <td>feat: add RequestResultResource.</td>
       <td></td>
-      <td>06/06/24</td>
+      <td>06/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-medicService</td>
       <td>7c12ec476a0dc76c89027eeed4a101fb0ce3c651</td>
       <td>feat: add controller RequestResult.</td>
       <td></td>
-      <td>06/06/24</td>
+      <td>06/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-treatments</td>
       <td>866a15052e04c10acaed3538032afc534c15d776</td>
       <td>feat: added Treatments aggregates, commands, queries and value objects</td>
       <td></td>
-      <td>06/06/24</td>
+      <td>06/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-treatments</td>
       <td>f54a14b4f6cc595752ed956fdcc33b171c81204c</td>
       <td>feat: added Treatments services and repository</td>
       <td></td>
-      <td>06/06/24</td>
+      <td>06/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-treatments</td>
       <td>4da3472dd3cbb9563e71c7beeb7c561e5253338c</td>
       <td>feat: added transform and resource for Treatments</td>
       <td></td>
-      <td>06/06/24</td>
+      <td>06/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-treatments</td>
       <td>a1865a8480136f129cf2f28649c428ed9759aa86</td>
       <td>feat: added the implementation of the services and the controller for the treatments.</td>
       <td></td>
-      <td>07/06/24</td>
+      <td>07/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-request-history</td>
       <td>e1b6acb694d133100e4503d50a5920c851f79c94</td>
       <td>feat: created history entity and command</td>
       <td></td>
-      <td>09/06/24</td>
+      <td>09/11/24</td>
     </tr>
     <tr>
       <td>feat/dev-request-history</td>
       <td>b6ea42735b3cec667357eebd91d0e5ef0925e426</td>
       <td>feat: created history repository and command service</td>
       <td></td>
-      <td>09/06/24</td>
+      <td>09/11/24</td>
     </tr>
     <tr>
       <td>master</td>
       <td>d7d7eb0b8ef9bec479ad229c96fe3c98b99601ac</td>
       <td>Merge pull request #1 from LosLuminosos-SW57/dev-appointments</td>
       <td></td>
-      <td>01/06/24</td>
+      <td>01/11/24</td>
     </tr>
     <tr>
       <td>master</td>
       <td>c49aced5880302ee9494ef4445245d1f7f5a9817</td>
       <td>Merge pull request #4 from LosLuminosos-SW57/dev-medicService</td>
       <td></td>
-      <td>06/06/24</td>
+      <td>06/11/24</td>
     </tr>
     <tr>
       <td>master</td>
       <td>2940572fdfc702d29c58f18546564ea86f3d39ce</td>
       <td>Merge pull request #5 from LosLuminosos-SW57/dev-appointments</td>
       <td></td>
-      <td>08/06/24</td>
+      <td>08/11/24</td>
     </tr>
   </tbody>
 </table>
@@ -4109,11 +4109,11 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 		</tr>
 		<tr>
 			<td>Date</td>
-			<td></td>
+			<td>06-11-2024</td>
 		</tr>
 		<tr>
 			<td>Time</td>
-			<td></td>
+			<td>09:00 PM</td>
 		</tr>
 		<tr>
 			<td>Location</td>
@@ -4403,140 +4403,140 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
       <td>54fac702b33b6986ca08a5a61944236b1b40323c</td>
       <td>feat: added option for change language</td>
       <td></td>
-      <td>21/06/24</td>
+      <td>21/11/24</td>
     </tr>
     <tr>
       <td>dev-iam</td>
       <td>b88bcf184424774749fde263b2d1d00956d268ca</td>
       <td>feat(iam): added iam bounded context</td>
       <td></td>
-      <td>17/06/24</td>
+      <td>17/11/24</td>
     </tr>
     <tr>
       <td>dev-iam</td>
       <td>9afc3b82a6667d36b5db83f1a91eb7f7c0ec258b</td>
       <td>fix(iam): modified endpoint authorization</td>
       <td></td>
-      <td>17/06/24</td>
+      <td>17/11/24</td>
     </tr>
     <tr>
       <td>dev-iam</td>
       <td>59f6cd9066c330f6eddc6a546c9bb6905a20d92f</td>
       <td>feat(iam): doctor and patient aggregates added</td>
       <td></td>
-      <td>20/06/24</td>
+      <td>20/11/24</td>
     </tr>
     <tr>
       <td>merge</td>
       <td>8949d7ba32e7290e2aacdf0d4cc1057e7ed7269e</td>
       <td>Merge pull request #20 from LosLuminosos-SW57/dev-iam</td>
       <td></td>
-      <td>20/06/24</td>
+      <td>20/11/24</td>
     </tr>
     <tr>
       <td>consultancy</td>
       <td>ff60b43d5d3c9079096ef71d87e2abcbdfef1fe8</td>
       <td>feat: created new query to get an analysis by id, modified updateAnalysisCommand, implementation of commandServiceImpl, queryServiceImpl finished</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>consultancy</td>
       <td>00e6a3bd5847aa12f86ce55df8dda538a7dae608</td>
       <td>feat: transforms and controller created for Analysis</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>consultancy</td>
       <td>cb7bd6bd0d1421e19829a2b6f2ff9d6431226406</td>
       <td>feat: added sample entity, with its command and repository</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>consultancy</td>
       <td>d45b3ca0392fe1d909a7e0ed1fe0b0c21c3bec36</td>
       <td>feat: created services for entity sample and modified repository</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>consultancy</td>
       <td>c3efeb2cf633f8c2a2edfbbe534a56bc3c085c48</td>
       <td>feat: added the command service and its sample implementation</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>main</td>
       <td>91ad884fc3ea78c71aaa22c1638b600bd754a199</td>
       <td>Merge branch 'consultancy' of https://github.com/LosLuminosos-SW57/medSystem-Backend into consultancy</td>
       <td></td>
-      <td>23/06/24</td>
+      <td>23/11/24</td>
     </tr>
     <tr>
       <td>dev-iam</td>
       <td>408c961d854c784180b66dbe4966583e4b62c982</td>
       <td>feat: added model files into IAM bounded context</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>dev-iam</td>
       <td>76a4524da7cb1cca6bfefdbce23eae000dbdaaef</td>
       <td>feat: added sign-up component into IAM bounded context</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>dev-iam</td>
       <td>3e55a0d6fe6463875c6d6426259f1553500be255</td>
       <td>feat: added sign-in component into IAM bounded context</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>dev-iam</td>
       <td>b4538bd81a98524bdd926e583416b5b16ec59852</td>
       <td>feat: added authentication components and providers</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>dev-laboratory</td>
       <td>a27589a3096486b3eb8d1bf3383bcf88b505ce65</td>
       <td>feat: services for analysis created, add routing for analysis and laboratory analysis component created</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>dev-laboratory</td>
       <td>67c3af82bde8cf5d2f63295eda936f62ca7d68dc</td>
       <td>feat: new analysis component created and alert created in appointment after the POST method</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>dev-laboratory</td>
       <td>8ad4b460849580b606a9f2ce8b133fc4c06ec73a</td>
       <td>feat: added model and service of sample</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>dev-laboratory</td>
       <td>0faa6fe421b32a06815c086043f2a1c6904fd7f9</td>
       <td>feat: added typescript of sample form component and the page where it shows</td>
       <td></td>
-      <td>22/06/24</td>
+      <td>22/11/24</td>
     </tr>
     <tr>
       <td>main</td>
       <td>874ed49c188e4967d91e1fe4e093ac2d5545aaad</td>
       <td>Merge pull request #25 from LosLuminosos-SW57/dev-laboratory</td>
       <td></td>
-      <td>23/06/24</td>
+      <td>23/11/24</td>
     </tr>
   </tbody>
 </table>
@@ -5173,7 +5173,7 @@ Link del video:
 
 <img src= "./assets/about-product.png"/>
 
-Conclusiones
+**Conclusiones**
 
 -Validación del Modelo de Negocio: A lo largo del proyecto, se ha confirmado la viabilidad del modelo de negocio centrado en el desarrollo y comercialización de una plataforma tecnológica destinada a la gestión de clientes en el sector automotriz peruano.
 
@@ -5183,17 +5183,17 @@ Conclusiones
 
 -Potencial de Escalabilidad y Expansión: Con una base establecida sólidamente, existe un gran potencial para la escalabilidad y expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria automotriz en el futuro.
 
-Video About the Team
+**Video About the Team**
 
 Link del video: 
 
-Anexos
+**Anexos**
 
-Link del frontend-web:
+Link del frontend-web: [https://github.com/SuperMedStartUp/Frontend-WebApp](https://github.com/SuperMedStartUp/Frontend-WebApp)
 
-Link del frontend-movil:
+Link del frontend-movil: [https://github.com/SuperMedStartUp/Frontend-Mobile](https://github.com/SuperMedStartUp/Frontend-Mobile)
 
-Link del backend:
+Link del backend: [https://github.com/SuperMedStartUp/Backend](https://github.com/SuperMedStartUp/Backend)
 
 Link del video de exposición:
 
@@ -5201,7 +5201,7 @@ Bibliografía
 
 Vásquez Dávalos, E., & Castillo Noriega, L. (2019). Factores asociados a la práctica de la cesárea en primíparas adolescentes en el Instituto Nacional Materno Perinatal, Lima, Perú. Recuperado de [http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1726-46342019000200020](http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1726-46342019000200020)
 
-World Bank. (2019). La cobertura de salud en el Perú: desafíos y oportunidades. Recuperado de [https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru#:~=La%20Encuesta%20Nacional%20de%20Hogares,y%20el%203%20%25%2C%20respectivamente](https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru#:~ =La%20Encuesta%20Nacional%20de%20Hogares,y%20el%203%20%25%2C%20respectivamente)
+World Bank. (2019). La cobertura de salud en el Perú: desafíos y oportunidades. Recuperado de [(https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru#:~ =La%20Encuesta%20Nacional%20de%20Hogares,y%20el%203%20%25%2C%20respectivamente]((https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru#:~ =La%20Encuesta%20Nacional%20de%20Hogares,y%20el%203%20%25%2C%20respectivamente)
 
 Lucidchart (Lucid). (s.f.). Lucidchart: Diagramming and Visual Communication Made Easy. Lucid. Recuperado de [https://www.lucidchart.com] (https://www.lucidchart.com) [Consulta: 02 de Marzo de 2024].
 
