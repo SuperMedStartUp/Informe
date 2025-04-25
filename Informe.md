@@ -2604,7 +2604,6 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
       <td>18/10/2024</td>
     </tr>
     <tr>
-      <td>MedSystemApp</td>
       <td>feature/navbar</td>
       <td>b12fb29</td>
       <td>feat(navbar): navbar implementation</td>
@@ -2612,7 +2611,6 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
       <td>17/10/2024</td>
     </tr>
     <tr>
-      <td>MedSystemApp</td>
       <td>feature/login</td>
       <td>9fffb1d</td>
       <td>feat: login page modified</td>
@@ -2672,6 +2670,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
       <td>feature/navbar</td>
       <td>8e57bc6</td>
       <td>feat: chat service implementation, and auth with firebase</td>
+	<td></td>
       <td>26/10/2024</td>
     </tr>
     <tr>
