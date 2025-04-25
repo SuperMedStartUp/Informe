@@ -3023,3 +3023,265 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
 		</tr>
 	</tbody>
 </table>
+
+<div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review. </h5></div>
+
+**Fronted-Web**
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="21"></td>
+      <td>master</td>
+      <td>bf3356eea6a8789fd8669fd0e963afe58de968a6</td>
+      <td>chore:initial commit</td>
+      <td></td>
+      <td>25/05/24</td>
+    </tr>
+    <tr>
+      <td>master</td>
+      <td>47a5766356ee27545f3fce9649812ee89f691202</td>
+      <td>feat: OpenApiConfiguration file modified.</td>
+      <td></td>
+      <td>25/04/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-appointments</td>
+      <td>162fda99873f469d54d33d14e0aaadc89f3572cf</td>
+      <td>feat: add AppointmentDateTime value object</td>
+      <td></td>
+      <td>01/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-appointments</td>
+      <td>7a23f01b1294a31d3e724df5dad04b58b245f399</td>
+      <td>feat: add missing lines in AuditableAbstractAggregateRoot, files for bounded context of Appointments created and simple CRUD methods for appointments created</td>
+      <td></td>
+      <td>01/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-appointments</td>
+      <td>c2a0439e1478fef73b1a44a777f91f056e3d603c</td>
+      <td>feat: added new endpoints</td>
+      <td></td>
+      <td>05/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-appointments</td>
+      <td>409cbe6b479c4c99d2308df2d891b752e3dcd508</td>
+      <td>feat: appointments update reason</td>
+      <td></td>
+      <td>05/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-appointments</td>
+      <td>3c955c95f6a12091c43b14e011a4108125086f08</td>
+      <td>feat: created delete method for appointments</td>
+      <td></td>
+      <td>05/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-medicService</td>
+      <td>596637aff1f201e1f971d03d3206bc90de4cbfc8</td>
+      <td>feat: add aggregate RequestResult</td>
+      <td></td>
+      <td>06/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-medicService</td>
+      <td>d35bc9e9a52bca148347b68845a231c48c45a78d</td>
+      <td>feat: add aggregate RequestRepository.</td>
+      <td></td>
+      <td>06/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-medicService</td>
+      <td>c994c26e865d97e1f0bf8017084d996754260dcf</td>
+      <td>feat: add RequestQueryService and implement.</td>
+      <td></td>
+      <td>06/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-medicService</td>
+      <td>99de669569a17cb5e20edc750736568390369b7f</td>
+      <td>feat: add RequestResultResource.</td>
+      <td></td>
+      <td>06/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-medicService</td>
+      <td>7c12ec476a0dc76c89027eeed4a101fb0ce3c651</td>
+      <td>feat: add controller RequestResult.</td>
+      <td></td>
+      <td>06/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-treatments</td>
+      <td>866a15052e04c10acaed3538032afc534c15d776</td>
+      <td>feat: added Treatments aggregates, commands, queries and value objects</td>
+      <td></td>
+      <td>06/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-treatments</td>
+      <td>f54a14b4f6cc595752ed956fdcc33b171c81204c</td>
+      <td>feat: added Treatments services and repository</td>
+      <td></td>
+      <td>06/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-treatments</td>
+      <td>4da3472dd3cbb9563e71c7beeb7c561e5253338c</td>
+      <td>feat: added transform and resource for Treatments</td>
+      <td></td>
+      <td>06/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-treatments</td>
+      <td>a1865a8480136f129cf2f28649c428ed9759aa86</td>
+      <td>feat: added the implementation of the services and the controller for the treatments.</td>
+      <td></td>
+      <td>07/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-request-history</td>
+      <td>e1b6acb694d133100e4503d50a5920c851f79c94</td>
+      <td>feat: created history entity and command</td>
+      <td></td>
+      <td>09/06/24</td>
+    </tr>
+    <tr>
+      <td>feat/dev-request-history</td>
+      <td>b6ea42735b3cec667357eebd91d0e5ef0925e426</td>
+      <td>feat: created history repository and command service</td>
+      <td></td>
+      <td>09/06/24</td>
+    </tr>
+    <tr>
+      <td>master</td>
+      <td>d7d7eb0b8ef9bec479ad229c96fe3c98b99601ac</td>
+      <td>Merge pull request #1 from LosLuminosos-SW57/dev-appointments</td>
+      <td></td>
+      <td>01/06/24</td>
+    </tr>
+    <tr>
+      <td>master</td>
+      <td>c49aced5880302ee9494ef4445245d1f7f5a9817</td>
+      <td>Merge pull request #4 from LosLuminosos-SW57/dev-medicService</td>
+      <td></td>
+      <td>06/06/24</td>
+    </tr>
+    <tr>
+      <td>master</td>
+      <td>2940572fdfc702d29c58f18546564ea86f3d39ce</td>
+      <td>Merge pull request #5 from LosLuminosos-SW57/dev-appointments</td>
+      <td></td>
+      <td>08/06/24</td>
+    </tr>
+  </tbody>
+</table>
+
+**Fronted-Movil**
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit ID</th>
+      <th>Commit Message</th>
+      <th>Committed Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7">MedSystemApp</td>
+      <td>feature/appointments</td>
+      <td>74ef3c8</td>
+      <td>feat: update pages</td>
+      <td></td>
+      <td>09/11/2024</td>
+    </tr>
+    <tr>
+      <td>feature/appointments</td>
+      <td>ad1cd6c</td>
+      <td>feat: delete home_page</td>
+      <td></td>
+      <td>09/11/2024/td>
+    </tr>
+    <tr>
+      <td>feature/appointments</td>
+      <td>7dde1f5</td>
+      <td>Merge branch 'feature/appointments' of https://github.com/MedSolutions-SW65/MedSystemFlutter into feature/appointments</td>
+      <td></td>
+      <td>09/11/2024</td>
+    </tr>
+    <tr>
+      <td>feature/appointments</td>
+      <td>039e814</td>
+      <td>fix: errors in appointments</td>
+      <td></td>
+      <td>09/11/2024</td>
+    </tr>
+    <tr>
+      <td>feature/treatments</td>
+      <td>b9ed52c</td>
+      <td>feat: Add remove treatments page</td>
+      <td></td>
+      <td>09/11/2024</td>
+    </tr>
+    <tr>
+      <td>feature/treatments</td>
+      <td>de66162</td>
+      <td>feat: add history treatments page</td>
+      <td></td>
+      <td>09/11/2024</td>
+    </tr>
+    <tr>
+      <td>feature/treatments</td>
+      <td>2e0e532</td>
+      <td>feat: update treatments view</td>
+      <td></td>
+      <td>10/11/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+<div id='5.2.3.4.'><h5> 5.2.3.4. Testing Suite Evidence for Sprint Review. </h5></div>
+<div id='5.2.3.5.'><h5> 5.2.3.5. Execution Evidence for Sprint Review. </h5></div>
+
+* Swagger
+* Se pondrá la evidencia del nuevo servicio de email, con el correo puesto en el body del email controller en el swagger. Esto desde la aplicación móvil se podrá hacer desde el registro de la cuenta, además que también se implementará cuando se hace la reserva de una cita.vSe usó un correo temporal yopmail para la prueba de envío pero también se podrá usar otros correos como gmail.
+
+<div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence for Sprint Review. </h5></div>
+
+* Appointments
+* Request Results
+* Reports
+* Treatments
+
+<div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review. </h5></div>
+
+Para hacer el despliegue del backend lo hemos divido por dos partes, el deployment de la base de datos y del proyecto
+
+* Base de datos Primero creamos una base de datos MySQL en Azure, al momento de crearlo nos pedira un usuario y contraseña para acceder a ella
+
+Una vez termine de desplegarse copiamos el nombre del servidor y vamos a MySQL Workbench y creamos una nueva conexion y pegamos el nombre del servidor, y ponemos el usuario y contraseña
+
+Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-system-os
+
+* Web Service Para esto creamos un App services en Azure y subimos nuestro proyecto, para esto debemos darle permisos al azure para que pueda entrar a nuestra organizacion y elegir el repositorio y rama que queremos que se despliegue.
+
+<div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint. </h5></div>
+
