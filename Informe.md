@@ -2540,3 +2540,153 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 </table>
 
 * **Fronted - Movíl**
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit ID</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body/th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="20">MedSystemApp</td>
+      <td>feature/appointments</td>
+      <td>0c6e858</td>
+      <td>Initial commit</td>
+      <td></td>
+      <td>23/09/2024</td>
+    </tr>
+    <tr>
+      <td>feature/treatements</td>
+      <td>5ba4d4d</td>
+      <td>feat: add treatments screen added</td>
+      <td></td>
+      <td>23/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/treatements</td>
+      <td>f71d54d</td>
+      <td>feat: treatments bounded context conected with backend</td>
+      <td></td>
+      <td>23/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/treatements</td>
+      <td>74414be</td>
+      <td>fix: separate code from screens</td>
+      <td></td>
+      <td>22/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/treatements</td>
+      <td>2f2d921</td>
+      <td>feat: implements treatmets screen</td>
+      <td></td>
+      <td>22/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/treatements</td>
+      <td>27378c0</td>
+      <td>feat: implement routes</td>
+      <td></td>
+      <td>22/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/navbar</td>
+      <td>596a2cd</td>
+      <td>feat(navbar): duration added</td>
+      <td></td>
+      <td>18/10/2024</td>
+    </tr>
+    <tr>
+      <td>MedSystemApp</td>
+      <td>feature/navbar</td>
+      <td>b12fb29</td>
+      <td>feat(navbar): navbar implementation</td>
+      <td></td>
+      <td>17/10/2024</td>
+    </tr>
+    <tr>
+      <td>MedSystemApp</td>
+      <td>feature/login</td>
+      <td>9fffb1d</td>
+      <td>feat: login page modified</td>
+      <td></td>
+      <td>18/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/login</td>
+      <td>4e901e5</td>
+      <td>feat: register page created</td>
+      <td></td>
+      <td>18/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/login</td>
+      <td>0756925</td>
+      <td>feat: const added</td>
+      <td></td>
+      <td>18/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/login</td>
+      <td>f9e79d6</td>
+      <td>feat(login): added principal design for login page</td>
+      <td></td>
+      <td>17/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/appointments</td>
+      <td>08f6ac1</td>
+      <td>feat: Implementation of the google_nav_bar dependency</td>
+      <td></td>
+      <td>24/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/appointments</td>
+      <td>3f7c15d</td>
+      <td>feat: Implementation of the first appointments view</td>
+      <td></td>
+      <td>25/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/appointments</td>
+      <td>337779c</td>
+      <td>feat: navbar implementation</td>
+      <td></td>
+      <td>25/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/appointments</td>
+      <td>654ef23</td>
+      <td>feat: implementation of the main page to the main</td>
+      <td></td>
+      <td>25/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/navbar</td>
+      <td>8e57bc6</td>
+      <td>feat: chat service implementation, and auth with firebase</td>
+      <td>26/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/profile</td>
+      <td>f702a88</td>
+      <td>feat: profile design updated</td>
+      <td></td>
+      <td>25/10/2024</td>
+    </tr>
+    <tr>
+      <td>feature/profile</td>
+      <td>6e4f2a5</td>
+      <td>feat: profile page implemented</td>
+      <td></td>
+      <td>25/10/2024</td>
+    </tr>
+  </tbody>
+</table>
