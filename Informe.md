@@ -2668,3 +2668,17 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
     </tr>
   </tbody>
 </table>
+
+<div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Reviews. </h5></div>
+
+<div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
+
+* Login
+* Doctor Appointments
+* Doctor Treatements
+* Doctor Request History
+* Doctor Request Results
+* Patient Appointments
+* Patient Request Results
+* Patient Request History
+* 
