@@ -2673,6 +2673,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 
 <div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
 
+Fronted - Web
 * Login
 * Doctor Appointments
 * Doctor Treatements
@@ -2681,4 +2682,97 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 * Patient Appointments
 * Patient Request Results
 * Patient Request History
-* 
+
+Fronted - Movil
+* Vista de inicio de sesión
+* Vista de registro de usuario
+* Vista que muestra las citas de un paciente
+* Vista que muestra el registro de una cita
+* Vista que muestra un calendario que permite elegir la fecha de la cita
+* Vista que muestra el resumen de la cita registrada
+* Vista que muestra la pantalla de los tratamientos concurridos
+* Agregar un tratamiento de parte del doctor
+* Servicio de chat elegir sesión
+* Chat dentro de sesión entre 2 usuarios
+* Pantalla de perfil, donde se mostrará la información básica del usuario
+
+<div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h5></div>
+
+Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados con OpenAPI y se realizará en las próximas entregas.
+
+<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h5></div>
+
+* Creamos un proyecto en Firebase
+* Seguimos los pasosque nos indican hasta llegar a esta pestana
+* Luego en la terminal del proyecyo ponemos el siguiente comando -> ng run build
+  Una vez heho eso ponemos lo siguiente -> firebase deploy
+  Una vez hecho eso ya estaria desplegada la página firebase deploy
+
+**Autenticación:**
+También se hizo la autenticación con firebase con correo y contraseña
+
+**Base de datos para el chat:**
+Lo hemos desplegado en firebase el servicio de chat, donde se guardarán los mensajes, las sesiones de chat entre usuarios y su información de autenticación, el correo y contraseñas
+
+<div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint. </h5></div>
+
+<div id='5.2.2.'><h4> 5.2.3. Sprint 3.</h4></div>
+
+<div id='5.2.2.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
+
+Se planeó el tercer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Sprint #</td>
+			<td>Sprint 3</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Planning Background</td>
+		</tr>
+		<tr>
+			<td>Date</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Time</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Location</td>
+			<td>Virtual</td>
+		</tr>
+		<tr>
+			<td>Prepared by</td>
+			<td>Palomino Santa Cruz, Erick Joaquin</td>
+		</tr>
+		<tr>
+			<td>Attendees (to planning meeting)</td>
+			<td>- Boronda Heidinger, Astrid Jimena <br> - Ventura Chancafe, Eduardo Renato <br> - Palma Obispo, Adrián Enrique Jesús <br> - Montes Figueroa. Juan Eduardo <br> - Palomino Santa Cruz, Erick Joaquin</td>
+		</tr>
+		<tr>
+			<td>Sprint n - 2 Review Summary</td>
+			<td>En Sprint 2, se logró desarrollar la mayor parte de la aplicación tanto para web como para movil, además de la integración como la de Firebase para usar su servicio de autenticación.</td>
+		</tr>
+		<tr>
+			<td>Sprint n - 2 Retrospective Summary</td>
+			<td>El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, y se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado.</td>
+		</tr>
+		<tr>
+			<td colspan="2">Sprint Goal & User Stories</td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Goal</td>
+			<td>El objetivo principal que tiene este sprint 3 es elaborar y desplegar el BackEnd web applications para el negocio. También avanzar en la implementación de nuevas pantallas para la vista del doctor y mejorar la lógica en algunos servicios desde el backend.</td>
+		</tr>
+		<tr>
+			<td>Sprint 3 Velocity</td>
+			<td>12</td>
+		</tr>
+		<tr>
+			<td>Sum of Story Points</td>
+			<td>12</td>
+		</tr>
+	</tbody>
+</table>
