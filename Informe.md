@@ -2045,6 +2045,8 @@ Hemos realizado los acceptance test para las user stories del sprint:
 
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
 
+* Web
+
 Desarrollo de la barra de navegacion para la correcta navagacion a travez de todo el documento y la seccion home:
 
 <img src= "./assets/evidence-barra-navegacion.png"/>
@@ -2064,6 +2066,20 @@ Sección de Team:
 Seccion de Contact Us y Footer:
 
 <img src= "./assets/evidence-contact-footer.png"/>
+
+* Movil
+
+Desarrollo de la vista de citas médicas para el paciente.
+
+<img src= "./assets/evidence-cita.png"/>
+
+Creación de cita
+
+<img src= "./assets/evidence-creacion.png"/>
+
+Citas disponibles de paciente
+
+<img src= "./assets/evidence-disponible.png"/>
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
