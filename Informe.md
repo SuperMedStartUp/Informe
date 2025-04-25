@@ -2099,15 +2099,13 @@ Presionamos save y tendremos que esperar que se despliegue la página
 
 <img src= "./assets/service-save.png"/>
 
-<img src= "./assets/service-despliegue.png"/>
+<img src= "./assets/service-deploy.png"/>
 
 **Link de la landing page desplegada:** 
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
 
-Los insights se sacaron del mismo apartado de Insights dentro del repositiorio de la landing page:
-
-<img src= "./assets/team-landing.png"/>
+<img src= "./assets/team-1.png"/>
 
 <div id='5.2.2.'><h4> 5.2.2. Sprint 2.</h4></div>
 
@@ -2729,30 +2727,95 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Reviews. </h5></div>
 
+<img src= "./assets/testing-2.1.png"/>
+
+<img src= "./assets/testing-2.2.png"/>
+
+<img src= "./assets/testing-2.3.png"/>
+
+<img src= "./assets/testing-2.4.png"/>
+
+<img src= "./assets/testing-2.5.png"/>
+
 <div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
 
 Fronted - Web
 * Login
+
+<img src= "./assets/execution-login.png"/>
+  
 * Doctor Appointments
+
+<img src= "./assets/execution-doctor.png"/>
+
 * Doctor Treatements
+
+<img src= "./assets/execution-treatement.png"/>
+
 * Doctor Request History
+
+<img src= "./assets/execution-request.png"/>
+
 * Doctor Request Results
+
+<img src= "./assets/execution-results.png"/>
+
 * Patient Appointments
+
+<img src= "./assets/execution-patient.png"/>
+
 * Patient Request Results
+
+<img src= "./assets/execution-presults.png"/>
+
 * Patient Request History
+
+<img src= "./assets/execution-history.png"/>
 
 Fronted - Movil
 * Vista de inicio de sesión
+
+<img src= "./assets/execution-2.1.png"/>
+
 * Vista de registro de usuario
+
+<img src= "./assets/execution-2.2.png"/>
+
 * Vista que muestra las citas de un paciente
+
+<img src= "./assets/execution-2.3.png"/>
+
 * Vista que muestra el registro de una cita
+
+<img src= "./assets/execution-2.4.png"/>
+
 * Vista que muestra un calendario que permite elegir la fecha de la cita
+
+<img src= "./assets/execution-2.5.png"/>
+
 * Vista que muestra el resumen de la cita registrada
+
+<img src= "./assets/execution-2.6.png"/>
+
 * Vista que muestra la pantalla de los tratamientos concurridos
+
+<img src= "./assets/execution-2.7.png"/>
+
 * Agregar un tratamiento de parte del doctor
+
+<img src= "./assets/execution-2.8.png"/>
+
 * Servicio de chat elegir sesión
+
+<img src= "./assets/execution-2.19.png"/>
+
 * Chat dentro de sesión entre 2 usuarios
+  
+<img src= "./assets/execution-2.10.png"/>
+ 
 * Pantalla de perfil, donde se mostrará la información básica del usuario
+
+<img src= "./assets/execution-2.11.png"/>
 
 <div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
