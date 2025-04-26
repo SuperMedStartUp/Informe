@@ -35,11 +35,11 @@
         </tr>
         <tr>
             <td>Ventura Chancafe, Eduardo Renato </td>
-            <td></td>
+            <td>u202212645</td>
         </tr>
         <tr>
             <td>Palma Obispo, Adrián Enrique Jesús</td>
-            <td></td>
+            <td>u202210066</td>
         </tr>
         <tr>
             <td>Montes Figueroa. Juan Eduardo</td>
