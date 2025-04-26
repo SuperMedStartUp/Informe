@@ -492,7 +492,9 @@ MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión d
 
 ### 2.2.2. Registro de entrevistas.
 
-|Entrevista 2|Abril Gloria Montes Jiménez|
+**Segmento Paciente**
+
+|Entrevista 1|Abril Gloria Montes Jiménez|
 | - | - |
 |Edad|50 años|
 |Distrito|La Molina|
@@ -501,22 +503,22 @@ MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión d
 |Timing|07:56 - 14:47|
 
 
-|Entrevista 3|Jorge Villavicencio|
+|Entrevista 2|Jorge Villavicencio|
 | - | - |
 |Edad|64 años|
 |Distrito|Santiago de surco|
-|![Imagen3.png](images/Imagen3.png)|Jorge Villavicencio es un adulto de 64 años, que vive en Santiago de Surco, tiene como sistemas operativos de preferencia Windows en ordenador y IOS en móviles. Dentro de la entrevista realizada, podemos destacar la importancia que le da a la tecnologías al momento de la realización de citas médicas, como para la revisión de los resultados de sus chequeos médicos. Nos comenta el beneficio que brinda poder conocer al médico que lo atiende y poder coordinar de manera rápida  y efectiva una cita, evitando los típicos protocolos tediosos y posibles demoras que suceden a lo largo de este.|
+|![Imagen3.png](assets/images/Imagen3.png)|Jorge Villavicencio es un adulto de 64 años, que vive en Santiago de Surco, tiene como sistemas operativos de preferencia Windows en ordenador y IOS en móviles. Dentro de la entrevista realizada, podemos destacar la importancia que le da a la tecnologías al momento de la realización de citas médicas, como para la revisión de los resultados de sus chequeos médicos. Nos comenta el beneficio que brinda poder conocer al médico que lo atiende y poder coordinar de manera rápida  y efectiva una cita, evitando los típicos protocolos tediosos y posibles demoras que suceden a lo largo de este.|
 |URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
 |Timing|14:48 - 25:33|
 
-**Segmento Médico**
+**Segmento Doctor**
 
 
 |Entrevista 1|Gaby Manrique|
 | - | - |
 |Edad|50 años|
 |Distrito|La Molina|
-|![Entrevista2.png](images/Entrevista2.png)|Gaby Manrique es una adulta de 50 años, que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Microsoft Edge. Durante la entrevista con Gaby, llevada a cabo a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos diarios que enfrenta en su práctica médica. La doctora destacó la necesidad de herramientas tecnológicas eficientes para gestionar sus citas y comunicarse con otros profesionales de la salud y laboratorios. Mencionó que prefiere recibir pedidos médicos y resultados de pruebas de manera electrónica, utilizando plataformas seguras y fáciles de usar. En cuanto a la tecnología, el médico utilizó su computadora de escritorio con el navegador Chrome durante la videoconferencia. Además, expresó preocupación por la seguridad y privacidad de los datos médicos, destacando la importancia de medidas sólidas de protección de la información en línea.|
+|![Entrevista2.png](assets/images/Entrevista2.png)|Gaby Manrique es una adulta de 50 años, que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Microsoft Edge. Durante la entrevista con Gaby, llevada a cabo a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos diarios que enfrenta en su práctica médica. La doctora destacó la necesidad de herramientas tecnológicas eficientes para gestionar sus citas y comunicarse con otros profesionales de la salud y laboratorios. Mencionó que prefiere recibir pedidos médicos y resultados de pruebas de manera electrónica, utilizando plataformas seguras y fáciles de usar. En cuanto a la tecnología, el médico utilizó su computadora de escritorio con el navegador Chrome durante la videoconferencia. Además, expresó preocupación por la seguridad y privacidad de los datos médicos, destacando la importancia de medidas sólidas de protección de la información en línea.|
 |URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
 |Timing|25:34 - 33:12|
 
@@ -525,10 +527,17 @@ MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión d
 | - | - |
 |Edad|28 años|
 |Distrito|San Borja|
-|![Entrevista3.png](images/Entrevista3.png)|Javier Puertas, médico traumatólogo de 28 años en Lima, enfrenta desafíos en la gestión del tiempo y la coordinación con otros especialistas. Utiliza Windows y Android para su trabajo y prefiere herramientas tecnológicas seguras y fáciles de usar. Destaca la necesidad de aplicaciones integradas para la gestión de citas y comunicación con otros médicos. Prioriza la seguridad, facilidad de uso e integración al elegir tecnología. Además, valora la telemedicina y la historia clínica electrónica, pero señala la importancia de recibir formación adecuada para utilizar estas herramientas eficazmente.|
+|![Entrevista3.png](assets/images/Entrevista3.png)|Javier Puertas, médico traumatólogo de 28 años en Lima, enfrenta desafíos en la gestión del tiempo y la coordinación con otros especialistas. Utiliza Windows y Android para su trabajo y prefiere herramientas tecnológicas seguras y fáciles de usar. Destaca la necesidad de aplicaciones integradas para la gestión de citas y comunicación con otros médicos. Prioriza la seguridad, facilidad de uso e integración al elegir tecnología. Además, valora la telemedicina y la historia clínica electrónica, pero señala la importancia de recibir formación adecuada para utilizar estas herramientas eficazmente.|
 |URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
 |Timing|33:13 - 43:08|
 
+
+|Entrevista 3|Niurka Puertas|
+| - | - |
+|Edad|29 años|
+|Distrito|Surco|
+|![Entrevistaaa.png](assets/images/Entrevistaaa.png)|Niurka es una médica joven de 29 años. Ella comenta que los mayores desafíos que atraviesa son el manejo del tiempo entre consultas y cirugías, lo que dificulta la coordinación con otros especialistas. Suele usar una computadora de escritorio y un celular destinado a la consulta de citas y comunicación con sus colegas. Destaca que los sistemas de gestión de citas, recordatorios automáticos y chats con sus compañeros le serían muy útiles en su ambiente laboral. Quiere que una aplicación que la ayude proporciones seguridad y fácil de usar, además que pueda acoplarse a otros sistemas que se usan dentro de su trabajo. Quisiera que una aplicación le proporcionen un resumen del paciente detallando diagnósticos anteriores, resultado de pruebas y detalles de la consulta que la ayudarian a estar mejor preparada. Menciona que es importante que la información que se maneja deba ser cifrada y sea accesible solo para el personal médico. Piensa que la tecnología puede mejorar la atención para tener mejores diagnósticos y tener planificación con cirugías.|[[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EW8b3liS-xZFl_T7m-yoKagBpp2ko1YMrTmcKQ2lcI6v4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DQNgVY)]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EW8b3liS-xZFl_T7m-yoKagBpp2ko1YMrTmcKQ2lcI6v4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DQNgVY))|
+|Timing|17:37 - 23:04|
 
 # 2.2.3. Análisis de entrevistas
 
