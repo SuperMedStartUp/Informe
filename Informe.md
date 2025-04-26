@@ -2463,7 +2463,7 @@ Registro de commits hechos por los integrantes del grupo en este sprint.
     </tr>
   </thead>
   <tbody>
-    <tr><td rowspan="24"></td><td>feature/appointments</td><td>0c6e858</td><td>Initial commit</td><td></td><td>23/09/2024</td></tr>
+    <tr><td rowspan="24">SuperMedStartUp/LandingPage</td><td>feature/appointments</td><td>0c6e858</td><td>Initial commit</td><td></td><td>23/09/2024</td></tr>
     <tr><td>feature/appointments</td><td>f82d9b1</td><td>chore: plugins added, and basic resources</td><td></td><td>25/09/2024</td></tr>
     <tr><td>feature/appointments</td><td>a9e5e17</td><td>feat: add api link</td><td></td><td>25/09/2024</td></tr>
     <tr><td>feature/appointments</td><td>fab07ad</td><td>feat: AppointmentDto implemented</td><td></td><td>26/09/2024</td></tr>
@@ -3061,7 +3061,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 			<td>Commited on (Date)</td>
 		</tr>
 		<tr>
-			<td rowspan="22"></td>
+			<td rowspan="22">SuperMedStartUp/Fronted-WebApp</td>
 			<td>master</td>
 			<td>8a46e23543954eddda2eb37cd34ad4d6af1ca96a</td>
 			<td>chore:initial commit</td>
@@ -3233,7 +3233,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
   </thead>
   <tbody>
     <tr>
-      <td rowspan="20">MedSystemApp</td>
+      <td rowspan="20">SuperMedStartUp/Fronted-Mobile</td>
       <td>feature/appointments</td>
       <td>0c6e858</td>
       <td>Initial commit</td>
@@ -3818,7 +3818,7 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
   </thead>
   <tbody>
     <tr>
-      <td rowspan="21"></td>
+      <td rowspan="21">SuperMedStartUp/Fronted-WebApp</td>
       <td>master</td>
       <td>bf3356eea6a8789fd8669fd0e963afe58de968a6</td>
       <td>chore:initial commit</td>
@@ -3983,7 +3983,7 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7">MedSystemApp</td>
+      <td rowspan="7">SuperMedStartUp/Fronted-Mobile</td>
       <td>feature/appointments</td>
       <td>74ef3c8</td>
       <td>feat: update pages</td>
@@ -4398,7 +4398,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
   </thead>
   <tbody>
     <tr>
-      <td rowspan="19"></td>
+      <td rowspan="19">SuperMedStartUp/Fronted-WebApp</td>
       <td>main</td>
       <td>54fac702b33b6986ca08a5a61944236b1b40323c</td>
       <td>feat: added option for change language</td>
@@ -4556,7 +4556,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
   </thead>
   <tbody>
     <tr>
-      <td rowspan="28"></td>
+      <td rowspan="28">SuperMedStartUp/Fronted-Mobile</td>
       <td>main</td>
       <td>8340709</td>
       <td>feat: added multiple bloc provider, and fix baseUrl url</td>
