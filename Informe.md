@@ -5201,16 +5201,29 @@ En esta sección se abordan los pilares fundamentales de un enfoque de Continuou
 Para garantizar una entrega continua eficaz, se pueden emplear diversas herramientas especializadas que permiten automatizar cada fase del ciclo de vida del software. Entre las principales se encuentran:
 
 - GitLab CI: Sistema integrado de CI/CD dentro de GitLab, que facilita la automatización del proceso de construcción, prueba y despliegue directamente desde el repositorio del proyecto.
+
+<img src="assets/githubCI-Logo.png" width="50%" alt="logo">
   
 - Jenkins: Plataforma de automatización de código abierto ampliamente adoptada para procesos de integración y entrega continuas (CI/CD). Permite orquestar pipelines personalizados para compilar, probar y desplegar aplicaciones de forma automatizada.
-  
+
+<img src="assets/jenkins-Logo.png" width="50%" alt="logo">
+
 - GitHub Actions: Herramienta de automatización integrada en GitHub que permite definir flujos de trabajo personalizados para ejecutar acciones como pruebas y despliegues en función de eventos del repositorio.
   
+<img src="assets/githubActions-Logo.png" width="50%" alt="logo">
+
 - Docker: Tecnología de contenedores que permite empaquetar aplicaciones junto con sus dependencias en entornos aislados y portables, asegurando coherencia entre los entornos de desarrollo, pruebas y producción.
-  
+
+<img src="assets/docker-Logo.png" width="50%" alt="logo">
+
 - Kubernetes: Plataforma de orquestación de contenedores que gestiona el despliegue, escalado y operación de aplicaciones distribuidas en contenedores, garantizando disponibilidad y rendimiento.
+
+<img src="assets/kubernetes-Logo.png" width="50%" alt="logo">
   
 - CircleCI: Servicio de CI/CD que ofrece pipelines rápidos y configurables para automatizar pruebas, compilaciones y entregas, optimizando los ciclos de desarrollo.
+
+<img src="assets/circleCI-Logo" width="50%" alt="logo">
+
 
 ### 7.2.2. Stages Deployment Pipeline Components.
 
