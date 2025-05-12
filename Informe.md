@@ -5204,14 +5204,14 @@ Para garantizar una entrega continua eficaz, se pueden emplear diversas herramie
 
 <div align="center">
     <img src="assets/githubCI-Logo.png" 
-  width=50%"/>
+  width=30%"/>
 </div>
   
 - Jenkins: Plataforma de automatización de código abierto ampliamente adoptada para procesos de integración y entrega continuas (CI/CD). Permite orquestar pipelines personalizados para compilar, probar y desplegar aplicaciones de forma automatizada.
 
 <div align="center">
     <img src="assets/jenkins-Logo.png"
-  width=50%"/>
+  width=30%"/>
 </div>
 
 - GitHub Actions: Herramienta de automatización integrada en GitHub que permite definir flujos de trabajo personalizados para ejecutar acciones como pruebas y despliegues en función de eventos del repositorio.
@@ -5219,28 +5219,28 @@ Para garantizar una entrega continua eficaz, se pueden emplear diversas herramie
 
 <div align="center">
     <img src="assets/githubActions-Logo.png" 
-  width=50%"/>
+  width=30%"/>
 </div>
 
 - Docker: Tecnología de contenedores que permite empaquetar aplicaciones junto con sus dependencias en entornos aislados y portables, asegurando coherencia entre los entornos de desarrollo, pruebas y producción.
 
 <div align="center">
     <img src="assets/docker-Logo.png" 
-  width=50%"/>
+  width=30%"/>
 </div>
 
 - Kubernetes: Plataforma de orquestación de contenedores que gestiona el despliegue, escalado y operación de aplicaciones distribuidas en contenedores, garantizando disponibilidad y rendimiento.
 
 <div align="center">
     <img src="assets/kubernetes-Logo.png" 
-  width=50%"/>
+  width=30%"/>
 </div>
 
 - CircleCI: Servicio de CI/CD que ofrece pipelines rápidos y configurables para automatizar pruebas, compilaciones y entregas, optimizando los ciclos de desarrollo.
 
 <div align="center">
     <img src="assets/circleCI-Logo.png"  
-  width=50%"/>
+  width=30%"/>
 </div>
 
 
