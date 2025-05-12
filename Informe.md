@@ -5216,23 +5216,17 @@ Para garantizar una entrega continua eficaz, se pueden emplear diversas herramie
 
 A continuación, se describe el pipeline de despliegue diseñado para el proyecto, donde cada etapa cumple una función específica para garantizar una entrega continua, estable y alineada a los requerimientos del producto.
 
-1. Commit de Código
-El proceso inicia cuando un desarrollador realiza un commit en el repositorio, registrando los cambios realizados en el sistema de control de versiones. Se emplea Git para gestionar la trazabilidad y colaboración en el código.
+1. Commit de Código: El proceso inicia cuando un desarrollador realiza un commit en el repositorio, registrando los cambios realizados en el sistema de control de versiones. Se emplea Git para gestionar la trazabilidad y colaboración en el código.
 
-2. Compilación (Build)
-En esta fase se construyen los artefactos del software y se ejecutan pruebas unitarias que validan la funcionalidad de cada componente de manera aislada. La herramienta utilizada es Jenkins, configurada para generar versiones confiables tras cada integración.
+2. Compilación (Build): En esta fase se construyen los artefactos del software y se ejecutan pruebas unitarias que validan la funcionalidad de cada componente de manera aislada. La herramienta utilizada es Jenkins, configurada para generar versiones confiables tras cada integración.
 
-3. Pruebas Automatizadas (Test)
-Se llevan a cabo pruebas automáticas que abarcan aspectos unitarios, de integración entre componentes y pruebas funcionales. Las herramientas empleadas son: JUnit para pruebas unitarias, Postman para pruebas de integración sobre servicios, y Selenium para pruebas funcionales de interfaz.
+3. Pruebas Automatizadas (Test): Se llevan a cabo pruebas automáticas que abarcan aspectos unitarios, de integración entre componentes y pruebas funcionales. Las herramientas empleadas son: JUnit para pruebas unitarias, Postman para pruebas de integración sobre servicios, y Selenium para pruebas funcionales de interfaz.
 
-4. Pruebas de Aceptación (Acceptance Test)
-Esta etapa simula escenarios reales de uso para asegurar que la solución cumple con los requisitos definidos por el cliente. Se utiliza Cucumber, que permite definir casos de prueba en lenguaje natural y automatizarlos.
+4. Pruebas de Aceptación (Acceptance Test): Esta etapa simula escenarios reales de uso para asegurar que la solución cumple con los requisitos definidos por el cliente. Se utiliza Cucumber, que permite definir casos de prueba en lenguaje natural y automatizarlos.
 
-5.Entorno de Staging
-La aplicación se despliega en un entorno de preproducción o staging, que replica las condiciones del entorno final. Esto permite validar el comportamiento general del sistema antes del lanzamiento. Se utiliza Docker para generar y ejecutar los contenedores que conforman el entorno.
+5. Entorno de Staging: La aplicación se despliega en un entorno de preproducción o staging, que replica las condiciones del entorno final. Esto permite validar el comportamiento general del sistema antes del lanzamiento. Se utiliza Docker para generar y ejecutar los contenedores que conforman el entorno.
 
-6.Despliegue en Producción
-Finalmente, la versión validada se despliega en el entorno de producción para su uso por parte de los usuarios finales. La implementación se realiza mediante Kubernetes, que permite una gestión eficiente del despliegue y garantiza la disponibilidad del sistema.
+6. Despliegue en Producción: Finalmente, la versión validada se despliega en el entorno de producción para su uso por parte de los usuarios finales. La implementación se realiza mediante Kubernetes, que permite una gestión eficiente del despliegue y garantiza la disponibilidad del sistema.
 
 
 
