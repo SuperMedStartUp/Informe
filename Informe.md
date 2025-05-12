@@ -5184,6 +5184,59 @@ Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_
 
 <img src= "./assets/about-product.png"/>
 
+# 7. Capítulo VII: DevOps Practices
+
+## 7.1. Continuous Integration
+
+### 7.1.1. Tools and Practices.
+
+### 7.1.2. Build & Test Suite Pipeline Components.
+
+## 7.2. Continuous Delivery
+
+En esta sección se abordan los pilares fundamentales de un enfoque de Continuous Delivery (CD), esencial para asegurar una entrega ágil, consistente y confiable del software. Este enfoque contempla principalmente: la automatización integral de pruebas (unitarias, de integración, funcionales y de aceptación), la preparación de entornos de prueba automáticos y la ejecución de pruebas de rendimiento y carga para validar el comportamiento del sistema bajo condiciones exigentes.
+
+### 7.2.1. Tools and Practices.
+
+Para garantizar una entrega continua eficaz, se pueden emplear diversas herramientas especializadas que permiten automatizar cada fase del ciclo de vida del software. Entre las principales se encuentran:
+
+- GitLab CI: Sistema integrado de CI/CD dentro de GitLab, que facilita la automatización del proceso de construcción, prueba y despliegue directamente desde el repositorio del proyecto.
+  
+- Jenkins: Plataforma de automatización de código abierto ampliamente adoptada para procesos de integración y entrega continuas (CI/CD). Permite orquestar pipelines personalizados para compilar, probar y desplegar aplicaciones de forma automatizada.
+  
+- GitHub Actions: Herramienta de automatización integrada en GitHub que permite definir flujos de trabajo personalizados para ejecutar acciones como pruebas y despliegues en función de eventos del repositorio.
+  
+- Docker: Tecnología de contenedores que permite empaquetar aplicaciones junto con sus dependencias en entornos aislados y portables, asegurando coherencia entre los entornos de desarrollo, pruebas y producción.
+  
+- Kubernetes: Plataforma de orquestación de contenedores que gestiona el despliegue, escalado y operación de aplicaciones distribuidas en contenedores, garantizando disponibilidad y rendimiento.
+  
+- CircleCI: Servicio de CI/CD que ofrece pipelines rápidos y configurables para automatizar pruebas, compilaciones y entregas, optimizando los ciclos de desarrollo.
+
+### 7.2.2. Stages Deployment Pipeline Components.
+
+A continuación, se describe el pipeline de despliegue diseñado para el proyecto, donde cada etapa cumple una función específica para garantizar una entrega continua, estable y alineada a los requerimientos del producto.
+
+1. Commit de Código
+El proceso inicia cuando un desarrollador realiza un commit en el repositorio, registrando los cambios realizados en el sistema de control de versiones. Se emplea Git para gestionar la trazabilidad y colaboración en el código.
+
+2. Compilación (Build)
+En esta fase se construyen los artefactos del software y se ejecutan pruebas unitarias que validan la funcionalidad de cada componente de manera aislada. La herramienta utilizada es Jenkins, configurada para generar versiones confiables tras cada integración.
+
+3. Pruebas Automatizadas (Test)
+Se llevan a cabo pruebas automáticas que abarcan aspectos unitarios, de integración entre componentes y pruebas funcionales. Las herramientas empleadas son: JUnit para pruebas unitarias, Postman para pruebas de integración sobre servicios, y Selenium para pruebas funcionales de interfaz.
+
+4. Pruebas de Aceptación (Acceptance Test)
+Esta etapa simula escenarios reales de uso para asegurar que la solución cumple con los requisitos definidos por el cliente. Se utiliza Cucumber, que permite definir casos de prueba en lenguaje natural y automatizarlos.
+
+5.Entorno de Staging
+La aplicación se despliega en un entorno de preproducción o staging, que replica las condiciones del entorno final. Esto permite validar el comportamiento general del sistema antes del lanzamiento. Se utiliza Docker para generar y ejecutar los contenedores que conforman el entorno.
+
+6.Despliegue en Producción
+Finalmente, la versión validada se despliega en el entorno de producción para su uso por parte de los usuarios finales. La implementación se realiza mediante Kubernetes, que permite una gestión eficiente del despliegue y garantiza la disponibilidad del sistema.
+
+
+
+
 **Conclusiones**
 
 -Validación del Modelo de Negocio: A lo largo del proyecto, se ha confirmado la viabilidad del modelo de negocio centrado en el desarrollo y comercialización de una plataforma tecnológica destinada a la gestión de clientes en el sector automotriz peruano.
