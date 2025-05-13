@@ -5185,12 +5185,25 @@ Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_
 <img src= "./assets/about-product.png"/>
 
 # 7. Capítulo VII: DevOps Practices
+Para facilitar las implementaciones y mantener una integración continua eficiente en equipo, se optó por utilizar:
 
 ## 7.1. Continuous Integration
+### Gherkin
+Se empleó la herramienta Gherkin para definir criterios de aceptación, permitiendo describir escenarios de prueba de forma clara y comprensible para todos los miembros del equipo.
+![Gherkin](https://qarevolution.com/wp-content/uploads/2020/01/clipart1579509-1.png)
+
+### WebStorm
+Para realizar modificaciones en el código, se utilizó WebStorm, un entorno de desarrollo destacado por su flexibilidad, soporte para múltiples lenguajes y funcionalidades específicas que optimizan el trabajo en proyectos complejos.
+![WebStorm](https://th.bing.com/th/id/OIP.bPAc5IDIecLMW5ZlSQAGzQHaHa?rs=1&pid=ImgDetMain)
 
 ### 7.1.1. Tools and Practices.
+En este apartado se utilizó la siguiente herramienta:
+### Selenium
+Una herramienta ampliamente adoptada para realizar pruebas automatizadas de caja negra en aplicaciones web. Ofrece soporte para múltiples lenguajes de programación y permite validar la funcionalidad del sistema mediante pruebas de entradas y salidas desde la perspectiva del usuario final.
+![Cypress](https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png)
 
 ### 7.1.2. Build & Test Suite Pipeline Components.
+A continuación las evidencias:
 
 ## 7.2. Continuous Delivery
 
