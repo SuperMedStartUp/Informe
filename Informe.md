@@ -5275,7 +5275,13 @@ A continuación, se describe el pipeline de despliegue diseñado para el proyect
 
 6. Despliegue en Producción: Finalmente, la versión validada se despliega en el entorno de producción para su uso por parte de los usuarios finales. La implementación se realiza mediante Kubernetes, que permite una gestión eficiente del despliegue y garantiza la disponibilidad del sistema.
 
+## 7.3. Continuous deployment
 
+Consiste en liberar nuevas características de un programa de manera constante, utilizando procesos de implementación automatizados. Se diferencia de la entrega continua, donde las actualizaciones del software también se producen con frecuencia y están listas para ser puestas en marcha, pero no se liberan automáticamente. Siendo así, el despliegue continuo lleva la automatización un paso más allá que la entrega continua, asegurando que los cambios en el software se implementen de forma inmediata y sin intervención manual, siempre y cuando superen las pruebas necesarias.
+
+### 7.3.1. Tools and Practices
+
+### 7.3.2. Production Deployment Pipeline Components
 
 
 **Conclusiones**
