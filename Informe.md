@@ -49,6 +49,10 @@
             <td>Palomino Santa Cruz, Erick Joaquin</td>
             <td>U202214843</td>
         </tr>
+	<tr>
+            <td>Chinchihualpa Saldarriaga, Luis Sebastian</td>
+            <td>U202212112</td>
+        </tr>
     </table>
 </div>
 
@@ -294,6 +298,9 @@ SuperMed es una startup creada por estudiantes de la Facultad de Ingeniería de 
 | <img src="assets/foto-astrid.png" width="50%" alt="Imagen del compañero"> | Astrid Jimena Boronda Heidinger  | u202215823           | Ingeniería de Software | Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, Java y Python. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. Me adapto muy bien a los trabajos en equipo.                                  |
 | <img src="assets/Eduardo.jpg">    | Eduardo Renato Ventura Chancafe | u202212645           | Ingeniería de Software |    Soy estudiante universitario que cursa su 7to ciclo. Dentro del startup me encargo con el desarrollo del diseño ,QA y gestión del equipo, pues tengo conocimientos adicionales a los de mi sector. Además, apoyaré en el desarrollo del código trabajando de forma cohesionada con mis compañeros. Asimismo, cuento con conocimientos en herramientas como HTML, CSS, JavaScript, Python, C++, Cypress, NodeJs, NestJs y Agile Project Management.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | <img src="https://github.com/user-attachments/assets/7cde484d-075c-43c2-a101-55bab3a9ada1" width="50%" alt="Imagen del compañero">          | Adrian Enrique Jesus Palma Obispo | u202210066                     | Ingeniería de Software | Soy estudiante universitario, tengo 19 años y me gusta la creatividad e innovacion de mi carrera, tengo conocimientos en la gestión de proyectos a corto y largo plazos de categoría tecnológica y me especializo en frameworks como Remix, Vue, angular y lenguajes como C++, C# y javascript |
+
+     |
+| <img src="assets/foto-Luis.png" width="50%" alt="Imagen del compañero">  | Chinchihualpa Saldarriaga, Luis Sebastian       | u202212112         | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y actualmente estoy cursando el séptimo ciclo. Sé programar en C++, Java y un poco de Python, ademas de manejar tecnologías como Angular, Flutter y Springboot. Me considero una persona muy responsable, exigente y trabajadora. En el grupo del proyecto puedo aportar con mis conocimientos adquiridos en los cursos de Especificación y Análisis de Requerimientos, Algoritmos y Estructuras de Datos, Diseño y Patrones de Software y Desarrollo de Aplicaciones Open Source.                                                                                                                  |     
 ## 1.2 Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
