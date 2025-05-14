@@ -5286,6 +5286,23 @@ Consiste en la capacidad de entregar características de un programa de manera c
 
 ### 7.3.2. Production Deployment Pipeline Components
 
+1. Sistemas de control de versiones:
+El proyecto utiliza Git como sistema de control de versiones, permitiendo llevar un seguimiento detallado de los cambios realizados en el código fuente. El repositorio se aloja en una plataforma como GitHub, lo que permite facilitar la colaboración entre desarrolladores, la gestión de ramas y el despliegue continuo. Esta gestión estructurada del código garantiza trazabilidad y control ante posibles errores o retrocesos.
+
+2. Procesos de construcción automatizados:
+La aplicación se construye con Maven, una herramienta de automatización que permite compilar el código fuente, resolver dependencias y generar un artefacto .jar ejecutable. Este proceso se automatiza para garantizar que cada versión del código esté correctamente compilada y lista para su ejecución en entornos compatibles con Java.
+
+3. Integración Continua:
+Se ha implementado un pipeline de integración continua mediante herramientas como GitHub Actions, el cual se activa automáticamente al realizar cambios en el repositorio. Este pipeline ejecuta la compilación y las pruebas, y genera el artefacto listo para ser validado.
+
+4. Pruebas automatizadas:
+Durante la fase de CI, se ejecutan pruebas automatizadas unitarias utilizando JUnit, con el objetivo de verificar el correcto funcionamiento de los componentes críticos de la aplicación. Estas pruebas ayudan a asegurar la estabilidad del sistema y a prevenir la introducción de regresiones en nuevas versiones del software.
+
+5. Automatización de la implementación:
+El proceso de despliegue a producción se realiza de forma automatizada a través de scripts de implementación que utilizan SSH y GitHub Actions. 
+
+6. Mecanismos de seguimiento y retroalimentación:
+Si se detecta algún problema en producción, el uso del pipeline permitirá la reversión rápida a una versión anterior de la aplicación, y permitir su correcto funcionamiento.
 
 **Conclusiones**
 
