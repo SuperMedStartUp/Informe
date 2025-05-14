@@ -5277,9 +5277,12 @@ A continuación, se describe el pipeline de despliegue diseñado para el proyect
 
 ## 7.3. Continuous deployment
 
-Consiste en liberar nuevas características de un programa de manera constante, utilizando procesos de implementación automatizados. Se diferencia de la entrega continua, donde las actualizaciones del software también se producen con frecuencia y están listas para ser puestas en marcha, pero no se liberan automáticamente. Siendo así, el despliegue continuo lleva la automatización un paso más allá que la entrega continua, asegurando que los cambios en el software se implementen de forma inmediata y sin intervención manual, siempre y cuando superen las pruebas necesarias.
+Consiste en la capacidad de entregar características de un programa de manera constante utilizando procesos de implementación automatizados. Se diferencia de la entrega continua, donde las actualizaciones del software también se producen con frecuencia y están listas para ser puestas en marcha, pero no se liberan automáticamente. Siendo así, el despliegue continuo lleva la automatización un paso más allá que la entrega continua, asegurando que los cambios en el software se implementen de forma inmediata y sin intervención manual, siempre y cuando superen las pruebas necesarias.
 
 ### 7.3.1. Tools and Practices
+
+- Se utiliza Git como herramienta de control de versiones para rastrear y gestionar los cambios en el código fuente de la aplicación.
+- Se implementan pruebas automatizadas —incluyendo pruebas unitarias, de integración y de sistema— con el fin de garantizar que el software cumpla con los estándares de calidad antes de su despliegue.
 
 ### 7.3.2. Production Deployment Pipeline Components
 
