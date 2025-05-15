@@ -5208,7 +5208,7 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <p><em>Resultado del Test</em></p>
 </div>
 
-**Bounded Context: Profiles **
+**Bounded Context: Profiles**
 
 <div align="center">
   <img src="assets/1 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
@@ -5226,6 +5226,13 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 <div align="center">
   <img src="assets/4 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Resultado del Test Patient</em></p>
+</div>
+
+**Bounded Context: Auth**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c328998f-2806-4265-83ba-b84cd04abdb2" alt="Test 4" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Integración completa del controller</em></p>
 </div>
 
 ## 6.1.2. Core Integration Tests
@@ -5265,7 +5272,10 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <p><em>Resultado del Test</em></p>
 </div>
 
-**Bounded Context: Auth**
+<div align="center">
+  <img src="assets/12 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
 
 ## 6.1.3. Core Behavior-Driven Development
 
@@ -5295,11 +5305,6 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 
 <div align="center">
   <img src="assets/11 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/12 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Resultado del Test</em></p>
 </div>
 
@@ -5340,65 +5345,7 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <p><em>Resultado del Test</em></p>
 </div>
 
-## 6.1. Tipos de Testing
-
-
-## 6.2. Herramientas Utilizadas
-
-
-## 6.3. Organización de los Tests por Bounded Contexts
-
-## 6.3.1. Bounded Context: Auth
-
-Se realizaron pruebas automatizadas para validar las funcionalidades críticas del módulo de autenticación, tales como la creación, recuperación y autenticación de usuarios.
-
----
-
-## Tests del Bounded Context: Auth
-
-### UserControllerIntegrationTest.java
-
-- **crearUsuarioCorrectamenteAtravésDelEndPoint**  
-  Verifica que se puede crear un usuario exitosamente mediante el endpoint, validando estado, username, id y rol retornado.
-
-- **obtenerUsuarioPorUsername**  
-  Confirma que el endpoint retorna correctamente los datos de un usuario cuando se busca por su nombre de usuario existente.
-
-- **obtenerTodosLosUsuarios**  
-  Se crean usuarios y luego se consulta el endpoint para validar que se retornan correctamente todos los usuarios registrados.
-
----
-
-### UserQueryServiceTest.java
-
-- **obtenerTodosLosUsuarios**  
-  Simula respuesta del repositorio para retornar usuarios y verifica que el servicio devuelve correctamente toda la lista esperada.
-
-- **obtenerUsuarioPorUsername**  
-  Verifica que se retorne un usuario específico usando su username y que los datos coincidan con lo esperado.
-
-- **obtenerUsuarioPorId**  
-  Evalúa si el servicio puede recuperar un usuario correctamente usando su ID, verificando también su rol asignado.
-
-- **obtenerUsuarioPorUsernameYPassword**  
-  Asegura que un usuario pueda ser localizado con su username y contraseña, útil para lógica de autenticación básica.
-
-- **obtenerUsuariosPorRol**  
-  Valida que se recuperen todos los usuarios asociados a un rol específico consultando mediante el servicio y repositorios simulados.
-
----
-
-### UserTest.java
-
-- **crearUser**  
-  Prueba la creación directa de un objeto `User` y verifica que los atributos queden correctamente asignados al instanciarlo.
-
-- **crearUserConCommand**  
-  Valida que se pueda crear un `User` a partir de un `CreateUserCommand` y que conserve los valores del input recibido.
-
----
-
-## Evidencia Visual de las Pruebas
+**Bounded Context: Auth**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1115c7bb-0af2-4928-930d-6fafff3b2e99" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
@@ -5408,16 +5355,6 @@ Se realizaron pruebas automatizadas para validar las funcionalidades críticas d
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e07d2c1d-b820-46c8-9ec6-c5adbc91cba1" alt="Test 2" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Test: Usuarios por rol</em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/9cc8e9a6-ab53-4b0e-bd0f-be83143ddc73" alt="Test 3" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Obtener por username y password</em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c328998f-2806-4265-83ba-b84cd04abdb2" alt="Test 4" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Integración completa del controller</em></p>
 </div>
 
 ---
