@@ -5236,7 +5236,7 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 </div>
 
 <div align="center">
-  <img src="assets/Behavior-Driven-Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <img src="assets/Behavior-Driven Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Resultado del Test</em></p>
 </div>
 
