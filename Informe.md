@@ -5209,6 +5209,26 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <p><em>Resultado del Test</em></p>
 </div>
 
+**Bounded Context: Profiles **
+
+<div align="center">
+  <img src="assets/1.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y validación de entidad Doctor</em></p>
+</div>
+<div align="center">
+  <img src="assets/2.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y validación de entidad Patientg</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/3.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test Doctor</em></p>
+</div>
+<div align="center">
+  <img src="assets/4.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test Patient</em></p>
+</div>
+
 ## 6.1.2. Core Integration Tests
 
 **Bounded Context: Medical Service**
@@ -5220,6 +5240,29 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 
 <div align="center">
   <img src="assets/IntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+**Bounded Context: Profiles**
+
+<div align="center">
+  <img src="assets/5.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación de reportes vía API REST</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/6.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación de reportes vía API REST</em></p>
+</div>
+
+
+<div align="center">
+  <img src="assets/7.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/8.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Resultado del Test</em></p>
 </div>
 
@@ -5239,6 +5282,28 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <p><em>Resultado del Test</em></p>
 </div>
 
+**Bounded Context: Profiles**
+
+<div align="center">
+  <img src="assets/9.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Ejecución de pruebas BDD con Doctor</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/10.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Ejecución de pruebas BDD con Patient</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/11.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/12.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
 
 ## 6.1.4. Core System Tests.
 
@@ -5251,6 +5316,28 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 
 <div align="center">
   <img src="assets/SystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+**Bounded Context: Profiles**
+
+<div align="center">
+  <img src="assets/13.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Ejecución de pruebas BDD con Doctor</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/14.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Ejecución de pruebas BDD con Patient</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/13.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+<div align="center">
+  <img src="assets14/.jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Resultado del Test</em></p>
 </div>
 
