@@ -5209,9 +5209,6 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <p><em>Resultado del Test</em></p>
 </div>
 
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
-
 ## 6.1.2. Core Integration Tests
 
 **Bounded Context: Medical Service**
@@ -5225,6 +5222,8 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <img src="assets/IntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Resultado del Test</em></p>
 </div>
+
+**Bounded Context: Auth**
 
 ## 6.1.3. Core Behavior-Driven Development
 
