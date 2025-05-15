@@ -5189,6 +5189,93 @@ Recomendación: Asegurar que se implementen medidas de seguridad robustas para p
 Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e](https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e)
 
 <img src= "./assets/about-product.png"/>
+# 6. Capítulo VI: Testing Strategy
+
+En este capítulo se describen las estrategias de testing aplicadas para asegurar la calidad y confiabilidad del sistema desarrollado. Se organizaron los tests de acuerdo con los cinco *bounded contexts* del sistema.
+
+## 6.1. Tipos de Testing
+
+
+## 6.2. Herramientas Utilizadas
+
+
+## 6.3. Organización de los Tests por Bounded Contexts
+
+### 6.3.1. Bounded Context: Auth
+
+Se realizaron pruebas automatizadas para validar las funcionalidades críticas del módulo de autenticación, tales como:
+### Tests del Bounded Context: Auth
+
+#### `UserControllerIntegrationTest.java`
+
+- **crearUsuarioCorrectamenteAtravésDelEndPoint**  
+Verifica que se puede crear un usuario exitosamente mediante el endpoint, validando estado, username, id y rol retornado.
+
+- **obtenerUsuarioPorUsername**  
+Confirma que el endpoint retorna correctamente los datos de un usuario cuando se busca por su nombre de usuario existente.
+
+- **obtenerTodosLosUsuarios**  
+Se crean usuarios y luego se consulta el endpoint para validar que se retornan correctamente todos los usuarios registrados.
+
+---
+
+#### `UserQueryServiceTest.java`
+
+- **obtenerTodosLosUsuarios**  
+Simula respuesta del repositorio para retornar usuarios y verifica que el servicio devuelve correctamente toda la lista esperada.
+
+- **obtenerUsuarioPorUsername**  
+Verifica que se retorne un usuario específico usando su username y que los datos coincidan con lo esperado.
+
+- **obtenerUsuarioPorId**  
+Evalúa si el servicio puede recuperar un usuario correctamente usando su ID, verificando también su rol asignado.
+
+- **obtenerUsuarioPorUsernameYPassword**  
+Asegura que un usuario pueda ser localizado con su username y contraseña, útil para lógica de autenticación básica.
+
+- **obtenerUsuariosPorRol**  
+Valida que se recuperen todos los usuarios asociados a un rol específico consultando mediante el servicio y repositorios simulados.
+
+---
+
+#### `UserTest.java`
+
+- **crearUser**  
+Prueba la creación directa de un objeto `User` y verifica que los atributos queden correctamente asignados al instanciarlo.
+
+- **crearUserConCommand**  
+Valida que se pueda crear un `User` a partir de un `CreateUserCommand` y que conserve los valores del input recibido.
+
+![image](https://github.com/user-attachments/assets/1115c7bb-0af2-4928-930d-6fafff3b2e99)
+![image](https://github.com/user-attachments/assets/e07d2c1d-b820-46c8-9ec6-c5adbc91cba1)
+![image](https://github.com/user-attachments/assets/9cc8e9a6-ab53-4b0e-bd0f-be83143ddc73)
+![image](https://github.com/user-attachments/assets/c328998f-2806-4265-83ba-b84cd04abdb2)
+
+
+
+---
+
+### 6.3.2. Bounded Context: [Pendiente]
+
+*(Contenido pendiente)*
+
+---
+
+### 6.3.3. Bounded Context: [Pendiente]
+
+*(Contenido pendiente)*
+
+---
+
+### 6.3.4. Bounded Context: [Pendiente]
+
+*(Contenido pendiente)*
+
+---
+
+### 6.3.5. Bounded Context: [Pendiente]
+
+*(Contenido pendiente)*
 
 # 7. Capítulo VII: DevOps Practices
 Para facilitar las implementaciones y mantener una integración continua eficiente en equipo, se optó por utilizar:
