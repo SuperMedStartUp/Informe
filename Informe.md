@@ -5189,9 +5189,66 @@ Recomendación: Asegurar que se implementen medidas de seguridad robustas para p
 Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e](https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e)
 
 <img src= "./assets/about-product.png"/>
-#6. Capítulo VI: Testing Strategy
+
+
+# 6. Capítulo VI: Testing Strategy
 
 En este capítulo se describen las estrategias de testing aplicadas para asegurar la calidad y confiabilidad del sistema desarrollado. Se organizaron los tests de acuerdo con los cinco *bounded contexts* del sistema.
+
+## 6.1.1. Core Entities Unit Tests
+
+**Bounded Context: Medical Service**
+
+<div align="center">
+  <img src="assets/VerUnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y recuperación de usuarios</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/UnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y recuperación de usuarios</em></p>
+</div>
+
+## 6.1.2. Core Integration Tests
+
+**Bounded Context: Medical Service**
+
+<div align="center">
+  <img src="assets/VerIntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y recuperación de usuarios</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/IntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y recuperación de usuarios</em></p>
+</div>
+## 6.1.3. Core Behavior-Driven Development
+
+**Bounded Context: Medical Service**
+
+<div align="center">
+  <img src="assets/VerBehavior-Driven-Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y recuperación de usuarios</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/Behavior-Driven-Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y recuperación de usuarios</em></p>
+</div>
+
+## 6.1.4. Core System Tests.
+
+**Bounded Context: Medical Service**
+
+<div align="center">
+  <img src="assets/VerSystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y recuperación de usuarios</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/SystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y recuperación de usuarios</em></p>
+</div>
 
 ## 6.1. Tipos de Testing
 
@@ -5277,45 +5334,8 @@ Se realizaron pruebas automatizadas para validar las funcionalidades críticas d
 
 ### 6.3.2. Bounded Context: MedicalService
 
-<div align="center">
-  <img src="assets/VerUnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
 
-<div align="center">
-  <img src="assets/UnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
 
-<div align="center">
-  <img src="assets/VerIntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/IntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/VerSystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/SystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/VerBehavior-Driven-Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/Behavior-Driven-Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
 
 ---
 
