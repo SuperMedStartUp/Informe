@@ -5201,11 +5201,14 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 
 <div align="center">
   <img src="assets/VerUnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
+  <p><em>Test: Creación y validación de entidad Treatment</em></p>
 </div>
 
 <div align="center">
   <img src="assets/UnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
   <p><em>Test: Creación y recuperación de usuarios</em></p>
 </div>
 
@@ -5215,26 +5218,28 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 
 <div align="center">
   <img src="assets/VerIntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
+  <p><em>Test: Creación de reportes vía API REST</em></p>
 </div>
 
 <div align="center">
   <img src="assets/IntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
+  <p><em>Resultado del Test</em></p>
 </div>
+
 ## 6.1.3. Core Behavior-Driven Development
 
 **Bounded Context: Medical Service**
 
 <div align="center">
   <img src="assets/VerBehavior-Driven-Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
+  <p><em>Test: Ejecución de pruebas BDD con Report</em></p>
 </div>
 
 <div align="center">
   <img src="assets/Behavior-Driven-Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
+  <p><em>Resultado del Test</em></p>
 </div>
+
 
 ## 6.1.4. Core System Tests.
 
@@ -5242,12 +5247,12 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 
 <div align="center">
   <img src="assets/VerSystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
+  <p><em>Test: Creación y validación de resultados con Reporte</em></p>
 </div>
 
 <div align="center">
   <img src="assets/SystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
+  <p><em>Resultado del Test</em></p>
 </div>
 
 ## 6.1. Tipos de Testing
