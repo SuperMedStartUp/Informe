@@ -5508,7 +5508,7 @@ Si se detecta algún problema en producción, el uso del pipeline permitirá la 
 
 ### 8.1.1. As-Is Summary
 
-Basado en el análisis del proyecto MedSystem, la situación actual en el sector de traumatología presenta los siguientes desafíos:
+La situación actual en el sector de traumatología presenta los siguientes desafíos:
 
 **Estado Actual del Mercado:**
 
