@@ -5386,28 +5386,6 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <p><em>Test: Usuarios por rol</em></p>
 </div>
 
----
-
-### 6.3.2. Bounded Context: MedicalService
-
----
-
-### 6.3.3. Bounded Context: [Pendiente]
-
-_(Contenido pendiente)_
-
----
-
-### 6.3.4. Bounded Context: [Pendiente]
-
-_(Contenido pendiente)_
-
----
-
-### 6.3.5. Bounded Context: [Pendiente]
-
-_(Contenido pendiente)_
-
 # 7. Capítulo VII: DevOps Practices
 
 Para facilitar las implementaciones y mantener una integración continua eficiente en equipo, se optó por utilizar:
