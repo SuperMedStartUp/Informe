@@ -60,219 +60,216 @@
 <h5> Ciclo 2025-01 </h5>
 </div>
 
-
 ## Registro de versiones del informe
 
-|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
-| :-: | :-: | :-: | :-: |
-|     |     |     |     |
+| **Versión** | **Fecha** | **Autor** | **Descripción de modificación** |
+| :---------: | :-------: | :-------: | :-----------------------------: |
+|             |           |           |                                 |
 
 ## Project Report Collaboration Insights
 
-
 ## Contenido
+
 1. [**Capítulo I: Introducción.**](#1.) <br>
-1.1. [Startup Profile.](#1.1.) <br>
-1.1.1. [Descripción del startup.](#1.1.1.) <br>
-1.1.2. [Perfiles de los integrantes del equipo.](#1.1.2.) <br>
-1.2. [Solution Profile.](#1.2.) <br>
-1.2.1. [Antecedentes y Problemática.](#1.2.1.) <br>
-1.2.2. [Lean UX Process.](#1.2.2.) <br>
-1.2.2.1. [Lean UX Problem Statements.](#1.2.2.1.) <br>
-1.2.2.2. [Lean UX Assumptions.](#1.2.2.2.) <br>
-1.2.2.3. [Lean UX Hypothesis Statements.](#1.2.2.3.) <br>
-1.2.2.4. [Lean UX Canvas.](#1.2.2.4.) <br>
-1.3. [Segmentos objetivo.](#1.3.) <br>
+   1.1. [Startup Profile.](#1.1.) <br>
+   1.1.1. [Descripción del startup.](#1.1.1.) <br>
+   1.1.2. [Perfiles de los integrantes del equipo.](#1.1.2.) <br>
+   1.2. [Solution Profile.](#1.2.) <br>
+   1.2.1. [Antecedentes y Problemática.](#1.2.1.) <br>
+   1.2.2. [Lean UX Process.](#1.2.2.) <br>
+   1.2.2.1. [Lean UX Problem Statements.](#1.2.2.1.) <br>
+   1.2.2.2. [Lean UX Assumptions.](#1.2.2.2.) <br>
+   1.2.2.3. [Lean UX Hypothesis Statements.](#1.2.2.3.) <br>
+   1.2.2.4. [Lean UX Canvas.](#1.2.2.4.) <br>
+   1.3. [Segmentos objetivo.](#1.3.) <br>
 
 2. [**Capítulo II: Requirements Elicitation & Analysis.**](#2.) <br>
-2.1. [Competidores.](#2.1.) <br>
-2.1.1. [Análisis competitivo.](#2.1.1.) <br>
-2.1.2. [Estrategias y tácticas frente a competidores.](#2.1.2.) <br>
-2.2. [Entrevistas.](#2.2.) <br>
-2.2.1. [Diseño de entrevistas.](#2.2.1.) <br>
-2.2.2. [Registro de entrevistas.](#2.2.2.) <br>
-2.2.3. [Análisis de entrevistas.](#2.2.3.) <br>
-2.3. [Needfinding.](#2.3.) <br>
-2.3.1. [User Personas.](#2.3.1.) <br>
-2.3.2. [User Task Matrix.](#2.3.2.) <br>
-2.3.3. [User Journey Mapping.](#2.3.3.) <br>
-2.3.4. [Empathy Mapping.](#2.3.4.) <br>
-2.3.5. [As-is Scenario Mapping.](#2.3.5.) <br>
-2.4. [Ubiquitous Language.](#2.4.) <br>
+   2.1. [Competidores.](#2.1.) <br>
+   2.1.1. [Análisis competitivo.](#2.1.1.) <br>
+   2.1.2. [Estrategias y tácticas frente a competidores.](#2.1.2.) <br>
+   2.2. [Entrevistas.](#2.2.) <br>
+   2.2.1. [Diseño de entrevistas.](#2.2.1.) <br>
+   2.2.2. [Registro de entrevistas.](#2.2.2.) <br>
+   2.2.3. [Análisis de entrevistas.](#2.2.3.) <br>
+   2.3. [Needfinding.](#2.3.) <br>
+   2.3.1. [User Personas.](#2.3.1.) <br>
+   2.3.2. [User Task Matrix.](#2.3.2.) <br>
+   2.3.3. [User Journey Mapping.](#2.3.3.) <br>
+   2.3.4. [Empathy Mapping.](#2.3.4.) <br>
+   2.3.5. [As-is Scenario Mapping.](#2.3.5.) <br>
+   2.4. [Ubiquitous Language.](#2.4.) <br>
 
 3. [**Capítulo III: Requirements Specification.**](#3.) <br>
-3.1. [To-Be Scenario Mapping.](#3.1.) <br>
-3.2. [User Stories.](#3.2.) <br>
-3.3. [Impact Mapping.](#3.3.) <br>
-3.4. [Product Backlog.](#3.4.) <br>
+   3.1. [To-Be Scenario Mapping.](#3.1.) <br>
+   3.2. [User Stories.](#3.2.) <br>
+   3.3. [Impact Mapping.](#3.3.) <br>
+   3.4. [Product Backlog.](#3.4.) <br>
 
 4. [**Capítulo IV: Product Design.**](#4.) <br>
-4.1. [Style Guidelines.](#4.1.) <br>
-4.1.1. [General Style Guidelines.](#4.1.1.) <br>
-4.1.2. [Web Style Guidelines.](#4.1.2.) <br>
-4.1.3. [Mobile Style Guidelines.](#4.1.3.) <br>
-4.1.3.1. [iOS Mobile Style Guidelines.](#4.1.3.1.) <br>
-4.1.3.2. [Android Mobile Style Guidelines.](#4.1.3.2.) <br>
-4.2. [Information Architecture.](#4.2.) <br>
-4.2.1. [Organization Systems.](#4.2.1.) <br>
-4.2.2. [Labeling Systems.](#4.2.2.) <br>
-4.2.3. [SEO Tags and Meta Tags](#4.2.3.) <br>
-4.2.4. [Searching Systems.](#4.2.4.) <br>
-4.2.5. [Navigation Systems.](#4.2.5.) <br>
-4.3. [Landing Page UI Design.](#4.3.) <br>
-4.3.1. [Landing Page Wireframe.](#4.3.1.) <br>
-4.3.2. [Landing Page Mock-up.](#4.3.2.) <br>
-4.4. [Web Applications UX/UI Design.](#4.4.) <br>
-4.4.1. [Web Applications Wireframes.](#4.4.1.) <br>
-4.4.2. [Web Applications Wireflow Diagrams.](#4.4.2.) <br>
-4.4.3. [Web Applications Mock-ups.](#4.4.3.) <br>
-4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.) <br>
-4.5. [Web Applications Prototyping.](#4.5.) <br>
-4.6. [Domain-Driven Software Architecture.](#4.6.) <br>
-4.6.1. [Software Architecture Context Diagram.](#4.6.1.) <br>
-4.6.2. [Software Architecture Container Diagrams.](#4.6.2.) <br>
-4.6.3. [Software Architecture Components Diagrams.](#4.6.3.) <br>
-4.7. [Software Object-Oriented Design.](#4.7.) <br>
-4.7.1. [Class Diagrams.](#4.7.1.) <br>
-4.7.2. [Class Dictionary.](#4.7.2.) <br>
-4.8. [Database Design.](#4.8.) <br>
-4.8.1. [Database Diagram.](#4.8.1.) <br>
+   4.1. [Style Guidelines.](#4.1.) <br>
+   4.1.1. [General Style Guidelines.](#4.1.1.) <br>
+   4.1.2. [Web Style Guidelines.](#4.1.2.) <br>
+   4.1.3. [Mobile Style Guidelines.](#4.1.3.) <br>
+   4.1.3.1. [iOS Mobile Style Guidelines.](#4.1.3.1.) <br>
+   4.1.3.2. [Android Mobile Style Guidelines.](#4.1.3.2.) <br>
+   4.2. [Information Architecture.](#4.2.) <br>
+   4.2.1. [Organization Systems.](#4.2.1.) <br>
+   4.2.2. [Labeling Systems.](#4.2.2.) <br>
+   4.2.3. [SEO Tags and Meta Tags](#4.2.3.) <br>
+   4.2.4. [Searching Systems.](#4.2.4.) <br>
+   4.2.5. [Navigation Systems.](#4.2.5.) <br>
+   4.3. [Landing Page UI Design.](#4.3.) <br>
+   4.3.1. [Landing Page Wireframe.](#4.3.1.) <br>
+   4.3.2. [Landing Page Mock-up.](#4.3.2.) <br>
+   4.4. [Web Applications UX/UI Design.](#4.4.) <br>
+   4.4.1. [Web Applications Wireframes.](#4.4.1.) <br>
+   4.4.2. [Web Applications Wireflow Diagrams.](#4.4.2.) <br>
+   4.4.3. [Web Applications Mock-ups.](#4.4.3.) <br>
+   4.4.4. [Web Applications User Flow Diagrams.](#4.4.4.) <br>
+   4.5. [Web Applications Prototyping.](#4.5.) <br>
+   4.6. [Domain-Driven Software Architecture.](#4.6.) <br>
+   4.6.1. [Software Architecture Context Diagram.](#4.6.1.) <br>
+   4.6.2. [Software Architecture Container Diagrams.](#4.6.2.) <br>
+   4.6.3. [Software Architecture Components Diagrams.](#4.6.3.) <br>
+   4.7. [Software Object-Oriented Design.](#4.7.) <br>
+   4.7.1. [Class Diagrams.](#4.7.1.) <br>
+   4.7.2. [Class Dictionary.](#4.7.2.) <br>
+   4.8. [Database Design.](#4.8.) <br>
+   4.8.1. [Database Diagram.](#4.8.1.) <br>
 
 5. [**Capítulo V: Product Implementation, Validation & Deployment.**](#5.) <br>
-5.1. [Software Configuration Management.](#5.1.) <br>
-5.1.1. [Software Development Environment Configuration.](#5.1.1.) <br>
-5.1.2. [Source Code Management.](#5.1.2.) <br>
-5.1.3. [Source Code Style Guide & Conventions.](#5.1.3.) <br>
-5.1.4. [Software Deployment Configuration.](#5.1.4.) <br>
-5.2. [Landing Page, Services & Applications Implementation.](#5.2.) <br>
-5.2.1. [Sprint 1.](#5.2.1.) <br>
-5.2.1.1. [Sprint Planning 1.](#5.2.1.1.) <br>
-5.2.1.2. [Sprint Backlog 1.](#5.2.1.2.) <br>
-5.2.1.3. [Development Evidence for Sprint Review.](#5.2.1.3.) <br>
-5.2.1.4. [Testing Suite Evidence for Sprint Review.](#5.2.1.4.) <br>
-5.2.1.5. [Execution Evidence for Sprint Review.](#5.2.1.5.) <br>
-5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.) <br>
-5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.) <br>
-5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.) <br>
-5.2.2. [Sprint 2.](#5.2.2.) <br>
-5.2.2.1. [Sprint Planning 2.](#5.2.2.1.) <br>
-5.2.2.2. [Sprint Backlog 2.](#5.2.2.2.) <br>
-5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.) <br>
-5.2.2.4. [Testing Suite Evidence for Sprint Review.](#5.2.2.4.) <br>
-5.2.2.5. [Execution Evidence for Sprint Review.](#5.2.2.5.) <br>
-5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.) <br>
-5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.) <br>
-5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.) <br>
-5.2.3. [Sprint 3.](#5.2.3.) <br>
-5.2.3.1. [Sprint Planning 3.](#5.2.3.1.) <br>
-5.2.3.2. [Sprint Backlog 3.](#5.2.3.2.) <br>
-5.2.3.3. [Development Evidence for Sprint Review.](#5.2.3.3.) <br>
-5.2.3.4. [Testing Suite Evidence for Sprint Review.](#5.2.3.4.) <br>
-5.2.3.5. [Execution Evidence for Sprint Review.](#5.2.3.5.) <br>
-5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.) <br>
-5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.) <br>
-5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.) <br>
-5.2.4. [Sprint 4.](#5.2.4.) <br>
-5.2.4.1. [Sprint Planning 4.](#5.2.4.1.) <br>
-5.2.4.2. [Sprint Backlog 4.](#5.2.4.2.) <br>
-5.2.4.3. [Development Evidence for Sprint Review.](#5.2.4.3.) <br>
-5.2.4.4. [Testing Suite Evidence for Sprint Review.](#5.2.4.4.) <br>
-5.2.4.5. [Execution Evidence for Sprint Review.](#5.2.4.5.) <br>
-5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.) <br>
-5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.) <br>
-5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.) <br>
-5.3. [Validation Interviews.](#5.3.) <br>
-5.3.1. [Diseño de Entrevistas.](#5.3.1.) <br>
-5.3.2. [Registro de Entrevistas.](#5.3.2.) <br>
-5.3.3. [Evaluaciones según heurísticas.](#5.3.3.) <br>
-5.4. [Video About-the-Product.](#5.4.) <br>
+   5.1. [Software Configuration Management.](#5.1.) <br>
+   5.1.1. [Software Development Environment Configuration.](#5.1.1.) <br>
+   5.1.2. [Source Code Management.](#5.1.2.) <br>
+   5.1.3. [Source Code Style Guide & Conventions.](#5.1.3.) <br>
+   5.1.4. [Software Deployment Configuration.](#5.1.4.) <br>
+   5.2. [Landing Page, Services & Applications Implementation.](#5.2.) <br>
+   5.2.1. [Sprint 1.](#5.2.1.) <br>
+   5.2.1.1. [Sprint Planning 1.](#5.2.1.1.) <br>
+   5.2.1.2. [Sprint Backlog 1.](#5.2.1.2.) <br>
+   5.2.1.3. [Development Evidence for Sprint Review.](#5.2.1.3.) <br>
+   5.2.1.4. [Testing Suite Evidence for Sprint Review.](#5.2.1.4.) <br>
+   5.2.1.5. [Execution Evidence for Sprint Review.](#5.2.1.5.) <br>
+   5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.) <br>
+   5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.) <br>
+   5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.) <br>
+   5.2.2. [Sprint 2.](#5.2.2.) <br>
+   5.2.2.1. [Sprint Planning 2.](#5.2.2.1.) <br>
+   5.2.2.2. [Sprint Backlog 2.](#5.2.2.2.) <br>
+   5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.) <br>
+   5.2.2.4. [Testing Suite Evidence for Sprint Review.](#5.2.2.4.) <br>
+   5.2.2.5. [Execution Evidence for Sprint Review.](#5.2.2.5.) <br>
+   5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.) <br>
+   5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.) <br>
+   5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.) <br>
+   5.2.3. [Sprint 3.](#5.2.3.) <br>
+   5.2.3.1. [Sprint Planning 3.](#5.2.3.1.) <br>
+   5.2.3.2. [Sprint Backlog 3.](#5.2.3.2.) <br>
+   5.2.3.3. [Development Evidence for Sprint Review.](#5.2.3.3.) <br>
+   5.2.3.4. [Testing Suite Evidence for Sprint Review.](#5.2.3.4.) <br>
+   5.2.3.5. [Execution Evidence for Sprint Review.](#5.2.3.5.) <br>
+   5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.) <br>
+   5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.) <br>
+   5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.) <br>
+   5.2.4. [Sprint 4.](#5.2.4.) <br>
+   5.2.4.1. [Sprint Planning 4.](#5.2.4.1.) <br>
+   5.2.4.2. [Sprint Backlog 4.](#5.2.4.2.) <br>
+   5.2.4.3. [Development Evidence for Sprint Review.](#5.2.4.3.) <br>
+   5.2.4.4. [Testing Suite Evidence for Sprint Review.](#5.2.4.4.) <br>
+   5.2.4.5. [Execution Evidence for Sprint Review.](#5.2.4.5.) <br>
+   5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.) <br>
+   5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.) <br>
+   5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.) <br>
+   5.3. [Validation Interviews.](#5.3.) <br>
+   5.3.1. [Diseño de Entrevistas.](#5.3.1.) <br>
+   5.3.2. [Registro de Entrevistas.](#5.3.2.) <br>
+   5.3.3. [Evaluaciones según heurísticas.](#5.3.3.) <br>
+   5.4. [Video About-the-Product.](#5.4.) <br>
 
 6. [**Capítulo VI: Product Verification & Validation.**](#6.) <br>
-6.1. [Testing Suites & Validation](#6.1.) <br>
-6.1.1. [Core Entities Unit Tests.](#6.1.1.) <br>
-6.1.2. [Core Integration Tests.](#6.1.2.) <br>
-6.1.3. [Core Behavior-Driven Development](#6.1.3.) <br>
-6.1.4. [Core System Tests.](#6.1.4.) <br>
-6.2. [Static testing & Verification](#6.2.) <br>
-6.2.1. [Static Code Analysis](#6.2.1.) <br>
-6.2.1.1. [Coding standard & Code conventions.](#6.2.1.1.) <br>
-6.2.1.2. [Code Quality & Code Security.](#6.2.1.2.) <br>
-6.2.2. [Reviews](#6.2.2.) <br>
-6.3. [Validation Interviews.](#6.3.) <br>
-6.3.1. [Diseño de Entrevistas.](#6.3.1.) <br>
-6.3.2. [Registro de Entrevistas.](#6.3.2.) <br>
-6.3.3. [Evaluaciones según heurísticas.](#6.3.3.) <br>
-6.4. [Auditoría de Experiencias de Usuario](#6.4.) <br>
-6.4.1. [Auditoría realizada.](#6.4.1.) <br>
-6.4.1.1. [Información del grupo auditado.](#6.4.1.1.) <br>
-6.4.1.2. [Cronograma de auditoría realizada.](#6.4.1.2.) <br>
-6.4.1.3. [Contenido de auditoría realizada.](#6.4.1.3.) <br>
-6.4.2. [Auditoría recibida.](#6.4.2.) <br>
-6.4.2.1. [Información del grupo auditor.](#6.4.2.1.) <br>
-6.4.2.2. [Cronograma de auditoría recibida.](#6.4.2.2.) <br>
-6.4.2.3. [Contenido de auditoría recibida.](#6.4.2.3.) <br>
-6.4.2.4. [Resumen de modificaciones para subsanar hallazgos.](#6.4.2.4.) <br>
+   6.1. [Testing Suites & Validation](#6.1.) <br>
+   6.1.1. [Core Entities Unit Tests.](#6.1.1.) <br>
+   6.1.2. [Core Integration Tests.](#6.1.2.) <br>
+   6.1.3. [Core Behavior-Driven Development](#6.1.3.) <br>
+   6.1.4. [Core System Tests.](#6.1.4.) <br>
+   6.2. [Static testing & Verification](#6.2.) <br>
+   6.2.1. [Static Code Analysis](#6.2.1.) <br>
+   6.2.1.1. [Coding standard & Code conventions.](#6.2.1.1.) <br>
+   6.2.1.2. [Code Quality & Code Security.](#6.2.1.2.) <br>
+   6.2.2. [Reviews](#6.2.2.) <br>
+   6.3. [Validation Interviews.](#6.3.) <br>
+   6.3.1. [Diseño de Entrevistas.](#6.3.1.) <br>
+   6.3.2. [Registro de Entrevistas.](#6.3.2.) <br>
+   6.3.3. [Evaluaciones según heurísticas.](#6.3.3.) <br>
+   6.4. [Auditoría de Experiencias de Usuario](#6.4.) <br>
+   6.4.1. [Auditoría realizada.](#6.4.1.) <br>
+   6.4.1.1. [Información del grupo auditado.](#6.4.1.1.) <br>
+   6.4.1.2. [Cronograma de auditoría realizada.](#6.4.1.2.) <br>
+   6.4.1.3. [Contenido de auditoría realizada.](#6.4.1.3.) <br>
+   6.4.2. [Auditoría recibida.](#6.4.2.) <br>
+   6.4.2.1. [Información del grupo auditor.](#6.4.2.1.) <br>
+   6.4.2.2. [Cronograma de auditoría recibida.](#6.4.2.2.) <br>
+   6.4.2.3. [Contenido de auditoría recibida.](#6.4.2.3.) <br>
+   6.4.2.4. [Resumen de modificaciones para subsanar hallazgos.](#6.4.2.4.) <br>
 
 7. [**Capítulo VII: DevOps Practices**](#7.) <br>
-7.1. [Continuous Integration](#7.1.) <br>
-7.1.1. [Tools and Practices.](#7.1.1.) <br>
-7.1.2. [Build & Test Suite Pipeline Components.](#7.1.2.) <br>
-7.2. [Continuous Delivery](#7.2.) <br>
-7.2.1. [Tools and Practices.](#7.2.1.) <br>
-7.2.2. [Stages Deployment Pipeline Components.](#7.2.2.) <br>
-7.3. [Continuous deployment](#7.3.) <br>
-7.3.1. [Tools and Practices.](#7.3.1.) <br>
-7.3.2. [Production Deployment Pipeline Components.](#7.3.2.) <br>
-7.4. [Continuous Monitoring](#7.4.) <br>
-7.4.1. [Tools and Practices](#7.4.1.) <br>
-7.4.2. [Monitoring Pipeline Components](#7.4.2.) <br>
-7.4.3. [Alerting Pipeline Components](#7.4.3.) <br>
-7.4.4. [Notification Pipeline Components.](#7.4.4.) <br>
+   7.1. [Continuous Integration](#7.1.) <br>
+   7.1.1. [Tools and Practices.](#7.1.1.) <br>
+   7.1.2. [Build & Test Suite Pipeline Components.](#7.1.2.) <br>
+   7.2. [Continuous Delivery](#7.2.) <br>
+   7.2.1. [Tools and Practices.](#7.2.1.) <br>
+   7.2.2. [Stages Deployment Pipeline Components.](#7.2.2.) <br>
+   7.3. [Continuous deployment](#7.3.) <br>
+   7.3.1. [Tools and Practices.](#7.3.1.) <br>
+   7.3.2. [Production Deployment Pipeline Components.](#7.3.2.) <br>
+   7.4. [Continuous Monitoring](#7.4.) <br>
+   7.4.1. [Tools and Practices](#7.4.1.) <br>
+   7.4.2. [Monitoring Pipeline Components](#7.4.2.) <br>
+   7.4.3. [Alerting Pipeline Components](#7.4.3.) <br>
+   7.4.4. [Notification Pipeline Components.](#7.4.4.) <br>
 
 8. [**Capítulo VIII: Experiment-Driven Development**](#8.) <br>
-8.1. [Experiment Planning](#8.1.) <br>
-8.1.1. [As-Is Summary.](#8.1.1.) <br>
-8.1.2. [Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.](#8.1.2.) <br>
-8.1.3. [Experiment-Ready Questions.](#8.1.3.) <br>
-8.1.4. [Question Backlog.](#8.1.4.) <br>
-8.1.5. [Experiment Cards.](#8.1.5.) <br>
-8.2. [Experiment Design](#8.2.) <br>
-8.2.1. [Hypotheses.](#8.2.1.) <br>
-8.2.2. [Measures.](#8.2.2.) <br>
-8.2.3. [Conditions.](#8.2.3.) <br>
-8.2.4. [Scale Calculations and Decisions.](#8.2.4.) <br>
-8.2.5. [Methods Selection.](#8.2.5.) <br>
-8.2.6. [Data Analytics: Goals, KPIs and Metrics Selection.](#8.2.6.) <br>
-8.2.7. [Web and Mobile Tracking Plan.](#8.2.7.) <br>
-8.3. [Experimentation](#8.3.) <br>
-8.3.1. [To-Be User Stories.](#8.3.1.) <br>
-8.3.2. [To-Be Product Backlog](#8.3.2.) <br>
-8.3.3. [Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#8.3.3.) <br>
-8.3.3.1. [To-Be Sprint Backlogs](#8.3.3.1.) <br>
-8.3.3.2. [Implemented To-Be Landing Page Evidence](#8.3.3.2.) <br>
-8.3.3.3. [Implemented To-Be Frontend-Web Application Evidence](#8.3.3.3.) <br>
-8.3.3.4. [Implemented To-Be Native-Mobile Application Evidence](#8.3.3.4.) <br>
-8.3.3.5. [Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8.3.3.5.) <br>
-8.3.3.6. [Team Collaboration Insights](#8.3.3.6.) <br>
-8.3.4. [To-Be Validation Interviews](#8.3.4.) <br>
-8.3.4.1. [Diseño de Entrevistas.](#8.3.4.1.) <br>
-8.3.4.2. [Registro de Entrevistas.](#8.3.4.2.) <br>
-8.4. [Experiment Aftermath & Analysis](#8.4.) <br>
-8.4.1. [Analysis and Interpretation of Results](#8.4.1.) <br>
-8.4.2. [Re-scored and Re-prioritized Question Backlog](#8.4.2.) <br>
-8.5. [Continuous Learning](#8.5.) <br>
-8.5.1. [Shareback Session Artifacts: Learning Workflow](#8.5.1.) <br>
-8.6. [To-Be Software Platform Pre-launch](#8.6.) <br>
-8.6.1. [About-the-Product Intro Video](#8.6.1.) <br>
-
+   8.1. [Experiment Planning](#8.1.) <br>
+   8.1.1. [As-Is Summary.](#8.1.1.) <br>
+   8.1.2. [Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.](#8.1.2.) <br>
+   8.1.3. [Experiment-Ready Questions.](#8.1.3.) <br>
+   8.1.4. [Question Backlog.](#8.1.4.) <br>
+   8.1.5. [Experiment Cards.](#8.1.5.) <br>
+   8.2. [Experiment Design](#8.2.) <br>
+   8.2.1. [Hypotheses.](#8.2.1.) <br>
+   8.2.2. [Measures.](#8.2.2.) <br>
+   8.2.3. [Conditions.](#8.2.3.) <br>
+   8.2.4. [Scale Calculations and Decisions.](#8.2.4.) <br>
+   8.2.5. [Methods Selection.](#8.2.5.) <br>
+   8.2.6. [Data Analytics: Goals, KPIs and Metrics Selection.](#8.2.6.) <br>
+   8.2.7. [Web and Mobile Tracking Plan.](#8.2.7.) <br>
+   8.3. [Experimentation](#8.3.) <br>
+   8.3.1. [To-Be User Stories.](#8.3.1.) <br>
+   8.3.2. [To-Be Product Backlog](#8.3.2.) <br>
+   8.3.3. [Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle](#8.3.3.) <br>
+   8.3.3.1. [To-Be Sprint Backlogs](#8.3.3.1.) <br>
+   8.3.3.2. [Implemented To-Be Landing Page Evidence](#8.3.3.2.) <br>
+   8.3.3.3. [Implemented To-Be Frontend-Web Application Evidence](#8.3.3.3.) <br>
+   8.3.3.4. [Implemented To-Be Native-Mobile Application Evidence](#8.3.3.4.) <br>
+   8.3.3.5. [Implemented To-Be RESTful API and/or Serverless Backend Evidence](#8.3.3.5.) <br>
+   8.3.3.6. [Team Collaboration Insights](#8.3.3.6.) <br>
+   8.3.4. [To-Be Validation Interviews](#8.3.4.) <br>
+   8.3.4.1. [Diseño de Entrevistas.](#8.3.4.1.) <br>
+   8.3.4.2. [Registro de Entrevistas.](#8.3.4.2.) <br>
+   8.4. [Experiment Aftermath & Analysis](#8.4.) <br>
+   8.4.1. [Analysis and Interpretation of Results](#8.4.1.) <br>
+   8.4.2. [Re-scored and Re-prioritized Question Backlog](#8.4.2.) <br>
+   8.5. [Continuous Learning](#8.5.) <br>
+   8.5.1. [Shareback Session Artifacts: Learning Workflow](#8.5.1.) <br>
+   8.6. [To-Be Software Platform Pre-launch](#8.6.) <br>
+   8.6.1. [About-the-Product Intro Video](#8.6.1.) <br>
 
 ## Student Outcome
-| **Criterio Específico** | **Acciones realizadas** | **Conclusiones** |
-| :-: | :- | :- |
-| **Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software** | **Eduardo Renato Ventura Chancafe (TB1):** en el capítulo II (*Requirements Elicitation & Analysis*) salvaguardé la confidencialidad de los datos de usuarios en las entrevistas, obtuve siempre el consentimiento informado y aseguré un trato equitativo a todos los participantes en los ejercicios de *need-finding*.<br><br>**Eduardo Renato Ventura Chancafe (TP1):** definí y estandaricé el uso de las herramientas **Gherkin** (para especificar criterios de aceptación BDD) y **Cypress** (para pruebas end-to-end) dentro del pipeline de CI. Documenté escenarios con datos anonimizados, configuré stubs para evitar exponer información sensible y añadí validaciones de accesibilidad automática (a11y) en cada prueba, garantizando así la protección de datos y la equidad en la experiencia de usuario.<br><br>**Boronda Heidinger, Astrid Jimena (TB1):** en el capítulo III (*Requirements Specification*) definí las *user stories* y el *backlog* contemplando criterios de privacidad y equidad; formulé criterios de aceptación que garantizan el respeto a datos sensibles y evitan sesgos en la priorización de funcionalidades.<br><br>**Boronda Heidinger, Astrid Jimena (TP1):** Diseñé y ejecuté prueba que incluyeron escenarios para garantizar en el funcionamiento del sistema. Implementé pruebas unitarias, integración, sistema y BDD para verificar que el backend de la aplicación funcionara correctamente y evitando cualquier sesgo de los resultados. Además, documenté cada prueba realizada para demostrar la funcionalidad de cada prueba.<br><br>**Palma Obispo, Adrián Enrique Jesús (TB1):** durante el capítulo IV (*Product Design*) incorporé pautas de accesibilidad y usabilidad en cada *mock-up* y prototipo, procurando que la solución sea inclusiva para personas con capacidades diversas y evitando prácticas de diseño excluyentes.<br><br>**Montes Figueroa, Juan Eduardo (TB1):** en el capítulo V (*Product Implementation, Validation & Deployment*) seguí rigurosamente las convenciones de gestión de código, documenté claramente las decisiones de diseño, aseguré la trazabilidad de cambios, el cumplimiento de licencias de software libre y la transparencia en la configuración de despliegue.<br><br>**Montes Figueroa, Juan Eduardo (TP1):** incorporé Gherkin para definir criterios de aceptación claros y Cypress para realizar pruebas end-to-end dentro del flujo de desarrollo continuo. Estas herramientas permitieron documentar escenarios reproducibles, proteger datos mediante el uso de información anonimizada y mantener trazabilidad de los cambios. Esto refuerza la responsabilidad profesional al mejorar la calidad del sistema, la confianza de los usuarios y la integridad del proceso de desarrollo.<br><br>**Palomino Santa, Cruz Erick Joaquín (TB1):** al desarrollar el capítulo I (*Introducción*), describí de forma honesta el perfil de la *startup* y de cada miembro, estableciendo un marco ético para la colaboración y dejando claras nuestras responsabilidades profesionales frente a inversores y usuarios.<br><br>**Palomino Santa, Cruz Erick Joaquín (TP1):** diseñé, ejecuté y documenté pruebas funcionales, de integración y de sistema para validar el backend de la aplicación. Me aseguré de seguir buenas prácticas de trazabilidad y reproducibilidad, utilizando datos anonimizados y asegurando que cada validación cumpliera con estándares éticos de transparencia técnica y respeto al usuario.<br><br>**Chinchihualpa Saldarriaga, Luis Sebastian (TP1):** demostré responsabilidad profesional al implementar prácticas de integración y despliegue continuo que aseguran la calidad, trazabilidad y estabilidad del sistema, contribuyendo a un entorno de desarrollo confiable para una aplicación sensible como la gestión de citas médicas. | **TB1:** reflexionamos continuamente sobre nuestra responsabilidad ética y profesional en cada fase del proyecto, garantizando siempre la privacidad, la equidad y la transparencia en todas nuestras actividades.<br><br>**TP1:** la incorporación de Gherkin y Cypress refuerza la responsabilidad profesional al permitir criterios de aceptación claros, pruebas reproducibles y protección sistemática de datos, aumentando la confianza de los usuarios y la trazabilidad de los cambios. |
-| **Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales** | **Eduardo Renato Ventura Chancafe (TB1):** en el capítulo II realicé un análisis competitivo valorando no solo las funcionalidades de los rivales, sino también su sostenibilidad económica y huella ambiental, para proponer estrategias que minimicen costos y reduzcan el consumo energético de nuestra solución.<br><br>**Eduardo Renato Ventura Chancafe (TP1):** elegí **Gherkin** y **Cypress** por ser herramientas *open-source* con una comunidad global activa, sin costes de licencia y con ejecución *headless* que disminuye el consumo de recursos en la nube. Esta decisión optimiza el presupuesto del proyecto, reduce la huella de carbono de la infraestructura de pruebas y fomenta la adopción de prácticas de calidad accesibles para equipos de cualquier región económica.<br><br>**Boronda Heidinger, Astrid Jimena (TB1):** en el capítulo III desarrollé un *impact mapping* señalando cómo cada *user story* puede afectar a diferentes grupos sociales y mercados globales, y prioricé funcionalidades que generen mayor beneficio social y económico al usuario final.<br><br>**Boronda Heidinger, Astrid Jimena (TP1):** Implementé un pipeline de Continuous Deployment que integró prácticas rigurosas de control de versiones mediante Git, asegurando una gestión ordenada y colaborativa del código. Documenté detalladamente las etapas del proceso, incluyendo la integración continua con ejecución automática de pruebas unitarias y de integración para validar la calidad del software antes de cada despliegue.<br><br>**Palma Obispo, Adrián Enrique Jesús (TB1):** durante el capítulo IV seleccioné pautas de diseño y tecnologías de bajo consumo (p. ej., componentes web ligeros) para disminuir el uso de recursos en dispositivos móviles y servidores, contribuyendo así a un menor impacto ambiental.<br><br>**Montes Figueroa, Juan Eduardo (TB1):** en el capítulo V opté por un entorno de despliegue en la nube con escalabilidad automática, reduciendo costos operativos y emisiones de carbono asociadas a infraestructuras sobredimensionadas; además, definí métricas para medir nuestro impacto social y económico.<br><br>**Montes Figueroa, Juan Eduardo (TP1):** opté por integrar Gherkin y Cypress, herramientas open-source ampliamente adoptadas, que no solo eliminan costes de licencia, sino que también permiten una ejecución automatizada eficiente y con bajo consumo de recursos. Esta decisión refleja un juicio informado al priorizar soluciones sostenibles, económicamente accesibles y de impacto global, promoviendo prácticas de calidad replicables en diversos contextos sociales y tecnológicos.<br><br>**Palomino Santa, Cruz Erick Joaquín (TB1):** en el capítulo I contextualicé el perfil de la *startup* dentro de mercados globales, evalué barreras culturales y económicas, y planteé segmentos objetivo que maximizan la accesibilidad social y el retorno de inversión.<br><br>**Palomino Santa, Cruz Erick Joaquín (TP1):** enfoqué mis decisiones de pruebas considerando el uso eficiente de herramientas y recursos. Usé tecnologías *open-source* livianas para mantener bajo el consumo computacional durante la ejecución de pruebas, permitiendo escalar sin incrementar significativamente el impacto económico ni ambiental, lo que favorece la sostenibilidad del sistema a largo plazo.<br><br>**Chinchihualpa Saldarriaga, Luis Sebastian (TP1):** tomé decisiones informadas al diseñar pipelines automatizados que optimizan recursos y reducen errores humanos, facilitando la entrega de un servicio médico más accesible, eficiente y sostenible en un contexto social de alta demanda en salud. | **TB1:** sopesamos siempre las implicaciones globales, económicas, ambientales y sociales de nuestras decisiones, buscando soluciones de ingeniería de software viables, sostenibles y con impacto positivo en todas las comunidades a las que servimos.<br><br>**TP1:** el uso estratégico de herramientas *open-source* como Gherkin y Cypress demuestra un juicio informado que equilibra eficiencia económica, sostenibilidad ambiental y acceso global a prácticas de calidad, reforzando el impacto positivo del proyecto. |
 
-
+|                                                                  **Criterio Específico**                                                                   | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | **Conclusiones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                 **Reconoce responsabilidad ética y profesional en situaciones de ingeniería de software**                                  | **Eduardo Renato Ventura Chancafe (TB1):** en el capítulo II (_Requirements Elicitation & Analysis_) salvaguardé la confidencialidad de los datos de usuarios en las entrevistas, obtuve siempre el consentimiento informado y aseguré un trato equitativo a todos los participantes en los ejercicios de _need-finding_.<br><br>**Eduardo Renato Ventura Chancafe (TP1):** definí y estandaricé el uso de las herramientas **Gherkin** (para especificar criterios de aceptación BDD) y **Cypress** (para pruebas end-to-end) dentro del pipeline de CI. Documenté escenarios con datos anonimizados, configuré stubs para evitar exponer información sensible y añadí validaciones de accesibilidad automática (a11y) en cada prueba, garantizando así la protección de datos y la equidad en la experiencia de usuario.<br><br>**Boronda Heidinger, Astrid Jimena (TB1):** en el capítulo III (_Requirements Specification_) definí las _user stories_ y el _backlog_ contemplando criterios de privacidad y equidad; formulé criterios de aceptación que garantizan el respeto a datos sensibles y evitan sesgos en la priorización de funcionalidades.<br><br>**Boronda Heidinger, Astrid Jimena (TP1):** Diseñé y ejecuté prueba que incluyeron escenarios para garantizar en el funcionamiento del sistema. Implementé pruebas unitarias, integración, sistema y BDD para verificar que el backend de la aplicación funcionara correctamente y evitando cualquier sesgo de los resultados. Además, documenté cada prueba realizada para demostrar la funcionalidad de cada prueba.<br><br>**Palma Obispo, Adrián Enrique Jesús (TB1):** durante el capítulo IV (_Product Design_) incorporé pautas de accesibilidad y usabilidad en cada _mock-up_ y prototipo, procurando que la solución sea inclusiva para personas con capacidades diversas y evitando prácticas de diseño excluyentes.<br><br>**Montes Figueroa, Juan Eduardo (TB1):** en el capítulo V (_Product Implementation, Validation & Deployment_) seguí rigurosamente las convenciones de gestión de código, documenté claramente las decisiones de diseño, aseguré la trazabilidad de cambios, el cumplimiento de licencias de software libre y la transparencia en la configuración de despliegue.<br><br>**Montes Figueroa, Juan Eduardo (TP1):** incorporé Gherkin para definir criterios de aceptación claros y Cypress para realizar pruebas end-to-end dentro del flujo de desarrollo continuo. Estas herramientas permitieron documentar escenarios reproducibles, proteger datos mediante el uso de información anonimizada y mantener trazabilidad de los cambios. Esto refuerza la responsabilidad profesional al mejorar la calidad del sistema, la confianza de los usuarios y la integridad del proceso de desarrollo.<br><br>**Palomino Santa, Cruz Erick Joaquín (TB1):** al desarrollar el capítulo I (_Introducción_), describí de forma honesta el perfil de la _startup_ y de cada miembro, estableciendo un marco ético para la colaboración y dejando claras nuestras responsabilidades profesionales frente a inversores y usuarios.<br><br>**Palomino Santa, Cruz Erick Joaquín (TP1):** diseñé, ejecuté y documenté pruebas funcionales, de integración y de sistema para validar el backend de la aplicación. Me aseguré de seguir buenas prácticas de trazabilidad y reproducibilidad, utilizando datos anonimizados y asegurando que cada validación cumpliera con estándares éticos de transparencia técnica y respeto al usuario.<br><br>**Chinchihualpa Saldarriaga, Luis Sebastian (TP1):** demostré responsabilidad profesional al implementar prácticas de integración y despliegue continuo que aseguran la calidad, trazabilidad y estabilidad del sistema, contribuyendo a un entorno de desarrollo confiable para una aplicación sensible como la gestión de citas médicas. | **TB1:** reflexionamos continuamente sobre nuestra responsabilidad ética y profesional en cada fase del proyecto, garantizando siempre la privacidad, la equidad y la transparencia en todas nuestras actividades.<br><br>**TP1:** la incorporación de Gherkin y Cypress refuerza la responsabilidad profesional al permitir criterios de aceptación claros, pruebas reproducibles y protección sistemática de datos, aumentando la confianza de los usuarios y la trazabilidad de los cambios.                                  |
+| **Emite juicios informados considerando el impacto de las soluciones de ingeniería de software en contextos globales, económicos, ambientales y sociales** | **Eduardo Renato Ventura Chancafe (TB1):** en el capítulo II realicé un análisis competitivo valorando no solo las funcionalidades de los rivales, sino también su sostenibilidad económica y huella ambiental, para proponer estrategias que minimicen costos y reduzcan el consumo energético de nuestra solución.<br><br>**Eduardo Renato Ventura Chancafe (TP1):** elegí **Gherkin** y **Cypress** por ser herramientas _open-source_ con una comunidad global activa, sin costes de licencia y con ejecución _headless_ que disminuye el consumo de recursos en la nube. Esta decisión optimiza el presupuesto del proyecto, reduce la huella de carbono de la infraestructura de pruebas y fomenta la adopción de prácticas de calidad accesibles para equipos de cualquier región económica.<br><br>**Boronda Heidinger, Astrid Jimena (TB1):** en el capítulo III desarrollé un _impact mapping_ señalando cómo cada _user story_ puede afectar a diferentes grupos sociales y mercados globales, y prioricé funcionalidades que generen mayor beneficio social y económico al usuario final.<br><br>**Boronda Heidinger, Astrid Jimena (TP1):** Implementé un pipeline de Continuous Deployment que integró prácticas rigurosas de control de versiones mediante Git, asegurando una gestión ordenada y colaborativa del código. Documenté detalladamente las etapas del proceso, incluyendo la integración continua con ejecución automática de pruebas unitarias y de integración para validar la calidad del software antes de cada despliegue.<br><br>**Palma Obispo, Adrián Enrique Jesús (TB1):** durante el capítulo IV seleccioné pautas de diseño y tecnologías de bajo consumo (p. ej., componentes web ligeros) para disminuir el uso de recursos en dispositivos móviles y servidores, contribuyendo así a un menor impacto ambiental.<br><br>**Montes Figueroa, Juan Eduardo (TB1):** en el capítulo V opté por un entorno de despliegue en la nube con escalabilidad automática, reduciendo costos operativos y emisiones de carbono asociadas a infraestructuras sobredimensionadas; además, definí métricas para medir nuestro impacto social y económico.<br><br>**Montes Figueroa, Juan Eduardo (TP1):** opté por integrar Gherkin y Cypress, herramientas open-source ampliamente adoptadas, que no solo eliminan costes de licencia, sino que también permiten una ejecución automatizada eficiente y con bajo consumo de recursos. Esta decisión refleja un juicio informado al priorizar soluciones sostenibles, económicamente accesibles y de impacto global, promoviendo prácticas de calidad replicables en diversos contextos sociales y tecnológicos.<br><br>**Palomino Santa, Cruz Erick Joaquín (TB1):** en el capítulo I contextualicé el perfil de la _startup_ dentro de mercados globales, evalué barreras culturales y económicas, y planteé segmentos objetivo que maximizan la accesibilidad social y el retorno de inversión.<br><br>**Palomino Santa, Cruz Erick Joaquín (TP1):** enfoqué mis decisiones de pruebas considerando el uso eficiente de herramientas y recursos. Usé tecnologías _open-source_ livianas para mantener bajo el consumo computacional durante la ejecución de pruebas, permitiendo escalar sin incrementar significativamente el impacto económico ni ambiental, lo que favorece la sostenibilidad del sistema a largo plazo.<br><br>**Chinchihualpa Saldarriaga, Luis Sebastian (TP1):** tomé decisiones informadas al diseñar pipelines automatizados que optimizan recursos y reducen errores humanos, facilitando la entrega de un servicio médico más accesible, eficiente y sostenible en un contexto social de alta demanda en salud.                                                                                                                                                                 | **TB1:** sopesamos siempre las implicaciones globales, económicas, ambientales y sociales de nuestras decisiones, buscando soluciones de ingeniería de software viables, sostenibles y con impacto positivo en todas las comunidades a las que servimos.<br><br>**TP1:** el uso estratégico de herramientas _open-source_ como Gherkin y Cypress demuestra un juicio informado que equilibra eficiencia económica, sostenibilidad ambiental y acceso global a prácticas de calidad, reforzando el impacto positivo del proyecto. |
 
 # 1. Capítulo I: Introducción
 
@@ -282,22 +279,22 @@
 
 SuperMed es una startup creada por estudiantes de la Facultad de Ingeniería de la carrera de Ingeniería de Software. Esta empresa tiene el propósito de desarrollar una solución web con el uso de tecnologías modernas para la ayuda de los procesos que se tienen presente en una consultoría de traumatología. Con la aplicación web MedSystem se logrará satisfacer estas necesidad por parte de los especialistas de traumatología y los clientes.
 
-| **Misión**                                                                                                                                                                                                                                | **Visión**                                                                                                                                                                                                                                                              |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Misión**                                                                                                                                                                                                                           | **Visión**                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | La misión de SuperMed es facilitar la atención médica en la especialización de traumatología a través de MedSystem para mejorar los procesos de una consultoría y la experiencia de los especialistas o doctores y de los pacientes. | Nuestra visión es ser reconocidos por nuestra capacidad de mejorar la atención médica por medio de soluciones tecnológicas que mejoren la eficiencia de los distintos servicios que ofrece el área de traumatología, además de mejorar el servicio hacia los pacientes. |
 
 ---
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto | Miembros del equipo | Código de estudiante | Carrera | Conocimientos/Habilidades |
-|------|----------------------|----------------------|---------|---------------------------|
-| <img src="assets/foto-Erick.jpg" width="50%" alt="Imagen del compañero"> | Palomino Santa Cruz Erick Joaquin | u202214843 | Ingeniería de Software | Soy un estudiante de la carrera de Ingeniería de Software de la UPC, tengo 19 años. Tengo experiencia usando lenguajes de programación como C#, Python y JS. Además puedo ayudar al equipo en todas las tareas que se realicen para lograr un resultado óptimo. |
-| <img src="assets/foto-Juan.png" width="50%" alt="Imagen del compañero"> | Montes Figueroa, Juan Eduardo | u202210775 | Ingeniería de Software | Mi nombre es Juan Montes, tengo 19 años, tengo conocimientos en C++, así como conocimientos básicos en Java y también en diseño de imágenes, desde aplicaciones como Photoshop hasta páginas web con funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles. |
-| <img src="assets/foto-astrid.png" width="50%" alt="Imagen del compañero"> | Boronda Heidinger, Astrid Jimena | u202215823 | Ingeniería de Software | Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupo y atenta a los detalles. Tengo conocimiento en C++, Java y Python. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. Me adapto muy bien a los trabajos en equipo. |
-| <img src="assets/Eduardo.jpg" width="50%" alt="Imagen del compañero"> | Ventura Chancafe, Eduardo Renato | u202212645 | Ingeniería de Software | Soy estudiante universitario que cursa su 7° ciclo. Dentro del startup me encargo del diseño, QA y gestión del equipo, ya que tengo conocimientos adicionales a los de mi sector. Apoyaré en el desarrollo del código trabajando de forma cohesionada con mis compañeros. Cuento con conocimientos en herramientas como HTML, CSS, JavaScript, Python, C++, Cypress, Node.js, NestJS y Agile Project Management. |
-| <img src="https://github.com/user-attachments/assets/7cde484d-075c-43c2-a101-55bab3a9ada1" width="50%" alt="Imagen del compañero"> | Palma Obispo, Adrian Enrique Jesus | u202210066 | Ingeniería de Software | Soy estudiante universitario, tengo 19 años y me gusta la creatividad e innovación de mi carrera. Tengo conocimientos en la gestión de proyectos tecnológicos a corto y largo plazo, y me especializo en frameworks como Remix, Vue, Angular, así como lenguajes como C++, C# y JavaScript. |
-| <img src="assets/foto-Luis.jpg" width="50%" alt="Imagen del compañero"> | Chinchihualpa Saldarriaga, Luis Sebastian | u202212112 | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y actualmente estoy cursando el séptimo ciclo. Sé programar en C++, Java y un poco de Python, además de manejar tecnologías como Angular, Flutter y Spring Boot. Me considero una persona muy responsable, exigente y trabajadora. En el grupo del proyecto puedo aportar con mis conocimientos adquiridos en los cursos de Especificación y Análisis de Requerimientos, Algoritmos y Estructuras de Datos, Diseño y Patrones de Software y Desarrollo de Aplicaciones Open Source. |
+| Foto                                                                                                                               | Miembros del equipo                       | Código de estudiante | Carrera                | Conocimientos/Habilidades                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | -------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="assets/foto-Erick.jpg" width="50%" alt="Imagen del compañero">                                                           | Palomino Santa Cruz Erick Joaquin         | u202214843           | Ingeniería de Software | Soy un estudiante de la carrera de Ingeniería de Software de la UPC, tengo 19 años. Tengo experiencia usando lenguajes de programación como C#, Python y JS. Además puedo ayudar al equipo en todas las tareas que se realicen para lograr un resultado óptimo.                                                                                                                                                                                                                                                                                                                            |
+| <img src="assets/foto-Juan.png" width="50%" alt="Imagen del compañero">                                                            | Montes Figueroa, Juan Eduardo             | u202210775           | Ingeniería de Software | Mi nombre es Juan Montes, tengo 19 años, tengo conocimientos en C++, así como conocimientos básicos en Java y también en diseño de imágenes, desde aplicaciones como Photoshop hasta páginas web con funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles.                                                                                                                                                                                                                                                                                       |
+| <img src="assets/foto-astrid.png" width="50%" alt="Imagen del compañero">                                                          | Boronda Heidinger, Astrid Jimena          | u202215823           | Ingeniería de Software | Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupo y atenta a los detalles. Tengo conocimiento en C++, Java y Python. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. Me adapto muy bien a los trabajos en equipo.                                                                                                                                                                                           |
+| <img src="assets/Eduardo.jpg" width="50%" alt="Imagen del compañero">                                                              | Ventura Chancafe, Eduardo Renato          | u202212645           | Ingeniería de Software | Soy estudiante universitario que cursa su 7° ciclo. Dentro del startup me encargo del diseño, QA y gestión del equipo, ya que tengo conocimientos adicionales a los de mi sector. Apoyaré en el desarrollo del código trabajando de forma cohesionada con mis compañeros. Cuento con conocimientos en herramientas como HTML, CSS, JavaScript, Python, C++, Cypress, Node.js, NestJS y Agile Project Management.                                                                                                                                                                           |
+| <img src="https://github.com/user-attachments/assets/7cde484d-075c-43c2-a101-55bab3a9ada1" width="50%" alt="Imagen del compañero"> | Palma Obispo, Adrian Enrique Jesus        | u202210066           | Ingeniería de Software | Soy estudiante universitario, tengo 19 años y me gusta la creatividad e innovación de mi carrera. Tengo conocimientos en la gestión de proyectos tecnológicos a corto y largo plazo, y me especializo en frameworks como Remix, Vue, Angular, así como lenguajes como C++, C# y JavaScript.                                                                                                                                                                                                                                                                                                |
+| <img src="assets/foto-Luis.jpg" width="50%" alt="Imagen del compañero">                                                            | Chinchihualpa Saldarriaga, Luis Sebastian | u202212112           | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas y actualmente estoy cursando el séptimo ciclo. Sé programar en C++, Java y un poco de Python, además de manejar tecnologías como Angular, Flutter y Spring Boot. Me considero una persona muy responsable, exigente y trabajadora. En el grupo del proyecto puedo aportar con mis conocimientos adquiridos en los cursos de Especificación y Análisis de Requerimientos, Algoritmos y Estructuras de Datos, Diseño y Patrones de Software y Desarrollo de Aplicaciones Open Source. |
 
 ## 1.2 Solution Profile
 
@@ -501,50 +498,46 @@ MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión d
 
 **Segmento Paciente**
 
-|Entrevista 1|Abril Gloria Montes Jiménez|
-| - | - |
-|Edad|50 años|
-|Distrito|La Molina|
-|![Imagen 1.png](assets/images/Entrevista1.2.PNG)|Abril es una adulta de 50 años que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en moviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Durante la entrevista con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad.|
-|URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
-|Timing|07:56 - 14:47|
+| Entrevista 1                                     | Abril Gloria Montes Jiménez                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                             | 50 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Distrito                                         | La Molina                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ![Imagen 1.png](assets/images/Entrevista1.2.PNG) | Abril es una adulta de 50 años que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en moviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Durante la entrevista con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad. |
+| URL de grabación                                 | [upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Timing                                           | 07:56 - 14:47                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-
-|Entrevista 2|Jorge Villavicencio|
-| - | - |
-|Edad|64 años|
-|Distrito|Santiago de surco|
-|![Imagen3.png](assets/images/Imagen3.png)|Jorge Villavicencio es un adulto de 64 años, que vive en Santiago de Surco, tiene como sistemas operativos de preferencia Windows en ordenador y IOS en móviles. Dentro de la entrevista realizada, podemos destacar la importancia que le da a la tecnologías al momento de la realización de citas médicas, como para la revisión de los resultados de sus chequeos médicos. Nos comenta el beneficio que brinda poder conocer al médico que lo atiende y poder coordinar de manera rápida  y efectiva una cita, evitando los típicos protocolos tediosos y posibles demoras que suceden a lo largo de este.|
-|URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
-|Timing|14:48 - 25:33|
+| Entrevista 2                              | Jorge Villavicencio                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                      | 64 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Distrito                                  | Santiago de surco                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ![Imagen3.png](assets/images/Imagen3.png) | Jorge Villavicencio es un adulto de 64 años, que vive en Santiago de Surco, tiene como sistemas operativos de preferencia Windows en ordenador y IOS en móviles. Dentro de la entrevista realizada, podemos destacar la importancia que le da a la tecnologías al momento de la realización de citas médicas, como para la revisión de los resultados de sus chequeos médicos. Nos comenta el beneficio que brinda poder conocer al médico que lo atiende y poder coordinar de manera rápida y efectiva una cita, evitando los típicos protocolos tediosos y posibles demoras que suceden a lo largo de este. |
+| URL de grabación                          | [upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Timing                                    | 14:48 - 25:33                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 **Segmento Doctor**
 
-
 | Entrevista 1                                         | Jean Piere Grandez Mansilla                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Edad                                                 | 23 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Distrito                                             | Callao                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ![Entrevista2.png](assets/entrevista-jean piere.png) | El entrevistado del segmento Médicos fue Jean-Pierre Grandes, interno de medicina en octavo ciclo. Comentó que los principales desafíos al monitorear pacientes fuera del consultorio son la falta de información y el incumplimiento de tratamientos. Utiliza principalmente el celular y WhatsApp para comunicarse. Sugiere que una plataforma ideal integre dispositivos como oxímetros o smartwatches, con alertas automáticas, facilidad de uso, seguridad de datos y conexión a la historia clínica. Destacó la importancia de comunicación clara con familiares, seguimiento remoto, personalización de parámetros y acceso rápido a información clínica. Valoró el uso de tecnologías IoT para prevenir enfermedades y mejorar la atención médica. |
 | URL de grabación                                     | [upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212645_upc_edu_pe/ESbcC765lQ1Gu7c3ANrpa8cBzNa_k27hPQOVD77XzPuuTg?e=gEoheS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                                                                                                                                                                                                                                                                                                                                  |
 | Timing                                               | 7:37                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
+| Entrevista 2                                      | Javier Puertas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                              | 28 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Distrito                                          | San Borja                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ![Entrevista3.png](assets/images/Entrevista3.png) | Javier Puertas, médico traumatólogo de 28 años en Lima, enfrenta desafíos en la gestión del tiempo y la coordinación con otros especialistas. Utiliza Windows y Android para su trabajo y prefiere herramientas tecnológicas seguras y fáciles de usar. Destaca la necesidad de aplicaciones integradas para la gestión de citas y comunicación con otros médicos. Prioriza la seguridad, facilidad de uso e integración al elegir tecnología. Además, valora la telemedicina y la historia clínica electrónica, pero señala la importancia de recibir formación adecuada para utilizar estas herramientas eficazmente. |
+| URL de grabación                                  | [upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Timing                                            | 33:13 - 43:08                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-|Entrevista 2|Javier Puertas|
-| - | - |
-|Edad|28 años|
-|Distrito|San Borja|
-|![Entrevista3.png](assets/images/Entrevista3.png)|Javier Puertas, médico traumatólogo de 28 años en Lima, enfrenta desafíos en la gestión del tiempo y la coordinación con otros especialistas. Utiliza Windows y Android para su trabajo y prefiere herramientas tecnológicas seguras y fáciles de usar. Destaca la necesidad de aplicaciones integradas para la gestión de citas y comunicación con otros médicos. Prioriza la seguridad, facilidad de uso e integración al elegir tecnología. Además, valora la telemedicina y la historia clínica electrónica, pero señala la importancia de recibir formación adecuada para utilizar estas herramientas eficazmente.|
-|URL de grabación|[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww)|
-|Timing|33:13 - 43:08|
-
-
-|Entrevista 3|Niurka Puertas|
-| - | - |
-|Edad|29 años|
-|Distrito|Surco|
-|![Entrevistaaa.png](assets/images/Entrevistaaa.png)|Niurka es una médica joven de 29 años. Ella comenta que los mayores desafíos que atraviesa son el manejo del tiempo entre consultas y cirugías, lo que dificulta la coordinación con otros especialistas. Suele usar una computadora de escritorio y un celular destinado a la consulta de citas y comunicación con sus colegas. Destaca que los sistemas de gestión de citas, recordatorios automáticos y chats con sus compañeros le serían muy útiles en su ambiente laboral. Quiere que una aplicación que la ayude proporciones seguridad y fácil de usar, además que pueda acoplarse a otros sistemas que se usan dentro de su trabajo. Quisiera que una aplicación le proporcionen un resumen del paciente detallando diagnósticos anteriores, resultado de pruebas y detalles de la consulta que la ayudarian a estar mejor preparada. Menciona que es importante que la información que se maneja deba ser cifrada y sea accesible solo para el personal médico. Piensa que la tecnología puede mejorar la atención para tener mejores diagnósticos y tener planificación con cirugías.|[[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EW8b3liS-xZFl_T7m-yoKagBpp2ko1YMrTmcKQ2lcI6v4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DQNgVY)]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EW8b3liS-xZFl_T7m-yoKagBpp2ko1YMrTmcKQ2lcI6v4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DQNgVY))|
-|Timing|17:37 - 23:04|
+| Entrevista 3                                        | Niurka Puertas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Edad                                                | 29 años                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Distrito                                            | Surco                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ![Entrevistaaa.png](assets/images/Entrevistaaa.png) | Niurka es una médica joven de 29 años. Ella comenta que los mayores desafíos que atraviesa son el manejo del tiempo entre consultas y cirugías, lo que dificulta la coordinación con otros especialistas. Suele usar una computadora de escritorio y un celular destinado a la consulta de citas y comunicación con sus colegas. Destaca que los sistemas de gestión de citas, recordatorios automáticos y chats con sus compañeros le serían muy útiles en su ambiente laboral. Quiere que una aplicación que la ayude proporciones seguridad y fácil de usar, además que pueda acoplarse a otros sistemas que se usan dentro de su trabajo. Quisiera que una aplicación le proporcionen un resumen del paciente detallando diagnósticos anteriores, resultado de pruebas y detalles de la consulta que la ayudarian a estar mejor preparada. Menciona que es importante que la información que se maneja deba ser cifrada y sea accesible solo para el personal médico. Piensa que la tecnología puede mejorar la atención para tener mejores diagnósticos y tener planificación con cirugías. | [[upc-pre-202402-si657-SW71-MedTechSolutions-needfinding-sprint-1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EW8b3liS-xZFl_T7m-yoKagBpp2ko1YMrTmcKQ2lcI6v4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DQNgVY)](<[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112936_upc_edu_pe/EVqboYQCGwZCud-3FINbNTMByTfeiCoFC-BK3OS3VW6xww](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EW8b3liS-xZFl_T7m-yoKagBpp2ko1YMrTmcKQ2lcI6v4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DQNgVY)>) |
+| Timing                                              | 17:37 - 23:04                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 # 2.2.3. Análisis de entrevistas
 
@@ -564,27 +557,28 @@ Los Users personas que se muestran a continuación, fueron realizados a partir d
   ![Userpersona2.png](assets/cap2/Userpersona2.png)**
 - - **Laboratorio:
     ![Userpersona3.png](assets/cap2/Userpersona3.png)**
+
 # 2.3.2. User Task Matrix
 
-| Tarea | **Pacientes** |   | **Profesionales doctores** |   | **Laboratorio** |
-|-------|---------------|---|----------------------------|---|-----------------|
-|       | Frec. | Imp. | Frec. | Imp. | Frec. | Imp. |
-| Programar una cita | Alta | Alta | Alta | Alta | – | – |
-| Acceder a resultados de exámenes | Media | Alta | Alta | Alta | Alta | Alta |
-| Realizar seguimiento de tratamiento | Alta | Alta | Alta | Alta | – | – |
-| Agendar una cirugía | Baja | Alta | Media | Alta | – | – |
-| Participar en consultas virtuales | Baja | Alta | Media | Alta | – | – |
-| Recordatorios automáticos de citas | Alta | Alta | Alta | Alta | – | – |
-| Acceder a historias clínicas | – | – | Alta | Alta | – | – |
-| Consultar información sobre medicamentos | Media | Alta | Media | Alta | – | – |
-| Comunicarse con el especialista | Alta | Alta | Media | Alta | Alta | Alta |
-| Proporcionar retroalimentación | Baja | Media | – | – | – | – |
-| Solicitar análisis clínicos | Baja | Alta | – | – | Alta | Alta |
-| Enviar resultados de análisis | – | – | – | – | Alta | Alta |
+| Tarea                                    | **Pacientes** |       | **Profesionales doctores** |      | **Laboratorio** |
+| ---------------------------------------- | ------------- | ----- | -------------------------- | ---- | --------------- | ---- |
+|                                          | Frec.         | Imp.  | Frec.                      | Imp. | Frec.           | Imp. |
+| Programar una cita                       | Alta          | Alta  | Alta                       | Alta | –               | –    |
+| Acceder a resultados de exámenes         | Media         | Alta  | Alta                       | Alta | Alta            | Alta |
+| Realizar seguimiento de tratamiento      | Alta          | Alta  | Alta                       | Alta | –               | –    |
+| Agendar una cirugía                      | Baja          | Alta  | Media                      | Alta | –               | –    |
+| Participar en consultas virtuales        | Baja          | Alta  | Media                      | Alta | –               | –    |
+| Recordatorios automáticos de citas       | Alta          | Alta  | Alta                       | Alta | –               | –    |
+| Acceder a historias clínicas             | –             | –     | Alta                       | Alta | –               | –    |
+| Consultar información sobre medicamentos | Media         | Alta  | Media                      | Alta | –               | –    |
+| Comunicarse con el especialista          | Alta          | Alta  | Media                      | Alta | Alta            | Alta |
+| Proporcionar retroalimentación           | Baja          | Media | –                          | –    | –               | –    |
+| Solicitar análisis clínicos              | Baja          | Alta  | –                          | –    | Alta            | Alta |
+| Enviar resultados de análisis            | –             | –     | –                          | –    | Alta            | Alta |
 
 **Conclusiones clave**
 
-- Coincidencia en *Programar cita* (pacientes y doctores) y *Acceder a resultados* (doctores y laboratorios).
+- Coincidencia en _Programar cita_ (pacientes y doctores) y _Acceder a resultados_ (doctores y laboratorios).
 - Diferencias: pacientes valoran recordatorios y seguimiento; doctores, historias clínicas y telemedicina; laboratorios, exactitud y entrega puntual.
 
 # 2.3.3. User Journey Mapping
@@ -604,6 +598,7 @@ En esta sección se presentan los User Journey Mapping de los segmentos objetivo
 ![JourneyMap3.png](assets/cap2/JourneyMap3.png)
 
 # 2.3.4. Empathy Maps
+
 En esta sección mostramos los empathy mapping de los segmentos objetivos realizados con la información recopilada de componentes anteriores.
 
 **Paciente:**
@@ -617,6 +612,7 @@ En esta sección mostramos los empathy mapping de los segmentos objetivos realiz
 **Laboratorio:**
 
 ![Empathymap.png](assets/cap2/Empathyamp3.png)
+
 ### 2.3.5. As-is Scenario Mapping.
 
 En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia de ideas individual, revisión e identificación de fases como columnas, para conseguir los As-is Scenario Mapping de los segmentos objetivos.
@@ -635,6 +631,7 @@ En esta sección se realizaron las distintas etapas de preparación, tales como 
 # Capítulo III: Requirements Specification
 
 ## 3.1 To-Be Scenario Mapping
+
 En esta sección se presenta el mapeo de los escenarios, realizando una tabla con la situación a mejorar del segmento objetivo, analizando que pasos se realizarán y cómo se siente.
 
 <p><b>Para el segmento 1 (Pacientes):</b></p>
@@ -648,53 +645,54 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 
 ## 3.2 User Stories
 
-| Epic / Story ID |                                        Título                                        |                                                                                                                                                                    Descripción                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                              Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                               | Relacionado con (Epic ID) |
-|:---------------:|:------------------------------------------------------------------------------------:| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :-----------------------: | 
-|       E01       |                         Gestión de Inventario de Laboratorio                         |                                            Como técnico de laboratorio, deseo una plataforma tecnológica que me permita gestionar eficientemente el inventario de suministros y equipos, para garantizar la disponibilidad de materiales necesarios y optimizar el flujo de trabajo en el laboratorio.                                            |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
-|       E02       |                               Gestión de citas médicas                               |                                                               Como paciente, deseo tener acceso a una plataforma tecnológica que facilite la gestión de mis citas médicas, para poder organizar mi agenda de manera eficiente y recibir una atención médica oportuna y de calidad.                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
-|       E03       |                 Plataforma tecnológica para tratamientos ortopédicos                 |                                                            Como médico traumatológico, quiero tener una plataforma tecnológica que me permita gestionar eficientemente los tratamientos de mis pacientes, para poder proporcionar una atención médica de alta calidad y personalizada.                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
-|       E04       |                        Acceso a historial médico del paciente                        |                                                                                      Como médico traumatológico,deseo poder acceder al historial médico completo de mis pacientes, para tomar decisiones informadas y brindarles la mejor atención posible.                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
-|       E05       |                   Gestión de muestras y resultados de laboratorio                    |                                                                                                  Como técnico de laboratorio, deseo contar con una aplicación web que me permita optimizar la gestión de muestras y resultados de los pacientes.                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
-|       E06       |                   Acceso a página informativa sobre la aplicación                    |                                                                                                                   Como paciente quiero poder entrar una landing page donde esté la información esencial sobre la aplicación web                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
-|      US01       |                                 Registro de Muestras                                 |                                              Como técnico de laboratorio, quiero poder registrar nuevas muestras en el sistema, incluyendo detalles como el código de la muestra, tipo de muestra y fecha de recepción, para mantener un seguimiento preciso de todas las muestras recibidas.                                              |                                                                                      <p>**Escenario 1: Registro Exitoso**</p><p>- Dado que el técnico de laboratorio está en la página de registro de muestras,</p><p>- Cuando el técnico ingresa una nueva muestra con todos los campos requeridos correctamente,</p><p>- Entonces el sistema registra la muestra y muestra un mensaje de confirmación.</p><p>**Escenario 2: Validación de Campos Obligatorios**</p><p>- Dado que el técnico de laboratorio está en la página de registro de muestras,</p><p>- Cuando el técnico intenta ingresar una nueva muestra sin completar todos los campos obligatorios,</p><p>- Entonces el sistema muestra un mensaje de error indicando los campos faltantes.</p>                                                                                      |            E01            |
-|      US02       |                                Asignación de Análisis                                |                         Como técnico de laboratorio, quiero poder asignar análisis específicos a las muestras registradas, incluyendo detalles como el tipo de análisis y el técnico responsable, para asegurar que cada muestra sea analizada adecuadamente.                         |                                                                          <p>**Escenario 1: Asignación Exitosa**</p><p>- Dado que el técnico de laboratorio está en la página de asignación de análisis,</p><p>- Cuando el técnico asigna un análisis a una muestra con todos los campos requeridos correctamente,</p><p>- Entonces el sistema registra la asignación y muestra un mensaje de confirmación.</p><p>**Escenario 2: Validación de Campos Obligatorios**</p><p>- Dado que el técnico de laboratorio está en la página de asignación de análisis,</p><p>- Cuando el técnico intenta asignar un análisis a una muestra sin completar todos los campos obligatorios,</p><p>- Entonces el sistema muestra un mensaje de error indicando los campos faltantes.</p>                                                                           |            E01            |
-|      US03       |                          Registro de Resultados de Análisis                          |                                                       Como técnico de laboratorio, quiero poder registrar los resultados de los análisis realizados en las muestras, incluyendo detalles como los valores obtenidos, la fecha del análisis y observaciones, para mantener un registro completo y preciso.                                                        |                                                          <p>**Escenario 1: Registro Exitoso**</p><p>- Dado que el técnico de laboratorio está en la página de registro de resultados de análisis,</p><p>- Cuando el técnico ingresa los resultados del análisis con todos los campos requeridos correctamente,</p><p>- Entonces el sistema registra los resultados y muestra un mensaje de confirmación.</p><p>**Escenario 2: Validación de Campos Obligatorios**<p></p><p>- Dado que el técnico de laboratorio está en la página de registro de resultados de análisis,</p><p>- Cuando el técnico intenta ingresar los resultados del análisis sin completar todos los campos obligatorios,</p><p>- Entonces el sistema muestra un mensaje de error indicando los campos faltantes.</p>                                                           |            E01            |
-|      US04       |                                 Consulta de Muestras                                 |                                                Como técnico de laboratorio, quiero poder consultar las muestras registradas en el sistema mediante diversos criterios de búsqueda (por ejemplo, código de muestra, fecha de recepción), para localizar rápidamente la información necesaria.                                                 |                                                                                          <p>**Escenario 1: Consulta Exitosa**</p><p>- Dado que el técnico de laboratorio está en la página de consulta de muestras,</p><p>- Cuando el técnico ingresa los criterios de búsqueda y realiza la consulta,</p><p>- Entonces el sistema muestra una lista de muestras que coinciden con los criterios ingresados.</p><p>**Escenario 2: Sin Resultados**</p><p>- Dado que el técnico de laboratorio está en la página de consulta de muestras,</p><p>- Cuando el técnico ingresa los criterios de búsqueda y realiza la consulta,</p><p>- Entonces el sistema muestra un mensaje indicando que no se encontraron muestras que coincidan con los criterios.</p>                                                                                           |            E01            |
-|      US05       |                          Generación de Reportes de Análisis                          |                                      Como técnico de laboratorio, quiero poder generar reportes de los análisis realizados, incluyendo detalles de las muestras, resultados y observaciones, para proporcionar información completa y detallada a los solicitantes de los análisis.                                       |                                                                                              <p>**Escenario 1: Generación Exitosa**</p><p>- Dado que el técnico de laboratorio está en la página de generación de reportes,</p><p>- Cuando el técnico selecciona los parámetros de reporte y solicita la generación,</p><p>- Entonces el sistema genera el reporte y lo presenta en un formato descargable.</p><p>**Escenario 2: Falta de Parámetros**</p><p>- Dado que el técnico de laboratorio está en la página de generación de reportes,</p><p>- Cuando el técnico intenta generar un reporte sin seleccionar todos los parámetros necesarios,</p><p>- Entonces el sistema muestra un mensaje de error indicando los parámetros faltantes.</p>                                                                                               |            E01            |
-|      US06       |                   Adjuntar Archivo PDF con Resultados de Análisis                    |                                                              Como técnico de laboratorio, quiero poder adjuntar un archivo PDF con los resultados de los análisis realizados en las muestras, para proporcionar un informe detallado y estandarizado que pueda ser revisado y compartido fácilmente.                                                              | <p>**Escenario 1: Adjuntar Archivo Exitoso**</p><p>- Dado que el técnico de laboratorio está en la página de registro de resultados de análisis,<p>- Cuando el técnico selecciona una muestra y adjunta un archivo PDF con los resultados del análisis,</p> </p><p>- Entonces el sistema carga el archivo correctamente, lo asocia con la muestra correspondiente y muestra un mensaje de confirmación.</p><p> <p>**Escenario 2: Tamaño de Archivo Excedido**</p><p>- Dado que el técnico de laboratorio está en la página de registro de resultados de análisis,</p><p>- Cuando el técnico intenta adjuntar un archivo PDF que excede el tamaño máximo permitido,</p><p>- Entonces el sistema muestra un mensaje de error indicando que el archivo es demasiado grande y no permite la carga hasta que se adjunte un archivo de tamaño aceptable. |            E01            |
-|      US07       |                                Registro de Nueva Cita                                |                                                                                                 Como paciente, quiero programar una nueva cita médica a través de la plataforma en línea de MedSystem para evitar tener que llamar por teléfono.                                                                                                  |                                                       <p>**Escenario 1: Registro de Cita para Pacientes Registrados**</p><p>- Dado que el usuario es un paciente registrado en MedSystem,</p><p>- Cuando selecciona la opción de programar una nueva cita médica desde la plataforma,</p><p>- Entonces es redirigido a un formulario donde puede ingresar los detalles de la cita, como la fecha, hora y motivo de la consulta.</p><p>**Escenario 2: Registro de Cita para Nuevos Pacientes**</p><p>- Dado que el usuario es un nuevo paciente en MedSystem,</p><p>- Cuando accede a la plataforma por primera vez y elige programar una cita médica,</p><p>- Entonces se le solicita completar un formulario de registro con su información personal antes de poder programar la cita.</p>                                                        |            E02            |
-|      US08       |                        Selección de Especialista y Ubicación                         |                                                                                      Como paciente, quiero poder seleccionar al especialista y la ubicación preferida para mi cita médica en MedSystem, para poder planificar de acuerdo a mis necesidades.                                                                                       |                     <p>**Escenario 1: Selección de Especialista Disponible**</p><p>- Dado que el usuario está programando una cita médica en MedSystem,</p><p>- Cuando elige la opción de seleccionar un especialista desde la plataforma,</p><p>- Entonces se le presenta una lista de especialistas disponibles junto con su especialidad y ubicación, lo que le permite elegir el más adecuado para su consulta.</p><p>**Escenario 2: Selección de Ubicación para la Cita Médica**</p><p>- Dado que el usuario tiene una preferencia de ubicación para su cita médica,</p><p>- Cuando selecciona la opción de elegir la ubicación en MedSystem,</p><p>- Entonces se le muestra un mapa interactivo con los diferentes centros médicos disponibles en su área, lo que le permite seleccionar el más conveniente para él.</p>                     |            E02            |
-|      US09       |                              Disponibilidad de Horarios                              |                                                                                            Como paciente, quiero ver la disponibilidad de horarios de los especialistas en MedSystem para elegir la fecha y hora más conveniente para mi cita médica.                                                                                             |             <p>**Escenario 1: Verificación de Disponibilidad de Horarios**</p><p>- Dado que el usuario está buscando una cita médica en MedSystem,</p><p>- Cuando selecciona la opción de verificar la disponibilidad de horarios desde la plataforma,</p><p>- Entonces se le muestra un calendario interactivo con los días y horarios disponibles de los especialistas, lo que le permite seleccionar el más adecuado para él.</p><p>**Escenario 2: Destaque de Horarios Disponibles para Citas Urgentes**</p><p>- Dado que el usuario necesita una cita médica urgente,</p><p>- Cuando accede a la plataforma de MedSystem y selecciona la opción de ver la disponibilidad de horarios,</p><p>- Entonces se resaltan en el calendario los próximos horarios disponibles, lo que le permite programar una cita lo antes posible.</p>             |            E02            |
-|      US10       |                                Recordatorios de Cita                                 |                                                                                 Como paciente, quiero recibir recordatorios automáticos de mi cita médica a través de notificaciones por correo electrónico o mensajes de texto en MedSystem, para no olvidarla.                                                                                  |                                                                        <p>**Escenario 1: Recordatorio por Correo Electrónico**</p><p>- Dado que el usuario ha programado una cita médica en MedSystem,</p><p>- Cuando se acerca la fecha y hora de la cita,</p><p>- Entonces recibe automáticamente un recordatorio por correo electrónico con los detalles de la cita y un enlace para confirmar su asistencia.</p><p>**Escenario 2: Recordatorio por Mensaje de Texto**</p><p>- Dado que el usuario tiene múltiples citas médicas programadas en MedSystem,</p><p>- Cuando se aproxima la fecha de una de sus citas,</p><p>- Entonces recibe un recordatorio por mensaje de texto en su teléfono móvil, lo que le permite estar al tanto de todas sus citas médicas.</p>                                                                         |            E02            |
-|      US11       |                                 Cancelación de Citas                                 |                                                                                                           Como paciente, quiero tener la opción de cancelar mi cita médica en MedSystem en caso de imprevistos o cambios en mi agenda.                                                                                                            |                                          <p>**Escenario 1: Cancelación de Cita por Conflicto de Programación**</p><p>- Dado que el usuario tiene un conflicto de programación y necesita cancelar una cita médica en MedSystem,</p><p>-Cuando accede a la plataforma y selecciona la opción de cancelar la cita,</p><p>- Entonces se le solicita confirmar la cancelación y el horario se libera para que otro paciente pueda programar una cita en ese mismo horario.</p><p>**Escenario 2: Confirmación de Cancelación de Cita**</p><p>- Dado que el usuario ha cancelado con éxito su cita médica en MedSystem,</p><p>- Cuando confirma la cancelación,</p><p>- Entonces recibe una confirmación en pantalla de que la cita ha sido cancelada con éxito, brindándole tranquilidad sobre su acción.</p>                                           |            E02            |
-|      US12       |                               Re-agendamiento de Citas                               |                                                                                                           Como paciente, quiero tener la opción de reagendar mi cita médica en MedSystem en caso de imprevistos o cambios en mi agenda.                                                                                                           |                                                                <p>**Escenario 1: Reagendamiento de Cita Médica**</p><p>- Dado que el usuario necesita reagendar su cita médica en MedSystem,</p><p>- Cuando accede a la plataforma y selecciona la opción de reagendar la cita,</p><p>- Entonces se le presenta un calendario con los horarios disponibles para que pueda seleccionar una nueva fecha y hora para su cita.</p><p>**Escenario 2: Confirmación de Reagendamiento de Cita**</p><p>- Dado que el usuario ha reagendado con éxito su cita médica en MedSystem,</p><p>- Cuando confirma el nuevo horario de la cita,</p><p>- Entonces recibe una confirmación en pantalla de que la cita ha sido reagendada con éxito, brindándole tranquilidad sobre su nueva cita.</p>                                                                 |            E02            |
-|      US13       |                                 Confirmación de Cita                                 |                                                                                 Como paciente, quiero recibir una confirmación instantánea de mi cita médica después de programarla en MedSystem, para tener la certeza de que ha sido registrada correctamente.                                                                                  |                                                            <p>**Escenario 1: Confirmación Instantánea**</p><p>- Dado que el usuario ha programado una cita médica en MedSystem,</p><p>- Cuando completa el proceso de programación de la cita y selecciona la opción de confirmar,</p><p>- Entonces recibe una confirmación instantánea en pantalla junto con un número de referencia de la cita.</p><p>**Escenario 2: Confirmación por Correo Electrónico**</p><p>- Dado que el usuario ha programado una cita médica en MedSystem,</p><p>- Cuando pasa por el proceso de programación de la cita y confirma su asistencia,</p><p>- Entonces recibe un correo electrónico de confirmación con los detalles de la cita, lo que le brinda tranquilidad y seguridad sobre su reserva.</p>                                                            |            E02            |
-|      US14       |                    Acceso Eficiente al Historial Médico Completo                     |                  Como médico traumatológico, quiero poder acceder rápidamente al historial médico completo de mis pacientes, incluyendo su historial de tratamientos pasados y resultados de análisis, para poder evaluar su progreso de manera eficiente y tomar decisiones informadas sobre los próximos pasos del tratamiento                  |                                                                         <p>**Escenario 1:**</p><p>- Dado que estoy en la página principal de MedSystem,</p><p>- Cuando hago clic en el nombre de un paciente en la lista de pacientes,</p><p>- Entonces se carga la página del historial médico del paciente en menos de 3 segundos, mostrando toda la información relevante de manera clara y organizada.</p><p>**Escenario 2:**</p><p>- Dado que estoy revisando el historial médico de un paciente,</p><p>- Cuando hago clic en la sección "Tratamientos Pasados" del historial médico,</p><p>- Entonces se muestran todos los tratamientos anteriores del paciente, con detalles como la fecha de inicio, la fecha de finalización, la dosis y las notas médicas.</p>                                                                          |            E03            |
-|      US15       |                        Notificaciones de Citas de Seguimiento                        |                                               Como médico traumatológico, quiero recibir notificaciones automáticas sobre citas de seguimiento programadas con mis pacientes, para poder planificar mi agenda con anticipación y garantizar que ningún paciente se quede sin seguimiento adecuado.                                                |                                                                                                                                                   <p>**Escenario 1:**</p><p>- Dado que tengo una cita de seguimiento programada para un paciente,</p><p>- Cuando falta menos de 24 horas para la cita,</p><p>- Entonces recibo automáticamente una notificación por correo electrónico con los detalles de la cita.</p><p>**Escenario 2:**</p><p>- Dado que recibo una notificación de una cita de seguimiento,</p><p>- Cuando hago clic en la notificación,</p><p>- Entonces se abre la página de detalles de la cita en MedSystem, donde puedo confirmar, reprogramar o cancelar la cita.</p>                                                                                                                                                    |            E03            |
-|      US16       |                        Actualización de Planes de Tratamiento                        |                          Como médico traumatológico, quiero tener la capacidad de ajustar y actualizar los planes de tratamiento de mis pacientes directamente desde la plataforma MedSystem, para poder adaptar los tratamientos a medida que evoluciona la condición del paciente o surgen nuevas necesidades médicas.                          |                                                                                                           <p>**Escenario 1:**</p><p>- Dado que estoy revisando el historial médico de un paciente,</p><p>- Cuando hago clic en la sección "Plan de Tratamiento" del historial médico,</p><p>- Entonces se muestra una lista de todos los tratamientos actuales del paciente, con opciones para agregar, editar o eliminar tratamientos.</p><p>**Escenario 2:**</p><p>- Dado que he realizado cambios en el plan de tratamiento de un paciente,</p><p>- Cuando guardo los cambios,</p><p>- Entonces se actualiza automáticamente el historial médico del paciente y se registra una entrada de auditoría para los cambios realizados.</p>                                                                                                           |            E03            | 
-|      US17       |                     Alertas de Cambios en Resultados de Análisis                     |                                 Como médico traumatológico, quiero recibir alertas automáticas sobre cambios significativos en los resultados de los análisis médicos de mis pacientes, para poder responder rápidamente a cualquier nueva información relevante y ajustar los tratamientos según sea necesario.                                  |                                                                                                                                    <p>**Escenario 1:**</p><p>- Dado que recibo nuevos resultados de análisis para un paciente,</p><p>- Cuando se detecta un cambio significativo en los resultados,</p><p>- Entonces recibo automáticamente una alerta por correo electrónico y se muestra una notificación en MedSystem.</p><p>**Escenario 2:**</p><p>- Dado que recibo una alerta sobre un cambio en los resultados de análisis,</p><p>- Cuando hago clic en la alerta,</p><p>- Entonces se muestra una descripción detallada del cambio y se proporciona orientación sobre la acción recomendada por mí.</p>                                                                                                                                    |            E03            |
-|      US18       |                        Comunicación Segura con los Pacientes                         |                                    Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.                                     |                                                                                                                                                                <p>**Escenario 1:**</p><p>- Dado que estoy en la página de detalles de un paciente en MedSystem,</p><p>- Cuando hago clic en el botón de "Enviar Mensaje",</p><p>- Entonces se abre una ventana de mensajería segura donde puedo redactar y enviar un mensaje al paciente.</p><p>**Escenario 2:**</p><p>- Dado que recibo un mensaje de un paciente,</p><p>- Cuando accedo a la bandeja de entrada de mensajes en MedSystem,</p><p>- Entonces se muestra el mensaje recibido de manera segura y puedo responder.</p>                                                                                                                                                                |            E03            |
-|      US19       |                  Análisis y Evaluación de Eficacia del Tratamiento                   |                         Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.                         |           <p>**Escenario 1:**</p><p>- Dado que quiero generar un informe sobre la eficacia del tratamiento para un grupo de pacientes,</p><p>- Cuando selecciono los parámetros de filtro deseados, como el rango de fechas y las condiciones de tratamiento,</p><p>- Entonces se genera automáticamente un informe detallado que muestra métricas clave de eficacia del tratamiento para el grupo seleccionado de pacientes.</p><p>**Escenario 2:**</p><p>- Dado que estoy revisando un informe sobre la eficacia del tratamiento,</p><p>- Cuando hago clic en una métrica específica, como la tasa de éxito del tratamiento,</p><p>- Entonces se muestra un desglose detallado de los pacientes incluidos en la métrica seleccionada, así como información adicional sobre los tratamientos utilizados y los resultados obtenidos.</p>           |            E03            |
-|      US20       |                    Acceso rápido al historial médico del paciente                    |                                                          Como doctor, quiero acceder rápidamente al historial médico completo de mis pacientes para revisar su historial de enfermedades, tratamientos pasados, alergias y otros datos relevantes antes de una consulta o procedimiento.                                                          |                                                                                                                                   <p>**Escenario 1:**</p><p>- Dado que el doctor inicia una consulta</p><p>- Cuando busca y selecciona el nombre completo o número de identificación de un paciente</p><p>- Entonces el sistema muestra el historial médico completo del paciente en menos de 30 segundos.</p><p>**Escenario 2:**</p><p>- Dado que el historial médico del paciente se muestra</p><p>- Cuando el doctor selecciona una categoría específica, como diagnósticos previos o tratamientos pasados</p><p>- Entonces el sistema muestra los detalles correspondientes de manera clara y ordenada.</p>                                                                                                                                    |            E04            |
-|      US21       |                     Visualización detallada del historial médico                     |                                  Como doctor, quiero poder visualizar de manera detallada el historial médico de mis pacientes, incluyendo información como diagnósticos previos, resultados de exámenes, medicaciones actuales y pasadas, procedimientos realizados, y notas de otros médicos o especialistas.                                   |                                                                                                                                                   <p>**Escenario 1:**</p><p>- Dado que el doctor revisa el historial médico de un paciente</p><p>- Cuando selecciona la sección de resultados de exámenes</p><p>- Entonces el sistema muestra una lista ordenada de exámenes recientes.</p><p>**Escenario 2:**</p><p>- Dado que el doctor visualiza una entrada del historial médico</p><p>- Cuando expande la entrada, entonces el sistema muestra detalles adicionales</p><p>- Entonces el sistema muestra detalles adicionales, como notas de otros médicos o resultados de laboratorio.</p>                                                                                                                                                    |            E04            |
-|      US22       |                  Actualización en tiempo real del historial médico                   |                                                          Como doctor, quiero que cualquier actualización realizada en el historial médico de un paciente se refleje inmediatamente en el sistema, para garantizar que siempre esté trabajando con la información más reciente y precisa.                                                          |                                                                                                                                                       <p>**Escenario 1:**</p><p>- Dado que un doctor actualiza el historial médico de un paciente</p><p>- Cuando otro doctor accede al historial médico del mismo paciente</p><p>- Entonces el sistema refleja instantáneamente los cambios realizados por el primer doctor.</p><p>**Escenario 2:**</p><p>- Dado que se realiza una actualización en el historial médico</p><p>- Cuando el sistema procesa la actualización</p><p>- Entonces envía notificaciones automáticas a los médicos relevantes sobre la actualización reciente.</p>                                                                                                                                                        |            E04            |
-|      US23       |                  Registro de nuevas entradas en el historial médico                  |                                  Como doctor, quiero poder registrar nuevas entradas en el historial médico de mis pacientes, como nuevos diagnósticos, tratamientos recetados, resultados de exámenes o notas de la consulta actual, para mantener un registro completo y actualizado de su historial de salud.                                  |                                                                                                                                                                      <p>**Escenario 1:**</p><p>- Dado que el doctor completa el formulario de registro de entradas en el historial médico</p><p>- Cuando guarda la nueva entrada</p><p>- Entonces el sistema confirma la acción y actualiza la lista de entradas del paciente.</p><p>**Escenario 2:**</p><p>- Dado que se registra una nueva entrada en el historial médico</p><p>- Cuando el doctor guarda la entrada</p><p>- Entonces el sistema muestra la nueva entrada en la lista de historial médico del paciente.</p>                                                                                                                                                                      |            E04            |
-|      US24       |                     Seguridad y privacidad del historial médico                      |                             Como doctor, necesito que el acceso al historial médico de mis pacientes esté protegido por medidas de seguridad robustas, y que se cumplan estrictamente las regulaciones de privacidad de datos para garantizar la confidencialidad y la integridad de la información médica sensible.                              |                                                                                                                                                                      <p>**Escenario 1:**</p><p>- Dado que el doctor intenta acceder al historial médico desde una ubicación o dispositivo nuevo</p><p>- Cuando introduce sus credenciales</p><p>- Entonces el sistema solicita autenticación de doble factor.</p><p>**Escenario 2:**</p><p>- Dado que se establece una conexión entre el sistema y un dispositivo de acceso al historial médico</p><p>- Cuando se transmiten datos</p><p>- Entonces la comunicación se cifra utilizando protocolos de seguridad robustos.</p>                                                                                                                                                                      |            E04            |
-|      US25       |                Registro de eventos importantes en el historial médico                | Como doctor, quiero poder registrar eventos importantes en el historial médico de mis pacientes, como hospitalizaciones, cirugías importantes, cambios significativos en el estado de salud o eventos relevantes en la historia médica familiar, para tener una visión completa y contextualizada de la salud del paciente a lo largo del tiempo. |                                                                                                                                                        <p>**Escenario 1:**</p><p>- Dado que el doctor registra un evento importante en el historial médico de un paciente</p><p>- Cuando completa el formulario de registro</p><p>- Entonces el sistema confirma la acción y actualiza el historial médico del paciente.</p><p>**Escenario 2:**</p><p>- Dado que se registra un evento importante en el historial médico</p><p>- Cuando se guarda la entrada</p><p>- Entonces el sistema muestra el evento registrado en la sección correspondiente del historial médico del paciente.</p>                                                                                                                                                         |            E04            |
-|      US26       |       Interfaz personalizable para mejorar eficiencia en los análisis médicos        |                                                    Como técnico de laboratorio, necesito una interfaz intuitiva y personalizable en el sistema de análisis para adaptarla a las necesidades específicas de cada tipo de prueba y mejorar la eficiencia en la ejecución de los análisis médicos                                                    |                              <p>**Escenario 1:Personalización de la interfaz**</p><p>- Dado, que un técnico de laboratorio necesita adaptar la interfaz para un tipo específico de análisis.</p><p>- Cuando, accede a la función de personalización en el sistema de análisis.</p><p>- Entonces, puede mover, agregar o eliminar herramientas y paneles según sea necesario para optimizar el flujo de trabajo.</p><p>**Escenario 2:Guardado y aplicado de la personalización**</p><p>- Dado,que un técnico de laboratorio ha personalizado la interfaz para un tipo de prueba.</p><p>- Cuando, guarda los cambios realizados en la interfaz.</p><p>- Entonces, la configuración personalizada se guarda correctamente y se aplica automáticamente en futuras sesiones de análisis para el mismo tipo de prueba.</p>                               |            E05            |
-|      US27       |      Acceso a los protocolos actualizados en la aplicación web del laboratorio       |                          Como técnico de laboratorio, quiero una funcionalidad en la aplicación web que me permita acceder y revisar los protocolos actualizados de análisis y procedimientos, para asegurar que estoy siguiendo las últimas directrices y garantizar la calidad en la ejecución de las pruebas médicas.                          |                                                          <p>**Escenario 1:Acceso a los protocolos actualizados**</p><p>- Dado, que un técnico de laboratorio necesita revisar los protocolos actualizados.</p><p>- Cuando, accede a la sección de protocolos en la aplicación web.</p><p>- Entonces, encuentra una lista clara y organizada de los protocolos actualizados, con la posibilidad de ver detalles adicionales si es necesario.</p><p>**Escenario 2: Revisión y confirmación de los protocolos**</p><p>- Dado, que un técnico de laboratorio revisa un protocolo actualizado.</p><p>- Cuando, lee y comprende los detalles del protocolo.</p><p>- Entonces, confirma que está siguiendo las últimas directrices y procedimientos al ejecutar el análisis correspondiente.</p>                                                          |            E05            |
-|      US28       |                   Sistema de comunicación y registro de resultados                   |                                                     Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.                                                     |                                                                                   <p>**Escenario 1:Registro automático de resultados**</p><p>- Dado, que un técnico de laboratorio completa un análisis.</p><p>- Cuando, finaliza el proceso, los resultados se registran automáticamente en el sistema.</p><p>- Entonces, el sistema confirma el registro exitoso de los resultados.</p><p>**Escenario 2:Comunicación de resultados al médico**</p><p>- Dado, que un técnico de laboratorio finaliza el registro de resultados.</p><p>- Cuando, utiliza la funcionalidad de comunicación para enviar los resultados al médico a cargo.</p><p>- Entonces, el sistema envía los resultados de manera rápida y eficiente al médico a través de la aplicación.</p>                                                                                    |            E05            |
-|      US29       |         Protocolo de integridad para las muestras en el proceso de análisis          |                                         Como técnico de laboratorio, quiero un protocolo actualizado que asegure la integridad de las muestras durante todo el proceso, desde la recolección hasta el análisis, minimizando así la posibilidad de resultados incorrectos debido a muestras comprometidas.                                         |            <p>**Escenario 1:Aplicación del protocolo de integridad**</p><p>- Dado, que un técnico de laboratorio comienza el proceso de análisis de muestras.</p><p>- Cuando, sigue el protocolo de integridad establecido para garantizar la calidad de las muestras.</p><p>- Entonces, se llevan a cabo las medidas necesarias para asegurar que las muestras se mantengan íntegras durante todo el proceso.</p><p>**Escenario 2:Identificación de muestras comprometidas**</p><p>- Dado, que un técnico de laboratorio está realizando un análisis.</p><p>- Cuando, se detecta una muestra comprometida según el protocolo de integridad.</p><p>- Entonces, se toman acciones específicas, como la repetición del análisis o la notificación al supervisor, para evitar resultados incorrectos debido a muestras comprometidas.</p>             |            E05            |
-|      US30       |     Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas     |                                   Como técnico de laboratorio, quiero un sistema de registro de resultados que considere automáticamente las implicaciones clínicas de los mismos, proporcionando información contextual al médico y facilitando la toma de decisiones informadas sobre el cuidado del paciente                                   |                                                                                                                                                                                                    <p>**Escenario 1:Registro de resultados con consideraciones clínicas automatizadas**</p><p>- Dado, que un técnico de laboratorio completa el registro de resultados de un análisis.</p><p>- Cuando,el sistema automáticamente evalúa las implicaciones clínicas de los resultados. </p><p>- Entonces, proporciona información contextual relevante al médico para apoyar la toma de decisiones informadas sobre el cuidado del paciente.</p>                                                                                                                                                                                                    |            E05            |
-|      US31       |                     Selección de Idioma para la Página de Inicio                     |                                                                                                                    Como usuario, Quiero poder seleccionar el idioma (español o inglés) para la página de inicio de MedSystem,                                                                                                                     |                                                                                 <p>**Escenario 1: Selección del Idioma Español**</p><p>- Dado que el usuario desea ver la página de inicio en español.</p><p>- CCuando elige la opción de cambiar el idioma a español en MedSystem.</p><p>- Entonces la página de inicio se muestra en español, permitiéndole navegar y entender la información en su idioma preferido.</p> <p>**Escenario 2: Selección del Idioma Inglés**</p><p>- Dado que el usuario desea ver la página de inicio en inglés.</p><p>- Cuando elige la opción de cambiar el idioma a inglés en MedSystem.</p><p>- Entonces la página de inicio se muestra en inglés, permitiéndole navegar y entender la información en su idioma preferido.</p>                                                                                 |            E05            |
-|      US32       |                                   Sección About Us                                   |                                                                                                         Como usuario, quiero encontrar una sección "About Us" en la landing page para conocer la misión, visión y valores de la empresa.                                                                                                          |                                                                                                                                         <p>**Escenario 1: Usuario accede a la sección "About Us"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección "About Us".</p><p>- Entonces, encuentra información detallada sobre la historia, misión, visión y valores de la empresa.</p><p>**Escenario 2: Información actualizada en "About Us"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando,revisa la sección "About Us".</p><p>- Entonces, nota que la información está actualizada con los últimos logros y noticias relevantes de la empresa.</p>                                                                                                                                          |            E06            |
-|      US33       |                              Sección sobre el Producto                               |                                                                                                        Como usuario, quiero encontrar una sección dedicada que describa detalladamente el producto o servicio ofrecido por la aplicación.                                                                                                         |                                                                                               <p>**Escenario 1: Usuario accede a la sección "Sobre el Producto"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección "Sobre el Producto".</p><p>- Entonces, encuentra una descripción detallada que explica cómo funciona el producto, sus beneficios y ventajas.</p><p>**Escenario 2: Destacar Ventajas Competitivas en la Sección "Sobre el Producto"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección "Sobre el Producto".</p><p>- Entonces, encuentra información que destaca las ventajas competitivas del producto en comparación con otros productos similares.</p>                                                                                               |            E06            |
-|      US34       |                           Funciones que ofrece al paciente                           |                                                                                                       Como paciente, quiero encontrar una sección que detalle las funciones clave que la aplicación ofrece para satisfacer mis necesidades.                                                                                                       |                                                                                                   <p>**Escenario 1: Usuario accede a la sección de Funciones**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección de Funciones.</p><p>- Entonces, encuentra una lista detallada de las funciones clave que la aplicación ofrece, con explicaciones claras de cada una.</p><p>**Escenario 2: Demostración de Funcionalidades en la Sección de Funciones**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección de Funciones.</p><p>- Entonces, encuentra demostraciones interactivas o videos que muestran cómo utilizar las diferentes funcionalidades de la aplicación.</p>                                                                                                   |            E06            |
-|      US35       |                                 Sección de contactos                                 |                                                                                                              Como usuario, quiero encontrar una sección de contactos para poder comunicarse fácilmente con el equipo de la empresa.                                                                                                               |                                                                                                                              <p>**Escenario 1:Usuario accede a la sección de Contacto**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección de Contacto.</p><p>- Entonces, encuentra información completa de contacto, incluyendo correo electrónico, número de teléfono</p><p>**Escenario 2:Respuesta Rápida a Consultas a través del Formulario de Contacto**</p><p>- Dado, que un usuario utiliza el formulario de contacto en la landing page.</p><p>- Cuando, envía una consulta o pregunta.</p><p>- Entonces, recibe una respuesta rápida y útil del equipo de la empresa.</p>                                                                                                                              |            E06            |
-|      US36       |                               Sección sobre el equipo                                |                                                                                                                Como usuario, quiero encontrar una sección dedicada que presente información sobre el equipo detrás de la empresa.                                                                                                                 |                                                                                                                      <p>**Escenario 1:Usuario accede a la sección "Equipo"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, busca la sección "Equipo".</p><p>- Entonces, encuentra información detallada sobre los miembros del equipo, incluyendo sus roles, responsabilidades y una breve biografía.</p><p>**Escenario 2:Información actualizada en la sección "Equipo"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección "Equipo".</p><p>- Entonces., nota que la información está actualizada con los últimos miembros del equipo y cambios relevantes.</p>                                                                                                                       |            E06            |
-|      US37       |                                 Barra de navegación                                  |                                                                                                     Como usuario, quiero una barra de navegación bien organizada en la landing page para poder acceder fácilmente a las diferentes secciones.                                                                                                     |                                                                                    <p>**Escenario 1:Usuario utiliza la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para acceder a diferentes secciones.</p><p>- Entonces, encuentra que los enlaces funcionan correctamente y lo llevan a las páginas correspondientes.</p><p>**Escenario 2: Navegación intuitiva en la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para moverse por la página.</p><p>- Entonces, encuentra que la disposición de los enlaces es intuitiva y facilita la navegación por las diferentes secciones de la página.</p>                                                                                     |            E06            |
-|      US38       |                            Registro en la aplicación web                             |                                                                                                     Como nuevo usuario,quiero registrarme en la aplicación web,para poder acceder a funcionalidades personalizadas.                                                                                                    |                                                                                          <p>**Escenario 1:Registro exitoso**</p><p>- Dado, el usuario está en la página de registro.</p><p>- Cuando,  introduce información válida en todos los campos obligatorios y envía el formulario</p><p>- Entonces, se crea una nueva cuenta y el usuario es redirigido a la página de inicio de sesión.</p><p>**Escenario 2: Registro fallido - Correo electrónico duplicado**</p><p>- Dado, el usuario está en la página de registro.</p><p>- Cuando, introduce un correo electrónico que ya está registrado y envía el formulario</p><p>- Entonces, se muestra un mensaje de error indicando que el correo electrónico ya está en uso.</p>                                                                                          |            E06            |
-|      US39       |                        Inicio de sesión en la aplicación web                         |                                                                                                     Como usuario registrado,quiero iniciar sesión en la aplicación web,para poder acceder a mi cuenta.                                                                                                    |                                                                                    <p>**Escenario 1:Inicio de sesión exitoso**</p><p>- Dado, el usuario está en la página de inicio de sesión.</p><p>- Cuando, introduce credenciales válidas (correo electrónico y contraseña) y envía el formulario.</p><p>- Entonces, el usuario inicia sesión y es redirigido a la página principal de su cuenta.</p><p>**Escenario 2: Inicio de sesión fallido - Credenciales incorrectas**</p><p>- Dado, el usuario está en la página de inicio de sesión</p><p>- Cuando, introduce credenciales incorrectas y envía el formulario</p><p>- Entonces, se muestra un mensaje de error indicando que las credenciales son incorrectas</p>                                                                                    |            E06            |
+| Epic / Story ID |                                    Título                                    |                                                                                                                                                                    Descripción                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                              Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                               | Relacionado con (Epic ID) |
+| :-------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: |
+|       E01       |                     Gestión de Inventario de Laboratorio                     |                                            Como técnico de laboratorio, deseo una plataforma tecnológica que me permita gestionar eficientemente el inventario de suministros y equipos, para garantizar la disponibilidad de materiales necesarios y optimizar el flujo de trabajo en el laboratorio.                                            |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
+|       E02       |                           Gestión de citas médicas                           |                                                               Como paciente, deseo tener acceso a una plataforma tecnológica que facilite la gestión de mis citas médicas, para poder organizar mi agenda de manera eficiente y recibir una atención médica oportuna y de calidad.                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
+|       E03       |             Plataforma tecnológica para tratamientos ortopédicos             |                                                            Como médico traumatológico, quiero tener una plataforma tecnológica que me permita gestionar eficientemente los tratamientos de mis pacientes, para poder proporcionar una atención médica de alta calidad y personalizada.                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
+|       E04       |                    Acceso a historial médico del paciente                    |                                                                                      Como médico traumatológico,deseo poder acceder al historial médico completo de mis pacientes, para tomar decisiones informadas y brindarles la mejor atención posible.                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
+|       E05       |               Gestión de muestras y resultados de laboratorio                |                                                                                                  Como técnico de laboratorio, deseo contar con una aplicación web que me permita optimizar la gestión de muestras y resultados de los pacientes.                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
+|       E06       |               Acceso a página informativa sobre la aplicación                |                                                                                                                   Como paciente quiero poder entrar una landing page donde esté la información esencial sobre la aplicación web                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                         -                                                                                                                                                                                                                                                                                                                                                                                                                          |             -             |
+|      US01       |                             Registro de Muestras                             |                                                 Como técnico de laboratorio, quiero poder registrar nuevas muestras en el sistema, incluyendo detalles como el código de la muestra, tipo de muestra y fecha de recepción, para mantener un seguimiento preciso de todas las muestras recibidas.                                                  |                                                                                      <p>**Escenario 1: Registro Exitoso**</p><p>- Dado que el técnico de laboratorio está en la página de registro de muestras,</p><p>- Cuando el técnico ingresa una nueva muestra con todos los campos requeridos correctamente,</p><p>- Entonces el sistema registra la muestra y muestra un mensaje de confirmación.</p><p>**Escenario 2: Validación de Campos Obligatorios**</p><p>- Dado que el técnico de laboratorio está en la página de registro de muestras,</p><p>- Cuando el técnico intenta ingresar una nueva muestra sin completar todos los campos obligatorios,</p><p>- Entonces el sistema muestra un mensaje de error indicando los campos faltantes.</p>                                                                                      |            E01            |
+|      US02       |                            Asignación de Análisis                            |                                                       Como técnico de laboratorio, quiero poder asignar análisis específicos a las muestras registradas, incluyendo detalles como el tipo de análisis y el técnico responsable, para asegurar que cada muestra sea analizada adecuadamente.                                                       |                                                                          <p>**Escenario 1: Asignación Exitosa**</p><p>- Dado que el técnico de laboratorio está en la página de asignación de análisis,</p><p>- Cuando el técnico asigna un análisis a una muestra con todos los campos requeridos correctamente,</p><p>- Entonces el sistema registra la asignación y muestra un mensaje de confirmación.</p><p>**Escenario 2: Validación de Campos Obligatorios**</p><p>- Dado que el técnico de laboratorio está en la página de asignación de análisis,</p><p>- Cuando el técnico intenta asignar un análisis a una muestra sin completar todos los campos obligatorios,</p><p>- Entonces el sistema muestra un mensaje de error indicando los campos faltantes.</p>                                                                           |            E01            |
+|      US03       |                      Registro de Resultados de Análisis                      |                                                Como técnico de laboratorio, quiero poder registrar los resultados de los análisis realizados en las muestras, incluyendo detalles como los valores obtenidos, la fecha del análisis y observaciones, para mantener un registro completo y preciso.                                                |                                                          <p>**Escenario 1: Registro Exitoso**</p><p>- Dado que el técnico de laboratorio está en la página de registro de resultados de análisis,</p><p>- Cuando el técnico ingresa los resultados del análisis con todos los campos requeridos correctamente,</p><p>- Entonces el sistema registra los resultados y muestra un mensaje de confirmación.</p><p>**Escenario 2: Validación de Campos Obligatorios**<p></p><p>- Dado que el técnico de laboratorio está en la página de registro de resultados de análisis,</p><p>- Cuando el técnico intenta ingresar los resultados del análisis sin completar todos los campos obligatorios,</p><p>- Entonces el sistema muestra un mensaje de error indicando los campos faltantes.</p>                                                           |            E01            |
+|      US04       |                             Consulta de Muestras                             |                                                   Como técnico de laboratorio, quiero poder consultar las muestras registradas en el sistema mediante diversos criterios de búsqueda (por ejemplo, código de muestra, fecha de recepción), para localizar rápidamente la información necesaria.                                                   |                                                                                          <p>**Escenario 1: Consulta Exitosa**</p><p>- Dado que el técnico de laboratorio está en la página de consulta de muestras,</p><p>- Cuando el técnico ingresa los criterios de búsqueda y realiza la consulta,</p><p>- Entonces el sistema muestra una lista de muestras que coinciden con los criterios ingresados.</p><p>**Escenario 2: Sin Resultados**</p><p>- Dado que el técnico de laboratorio está en la página de consulta de muestras,</p><p>- Cuando el técnico ingresa los criterios de búsqueda y realiza la consulta,</p><p>- Entonces el sistema muestra un mensaje indicando que no se encontraron muestras que coincidan con los criterios.</p>                                                                                           |            E01            |
+|      US05       |                      Generación de Reportes de Análisis                      |                                                  Como técnico de laboratorio, quiero poder generar reportes de los análisis realizados, incluyendo detalles de las muestras, resultados y observaciones, para proporcionar información completa y detallada a los solicitantes de los análisis.                                                   |                                                                                              <p>**Escenario 1: Generación Exitosa**</p><p>- Dado que el técnico de laboratorio está en la página de generación de reportes,</p><p>- Cuando el técnico selecciona los parámetros de reporte y solicita la generación,</p><p>- Entonces el sistema genera el reporte y lo presenta en un formato descargable.</p><p>**Escenario 2: Falta de Parámetros**</p><p>- Dado que el técnico de laboratorio está en la página de generación de reportes,</p><p>- Cuando el técnico intenta generar un reporte sin seleccionar todos los parámetros necesarios,</p><p>- Entonces el sistema muestra un mensaje de error indicando los parámetros faltantes.</p>                                                                                               |            E01            |
+|      US06       |               Adjuntar Archivo PDF con Resultados de Análisis                |                                                      Como técnico de laboratorio, quiero poder adjuntar un archivo PDF con los resultados de los análisis realizados en las muestras, para proporcionar un informe detallado y estandarizado que pueda ser revisado y compartido fácilmente.                                                      | <p>**Escenario 1: Adjuntar Archivo Exitoso**</p><p>- Dado que el técnico de laboratorio está en la página de registro de resultados de análisis,<p>- Cuando el técnico selecciona una muestra y adjunta un archivo PDF con los resultados del análisis,</p> </p><p>- Entonces el sistema carga el archivo correctamente, lo asocia con la muestra correspondiente y muestra un mensaje de confirmación.</p><p> <p>**Escenario 2: Tamaño de Archivo Excedido**</p><p>- Dado que el técnico de laboratorio está en la página de registro de resultados de análisis,</p><p>- Cuando el técnico intenta adjuntar un archivo PDF que excede el tamaño máximo permitido,</p><p>- Entonces el sistema muestra un mensaje de error indicando que el archivo es demasiado grande y no permite la carga hasta que se adjunte un archivo de tamaño aceptable. |            E01            |
+|      US07       |                            Registro de Nueva Cita                            |                                                                                                 Como paciente, quiero programar una nueva cita médica a través de la plataforma en línea de MedSystem para evitar tener que llamar por teléfono.                                                                                                  |                                                       <p>**Escenario 1: Registro de Cita para Pacientes Registrados**</p><p>- Dado que el usuario es un paciente registrado en MedSystem,</p><p>- Cuando selecciona la opción de programar una nueva cita médica desde la plataforma,</p><p>- Entonces es redirigido a un formulario donde puede ingresar los detalles de la cita, como la fecha, hora y motivo de la consulta.</p><p>**Escenario 2: Registro de Cita para Nuevos Pacientes**</p><p>- Dado que el usuario es un nuevo paciente en MedSystem,</p><p>- Cuando accede a la plataforma por primera vez y elige programar una cita médica,</p><p>- Entonces se le solicita completar un formulario de registro con su información personal antes de poder programar la cita.</p>                                                        |            E02            |
+|      US08       |                    Selección de Especialista y Ubicación                     |                                                                                      Como paciente, quiero poder seleccionar al especialista y la ubicación preferida para mi cita médica en MedSystem, para poder planificar de acuerdo a mis necesidades.                                                                                       |                     <p>**Escenario 1: Selección de Especialista Disponible**</p><p>- Dado que el usuario está programando una cita médica en MedSystem,</p><p>- Cuando elige la opción de seleccionar un especialista desde la plataforma,</p><p>- Entonces se le presenta una lista de especialistas disponibles junto con su especialidad y ubicación, lo que le permite elegir el más adecuado para su consulta.</p><p>**Escenario 2: Selección de Ubicación para la Cita Médica**</p><p>- Dado que el usuario tiene una preferencia de ubicación para su cita médica,</p><p>- Cuando selecciona la opción de elegir la ubicación en MedSystem,</p><p>- Entonces se le muestra un mapa interactivo con los diferentes centros médicos disponibles en su área, lo que le permite seleccionar el más conveniente para él.</p>                     |            E02            |
+|      US09       |                          Disponibilidad de Horarios                          |                                                                                            Como paciente, quiero ver la disponibilidad de horarios de los especialistas en MedSystem para elegir la fecha y hora más conveniente para mi cita médica.                                                                                             |             <p>**Escenario 1: Verificación de Disponibilidad de Horarios**</p><p>- Dado que el usuario está buscando una cita médica en MedSystem,</p><p>- Cuando selecciona la opción de verificar la disponibilidad de horarios desde la plataforma,</p><p>- Entonces se le muestra un calendario interactivo con los días y horarios disponibles de los especialistas, lo que le permite seleccionar el más adecuado para él.</p><p>**Escenario 2: Destaque de Horarios Disponibles para Citas Urgentes**</p><p>- Dado que el usuario necesita una cita médica urgente,</p><p>- Cuando accede a la plataforma de MedSystem y selecciona la opción de ver la disponibilidad de horarios,</p><p>- Entonces se resaltan en el calendario los próximos horarios disponibles, lo que le permite programar una cita lo antes posible.</p>             |            E02            |
+|      US10       |                            Recordatorios de Cita                             |                                                                                 Como paciente, quiero recibir recordatorios automáticos de mi cita médica a través de notificaciones por correo electrónico o mensajes de texto en MedSystem, para no olvidarla.                                                                                  |                                                                        <p>**Escenario 1: Recordatorio por Correo Electrónico**</p><p>- Dado que el usuario ha programado una cita médica en MedSystem,</p><p>- Cuando se acerca la fecha y hora de la cita,</p><p>- Entonces recibe automáticamente un recordatorio por correo electrónico con los detalles de la cita y un enlace para confirmar su asistencia.</p><p>**Escenario 2: Recordatorio por Mensaje de Texto**</p><p>- Dado que el usuario tiene múltiples citas médicas programadas en MedSystem,</p><p>- Cuando se aproxima la fecha de una de sus citas,</p><p>- Entonces recibe un recordatorio por mensaje de texto en su teléfono móvil, lo que le permite estar al tanto de todas sus citas médicas.</p>                                                                         |            E02            |
+|      US11       |                             Cancelación de Citas                             |                                                                                                           Como paciente, quiero tener la opción de cancelar mi cita médica en MedSystem en caso de imprevistos o cambios en mi agenda.                                                                                                            |                                          <p>**Escenario 1: Cancelación de Cita por Conflicto de Programación**</p><p>- Dado que el usuario tiene un conflicto de programación y necesita cancelar una cita médica en MedSystem,</p><p>-Cuando accede a la plataforma y selecciona la opción de cancelar la cita,</p><p>- Entonces se le solicita confirmar la cancelación y el horario se libera para que otro paciente pueda programar una cita en ese mismo horario.</p><p>**Escenario 2: Confirmación de Cancelación de Cita**</p><p>- Dado que el usuario ha cancelado con éxito su cita médica en MedSystem,</p><p>- Cuando confirma la cancelación,</p><p>- Entonces recibe una confirmación en pantalla de que la cita ha sido cancelada con éxito, brindándole tranquilidad sobre su acción.</p>                                           |            E02            |
+|      US12       |                           Re-agendamiento de Citas                           |                                                                                                           Como paciente, quiero tener la opción de reagendar mi cita médica en MedSystem en caso de imprevistos o cambios en mi agenda.                                                                                                           |                                                                <p>**Escenario 1: Reagendamiento de Cita Médica**</p><p>- Dado que el usuario necesita reagendar su cita médica en MedSystem,</p><p>- Cuando accede a la plataforma y selecciona la opción de reagendar la cita,</p><p>- Entonces se le presenta un calendario con los horarios disponibles para que pueda seleccionar una nueva fecha y hora para su cita.</p><p>**Escenario 2: Confirmación de Reagendamiento de Cita**</p><p>- Dado que el usuario ha reagendado con éxito su cita médica en MedSystem,</p><p>- Cuando confirma el nuevo horario de la cita,</p><p>- Entonces recibe una confirmación en pantalla de que la cita ha sido reagendada con éxito, brindándole tranquilidad sobre su nueva cita.</p>                                                                 |            E02            |
+|      US13       |                             Confirmación de Cita                             |                                                                                 Como paciente, quiero recibir una confirmación instantánea de mi cita médica después de programarla en MedSystem, para tener la certeza de que ha sido registrada correctamente.                                                                                  |                                                            <p>**Escenario 1: Confirmación Instantánea**</p><p>- Dado que el usuario ha programado una cita médica en MedSystem,</p><p>- Cuando completa el proceso de programación de la cita y selecciona la opción de confirmar,</p><p>- Entonces recibe una confirmación instantánea en pantalla junto con un número de referencia de la cita.</p><p>**Escenario 2: Confirmación por Correo Electrónico**</p><p>- Dado que el usuario ha programado una cita médica en MedSystem,</p><p>- Cuando pasa por el proceso de programación de la cita y confirma su asistencia,</p><p>- Entonces recibe un correo electrónico de confirmación con los detalles de la cita, lo que le brinda tranquilidad y seguridad sobre su reserva.</p>                                                            |            E02            |
+|      US14       |                Acceso Eficiente al Historial Médico Completo                 |                  Como médico traumatológico, quiero poder acceder rápidamente al historial médico completo de mis pacientes, incluyendo su historial de tratamientos pasados y resultados de análisis, para poder evaluar su progreso de manera eficiente y tomar decisiones informadas sobre los próximos pasos del tratamiento                  |                                                                         <p>**Escenario 1:**</p><p>- Dado que estoy en la página principal de MedSystem,</p><p>- Cuando hago clic en el nombre de un paciente en la lista de pacientes,</p><p>- Entonces se carga la página del historial médico del paciente en menos de 3 segundos, mostrando toda la información relevante de manera clara y organizada.</p><p>**Escenario 2:**</p><p>- Dado que estoy revisando el historial médico de un paciente,</p><p>- Cuando hago clic en la sección "Tratamientos Pasados" del historial médico,</p><p>- Entonces se muestran todos los tratamientos anteriores del paciente, con detalles como la fecha de inicio, la fecha de finalización, la dosis y las notas médicas.</p>                                                                          |            E03            |
+|      US15       |                    Notificaciones de Citas de Seguimiento                    |                                               Como médico traumatológico, quiero recibir notificaciones automáticas sobre citas de seguimiento programadas con mis pacientes, para poder planificar mi agenda con anticipación y garantizar que ningún paciente se quede sin seguimiento adecuado.                                                |                                                                                                                                                   <p>**Escenario 1:**</p><p>- Dado que tengo una cita de seguimiento programada para un paciente,</p><p>- Cuando falta menos de 24 horas para la cita,</p><p>- Entonces recibo automáticamente una notificación por correo electrónico con los detalles de la cita.</p><p>**Escenario 2:**</p><p>- Dado que recibo una notificación de una cita de seguimiento,</p><p>- Cuando hago clic en la notificación,</p><p>- Entonces se abre la página de detalles de la cita en MedSystem, donde puedo confirmar, reprogramar o cancelar la cita.</p>                                                                                                                                                    |            E03            |
+|      US16       |                    Actualización de Planes de Tratamiento                    |                          Como médico traumatológico, quiero tener la capacidad de ajustar y actualizar los planes de tratamiento de mis pacientes directamente desde la plataforma MedSystem, para poder adaptar los tratamientos a medida que evoluciona la condición del paciente o surgen nuevas necesidades médicas.                          |                                                                                                           <p>**Escenario 1:**</p><p>- Dado que estoy revisando el historial médico de un paciente,</p><p>- Cuando hago clic en la sección "Plan de Tratamiento" del historial médico,</p><p>- Entonces se muestra una lista de todos los tratamientos actuales del paciente, con opciones para agregar, editar o eliminar tratamientos.</p><p>**Escenario 2:**</p><p>- Dado que he realizado cambios en el plan de tratamiento de un paciente,</p><p>- Cuando guardo los cambios,</p><p>- Entonces se actualiza automáticamente el historial médico del paciente y se registra una entrada de auditoría para los cambios realizados.</p>                                                                                                           |            E03            |
+|      US17       |                 Alertas de Cambios en Resultados de Análisis                 |                                 Como médico traumatológico, quiero recibir alertas automáticas sobre cambios significativos en los resultados de los análisis médicos de mis pacientes, para poder responder rápidamente a cualquier nueva información relevante y ajustar los tratamientos según sea necesario.                                  |                                                                                                                                    <p>**Escenario 1:**</p><p>- Dado que recibo nuevos resultados de análisis para un paciente,</p><p>- Cuando se detecta un cambio significativo en los resultados,</p><p>- Entonces recibo automáticamente una alerta por correo electrónico y se muestra una notificación en MedSystem.</p><p>**Escenario 2:**</p><p>- Dado que recibo una alerta sobre un cambio en los resultados de análisis,</p><p>- Cuando hago clic en la alerta,</p><p>- Entonces se muestra una descripción detallada del cambio y se proporciona orientación sobre la acción recomendada por mí.</p>                                                                                                                                    |            E03            |
+|      US18       |                    Comunicación Segura con los Pacientes                     |                                    Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.                                     |                                                                                                                                                                <p>**Escenario 1:**</p><p>- Dado que estoy en la página de detalles de un paciente en MedSystem,</p><p>- Cuando hago clic en el botón de "Enviar Mensaje",</p><p>- Entonces se abre una ventana de mensajería segura donde puedo redactar y enviar un mensaje al paciente.</p><p>**Escenario 2:**</p><p>- Dado que recibo un mensaje de un paciente,</p><p>- Cuando accedo a la bandeja de entrada de mensajes en MedSystem,</p><p>- Entonces se muestra el mensaje recibido de manera segura y puedo responder.</p>                                                                                                                                                                |            E03            |
+|      US19       |              Análisis y Evaluación de Eficacia del Tratamiento               |                         Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.                         |           <p>**Escenario 1:**</p><p>- Dado que quiero generar un informe sobre la eficacia del tratamiento para un grupo de pacientes,</p><p>- Cuando selecciono los parámetros de filtro deseados, como el rango de fechas y las condiciones de tratamiento,</p><p>- Entonces se genera automáticamente un informe detallado que muestra métricas clave de eficacia del tratamiento para el grupo seleccionado de pacientes.</p><p>**Escenario 2:**</p><p>- Dado que estoy revisando un informe sobre la eficacia del tratamiento,</p><p>- Cuando hago clic en una métrica específica, como la tasa de éxito del tratamiento,</p><p>- Entonces se muestra un desglose detallado de los pacientes incluidos en la métrica seleccionada, así como información adicional sobre los tratamientos utilizados y los resultados obtenidos.</p>           |            E03            |
+|      US20       |                Acceso rápido al historial médico del paciente                |                                                          Como doctor, quiero acceder rápidamente al historial médico completo de mis pacientes para revisar su historial de enfermedades, tratamientos pasados, alergias y otros datos relevantes antes de una consulta o procedimiento.                                                          |                                                                                                                                   <p>**Escenario 1:**</p><p>- Dado que el doctor inicia una consulta</p><p>- Cuando busca y selecciona el nombre completo o número de identificación de un paciente</p><p>- Entonces el sistema muestra el historial médico completo del paciente en menos de 30 segundos.</p><p>**Escenario 2:**</p><p>- Dado que el historial médico del paciente se muestra</p><p>- Cuando el doctor selecciona una categoría específica, como diagnósticos previos o tratamientos pasados</p><p>- Entonces el sistema muestra los detalles correspondientes de manera clara y ordenada.</p>                                                                                                                                    |            E04            |
+|      US21       |                 Visualización detallada del historial médico                 |                                  Como doctor, quiero poder visualizar de manera detallada el historial médico de mis pacientes, incluyendo información como diagnósticos previos, resultados de exámenes, medicaciones actuales y pasadas, procedimientos realizados, y notas de otros médicos o especialistas.                                   |                                                                                                                                                   <p>**Escenario 1:**</p><p>- Dado que el doctor revisa el historial médico de un paciente</p><p>- Cuando selecciona la sección de resultados de exámenes</p><p>- Entonces el sistema muestra una lista ordenada de exámenes recientes.</p><p>**Escenario 2:**</p><p>- Dado que el doctor visualiza una entrada del historial médico</p><p>- Cuando expande la entrada, entonces el sistema muestra detalles adicionales</p><p>- Entonces el sistema muestra detalles adicionales, como notas de otros médicos o resultados de laboratorio.</p>                                                                                                                                                    |            E04            |
+|      US22       |              Actualización en tiempo real del historial médico               |                                                          Como doctor, quiero que cualquier actualización realizada en el historial médico de un paciente se refleje inmediatamente en el sistema, para garantizar que siempre esté trabajando con la información más reciente y precisa.                                                          |                                                                                                                                                       <p>**Escenario 1:**</p><p>- Dado que un doctor actualiza el historial médico de un paciente</p><p>- Cuando otro doctor accede al historial médico del mismo paciente</p><p>- Entonces el sistema refleja instantáneamente los cambios realizados por el primer doctor.</p><p>**Escenario 2:**</p><p>- Dado que se realiza una actualización en el historial médico</p><p>- Cuando el sistema procesa la actualización</p><p>- Entonces envía notificaciones automáticas a los médicos relevantes sobre la actualización reciente.</p>                                                                                                                                                        |            E04            |
+|      US23       |              Registro de nuevas entradas en el historial médico              |                                  Como doctor, quiero poder registrar nuevas entradas en el historial médico de mis pacientes, como nuevos diagnósticos, tratamientos recetados, resultados de exámenes o notas de la consulta actual, para mantener un registro completo y actualizado de su historial de salud.                                  |                                                                                                                                                                      <p>**Escenario 1:**</p><p>- Dado que el doctor completa el formulario de registro de entradas en el historial médico</p><p>- Cuando guarda la nueva entrada</p><p>- Entonces el sistema confirma la acción y actualiza la lista de entradas del paciente.</p><p>**Escenario 2:**</p><p>- Dado que se registra una nueva entrada en el historial médico</p><p>- Cuando el doctor guarda la entrada</p><p>- Entonces el sistema muestra la nueva entrada en la lista de historial médico del paciente.</p>                                                                                                                                                                      |            E04            |
+|      US24       |                 Seguridad y privacidad del historial médico                  |                             Como doctor, necesito que el acceso al historial médico de mis pacientes esté protegido por medidas de seguridad robustas, y que se cumplan estrictamente las regulaciones de privacidad de datos para garantizar la confidencialidad y la integridad de la información médica sensible.                              |                                                                                                                                                                      <p>**Escenario 1:**</p><p>- Dado que el doctor intenta acceder al historial médico desde una ubicación o dispositivo nuevo</p><p>- Cuando introduce sus credenciales</p><p>- Entonces el sistema solicita autenticación de doble factor.</p><p>**Escenario 2:**</p><p>- Dado que se establece una conexión entre el sistema y un dispositivo de acceso al historial médico</p><p>- Cuando se transmiten datos</p><p>- Entonces la comunicación se cifra utilizando protocolos de seguridad robustos.</p>                                                                                                                                                                      |            E04            |
+|      US25       |            Registro de eventos importantes en el historial médico            | Como doctor, quiero poder registrar eventos importantes en el historial médico de mis pacientes, como hospitalizaciones, cirugías importantes, cambios significativos en el estado de salud o eventos relevantes en la historia médica familiar, para tener una visión completa y contextualizada de la salud del paciente a lo largo del tiempo. |                                                                                                                                                        <p>**Escenario 1:**</p><p>- Dado que el doctor registra un evento importante en el historial médico de un paciente</p><p>- Cuando completa el formulario de registro</p><p>- Entonces el sistema confirma la acción y actualiza el historial médico del paciente.</p><p>**Escenario 2:**</p><p>- Dado que se registra un evento importante en el historial médico</p><p>- Cuando se guarda la entrada</p><p>- Entonces el sistema muestra el evento registrado en la sección correspondiente del historial médico del paciente.</p>                                                                                                                                                         |            E04            |
+|      US26       |   Interfaz personalizable para mejorar eficiencia en los análisis médicos    |                                                    Como técnico de laboratorio, necesito una interfaz intuitiva y personalizable en el sistema de análisis para adaptarla a las necesidades específicas de cada tipo de prueba y mejorar la eficiencia en la ejecución de los análisis médicos                                                    |                              <p>**Escenario 1:Personalización de la interfaz**</p><p>- Dado, que un técnico de laboratorio necesita adaptar la interfaz para un tipo específico de análisis.</p><p>- Cuando, accede a la función de personalización en el sistema de análisis.</p><p>- Entonces, puede mover, agregar o eliminar herramientas y paneles según sea necesario para optimizar el flujo de trabajo.</p><p>**Escenario 2:Guardado y aplicado de la personalización**</p><p>- Dado,que un técnico de laboratorio ha personalizado la interfaz para un tipo de prueba.</p><p>- Cuando, guarda los cambios realizados en la interfaz.</p><p>- Entonces, la configuración personalizada se guarda correctamente y se aplica automáticamente en futuras sesiones de análisis para el mismo tipo de prueba.</p>                               |            E05            |
+|      US27       |  Acceso a los protocolos actualizados en la aplicación web del laboratorio   |                          Como técnico de laboratorio, quiero una funcionalidad en la aplicación web que me permita acceder y revisar los protocolos actualizados de análisis y procedimientos, para asegurar que estoy siguiendo las últimas directrices y garantizar la calidad en la ejecución de las pruebas médicas.                          |                                                          <p>**Escenario 1:Acceso a los protocolos actualizados**</p><p>- Dado, que un técnico de laboratorio necesita revisar los protocolos actualizados.</p><p>- Cuando, accede a la sección de protocolos en la aplicación web.</p><p>- Entonces, encuentra una lista clara y organizada de los protocolos actualizados, con la posibilidad de ver detalles adicionales si es necesario.</p><p>**Escenario 2: Revisión y confirmación de los protocolos**</p><p>- Dado, que un técnico de laboratorio revisa un protocolo actualizado.</p><p>- Cuando, lee y comprende los detalles del protocolo.</p><p>- Entonces, confirma que está siguiendo las últimas directrices y procedimientos al ejecutar el análisis correspondiente.</p>                                                          |            E05            |
+|      US28       |               Sistema de comunicación y registro de resultados               |                                                     Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.                                                     |                                                                                   <p>**Escenario 1:Registro automático de resultados**</p><p>- Dado, que un técnico de laboratorio completa un análisis.</p><p>- Cuando, finaliza el proceso, los resultados se registran automáticamente en el sistema.</p><p>- Entonces, el sistema confirma el registro exitoso de los resultados.</p><p>**Escenario 2:Comunicación de resultados al médico**</p><p>- Dado, que un técnico de laboratorio finaliza el registro de resultados.</p><p>- Cuando, utiliza la funcionalidad de comunicación para enviar los resultados al médico a cargo.</p><p>- Entonces, el sistema envía los resultados de manera rápida y eficiente al médico a través de la aplicación.</p>                                                                                    |            E05            |
+|      US29       |     Protocolo de integridad para las muestras en el proceso de análisis      |                                         Como técnico de laboratorio, quiero un protocolo actualizado que asegure la integridad de las muestras durante todo el proceso, desde la recolección hasta el análisis, minimizando así la posibilidad de resultados incorrectos debido a muestras comprometidas.                                         |            <p>**Escenario 1:Aplicación del protocolo de integridad**</p><p>- Dado, que un técnico de laboratorio comienza el proceso de análisis de muestras.</p><p>- Cuando, sigue el protocolo de integridad establecido para garantizar la calidad de las muestras.</p><p>- Entonces, se llevan a cabo las medidas necesarias para asegurar que las muestras se mantengan íntegras durante todo el proceso.</p><p>**Escenario 2:Identificación de muestras comprometidas**</p><p>- Dado, que un técnico de laboratorio está realizando un análisis.</p><p>- Cuando, se detecta una muestra comprometida según el protocolo de integridad.</p><p>- Entonces, se toman acciones específicas, como la repetición del análisis o la notificación al supervisor, para evitar resultados incorrectos debido a muestras comprometidas.</p>             |            E05            |
+|      US30       | Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas |                                   Como técnico de laboratorio, quiero un sistema de registro de resultados que considere automáticamente las implicaciones clínicas de los mismos, proporcionando información contextual al médico y facilitando la toma de decisiones informadas sobre el cuidado del paciente                                   |                                                                                                                                                                                                    <p>**Escenario 1:Registro de resultados con consideraciones clínicas automatizadas**</p><p>- Dado, que un técnico de laboratorio completa el registro de resultados de un análisis.</p><p>- Cuando,el sistema automáticamente evalúa las implicaciones clínicas de los resultados. </p><p>- Entonces, proporciona información contextual relevante al médico para apoyar la toma de decisiones informadas sobre el cuidado del paciente.</p>                                                                                                                                                                                                    |            E05            |
+|      US31       |                 Selección de Idioma para la Página de Inicio                 |                                                                                                                    Como usuario, Quiero poder seleccionar el idioma (español o inglés) para la página de inicio de MedSystem,                                                                                                                     |                                                                                 <p>**Escenario 1: Selección del Idioma Español**</p><p>- Dado que el usuario desea ver la página de inicio en español.</p><p>- CCuando elige la opción de cambiar el idioma a español en MedSystem.</p><p>- Entonces la página de inicio se muestra en español, permitiéndole navegar y entender la información en su idioma preferido.</p> <p>**Escenario 2: Selección del Idioma Inglés**</p><p>- Dado que el usuario desea ver la página de inicio en inglés.</p><p>- Cuando elige la opción de cambiar el idioma a inglés en MedSystem.</p><p>- Entonces la página de inicio se muestra en inglés, permitiéndole navegar y entender la información en su idioma preferido.</p>                                                                                 |            E05            |
+|      US32       |                               Sección About Us                               |                                                                                                         Como usuario, quiero encontrar una sección "About Us" en la landing page para conocer la misión, visión y valores de la empresa.                                                                                                          |                                                                                                                                         <p>**Escenario 1: Usuario accede a la sección "About Us"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección "About Us".</p><p>- Entonces, encuentra información detallada sobre la historia, misión, visión y valores de la empresa.</p><p>**Escenario 2: Información actualizada en "About Us"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando,revisa la sección "About Us".</p><p>- Entonces, nota que la información está actualizada con los últimos logros y noticias relevantes de la empresa.</p>                                                                                                                                          |            E06            |
+|      US33       |                          Sección sobre el Producto                           |                                                                                                        Como usuario, quiero encontrar una sección dedicada que describa detalladamente el producto o servicio ofrecido por la aplicación.                                                                                                         |                                                                                               <p>**Escenario 1: Usuario accede a la sección "Sobre el Producto"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección "Sobre el Producto".</p><p>- Entonces, encuentra una descripción detallada que explica cómo funciona el producto, sus beneficios y ventajas.</p><p>**Escenario 2: Destacar Ventajas Competitivas en la Sección "Sobre el Producto"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección "Sobre el Producto".</p><p>- Entonces, encuentra información que destaca las ventajas competitivas del producto en comparación con otros productos similares.</p>                                                                                               |            E06            |
+|      US34       |                       Funciones que ofrece al paciente                       |                                                                                                       Como paciente, quiero encontrar una sección que detalle las funciones clave que la aplicación ofrece para satisfacer mis necesidades.                                                                                                       |                                                                                                   <p>**Escenario 1: Usuario accede a la sección de Funciones**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección de Funciones.</p><p>- Entonces, encuentra una lista detallada de las funciones clave que la aplicación ofrece, con explicaciones claras de cada una.</p><p>**Escenario 2: Demostración de Funcionalidades en la Sección de Funciones**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección de Funciones.</p><p>- Entonces, encuentra demostraciones interactivas o videos que muestran cómo utilizar las diferentes funcionalidades de la aplicación.</p>                                                                                                   |            E06            |
+|      US35       |                             Sección de contactos                             |                                                                                                              Como usuario, quiero encontrar una sección de contactos para poder comunicarse fácilmente con el equipo de la empresa.                                                                                                               |                                                                                                                              <p>**Escenario 1:Usuario accede a la sección de Contacto**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección de Contacto.</p><p>- Entonces, encuentra información completa de contacto, incluyendo correo electrónico, número de teléfono</p><p>**Escenario 2:Respuesta Rápida a Consultas a través del Formulario de Contacto**</p><p>- Dado, que un usuario utiliza el formulario de contacto en la landing page.</p><p>- Cuando, envía una consulta o pregunta.</p><p>- Entonces, recibe una respuesta rápida y útil del equipo de la empresa.</p>                                                                                                                              |            E06            |
+|      US36       |                           Sección sobre el equipo                            |                                                                                                                Como usuario, quiero encontrar una sección dedicada que presente información sobre el equipo detrás de la empresa.                                                                                                                 |                                                                                                                      <p>**Escenario 1:Usuario accede a la sección "Equipo"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, busca la sección "Equipo".</p><p>- Entonces, encuentra información detallada sobre los miembros del equipo, incluyendo sus roles, responsabilidades y una breve biografía.</p><p>**Escenario 2:Información actualizada en la sección "Equipo"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección "Equipo".</p><p>- Entonces., nota que la información está actualizada con los últimos miembros del equipo y cambios relevantes.</p>                                                                                                                       |            E06            |
+|      US37       |                             Barra de navegación                              |                                                                                                     Como usuario, quiero una barra de navegación bien organizada en la landing page para poder acceder fácilmente a las diferentes secciones.                                                                                                     |                                                                                    <p>**Escenario 1:Usuario utiliza la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para acceder a diferentes secciones.</p><p>- Entonces, encuentra que los enlaces funcionan correctamente y lo llevan a las páginas correspondientes.</p><p>**Escenario 2: Navegación intuitiva en la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para moverse por la página.</p><p>- Entonces, encuentra que la disposición de los enlaces es intuitiva y facilita la navegación por las diferentes secciones de la página.</p>                                                                                     |            E06            |
+|      US38       |                        Registro en la aplicación web                         |                                                                                                                  Como nuevo usuario,quiero registrarme en la aplicación web,para poder acceder a funcionalidades personalizadas.                                                                                                                  |                                                                                                    <p>**Escenario 1:Registro exitoso**</p><p>- Dado, el usuario está en la página de registro.</p><p>- Cuando, introduce información válida en todos los campos obligatorios y envía el formulario</p><p>- Entonces, se crea una nueva cuenta y el usuario es redirigido a la página de inicio de sesión.</p><p>**Escenario 2: Registro fallido - Correo electrónico duplicado**</p><p>- Dado, el usuario está en la página de registro.</p><p>- Cuando, introduce un correo electrónico que ya está registrado y envía el formulario</p><p>- Entonces, se muestra un mensaje de error indicando que el correo electrónico ya está en uso.</p>                                                                                                     |            E06            |
+|      US39       |                    Inicio de sesión en la aplicación web                     |                                                                                                                        Como usuario registrado,quiero iniciar sesión en la aplicación web,para poder acceder a mi cuenta.                                                                                                                         |                                                                                                     <p>**Escenario 1:Inicio de sesión exitoso**</p><p>- Dado, el usuario está en la página de inicio de sesión.</p><p>- Cuando, introduce credenciales válidas (correo electrónico y contraseña) y envía el formulario.</p><p>- Entonces, el usuario inicia sesión y es redirigido a la página principal de su cuenta.</p><p>**Escenario 2: Inicio de sesión fallido - Credenciales incorrectas**</p><p>- Dado, el usuario está en la página de inicio de sesión</p><p>- Cuando, introduce credenciales incorrectas y envía el formulario</p><p>- Entonces, se muestra un mensaje de error indicando que las credenciales son incorrectas</p>                                                                                                      |            E06            |
+
 <table border="1">
   <tbody>
     <tr>
@@ -910,23 +908,23 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
   </tbody>
 </table>
 
-
 ### Technical Stories
 
-| Epic / Story ID |                    Título                     |                                                                                                                                            Descripción                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                          Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                           | Relacionado con (Epic ID) |
-|:---------------:|:---------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|
-|      US70       |     Consulta de las citas de los medicos      |                                                                                     Como desarrollador quiero obtener las citas programadas para cada doctor para que se puedan mostrar y modificar las notas                                                                                      |                                                                        <p>**Escenario 1: Obtener las citas por el id del doctor**</p><p>- Dado que el endpoint "doctor/:id/appointments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del doctor</p><p>- Entonces se recibe una respuesta con el estado 200<p><p>- Y una lista con las informacion de cada appointments de ese doctor estara incluida en el cuerpo de la respuesta</p><p>**Escenario 2: Obtener citas con id de doctor no valido**</p><p>- Dado que el endpoint "doctor/:id/appointments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del doctor</p><p>- Entonces se recibe una respuesta con el estado 404<p><p>- Y se muestra un error en el cuerpo de la respuesta indicando que el doctor no esta registrado</p>                                                                        |            E01            |
-|      US71       |           Gestión de citas médicas            |                                                                Como desarrollador quiero crear y actualizar una cita médica a través de la API, para que puedan gestionar y actualizar las reservas los pacientes en la aplicación.                                                                |                                                          <p>**Escenario1: Crear una cita médica**</p><p>- Dado que el endpoint "/api/v1/appointments" está disponible,</p><p>- Cuando se envía una solicitud POST con valores para patient_id, doctor_id, appointment_date y description,</p><p>- Entonces se recibe una respuesta con el estado 201</p><p>- Y un recurso de cita está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados.</p><p>**Escenario2: Actualizar una cita existente**</p><p>- Dado que el endpoint "/appointments/{appointment_id}" está disponible</p><p>- Cuando se envía una solicitud PUT con valores actualizados para appointment_date y description</p><p>Entonces se recibe una respuesta con el estado 200</p><p>Y el recurso de cita está actualizado con los nuevos valores</p>                                                           |            E01            |                                                                                                                                                                                                                                                                                                              
-|      US72       |   Consulta de tratamientos de los pacientes   |                                                                                                           Como desarrollador, quiero obtener los tratamientos asignados a cada paciente.                                                                                                           |                                                          <p>**Escenario 1: Obtener los tratamientos por el id del paciente**</p><p>- Dado que el endpoint "patient/:id/treatments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del paciente</p><p>- Entonces se recibe una respuesta con el estado 200<p><p>- Y en el cuerpo de la respuesta se muestra un lista con los tratamientos asignados a ese paciente</p><p>**Escenario 2: Obtener los tratamientos con id de paciente no valido**</p><p>- Dado que el endpoint "patient/:id/treatments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del paciente</p><p>- Entonces se recibe una respuesta con el estado 404<p><p>- Y se muestra un error en el cuerpo de la respuesta indicando que el paciente no esta registrado en la plataforma</p>                                                          |            E01            |
-|      US73       |         Consulta del historial médico         |                                                                           Como desarrollador, quiero obtener los historiales médicos a través de la API, para poder mostar o procesar la información de los historiales.                                                                           | <p>**Escenario1:Obtener el historial médico de un paciente con id específico**</p>-Dado que el endpoint "/api/v1/medical-history/patient/{patientId}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un patientId válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y una lista de historial médico para ese paciente está incluida en el cuerpo de la respuesta.</p> </p><p>**Escenario2:Obtener el historial médico de un paciente con id específico no existente**</p><p>-Dado que el endpoint "/api/v1/medical-history/patient/{patientId}" está disponible,</p><p>-Cuando se envía una solicitud GET con un patientId,</p><p>-Y no se encuentra ningún paciente con aquel Id<p>-Entonces se recibe una respuesta con el estado 404</p><p>-Entonces un mensaje de error está incluido en el cuerpo de la respuesta indicando "Paciente no encontrado".</p></p> |            E01            |
-|      US74       | Asignación de los tratamientos para pacientes |                                                                             Como desarrollador, quiero asignar un tratamiento a través de la API, para que pueda registrar los planes de tratamiento en mi aplicación.                                                                             |                                                                                                                                                                                                                                              <p>**Escenario 1: Asignar un nuevo tratamiento**</p><p>- Dado que el endpoint "/treatments" está disponible,</p><p>- Cuando se envía una solicitud POST con valores para patient_id, treatment_type, start_date y end_date</p><p>- Entonces se recibe una respuesta con el estado 201</p><p>Y un recurso de tratamiento está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p>                                                                                                                                                                                                                                              |            E01            |
-|      US75      |         Consulta de exámenes médicos          |                                                                             Como desarrollador, quiero obtener los exámenes médicos a través de la API, para poder mostrar o procesar la información de los exámenes.                                                                              |     <p>**Escenario1:Obtener el exámen médico de un paciente con id específico**</p>-Dado que el endpoint "/api/v1/request-result/patient/{patientId}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un patientId válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y una lista de exámenes médicos para ese paciente está incluida en el cuerpo de la respuesta.</p> </p><p>**Escenario2:Obtener el exámen médico de un paciente con id específico no existente**</p><p>-Dado que el endpoint "/api/v1/request-result/patient/{patientId}" está disponible,</p><p>-Cuando se envía una solicitud GET con un patientId,</p><p>-Y no se encuentra ningún paciente con aquel Id<p>-Entonces se recibe una respuesta con el estado 404</p><p>-Entonces un mensaje de error está incluido en el cuerpo de la respuesta indicando "Paciente no encontrado".</p></p>     |            E01            |
-|      US76       |           Autenticación de usuarios           |                                                                Como desarrollador, quiero implementar la autenticación de usuarios a través de una API, para que los usuarios puedan iniciar sesión y registrarse de manera segura                                                                 |                                                                  <p>**Escenario1:Registrarse con datos válidos**</p>-Dado que el endpoint "/api/v1/sign-up" está disponible,<p> </p>-Cuando se envía una solicitud POST con un email, contraseña y otros datos requeridos válidos,<p> </p>-Entonces se recibe una respuesta con el estado 201,<p><p>-Y un token de autenticación está incluido en el cuerpo de la respuesta y el nuevo usuario está registrado en el sistema</p> </p><p>**Escenario2:Iniciar sesión con credenciales válidas**</p><p>-Dado que el endpoint "api/v1/sign-in" está disponible</p><p>-Cuando se envía una solicitud POST con un username y password válidos</p><p>-Entonces se recibe una respuesta con el estado 200</p><p>-Y un token de autenticación está incluido en el cuerpo de la respuesta</p></p>                                                                   |            E01            |
-|      US77       |              Gestión de muestras              |                                                                                 Como desarrollador, quiero gestionar muestras a través de una API, para que puedan ser enviadas y recuperadas según sea necesario.                                                                                 |                                        <p>**Escenario1:Crear una nueva muestra**</p>-Dado que el endpoint "/samples" está disponible,<p> </p>-Cuando se envía una solicitud POST con valores válidos para sample_id, description, y date_collected,<p> </p>-Entonces se recibe una respuesta con el estado 201,<p><p>-Y un recurso de muestra está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p> </p><p>**Escenario2:Crear una nueva muestra con datos faltantes**</p><p>-Dado que el endpoint "/samples" está disponible,</p><p>-Cuando se envía una solicitud POST con valores faltantes para sample_id,</p><p>-Entonces se recibe una respuesta con el estado 400</p><p>-Y  un mensaje de error está incluido en el cuerpo de la respuesta indicando "Datos faltantes o inválidos para la creación de la muestra"</p></p>                                         |            E01            |
-|      US78       |             Gestión de resultados             |                                                                                Como desarrollador, quiero gestionar resultados a través de una API, para que puedan ser enviados y recuperados según sea necesario.                                                                                |                                     <p>**Escenario1:Crear un nuevo resultado**</p>-Dado que el endpoint "/results" está disponible,<p> </p>-Cuando se envía una solicitud POST con valores válidos para result_id, sample_id, value, y date_recorded,<p> </p>-Entonces se recibe una respuesta con el estado 201,<p><p>-Y un recurso de resultado está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p> </p><p>**Escenario2:Crear un nuevo resultado con datos faltantes**</p><p>-Dado que el endpoint "/results" está disponible,</p><p>-Cuando se envía una solicitud POST con valores faltantes para result_id,</p><p>-Entonces se recibe una respuesta con el estado 400</p><p>-Y un mensaje de error está incluido en el cuerpo de la respuesta indicando "Datos faltantes o inválidos para la creación del resultado"</p></p>                                     |            E01            |
-|      US79       |              Gestión de Análisis              |                     Como desarrollador, quiero gestionar análisis a través de una API, para que puedan ser enviados y recuperados según sea necesario.                                                                                                                                             |        <p>**Escenario1:Crear un nuevo análisis **</p>-Dado que el endpoint "/analysis" está disponible,<p> </p>-Cuando se envía una solicitud POST con valores válidos para analysis_id, result_id, conclusion, y date_analyzed,<p> </p>-Entonces se recibe una respuesta con el estado 201,<p><p>-Y un recurso de análisis está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p> </p><p>**Escenario2:Crear un nuevo análisis con datos faltantes**</p><p>-Dado que el endpoint "/analysis" está disponible,</p><p>-Cuando se envía una solicitud POST con valores faltantes para analysis_id,</p><p>-Entonces se recibe una respuesta con el estado 400</p><p>-Y un mensaje de error está incluido en el cuerpo de la respuesta indicando "Datos faltantes o inválidos para la creación del análisis"</p></p>                                                          |            E01            |
-|      US60       |           Recuperación de Muestras            |                                                                                  Como desarrollador, quiero recuperar muestras a través de una API, para poder mostrar o procesar la información de las muestras.                                                                                  |                                                                                   <p>**Escenario1:Obtener una muestra con un ID válido **</p>-Dado que el endpoint "/samples/{sample_id}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un sample_id válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y los detalles de la muestra están incluidos en el cuerpo de la respuesta</p> </p><p>**Escenario2:Obtener una muestra con un ID no existente**</p><p>-Dado que el endpoint "/samples/{sample_id}" está disponible,</p><p>-Cuando se envía una solicitud GET con un sample_id que no existe,</p><p>-Entonces se recibe una respuesta con el estado 404</p><p>-Y un mensaje de error está incluido en el cuerpo de la respuesta indicando "Muestra no encontrada"</p></p>                                                                                    |            E01            |
-|      US61       |           Recuperación de Análisis            |                                                                                  Como desarrollador, quiero recuperar análisis a través de una API, para poder mostrar o procesar la información de los análisis.                                                                                 |                                                                                   <p>**Escenario1:Obtener un análisis con un ID válido **</p>-Dado que el endpoint "/analysis/{analysis_id}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un analysis_id válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y los detalles del análisis están incluidos en el cuerpo de la respuesta</p> </p><p>**Escenario2:Obtener un análisis con un ID no existentee**</p><p>-Dado que el endpoint "/analysis/{analysis_id}" está disponible,</p><p>-Cuando se envía una solicitud GET con un analysis_id que no existe,</p><p>-Entonces se recibe una respuesta con el estado 404</p><p>-Y un mensaje de error está incluido en el cuerpo de la respuesta indicando "Análisis no encontrado"</p></p>                                                                                    |            E01            |
+| Epic / Story ID |                    Título                     |                                                                             Descripción                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                          Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                           | Relacionado con (Epic ID) |
+| :-------------: | :-------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: |
+|      US70       |     Consulta de las citas de los medicos      |                      Como desarrollador quiero obtener las citas programadas para cada doctor para que se puedan mostrar y modificar las notas                       |                                                                        <p>**Escenario 1: Obtener las citas por el id del doctor**</p><p>- Dado que el endpoint "doctor/:id/appointments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del doctor</p><p>- Entonces se recibe una respuesta con el estado 200<p><p>- Y una lista con las informacion de cada appointments de ese doctor estara incluida en el cuerpo de la respuesta</p><p>**Escenario 2: Obtener citas con id de doctor no valido**</p><p>- Dado que el endpoint "doctor/:id/appointments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del doctor</p><p>- Entonces se recibe una respuesta con el estado 404<p><p>- Y se muestra un error en el cuerpo de la respuesta indicando que el doctor no esta registrado</p>                                                                        |            E01            |
+|      US71       |           Gestión de citas médicas            | Como desarrollador quiero crear y actualizar una cita médica a través de la API, para que puedan gestionar y actualizar las reservas los pacientes en la aplicación. |                                                          <p>**Escenario1: Crear una cita médica**</p><p>- Dado que el endpoint "/api/v1/appointments" está disponible,</p><p>- Cuando se envía una solicitud POST con valores para patient_id, doctor_id, appointment_date y description,</p><p>- Entonces se recibe una respuesta con el estado 201</p><p>- Y un recurso de cita está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados.</p><p>**Escenario2: Actualizar una cita existente**</p><p>- Dado que el endpoint "/appointments/{appointment_id}" está disponible</p><p>- Cuando se envía una solicitud PUT con valores actualizados para appointment_date y description</p><p>Entonces se recibe una respuesta con el estado 200</p><p>Y el recurso de cita está actualizado con los nuevos valores</p>                                                           |            E01            |
+|      US72       |   Consulta de tratamientos de los pacientes   |                                            Como desarrollador, quiero obtener los tratamientos asignados a cada paciente.                                            |                                                          <p>**Escenario 1: Obtener los tratamientos por el id del paciente**</p><p>- Dado que el endpoint "patient/:id/treatments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del paciente</p><p>- Entonces se recibe una respuesta con el estado 200<p><p>- Y en el cuerpo de la respuesta se muestra un lista con los tratamientos asignados a ese paciente</p><p>**Escenario 2: Obtener los tratamientos con id de paciente no valido**</p><p>- Dado que el endpoint "patient/:id/treatments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del paciente</p><p>- Entonces se recibe una respuesta con el estado 404<p><p>- Y se muestra un error en el cuerpo de la respuesta indicando que el paciente no esta registrado en la plataforma</p>                                                          |            E01            |
+|      US73       |         Consulta del historial médico         |            Como desarrollador, quiero obtener los historiales médicos a través de la API, para poder mostar o procesar la información de los historiales.            | <p>**Escenario1:Obtener el historial médico de un paciente con id específico**</p>-Dado que el endpoint "/api/v1/medical-history/patient/{patientId}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un patientId válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y una lista de historial médico para ese paciente está incluida en el cuerpo de la respuesta.</p> </p><p>**Escenario2:Obtener el historial médico de un paciente con id específico no existente**</p><p>-Dado que el endpoint "/api/v1/medical-history/patient/{patientId}" está disponible,</p><p>-Cuando se envía una solicitud GET con un patientId,</p><p>-Y no se encuentra ningún paciente con aquel Id<p>-Entonces se recibe una respuesta con el estado 404</p><p>-Entonces un mensaje de error está incluido en el cuerpo de la respuesta indicando "Paciente no encontrado".</p></p> |            E01            |
+|      US74       | Asignación de los tratamientos para pacientes |              Como desarrollador, quiero asignar un tratamiento a través de la API, para que pueda registrar los planes de tratamiento en mi aplicación.              |                                                                                                                                                                                                                                              <p>**Escenario 1: Asignar un nuevo tratamiento**</p><p>- Dado que el endpoint "/treatments" está disponible,</p><p>- Cuando se envía una solicitud POST con valores para patient_id, treatment_type, start_date y end_date</p><p>- Entonces se recibe una respuesta con el estado 201</p><p>Y un recurso de tratamiento está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p>                                                                                                                                                                                                                                              |            E01            |
+|      US75       |         Consulta de exámenes médicos          |              Como desarrollador, quiero obtener los exámenes médicos a través de la API, para poder mostrar o procesar la información de los exámenes.               |     <p>**Escenario1:Obtener el exámen médico de un paciente con id específico**</p>-Dado que el endpoint "/api/v1/request-result/patient/{patientId}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un patientId válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y una lista de exámenes médicos para ese paciente está incluida en el cuerpo de la respuesta.</p> </p><p>**Escenario2:Obtener el exámen médico de un paciente con id específico no existente**</p><p>-Dado que el endpoint "/api/v1/request-result/patient/{patientId}" está disponible,</p><p>-Cuando se envía una solicitud GET con un patientId,</p><p>-Y no se encuentra ningún paciente con aquel Id<p>-Entonces se recibe una respuesta con el estado 404</p><p>-Entonces un mensaje de error está incluido en el cuerpo de la respuesta indicando "Paciente no encontrado".</p></p>     |            E01            |
+|      US76       |           Autenticación de usuarios           | Como desarrollador, quiero implementar la autenticación de usuarios a través de una API, para que los usuarios puedan iniciar sesión y registrarse de manera segura  |                                                                  <p>**Escenario1:Registrarse con datos válidos**</p>-Dado que el endpoint "/api/v1/sign-up" está disponible,<p> </p>-Cuando se envía una solicitud POST con un email, contraseña y otros datos requeridos válidos,<p> </p>-Entonces se recibe una respuesta con el estado 201,<p><p>-Y un token de autenticación está incluido en el cuerpo de la respuesta y el nuevo usuario está registrado en el sistema</p> </p><p>**Escenario2:Iniciar sesión con credenciales válidas**</p><p>-Dado que el endpoint "api/v1/sign-in" está disponible</p><p>-Cuando se envía una solicitud POST con un username y password válidos</p><p>-Entonces se recibe una respuesta con el estado 200</p><p>-Y un token de autenticación está incluido en el cuerpo de la respuesta</p></p>                                                                   |            E01            |
+|      US77       |              Gestión de muestras              |                  Como desarrollador, quiero gestionar muestras a través de una API, para que puedan ser enviadas y recuperadas según sea necesario.                  |                                         <p>**Escenario1:Crear una nueva muestra**</p>-Dado que el endpoint "/samples" está disponible,<p> </p>-Cuando se envía una solicitud POST con valores válidos para sample_id, description, y date_collected,<p> </p>-Entonces se recibe una respuesta con el estado 201,<p><p>-Y un recurso de muestra está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p> </p><p>**Escenario2:Crear una nueva muestra con datos faltantes**</p><p>-Dado que el endpoint "/samples" está disponible,</p><p>-Cuando se envía una solicitud POST con valores faltantes para sample_id,</p><p>-Entonces se recibe una respuesta con el estado 400</p><p>-Y un mensaje de error está incluido en el cuerpo de la respuesta indicando "Datos faltantes o inválidos para la creación de la muestra"</p></p>                                         |            E01            |
+|      US78       |             Gestión de resultados             |                 Como desarrollador, quiero gestionar resultados a través de una API, para que puedan ser enviados y recuperados según sea necesario.                 |                                     <p>**Escenario1:Crear un nuevo resultado**</p>-Dado que el endpoint "/results" está disponible,<p> </p>-Cuando se envía una solicitud POST con valores válidos para result_id, sample_id, value, y date_recorded,<p> </p>-Entonces se recibe una respuesta con el estado 201,<p><p>-Y un recurso de resultado está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p> </p><p>**Escenario2:Crear un nuevo resultado con datos faltantes**</p><p>-Dado que el endpoint "/results" está disponible,</p><p>-Cuando se envía una solicitud POST con valores faltantes para result_id,</p><p>-Entonces se recibe una respuesta con el estado 400</p><p>-Y un mensaje de error está incluido en el cuerpo de la respuesta indicando "Datos faltantes o inválidos para la creación del resultado"</p></p>                                     |            E01            |
+|      US79       |              Gestión de Análisis              |                  Como desarrollador, quiero gestionar análisis a través de una API, para que puedan ser enviados y recuperados según sea necesario.                  |                                 <p>**Escenario1:Crear un nuevo análisis **</p>-Dado que el endpoint "/analysis" está disponible,<p> </p>-Cuando se envía una solicitud POST con valores válidos para analysis_id, result_id, conclusion, y date_analyzed,<p> </p>-Entonces se recibe una respuesta con el estado 201,<p><p>-Y un recurso de análisis está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p> </p><p>**Escenario2:Crear un nuevo análisis con datos faltantes**</p><p>-Dado que el endpoint "/analysis" está disponible,</p><p>-Cuando se envía una solicitud POST con valores faltantes para analysis_id,</p><p>-Entonces se recibe una respuesta con el estado 400</p><p>-Y un mensaje de error está incluido en el cuerpo de la respuesta indicando "Datos faltantes o inválidos para la creación del análisis"</p></p>                                 |            E01            |
+|      US60       |           Recuperación de Muestras            |                   Como desarrollador, quiero recuperar muestras a través de una API, para poder mostrar o procesar la información de las muestras.                   |                                                                                   <p>**Escenario1:Obtener una muestra con un ID válido **</p>-Dado que el endpoint "/samples/{sample_id}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un sample_id válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y los detalles de la muestra están incluidos en el cuerpo de la respuesta</p> </p><p>**Escenario2:Obtener una muestra con un ID no existente**</p><p>-Dado que el endpoint "/samples/{sample_id}" está disponible,</p><p>-Cuando se envía una solicitud GET con un sample_id que no existe,</p><p>-Entonces se recibe una respuesta con el estado 404</p><p>-Y un mensaje de error está incluido en el cuerpo de la respuesta indicando "Muestra no encontrada"</p></p>                                                                                    |            E01            |
+|      US61       |           Recuperación de Análisis            |                   Como desarrollador, quiero recuperar análisis a través de una API, para poder mostrar o procesar la información de los análisis.                   |                                                                              <p>**Escenario1:Obtener un análisis con un ID válido **</p>-Dado que el endpoint "/analysis/{analysis_id}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un analysis_id válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y los detalles del análisis están incluidos en el cuerpo de la respuesta</p> </p><p>**Escenario2:Obtener un análisis con un ID no existentee**</p><p>-Dado que el endpoint "/analysis/{analysis_id}" está disponible,</p><p>-Cuando se envía una solicitud GET con un analysis_id que no existe,</p><p>-Entonces se recibe una respuesta con el estado 404</p><p>-Y un mensaje de error está incluido en el cuerpo de la respuesta indicando "Análisis no encontrado"</p></p>                                                                              |            E01            |
+
 <table border="1">
   <tbody>
     <tr>
@@ -940,6 +938,7 @@ Dado que estoy enviando mensajes al doctor a través del chat,
 Cuando envío o recibo mensajes,
 Entonces todos los mensajes deben estar cifrados de extremo a extremo,
 Y solo yo y el doctor debemos tener acceso a los contenidos de los mensajes.
+
 </p>
         <p>Escenario 2: Autenticación de Usuarios
 
@@ -947,20 +946,22 @@ Dado que quiero acceder al chat con mi doctor,
 Cuando inicio sesión en la plataforma,
 Entonces debo pasar por un proceso de autenticación robusto,
 Y solo usuarios autenticados deben poder acceder y participar en las conversaciones.</p>
-      </td>
-      <td>01</td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>Disponibilidad y Escalabilidad del Servicio de Chat</td>
-      <td>Como paciente, quiero que el servicio de chat esté disponible en todo momento y sea escalable para manejar un gran número de usuarios, para asegurar que siempre pueda comunicarme con mi doctor cuando lo necesite.</td>
-      <td>
-        <p>Escenario 1: Alta Disponibilidad del Servicio
+
+</td>
+<td>01</td>
+</tr>
+<tr>
+<td>02</td>
+<td>Disponibilidad y Escalabilidad del Servicio de Chat</td>
+<td>Como paciente, quiero que el servicio de chat esté disponible en todo momento y sea escalable para manejar un gran número de usuarios, para asegurar que siempre pueda comunicarme con mi doctor cuando lo necesite.</td>
+<td>
+<p>Escenario 1: Alta Disponibilidad del Servicio
 
 Dado que puedo necesitar comunicarme con mi doctor en cualquier momento,
 Cuando intento acceder al chat,
 Entonces el servicio debe estar disponible 99.9% del tiempo,
 Y cualquier interrupción debe ser mínima y comunicada con antelación.
+
 </p>
         <p>Escenario 2: Escalabilidad ante Creciente Número de Usuarios
 
@@ -968,6 +969,7 @@ Dado que la plataforma puede tener un número creciente de pacientes y doctores 
 Cuando hay un aumento significativo en la cantidad de usuarios simultáneos,
 Entonces el sistema debe escalar automáticamente para manejar la carga adicional,
 Y la calidad y velocidad del servicio no deben verse afectadas.
+
 </p>
       </td>
       <td>01</td>
@@ -983,26 +985,29 @@ Dado que estoy intentando acceder a la plataforma para gestionar mis citas,
 Cuando intento iniciar sesión o realizar cualquier acción en la plataforma,
 Entonces la plataforma debe estar disponible el 99.9% del tiempo,
 Y cualquier tiempo de inactividad no planificado debe ser minimizado y comunicado claramente.</p>
-        <p>Escenario 2: Mantenimiento Programado
+
+<p>Escenario 2: Mantenimiento Programado
 
 Dado que la plataforma necesita mantenimiento regular,
 Cuando se realice el mantenimiento programado,
 Entonces la plataforma debe informar a los usuarios con anticipación sobre el tiempo de inactividad planificado,
 Y el mantenimiento debe realizarse fuera de las horas de mayor uso para minimizar el impacto en los usuarios.</p>
-      </td>
-      <td>02</td>
-    </tr>
-    <tr>
-      <td>04</td>
-      <td>Escalabilidad y Manejo de Alta Demanda</td>
-      <td>Como paciente, quiero que la plataforma pueda manejar un aumento en el número de usuarios y citas médicas, para asegurar que mi experiencia sea fluida incluso durante períodos de alta demanda.</td>
-      <td>
-        <p>Escenario 1: Manejo de Aumento de Usuarios
+
+</td>
+<td>02</td>
+</tr>
+<tr>
+<td>04</td>
+<td>Escalabilidad y Manejo de Alta Demanda</td>
+<td>Como paciente, quiero que la plataforma pueda manejar un aumento en el número de usuarios y citas médicas, para asegurar que mi experiencia sea fluida incluso durante períodos de alta demanda.</td>
+<td>
+<p>Escenario 1: Manejo de Aumento de Usuarios
 
 Dado que hay un aumento en el número de usuarios en la plataforma,
 Cuando múltiples pacientes intentan acceder y gestionar sus citas simultáneamente,
 Entonces la plataforma debe mantener un rendimiento óptimo sin degradación,
 Y las consultas y actualizaciones de citas deben completarse sin demoras significativas.
+
 </p>
         <p>Escenario 2: Escalabilidad del Sistema
 
@@ -1010,30 +1015,34 @@ Dado que la plataforma está experimentando un aumento en la cantidad de citas p
 Cuando el número de citas crece significativamente,
 Entonces el sistema debe escalar automáticamente para manejar el aumento de carga,
 Y debe continuar funcionando de manera eficiente con tiempos de respuesta aceptables.</p>
-      </td>
-      <td>02</td>
-    </tr>
-    <tr>
-      <td>05</td>
-      <td>Rendimiento de la Plataforma de Tratamientos</td>
-      <td>Como doctor traumatológico, deseo que la plataforma para gestionar tratamientos ortopédicos responda rápidamente a mis acciones y consultas, para asegurar que pueda proporcionar una atención médica eficiente y sin demoras.</td>
-      <td>
-        <p>Escenario 1: Tiempo de Respuesta Rápido
+
+</td>
+<td>02</td>
+</tr>
+<tr>
+<td>05</td>
+<td>Rendimiento de la Plataforma de Tratamientos</td>
+<td>Como doctor traumatológico, deseo que la plataforma para gestionar tratamientos ortopédicos responda rápidamente a mis acciones y consultas, para asegurar que pueda proporcionar una atención médica eficiente y sin demoras.</td>
+<td>
+<p>Escenario 1: Tiempo de Respuesta Rápido
 
 Dado que estoy actualizando o consultando el plan de tratamiento de un paciente,
 Cuando realizo una acción o consulta en la plataforma,
 Entonces el sistema debe procesar la solicitud y mostrar los resultados en menos de 3 segundos,
 Y la plataforma debe permitir ajustes o actualizaciones sin retrasos notables.</p>
-        <p>Escenario 2: Rendimiento en la Gestión de Datos
+
+<p>Escenario 2: Rendimiento en la Gestión de Datos
 
 Dado que estoy gestionando múltiples tratamientos y datos de pacientes simultáneamente,
 Cuando realizo operaciones como agregar, modificar o consultar información,
 Entonces la plataforma debe manejar eficientemente grandes volúmenes de datos sin afectar el rendimiento,
 Y las operaciones deben completarse de manera rápida y precisa.</p>
-      </td>
-      <td>03</td>
-    </tr>
-    <tr>
+
+</td>
+<td>03</td>
+</tr>
+<tr>
+
   <td>06</td>
   <td>Seguridad y Protección de Datos de Pacientes</td>
   <td>Como doctor traumatológico, quiero que la plataforma garantice la seguridad y protección de los datos de los pacientes, para asegurar que toda la información sobre tratamientos y historial doctor se maneje de manera confidencial y segura.</td>
@@ -1044,6 +1053,7 @@ Dado que estoy accediendo a la información de los pacientes en la plataforma,
 Cuando reviso o actualizo datos de tratamientos y historial doctor,
 Entonces la plataforma debe cumplir con normativas de privacidad y seguridad de datos.
 Y debe implementar medidas como cifrado de datos y control de acceso para proteger la información sensible.
+
 </p>
     <p>Escenario 2: Protección Contra Accesos No Autorizados
 
@@ -1051,6 +1061,7 @@ Dado que soy un doctor autorizado accediendo a la plataforma,
 Cuando intento realizar acciones en la plataforma,
 Entonces el sistema debe verificar y autorizar mi acceso basado en permisos específicos,
 Y debe prevenir el acceso no autorizado a datos de pacientes mediante autenticación y autorización robustas.</p>
+
   </td>
   <td>03</td>
 </tr>
@@ -1071,6 +1082,7 @@ Dado que estoy en una consulta y necesito revisar el historial doctor de un paci
 Cuando realizo una búsqueda o abro el historial completo,
 Entonces el sistema debe mostrar la información solicitada en menos de 2 segundos,
 Y debe permitir la navegación fluida entre diferentes secciones del historial.</p>
+
   </td>
   <td>03</td>
 </tr>
@@ -1085,6 +1097,7 @@ Dado que soy un usuario autorizado accediendo al historial doctor,
 Cuando intento visualizar, editar o compartir información del historial doctor,
 Entonces el sistema debe verificar que tengo los permisos adecuados antes de permitir el acceso,
 Y debe restringir cualquier intento de acceso por parte de usuarios no autorizados.
+
 </p>
     <p>Escenario 2: Cifrado de Datos Sensibles
 
@@ -1092,6 +1105,7 @@ Dado que la plataforma almacena datos sensibles del historial doctor,
 Cuando se transmiten o almacenan estos datos,
 Entonces el sistema debe utilizar cifrado de extremo a extremo para proteger la información,
 Y debe garantizar que solo los usuarios con las credenciales correctas puedan descifrar y acceder a estos datos.</p>
+
   </td>
   <td>04</td>
 </tr>
@@ -1106,12 +1120,14 @@ Dado que estoy trabajando con datos sensibles de muestras y resultados,
 Cuando ingreso, actualizo o consulto estos datos en la aplicación,
 Entonces el sistema debe asegurar que solo usuarios autorizados puedan realizar modificaciones,
 Y cualquier cambio debe ser registrado con un log de auditoría que indique quién lo realizó y cuándo.</p>
-    <p>Escenario 2: Cifrado y Seguridad en el Almacenamiento de Datos
+
+<p>Escenario 2: Cifrado y Seguridad en el Almacenamiento de Datos
 
 Dado que la aplicación almacena información crítica de muestras y resultados,
 Cuando los datos son almacenados o transmitidos dentro del sistema,
 Entonces el sistema debe utilizar cifrado para proteger la confidencialidad e integridad de los datos,
 Y debe asegurar que solo usuarios autorizados puedan acceder a la información sensible.</p>
+
   </td>
   <td>04</td>
 </tr>
@@ -1126,6 +1142,7 @@ Dado que el volumen de muestras procesadas por el laboratorio puede aumentar con
 Cuando el número de muestras y resultados procesados diariamente se incrementa significativamente,
 Entonces la aplicación debe escalar automáticamente para manejar la carga adicional sin pérdida de rendimiento,
 Y debe continuar proporcionando tiempos de respuesta rápidos y acceso fluido a la información.
+
 </p>
     <p>Escenario 2: Preparación para la Integración con Nuevos Laboratorios
 
@@ -1133,6 +1150,7 @@ Dado que la aplicación podría necesitar integrarse con otros laboratorios en e
 Cuando se agregan nuevos laboratorios o centros de procesamiento de muestras al sistema,
 Entonces la aplicación debe ser capaz de integrar estos nuevos datos y usuarios sin interrupciones,
 Y debe mantener la consistencia y velocidad en la gestión de todas las muestras y resultados.
+
 </p>
   </td>
   <td>05</td>
@@ -1549,6 +1567,7 @@ El método de navegación entre las diversas secciones de la landing page estar�
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+
 En los wireframes de nuestra landing page, se han tenido en cuenta la usabilidad y la experiencia de los usuarios. Los wireframes reflejan un diseño intuitivo y fácil de navegar, con una disposición de los elementos y jerarquía visual clara, garantizando que nuestros usuarios puedan acceder fácilmente a la información relevante y completar las acciones que deseen sin problemas.
 
 - Es una interfáz principal de nuestro landing page:
@@ -1603,36 +1622,43 @@ Para desarrollar nuestra diseños wireframes de aplicación web usamos la herram
 Login patient
 
 La página de inicio de sesión del paciente es la primera pantalla que verá el usuario al acceder a la aplicación. Aquí, el paciente podrá ingresar su nombre de usuario y contraseña para acceder a su cuenta y ver su información personal, citas programadas, historial médico y más.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Login-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td> 
 Login doctor
 
 La página de inicio de sesión del doctor es la primera pantalla que verá el usuario al acceder a la aplicación. Aquí, el doctor podrá ingresar su nombre de usuario y contraseña para acceder a su cuenta y ver su información personal, citas programadas, historial de pacientes y más.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Login-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Login consultancy
 
 La página de inicio de sesión de la consultoría es la primera pantalla que verá el usuario al acceder a la aplicación. Aquí, el consultor podrá ingresar su nombre de usuario y contraseña para acceder a su cuenta y ver su información personal, muestras médicas, análisis médicos y más.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Login-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Register patient
 
 La página de registro de pacientes es donde los nuevos pacientes pueden crear una cuenta en la aplicación. Aquí, los pacientes pueden ingresar su información personal, datos de contacto y más para registrarse en el sistema y comenzar a programar citas y recibir tratamientos médicos.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Register-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Register doctor
 
 La página de registro de doctores es donde los nuevos doctores pueden crear una cuenta en la aplicación. Aquí, los doctores pueden ingresar su información personal, datos de contacto y más para registrarse en el sistema y comenzar a gestionar citas y tratar pacientes.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Register-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Register consultancy
 
 La página de registro de consultorías es donde las nuevas consultorías pueden crear una cuenta en la aplicación. Aquí, las consultorías pueden ingresar su información personal, datos de contacto y más para registrarse en el sistema y comenzar a gestionar muestras médicas y análisis médicos.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Register-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor appointment
 
 La página de citas del doctor es donde el doctor puede gestionar citas con sus pacientes. Aquí, el doctor puede ver las citas programadas, editar citas existentes y más para garantizar una gestión eficiente de su agenda.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Doctor-appointment.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 
@@ -1641,16 +1667,19 @@ La página de citas del doctor es donde el doctor puede gestionar citas con sus 
 Doctor chat
 
 La página de chat del doctor es donde el doctor puede comunicarse con sus pacientes de forma segura. Aquí, el doctor puede enviar mensajes, responder preguntas y más para mantener una línea abierta de comunicación con sus pacientes durante todo el proceso de tratamiento.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Doctor-chat.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor treatments for pacient
 
 La página de tratamientos del doctor es donde el doctor puede ver y gestionar los tratamientos de sus pacientes. Aquí, el doctor puede ver los tratamientos actuales, agregar nuevos tratamientos, actualizar los tratamientos existentes y más para garantizar un seguimiento preciso del progreso de sus pacientes.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor request history
 
 La página de historial de solicitudes del doctor es donde el doctor puede ver el historial de solicitudes de sus pacientes. Aquí, el doctor puede ver las solicitudes anteriores, los resultados de las solicitudes y más para mantener un registro detallado de las interacciones con sus pacientes.
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Doctor-request-history.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor request results
@@ -1797,6 +1826,7 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagram
+
 Para desarrollar el diagrama de clases para nuestro proyecto, se usó la herramienta de Lucidchart.
 
 <img alt= "class-diagram" src="assets/images/class-diagram.png">
@@ -2117,6 +2147,7 @@ Class Treatment
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+
 Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
 
 <img src="assets/images/database_model.png" alt="database image" width="100%">
@@ -2132,50 +2163,49 @@ En esta sección se describen brevemente todas las herramientas que se han utili
 
 **UX/UI Design:**
 
-* **Miro:** [https://miro.com/es/](https://miro.com/es/) <br>
-Es una plataforma que permite el trabajo colaborativo a través de una pizarra virtual. Es muy útil para organizar ideas, crear tablas que organicen la información de forma detallada, tomar decisiones y gestionar proyectos.
+- **Miro:** [https://miro.com/es/](https://miro.com/es/) <br>
+  Es una plataforma que permite el trabajo colaborativo a través de una pizarra virtual. Es muy útil para organizar ideas, crear tablas que organicen la información de forma detallada, tomar decisiones y gestionar proyectos.
 
-* **UXPressia:** [https://uxpressia.com/](https://uxpressia.com/) <br>
-UXPressia es una herramienta enfocada en lo que es la experiencia de usuario, ya que esta permite crear User Personas, Customer Journey, Impact maps, etc.
+- **UXPressia:** [https://uxpressia.com/](https://uxpressia.com/) <br>
+  UXPressia es una herramienta enfocada en lo que es la experiencia de usuario, ya que esta permite crear User Personas, Customer Journey, Impact maps, etc.
 
-* **Figma:** [https://miro.com/es/](https://miro.com/es/) <br>
-Plataforma de diseño que permite a los usuario la creación de interfaces (UI) y prototipos interactivos. Resulta muy útil para el trabajo colaborativo remoto al poder diseñar como equipos las interfaces en tiempo real.
+- **Figma:** [https://miro.com/es/](https://miro.com/es/) <br>
+  Plataforma de diseño que permite a los usuario la creación de interfaces (UI) y prototipos interactivos. Resulta muy útil para el trabajo colaborativo remoto al poder diseñar como equipos las interfaces en tiempo real.
 
-* **Structurizr:** [https://structurizr.com/](https://structurizr.com/) <br>
-Es una página web donde nos permite desarrollar modelos en C4, de la arquitectura de nuestro proyecto describiendo los contenedores, componentes y contextos de nuestra solución web.
+- **Structurizr:** [https://structurizr.com/](https://structurizr.com/) <br>
+  Es una página web donde nos permite desarrollar modelos en C4, de la arquitectura de nuestro proyecto describiendo los contenedores, componentes y contextos de nuestra solución web.
 
 **Software Development:**
 
-* **Github:** [https://github.com](https://github.com) <br>
-Herramienta para guardar, a través de repositorios, los proyecto que se desarrollen, además que permite guardar un historial de versiones, utilizando Git.
+- **Github:** [https://github.com](https://github.com) <br>
+  Herramienta para guardar, a través de repositorios, los proyecto que se desarrollen, además que permite guardar un historial de versiones, utilizando Git.
 
-* **JavaScript:**
-Lenguaje de programación para agregar funcionalidad a las páginas webs.
-  
-* **CSS:**
-Lenguaje utilizado para dar estilo a las páginas webs.
+- **JavaScript:**
+  Lenguaje de programación para agregar funcionalidad a las páginas webs.
+- **CSS:**
+  Lenguaje utilizado para dar estilo a las páginas webs.
 
-* **Visual Studio Code:** [https://code.visualstudio.com/](https://code.visualstudio.com/) <br>
-Editor de código que se utiliza para realizar distintos trabajos con respecto a la programación, este soporta una gran cantidad de lenguajes, como Python, JavaScript, HTML, entre otros.
+- **Visual Studio Code:** [https://code.visualstudio.com/](https://code.visualstudio.com/) <br>
+  Editor de código que se utiliza para realizar distintos trabajos con respecto a la programación, este soporta una gran cantidad de lenguajes, como Python, JavaScript, HTML, entre otros.
 
 **Project Managment:**
 
-* **Trello:** [https://trello.com/es](https://trello.com/es) <br>
-La plataforma permite mantener la organización de tareas y los plazos controlados. Utiliza un sistema de tableros para representar a los proyectos, las tarjetas para representar las etapas del proceso del proyecto y listas para las tareas individuales. Esto permitió tener un mejor cronograma de las tareas del día a día principalmente con los sprints a desarrollar.
+- **Trello:** [https://trello.com/es](https://trello.com/es) <br>
+  La plataforma permite mantener la organización de tareas y los plazos controlados. Utiliza un sistema de tableros para representar a los proyectos, las tarjetas para representar las etapas del proceso del proyecto y listas para las tareas individuales. Esto permitió tener un mejor cronograma de las tareas del día a día principalmente con los sprints a desarrollar.
 
-* **GitHub:** [https://github.com/](https://github.com/ ) <br>
-Plataforma que permite alojar y gestionar proyectos de software de forma colaborativa. Se usó esta plataforma para controlar las versiones del código, colaborar con otros desarrolladores, gestionar las tareas del proyecto y mantener un registro del historial de cambios.
+- **GitHub:** [https://github.com/](https://github.com/) <br>
+  Plataforma que permite alojar y gestionar proyectos de software de forma colaborativa. Se usó esta plataforma para controlar las versiones del código, colaborar con otros desarrolladores, gestionar las tareas del proyecto y mantener un registro del historial de cambios.
 
 **Software Deployment**
 
-* **Railway:** [https://railway.app/](https://railway.app/) <br>
-Plataforma que facilita el despliegue de las aplicaciones en la nube de una forma sencilla. Es ideal para desarrolladores que buscan una solución para la gestión del desarrollo hasta la producción de sus aplicaciones.
+- **Railway:** [https://railway.app/](https://railway.app/) <br>
+  Plataforma que facilita el despliegue de las aplicaciones en la nube de una forma sencilla. Es ideal para desarrolladores que buscan una solución para la gestión del desarrollo hasta la producción de sus aplicaciones.
 
-* **Github:** [https://github.com](https://github.com) <br>
-Herramienta para guardar, a través de repositorios, los proyecto que se desarrollen, además que permite guardar un historial de versiones, utilizando Git.
+- **Github:** [https://github.com](https://github.com) <br>
+  Herramienta para guardar, a través de repositorios, los proyecto que se desarrollen, además que permite guardar un historial de versiones, utilizando Git.
 
-* **Github Pages:** <br>
-Herramienta dentro de github que permite alojar una pagina web de un repositorio HTML: Un lenguaje de marcado para crear tanto la estructura y el contenido de una página web.
+- **Github Pages:** <br>
+  Herramienta dentro de github que permite alojar una pagina web de un repositorio HTML: Un lenguaje de marcado para crear tanto la estructura y el contenido de una página web.
 
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
 
@@ -2190,25 +2220,29 @@ Hemos creado los repositorios que usaremos a lo largo del desarrollo del proyect
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
 
 **HTML:**
-* **Indentación:** Mantener una indentación clara para mejorar la legibilidad.
-* **Semántica:** Utilizar elementos HTML semánticos para una estructura clara y accesible.
-* **Comentarios:** Documentar el código HTML con comentarios claros y concisos.
-* **Atributos Alt:** Proporcionar textos alternativos para imágenes y otros elementos.
+
+- **Indentación:** Mantener una indentación clara para mejorar la legibilidad.
+- **Semántica:** Utilizar elementos HTML semánticos para una estructura clara y accesible.
+- **Comentarios:** Documentar el código HTML con comentarios claros y concisos.
+- **Atributos Alt:** Proporcionar textos alternativos para imágenes y otros elementos.
 
 **CSS:**
-* **Nomenclatura de Clases:** Utilizar una convención de nomenclatura consistente, como BEM.
-* **Separación de Intereses:** Separar estilos del HTML utilizando clases y selectores específicos.
-* **Reutilización de Estilos:** Identificar estilos comunes y reutilizarlos para mantener la coherencia.
+
+- **Nomenclatura de Clases:** Utilizar una convención de nomenclatura consistente, como BEM.
+- **Separación de Intereses:** Separar estilos del HTML utilizando clases y selectores específicos.
+- **Reutilización de Estilos:** Identificar estilos comunes y reutilizarlos para mantener la coherencia.
 
 **JavaScript:**
-* **Nomenclatura de Variables:** Utilizar nombres descriptivos, significativos y breves.
-* **Modularidad:** Dividir el código en módulos pequeños y reutilizables.
-* **Manejo de Errores:** Implementar un manejo de errores robusto.
+
+- **Nomenclatura de Variables:** Utilizar nombres descriptivos, significativos y breves.
+- **Modularidad:** Dividir el código en módulos pequeños y reutilizables.
+- **Manejo de Errores:** Implementar un manejo de errores robusto.
 
 **Kotlin:**
-* **Nomenclatura:** Usar camelCase para variables y funciones, PascalCase para clases y objetos.
-* **Indentación:** Utilizar indentación de 4 espacios para mejorar la claridad del código.
-* **Modularidad y Reutilización:** Dividir el código en clases, métodos y módulos pequeños y reutilizables.
+
+- **Nomenclatura:** Usar camelCase para variables y funciones, PascalCase para clases y objetos.
+- **Indentación:** Utilizar indentación de 4 espacios para mejorar la claridad del código.
+- **Modularidad y Reutilización:** Dividir el código en clases, métodos y módulos pequeños y reutilizables.
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
 
@@ -2506,12 +2540,11 @@ Registro de commits hechos por los integrantes del grupo en este sprint.
   </tbody>
 </table>
 
-
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
 Hemos realizado los acceptance test para las user stories del sprint:
 
-* **US31**
+- **US31**
 
 **Feature:** Sección About Us en la Landing Page<br>
 **Scenario:** Visualización de la sección About Us <br>
@@ -2545,7 +2578,7 @@ Hemos realizado los acceptance test para las user stories del sprint:
 	</tbody>
 </table>
 
-* **US32**
+- **US32**
 
 **Feature:** Sección Sobre El Producto en el Landing Page <br>
 **Scenario:** Visualización de la sección Sobre el Producto <br>
@@ -2579,7 +2612,7 @@ Hemos realizado los acceptance test para las user stories del sprint:
 	</tbody>
 </table>
 
-* **US34**
+- **US34**
 
 **Feature:** Sección Equipo en la Landing Page<br>
 **Scenario:** Visualización de la sección Equipo <br>
@@ -2613,7 +2646,7 @@ Hemos realizado los acceptance test para las user stories del sprint:
 	</tbody>
 </table>
 
-* **US35**
+- **US35**
 
 **Feature:** Sección Equipo en la Landing Page <br>
 **Scenario:** Visualización de la sección Equipo <br>
@@ -2647,7 +2680,7 @@ Hemos realizado los acceptance test para las user stories del sprint:
 	</tbody>
 </table>
 
-* **US36**
+- **US36**
 
 **Feature:** Barra de navegación en la Landing Page <br>
 **Scenario:** Visualización de NavBar <br>
@@ -2681,7 +2714,7 @@ Hemos realizado los acceptance test para las user stories del sprint:
 	</tbody>
 </table>
 
-* **US47**
+- **US47**
 
 **Feature:** Visualización del historial de citas <br>
 **Scenario:** Mostrar una lista de las citas y filtrarlas según categoría (fechas, doctor) <br>
@@ -2693,7 +2726,7 @@ Hemos realizado los acceptance test para las user stories del sprint:
 **Then** el sistema filtra las citas según la categoría seleccionada <br>
 **And** muestra las citas filtradas en la pantalla
 
-* **US59**
+- **US59**
 
 **Feature:** Visualización detallada del historial médico del paciente <br>
 **Scenario:** Visualización del historial médico de un paciente con exámenes, diagnósticos y medicaciones <br>
@@ -2705,7 +2738,7 @@ Hemos realizado los acceptance test para las user stories del sprint:
 
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
 
-* Web
+- Web
 
 Desarrollo de la barra de navegacion para la correcta navagacion a travez de todo el documento y la seccion home:
 
@@ -2727,7 +2760,7 @@ Seccion de Contact Us y Footer:
 
 <img src= "./assets/evidence-contact-footer.png"/>
 
-* Movil
+- Movil
 
 Desarrollo de la vista de citas médicas para el paciente.
 
@@ -2761,7 +2794,7 @@ Presionamos save y tendremos que esperar que se despliegue la página
 
 <img src= "./assets/service-deploy.png"/>
 
-**Link de la landing page desplegada:** 
+**Link de la landing page desplegada:**
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
 
@@ -3064,7 +3097,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review. </h5></div>
 
-* **Fronted - Web**
+- **Fronted - Web**
 
 <table>
 	<tbody>
@@ -3234,7 +3267,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 	</tbody>
 </table>
 
-* **Fronted - Movíl**
+- **Fronted - Movíl**
 
 <table border="1">
   <thead>
@@ -3400,7 +3433,8 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 <div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
 
 Fronted - Web
-* Login
+
+- Login
 
 <img src= "./assets/execution-login.png"/>
   
@@ -3408,69 +3442,70 @@ Fronted - Web
 
 <img src= "./assets/execution-doctor.png"/>
 
-* Doctor Treatements
+- Doctor Treatements
 
 <img src= "./assets/execution-treatement.png"/>
 
-* Doctor Request History
+- Doctor Request History
 
 <img src= "./assets/execution-request.png"/>
 
-* Doctor Request Results
+- Doctor Request Results
 
 <img src= "./assets/execution-results.png"/>
 
-* Patient Appointments
+- Patient Appointments
 
 <img src= "./assets/execution-patient.png"/>
 
-* Patient Request Results
+- Patient Request Results
 
 <img src= "./assets/execution-presults.png"/>
 
-* Patient Request History
+- Patient Request History
 
 <img src= "./assets/execution-history.png"/>
 
 Fronted - Movil
-* Vista de inicio de sesión
+
+- Vista de inicio de sesión
 
 <img src= "./assets/execution-2.1.png"/>
 
-* Vista de registro de usuario
+- Vista de registro de usuario
 
 <img src= "./assets/execution-2.2.png"/>
 
-* Vista que muestra las citas de un paciente
+- Vista que muestra las citas de un paciente
 
 <img src= "./assets/execution-2.3.png"/>
 
-* Vista que muestra el registro de una cita
+- Vista que muestra el registro de una cita
 
 <img src= "./assets/execution-2.4.png"/>
 
-* Vista que muestra un calendario que permite elegir la fecha de la cita
+- Vista que muestra un calendario que permite elegir la fecha de la cita
 
 <img src= "./assets/execution-2.5.png"/>
 
-* Vista que muestra el resumen de la cita registrada
+- Vista que muestra el resumen de la cita registrada
 
 <img src= "./assets/execution-2.6.png"/>
 
-* Vista que muestra la pantalla de los tratamientos concurridos
+- Vista que muestra la pantalla de los tratamientos concurridos
 
 <img src= "./assets/execution-2.7.png"/>
 
-* Agregar un tratamiento de parte del doctor
+- Agregar un tratamiento de parte del doctor
 
 <img src= "./assets/execution-2.8.png"/>
 
-* Servicio de chat elegir sesión
+- Servicio de chat elegir sesión
 
 <img src= "./assets/execution-2.19.png"/>
 
-* Chat dentro de sesión entre 2 usuarios
-  
+- Chat dentro de sesión entre 2 usuarios
+
 <img src= "./assets/execution-2.10.png"/>
  
 * Pantalla de perfil, donde se mostrará la información básica del usuario
@@ -3483,15 +3518,15 @@ Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services
 
 <div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h5></div>
 
-* Creamos un proyecto en Firebase
+- Creamos un proyecto en Firebase
 
 <img src= "./assets/deployment-2.1.png"/>
 
-* Seguimos los pasosque nos indican hasta llegar a esta pestana
+- Seguimos los pasosque nos indican hasta llegar a esta pestana
 
 <img src= "./assets/deployment-2.2.png"/>
 
-* Luego en la terminal del proyecyo ponemos el siguiente comando -> ng run build
+- Luego en la terminal del proyecyo ponemos el siguiente comando -> ng run build
   Una vez heho eso ponemos lo siguiente -> firebase deploy
   Una vez hecho eso ya estaria desplegada la página firebase deploy
 
@@ -4058,11 +4093,11 @@ Email service:
 
 <div id='5.2.3.5.'><h5> 5.2.3.5. Execution Evidence for Sprint Review. </h5></div>
 
-* Swagger
+- Swagger
 
 <img src= "./assets/swagger-3.1.png"/>
 
-* Se pondrá la evidencia del nuevo servicio de email, con el correo puesto en el body del email controller en el swagger. Esto desde la aplicación móvil se podrá hacer desde el registro de la cuenta, además que también se implementará cuando se hace la reserva de una cita.Se usó un correo temporal yopmail para la prueba de envío pero también se podrá usar otros correos como gmail.
+- Se pondrá la evidencia del nuevo servicio de email, con el correo puesto en el body del email controller en el swagger. Esto desde la aplicación móvil se podrá hacer desde el registro de la cuenta, además que también se implementará cuando se hace la reserva de una cita.Se usó un correo temporal yopmail para la prueba de envío pero también se podrá usar otros correos como gmail.
 
 **Prueba del envío del correo:**
 
@@ -4070,19 +4105,19 @@ Email service:
 
 <div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
-* Appointments
+- Appointments
 
 <img src= "./assets/services-3.1.png"/>
 
-* Request Results
+- Request Results
 
 <img src= "./assets/services-3.2.png"/>
 
-* Reports
+- Reports
 
 <img src= "./assets/services-3.3.png"/>
 
-* Treatments
+- Treatments
 
 <img src= "./assets/services-3.4.png"/>
 
@@ -4090,7 +4125,7 @@ Email service:
 
 Para hacer el despliegue del backend lo hemos divido por dos partes, el deployment de la base de datos y del proyecto
 
-* Base de datos Primero creamos una base de datos MySQL en Azure, al momento de crearlo nos pedira un usuario y contraseña para acceder a ella.
+- Base de datos Primero creamos una base de datos MySQL en Azure, al momento de crearlo nos pedira un usuario y contraseña para acceder a ella.
 
 <img src= "./assets/deploy-3.1.png"/>
 
@@ -4102,7 +4137,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 
 <img src= "./assets/deploy-3.3.png"/>
 
-* Web Service Para esto creamos un App services en Azure y subimos nuestro proyecto, para esto debemos darle permisos al azure para que pueda entrar a nuestra organizacion y elegir el repositorio y rama que queremos que se despliegue.
+- Web Service Para esto creamos un App services en Azure y subimos nuestro proyecto, para esto debemos darle permisos al azure para que pueda entrar a nuestra organizacion y elegir el repositorio y rama que queremos que se despliegue.
 
 <img src= "./assets/deploy-3.4.png"/>
 
@@ -4401,6 +4436,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review. </h5></div>
 
 **Fronted-Web**
+
 <table border="1">
   <thead>
     <tr>
@@ -4784,17 +4820,18 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 Imagen de la aplicacion backend corriendo
 
 **Fronted-Web**
-* Swagger
+
+- Swagger
 
 <img src= "./assets/swagger-4.1.png"/>
 
 **Fronted-Movil**
 
-* Pantalla de registro
+- Pantalla de registro
 
 <img src= "./assets/movil-4.1.png"/>
 
-* Pantalla de login
+- Pantalla de login
 
 <img src= "./assets/movil-4.2.png"/>
   
@@ -4802,7 +4839,7 @@ Imagen de la aplicacion backend corriendo
 	- Doctor
 <img src= "./assets/movil-4.3.png"/>
 
-  	- Paciente
+- Paciente
 
 <img src= "./assets/movil-4.4.png"/>
 
@@ -4812,8 +4849,8 @@ Imagen de la aplicacion backend corriendo
 
 <img src= "./assets/movil-4.7.png"/>
 
-* Pantallas de treatments
-	- Doctor/ Paciente
+- Pantallas de treatments
+  - Doctor/ Paciente
 
 <img src= "./assets/movil-4.8.png"/>
 
@@ -4823,49 +4860,49 @@ Imagen de la aplicacion backend corriendo
 
 <img src= "./assets/movil-4.11.png"/>
 
-* Pantalla de chat
-	- Doctor/Paciente
+- Pantalla de chat
+  - Doctor/Paciente
 
 <img src= "./assets/movil-4.12.png"/>
 
 <img src= "./assets/movil-4.13.png"/>
 
-* Pantalla de profile
-	- Doctor/Paciente
+- Pantalla de profile
+  - Doctor/Paciente
 
 <img src= "./assets/movil-4.14.png"/>
 
 <div id='5.2.4.6.'><h5> 5.2.4.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
-* Appointments
+- Appointments
 
 <img src= "./assets/service-4.1.png"/>
 
-* Results
+- Results
 
 <img src= "./assets/service-4.2.png"/>
 
-* Doctors
+- Doctors
 
 <img src= "./assets/service-4.3.png"/>
 
-* Analysis
+- Analysis
 
 <img src= "./assets/service-4.4.png"/>
 
-* Patients
+- Patients
 
 <img src= "./assets/service-4.5.png"/>
 
-* Treatments
+- Treatments
 
 <img src= "./assets/service-4.6.png"/>
 
-* Users
+- Users
 
 <img src= "./assets/service-4.7.png"/>
 
-* Roles
+- Roles
 
 <img src= "./assets/service-4.8.png"/>
  
@@ -4907,17 +4944,17 @@ firebase init Nos debe aparecer esto
 
 Luego ponemos :
 
-* npm run build
+- npm run build
 
 <img src= "./assets/deploy-4.6.png"/>
 
 **Fronted-Movil:**
 
-* Autenticación:
-No se realizo cambio en la autenticación con firebase.
+- Autenticación:
+  No se realizo cambio en la autenticación con firebase.
 
-* Base de datos para el chat:
-No hemos cambiado el despliegue en firebase el servicio de chat.
+- Base de datos para el chat:
+  No hemos cambiado el despliegue en firebase el servicio de chat.
 
 <div id='5.2.4.8.'><h5> 5.2.4.8. Team Collaboration Insights during Sprint. </h5></div>
 
@@ -4950,7 +4987,7 @@ Preguntas para el segmento objetivo doctor:
 
 **Segmento objetivo - Paciente**
 
-* Entrevista 1:
+- Entrevista 1:
 
 Fecha entrevistada: 08/06/2024
 
@@ -4960,14 +4997,14 @@ Datos del entrevistado:
 
 Edad: 20 años
 Distrito: San Martin de Porres
-Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb1d18af%2D92e4%2D4959%2Dbed3%2Ddf3cffccbe4f](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb1d18af%2D92e4%2D4959%2Dbed3%2Ddf3cffccbe4f)
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb1d18af%2D92e4%2D4959%2Dbed3%2Ddf3cffccbe4f](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb1d18af%2D92e4%2D4959%2Dbed3%2Ddf3cffccbe4f)
 
 Minuto de Inicio: 4:31
 Minuto de Fin: 11:06
 
 Resume: En una entrevista de validación con Gonzalo Jaime Zapata Campos, llevada a cabo mediante una videollamada en Zoom desde su teléfono móvil, Abril examinó tanto la página de inicio como el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto le pareció completa y beneficiosa para los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es detallado y la tabla de citas programadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de los exámenes.
 
-* Entrevista 2:
+- Entrevista 2:
 
 Fecha entrevistada: 08/06/2024
 
@@ -4977,7 +5014,7 @@ Datos del entrevistado:
 
 Edad: 50
 Distrito: La Molina
-Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e)
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e)
 
 Minuto de Inicio: 00:00
 Minuto de Fin: 4:30
@@ -4986,7 +5023,7 @@ Resumen: En la entrevista de validación con Abril, ejecutada mediante una video
 
 **Segmento objetivo - Doctor**
 
-* Entrevista 1:
+- Entrevista 1:
 
 Fecha entrevistada: 09/06/2024
 
@@ -4996,7 +5033,7 @@ Datos del entrevistado:
 
 Edad: 51
 Distrito: Trujillo
-Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee2d1b04d%2D94ad%2D42cf%2Da494%2D670c682edc15](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee2d1b04d%2D94ad%2D42cf%2Da494%2D670c682edc15)
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee2d1b04d%2D94ad%2D42cf%2Da494%2D670c682edc15](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee2d1b04d%2D94ad%2D42cf%2Da494%2D670c682edc15)
 
 Minuto de Inicio: 11:07
 Minuto de Fin: 22:41
@@ -5011,7 +5048,7 @@ Usability – Inclusive Design – Information Architecture
 
 CARRERA: Ingeniería de Software <br>
 CURSO: Diseño de Experimentos de Ingeniería de Software<br>
-SECCIÓN: 
+SECCIÓN:
 PROFESORES: Ivan Robles Fernández
 AUDITOR: SuperMedStartUp
 
@@ -5032,6 +5069,7 @@ Sección de historial clínico <br>
 Primer entrevistado - Gonzalo Jaime Zapata Campos <br>
 
 Tabla Resumen:
+
 <table>
 	<tbody>
 		<tr>
@@ -5126,7 +5164,7 @@ Heurística violada: Usability - Consistency & standards <br>
 Descripción: Algunos apartados de la landing page son complejos y podrían simplificarse para mejorar la experiencia del usuario. <br>
 Recomendación: Simplificar el contenido de estos apartados para hacerlo más accesible y fácil de entender. <br>
 
-Problema #2: Falta una sección de testimonios 
+Problema #2: Falta una sección de testimonios
 
 Severidad: 2 <br>
 Heurística violada: Usability - Credibility <br>
@@ -5185,14 +5223,13 @@ Recomendación: Asegurar que se implementen medidas de seguridad robustas para p
 
 <div id='5.4.'><h3> 5.4. Video About the Product. </h3></div>
 
-Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e](https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e)
+Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e](https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e)
 
 <img src= "./assets/about-product.png"/>
 
-
 # 6. Capítulo VI: Testing Strategy
 
-En este capítulo se describen las estrategias de testing aplicadas para asegurar la calidad y confiabilidad del sistema desarrollado. Se organizaron los tests de acuerdo con los cinco *bounded contexts* del sistema.
+En este capítulo se describen las estrategias de testing aplicadas para asegurar la calidad y confiabilidad del sistema desarrollado. Se organizaron los tests de acuerdo con los cinco _bounded contexts_ del sistema.
 
 ## 6.1.1. Core Entities Unit Tests
 
@@ -5261,7 +5298,6 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <p><em>Test: Creación de reportes vía API REST</em></p>
 </div>
 
-
 <div align="center">
   <img src="assets/7 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Resultado del Test</em></p>
@@ -5307,7 +5343,6 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <img src="assets/11 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Resultado del Test</em></p>
 </div>
-
 
 ## 6.1.4. Core System Tests.
 
@@ -5361,46 +5396,51 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 
 ### 6.3.2. Bounded Context: MedicalService
 
-
-
-
 ---
 
 ### 6.3.3. Bounded Context: [Pendiente]
 
-*(Contenido pendiente)*
+_(Contenido pendiente)_
 
 ---
 
 ### 6.3.4. Bounded Context: [Pendiente]
 
-*(Contenido pendiente)*
+_(Contenido pendiente)_
 
 ---
 
 ### 6.3.5. Bounded Context: [Pendiente]
 
-*(Contenido pendiente)*
+_(Contenido pendiente)_
 
 # 7. Capítulo VII: DevOps Practices
+
 Para facilitar las implementaciones y mantener una integración continua eficiente en equipo, se optó por utilizar:
 
 ## 7.1. Continuous Integration
+
 ### Gherkin
+
 Se empleó la herramienta Gherkin para definir criterios de aceptación, permitiendo describir escenarios de prueba de forma clara y comprensible para todos los miembros del equipo.
 ![Gherkin](https://qarevolution.com/wp-content/uploads/2020/01/clipart1579509-1.png)
 
 ### WebStorm
+
 Para realizar modificaciones en el código, se utilizó WebStorm, un entorno de desarrollo destacado por su flexibilidad, soporte para múltiples lenguajes y funcionalidades específicas que optimizan el trabajo en proyectos complejos.
 ![WebStorm](https://th.bing.com/th/id/OIP.bPAc5IDIecLMW5ZlSQAGzQHaHa?rs=1&pid=ImgDetMain)
 
 ### 7.1.1. Tools and Practices.
+
 En este apartado se utilizó la siguiente herramienta:
+
 ### Selenium
+
 Una herramienta ampliamente adoptada para realizar pruebas automatizadas de caja negra en aplicaciones web. Ofrece soporte para múltiples lenguajes de programación y permite validar la funcionalidad del sistema mediante pruebas de entradas y salidas desde la perspectiva del usuario final.
 ![Cypress](https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png)
 
 ### 7.1.2. Build & Test Suite Pipeline Components.
+
 A continuación las evidencias:
 
 ## 7.2. Continuous Delivery
@@ -5427,7 +5467,6 @@ Para garantizar una entrega continua eficaz, se pueden emplear diversas herramie
 
 - GitHub Actions: Herramienta de automatización integrada en GitHub que permite definir flujos de trabajo personalizados para ejecutar acciones como pruebas y despliegues en función de eventos del repositorio.
 
-
 <div align="center">
     <img src="assets/githubActions-Logo.png" 
   width=30%"/>
@@ -5453,9 +5492,6 @@ Para garantizar una entrega continua eficaz, se pueden emplear diversas herramie
     <img src="assets/circleCI-Logo.png"  
   width=30%"/>
 </div>
-
-
-
 
 ### 7.2.2. Stages Deployment Pipeline Components.
 
@@ -5485,22 +5521,22 @@ Consiste en la capacidad de entregar características de un programa de manera c
 ### 7.3.2. Production Deployment Pipeline Components
 
 1. Sistemas de control de versiones:
-El proyecto utiliza Git como sistema de control de versiones, permitiendo llevar un seguimiento detallado de los cambios realizados en el código fuente. El repositorio se aloja en una plataforma como GitHub, lo que permite facilitar la colaboración entre desarrolladores, la gestión de ramas y el despliegue continuo. Esta gestión estructurada del código garantiza trazabilidad y control ante posibles errores o retrocesos.
+   El proyecto utiliza Git como sistema de control de versiones, permitiendo llevar un seguimiento detallado de los cambios realizados en el código fuente. El repositorio se aloja en una plataforma como GitHub, lo que permite facilitar la colaboración entre desarrolladores, la gestión de ramas y el despliegue continuo. Esta gestión estructurada del código garantiza trazabilidad y control ante posibles errores o retrocesos.
 
 2. Procesos de construcción automatizados:
-La aplicación se construye con Maven, una herramienta de automatización que permite compilar el código fuente, resolver dependencias y generar un artefacto .jar ejecutable. Este proceso se automatiza para garantizar que cada versión del código esté correctamente compilada y lista para su ejecución en entornos compatibles con Java.
+   La aplicación se construye con Maven, una herramienta de automatización que permite compilar el código fuente, resolver dependencias y generar un artefacto .jar ejecutable. Este proceso se automatiza para garantizar que cada versión del código esté correctamente compilada y lista para su ejecución en entornos compatibles con Java.
 
 3. Integración Continua:
-Se ha implementado un pipeline de integración continua mediante herramientas como GitHub Actions, el cual se activa automáticamente al realizar cambios en el repositorio. Este pipeline ejecuta la compilación y las pruebas, y genera el artefacto listo para ser validado.
+   Se ha implementado un pipeline de integración continua mediante herramientas como GitHub Actions, el cual se activa automáticamente al realizar cambios en el repositorio. Este pipeline ejecuta la compilación y las pruebas, y genera el artefacto listo para ser validado.
 
 4. Pruebas automatizadas:
-Durante la fase de CI, se ejecutan pruebas automatizadas unitarias utilizando JUnit, con el objetivo de verificar el correcto funcionamiento de los componentes críticos de la aplicación. Estas pruebas ayudan a asegurar la estabilidad del sistema y a prevenir la introducción de regresiones en nuevas versiones del software.
+   Durante la fase de CI, se ejecutan pruebas automatizadas unitarias utilizando JUnit, con el objetivo de verificar el correcto funcionamiento de los componentes críticos de la aplicación. Estas pruebas ayudan a asegurar la estabilidad del sistema y a prevenir la introducción de regresiones en nuevas versiones del software.
 
 5. Automatización de la implementación:
-El proceso de despliegue a producción se realiza de forma automatizada a través de scripts de implementación que utilizan SSH y GitHub Actions. 
+   El proceso de despliegue a producción se realiza de forma automatizada a través de scripts de implementación que utilizan SSH y GitHub Actions.
 
 6. Mecanismos de seguimiento y retroalimentación:
-Si se detecta algún problema en producción, el uso del pipeline permitirá la reversión rápida a una versión anterior de la aplicación, y permitir su correcto funcionamiento.
+   Si se detecta algún problema en producción, el uso del pipeline permitirá la reversión rápida a una versión anterior de la aplicación, y permitir su correcto funcionamiento.
 
 # Capítulo VIII: Experiment-Driven Development
 
@@ -5643,61 +5679,63 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 
 **Experimento 1: Validación de Preferencia de Programación**
 
-- **Hipótesis:** Los pacientes prefieren programar citas en línea vs. teléfono  
-- **Métrica:** % de usuarios que eligen programación online vs. tradicional  
-- **Duración:** 2 semanas  
-- **Usuarios objetivo:** 100 pacientes  
+- **Hipótesis:** Los pacientes prefieren programar citas en línea vs. teléfono
+- **Métrica:** % de usuarios que eligen programación online vs. tradicional
+- **Duración:** 2 semanas
+- **Usuarios objetivo:** 100 pacientes
 - **Método:** A/B Testing
 
 **Experimento 2: Usabilidad de Interfaz de Citas**
 
-- **Hipótesis:** Los usuarios pueden programar una cita en menos de 3 minutos  
-- **Métrica:** Tiempo promedio para completar programación  
-- **Duración:** 1 semana  
-- **Usuarios objetivo:** 50 pacientes nuevos  
+- **Hipótesis:** Los usuarios pueden programar una cita en menos de 3 minutos
+- **Métrica:** Tiempo promedio para completar programación
+- **Duración:** 1 semana
+- **Usuarios objetivo:** 50 pacientes nuevos
 - **Método:** User Testing con task completion
 
 **Experimento 3: Efectividad de Recordatorios**
 
-- **Hipótesis:** Los recordatorios automáticos reducen ausencias en 25%  
-- **Métrica:** % de ausencias con/sin recordatorios  
-- **Duración:** 4 semanas  
-- **Usuarios objetivo:** 200 citas programadas  
+- **Hipótesis:** Los recordatorios automáticos reducen ausencias en 25%
+- **Métrica:** % de ausencias con/sin recordatorios
+- **Duración:** 4 semanas
+- **Usuarios objetivo:** 200 citas programadas
 - **Método:** Controlled Experiment
 
 **Experimento 4: Adopción Médica de Historias Digitales**
 
-- **Hipótesis:** Los médicos acceden a historias digitales en 80% de consultas  
-- **Métrica:** % de consultas donde se accede al historial digital  
-- **Duración:** 3 semanas  
-- **Usuarios objetivo:** 20 médicos  
+- **Hipótesis:** Los médicos acceden a historias digitales en 80% de consultas
+- **Métrica:** % de consultas donde se accede al historial digital
+- **Duración:** 3 semanas
+- **Usuarios objetivo:** 20 médicos
 - **Método:** Usage Analytics
 
-
-- α = 0.05  
-- β = 0.20  
-- p = 20%  
+- α = 0.05
+- β = 0.20
+- p = 20%
 - p₁-p₂ = 5%  
-**Resultado:** n ≈ 246 citas por grupo
+  **Resultado:** n ≈ 246 citas por grupo
 
 ### Decisiones de Escala:
 
 #### Fase Piloto:
-- Duración: 4 semanas  
-- 500 pacientes (250 por grupo)  
-- 10 médicos  
+
+- Duración: 4 semanas
+- 500 pacientes (250 por grupo)
+- 10 médicos
 - 2 clínicas
 
 #### Fase de Validación:
-- Duración: 12 semanas  
-- 2,000 pacientes  
-- 50 médicos  
+
+- Duración: 12 semanas
+- 2,000 pacientes
+- 50 médicos
 - 5 clínicas
 
 #### Criterios de Escalamiento:
-- NPS > 30  
-- Adopción > 60%  
-- Ausencias <15%  
+
+- NPS > 30
+- Adopción > 60%
+- Ausencias <15%
 - Programación <5 min
 
 ---
@@ -5728,15 +5766,18 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 ### Objetivos Estratégicos:
 
 #### Goal 1: Mejorar Eficiencia Operacional
-- **KPI:** Tiempo de programación  
+
+- **KPI:** Tiempo de programación
 - **Target:** -60% (15 min → 6 min)
 
 #### Goal 2: Aumentar Satisfacción del Usuario
-- **KPI:** NPS  
+
+- **KPI:** NPS
 - **Target:** >50
 
 #### Goal 3: Reducir Ausencias
-- **KPI:** No-show rate  
+
+- **KPI:** No-show rate
 - **Target:** <15%
 
 ---
@@ -5744,18 +5785,21 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 ### KPIs por Segmento:
 
 #### Pacientes:
+
 - Adoption Rate
 - Task Completion Rate
 - Time to Value
 - CSAT
 
 #### Médicos:
+
 - Platform Usage
 - Digital Chart Access
 - Communication Response Time
 - Clinical Efficiency
 
 #### Laboratorios:
+
 - Integration Success Rate
 - Turnaround Time
 - Communication Quality
@@ -5765,12 +5809,14 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 ### Métricas de Producto:
 
 #### Engagement:
+
 - DAU, WAU
 - Session Duration
 - Page Views per Session
 - Feature Adoption Rate
 
 #### Performance:
+
 - Page Load Time
 - Response Time
 - System Uptime
@@ -5778,6 +5824,7 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 - Funnel Metrics
 
 #### Business:
+
 - CAC
 - CLV
 - MRR
@@ -5789,13 +5836,15 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 ## 8.2.7. Web and Mobile Tracking Plan
 
 ### Analytics Platforms:
-- **Web:** Google Analytics 4  
-- **Mobile:** Firebase Analytics  
-- **Tracking:** Mixpanel  
-- **UX Behavior:** Hotjar  
+
+- **Web:** Google Analytics 4
+- **Mobile:** Firebase Analytics
+- **Tracking:** Mixpanel
+- **UX Behavior:** Hotjar
 - **Performance:** New Relic
 
 ### Event Tracking Structure:
+
 ```json
 {
   "event_name": "appointment_booking_started",
@@ -5810,8 +5859,10 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 
 ### Critical User Journeys
 
-#### 1. Patient Appointment Booking  
+#### 1. Patient Appointment Booking
+
 **Events to Track:**
+
 - `landing_page_view`
 - `registration_started`
 - `registration_completed`
@@ -5822,8 +5873,10 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 - `appointment_confirmation_viewed`
 - `appointment_booked_successfully`
 
-#### 2. Doctor-Patient Management  
+#### 2. Doctor-Patient Management
+
 **Events to Track:**
+
 - `doctor_dashboard_accessed`
 - `patient_search_initiated`
 - `medical_history_accessed`
@@ -5832,8 +5885,10 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 - `appointment_scheduled`
 - `patient_message_sent`
 
-#### 3. Lab Integration Flow  
+#### 3. Lab Integration Flow
+
 **Events to Track:**
+
 - `lab_order_received`
 - `sample_processing_started`
 - `results_uploaded`
@@ -5844,12 +5899,12 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 
 ### Custom Dimensions
 
-- **User Role:** `patient`, `doctor`, `lab_tech`, `admin`  
-- **Medical Specialty**  
-- **Geographic Location**  
-- **Device Type**  
-- **Browser Type**  
-- **Appointment Type:** `consultation`, `follow-up`, `emergency`  
+- **User Role:** `patient`, `doctor`, `lab_tech`, `admin`
+- **Medical Specialty**
+- **Geographic Location**
+- **Device Type**
+- **Browser Type**
+- **Appointment Type:** `consultation`, `follow-up`, `emergency`
 - **Communication Channel Used**
 
 ---
@@ -5857,20 +5912,22 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 ### Conversion Funnels
 
 #### Funnel 1: New Patient Registration to First Appointment
-1. Landing page visit  
-2. Registration form started  
-3. Registration completed  
-4. Profile setup completed  
-5. First appointment search  
-6. Appointment booked  
+
+1. Landing page visit
+2. Registration form started
+3. Registration completed
+4. Profile setup completed
+5. First appointment search
+6. Appointment booked
 7. Appointment confirmed
 
 #### Funnel 2: Doctor Onboarding to Active Usage
-1. Doctor signup  
-2. Profile verification  
-3. Calendar integration  
-4. First patient added  
-5. First appointment managed  
+
+1. Doctor signup
+2. Profile verification
+3. Calendar integration
+4. First patient added
+5. First appointment managed
 6. Weekly active usage
 
 ---
@@ -5878,47 +5935,47 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 ### Custom Reports Dashboard
 
 #### Executive Dashboard
-- Total appointments booked  
-- User growth rate  
-- Revenue metrics  
-- System performance indicators  
+
+- Total appointments booked
+- User growth rate
+- Revenue metrics
+- System performance indicators
 - Customer satisfaction scores
 
 #### Product Dashboard
-- Feature adoption rates  
-- User flow analysis  
-- A/B test results  
-- Performance metrics  
+
+- Feature adoption rates
+- User flow analysis
+- A/B test results
+- Performance metrics
 - Error tracking
 
 #### Operational Dashboard
-- Daily/weekly active users  
-- Appointment booking trends  
-- Communication volume  
-- System health metrics  
+
+- Daily/weekly active users
+- Appointment booking trends
+- Communication volume
+- System health metrics
 - Support ticket trends
 
 ---
 
 ### Data Privacy and Compliance
-- GDPR compliance for data collection  
-- PHI (Protected Health Information) handling  
-- User consent management  
-- Data anonymization procedures  
+
+- GDPR compliance for data collection
+- PHI (Protected Health Information) handling
+- User consent management
+- Data anonymization procedures
 - Audit trail maintenance
 
 ---
 
 ### Reporting Schedule
-- **Daily:** Performance and error monitoring  
-- **Weekly:** User engagement and feature adoption  
-- **Monthly:** Business metrics and KPI review  
+
+- **Daily:** Performance and error monitoring
+- **Weekly:** User engagement and feature adoption
+- **Monthly:** Business metrics and KPI review
 - **Quarterly:** Comprehensive experiment results analysis
-
-
-
-
-
 
 **Conclusiones**
 
@@ -5932,7 +5989,7 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 
 **Video About the Team**
 
-Link del video: 
+Link del video:
 
 **Anexos**
 
