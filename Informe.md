@@ -5388,14 +5388,294 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
 </div>
 
 ## 6.2 Static Testing & Verification
-### 6.2.1 Static Code Analysis
-#### 6.2.1.1 Coding standards & code conventions
-#### 6.2.1.2 Code quality & code security
 
-### 6.2.2 Reviews
-#### 6.2.2.1 Peer reviews
-#### 6.2.2.2 Tool-assisted reviews
-#### 6.2.2.3 Audit reports and findings
+En la etapa de análisis estático del código de la plataforma **MedSystem**, se utiliza un conjunto de herramientas y metodologías para evaluar el código fuente sin ejecutarlo. Este análisis es esencial para identificar defectos, vulnerabilidades y oportunidades de mejora en el código, lo que resulta en una plataforma más confiable y segura para el manejo de información médica sensible.
+
+### 6.2.1 Static Code Analysis
+
+Este componente se centra en el análisis exhaustivo del código fuente de MedSystem para garantizar que cumple con los más altos estándares de calidad y seguridad, especialmente críticos en el ámbito de la salud digital.
+
+#### 6.2.1.1 Coding Standards & Code Conventions
+
+Este componente se centra en la aplicación de estándares de codificación y convenciones en el desarrollo del código de MedSystem. Es fundamental para asegurar la calidad, mantenibilidad y seguridad del código a largo plazo, especialmente considerando el manejo de información médica sensible.
+
+**Estándares de Codificación:**
+- **Consistencia en la nomenclatura:**
+    - Variables en `camelCase` (e.g., `patientHistory`, `appointmentDate`).
+    - Clases en `PascalCase` (e.g., `MedicalRecord`, `TreatmentPlan`).
+    - Anotaciones Java/Spring Boot con `@Entity` para entidades médicas, `@Service` para servicios clínicos.
+- **Estructura por bounded contexts:**  
+  Organización del código según dominios médicos (citas, historiales, tratamientos, laboratorio, autenticación).
+- **Comentarios y documentación médica:**  
+  Incluir comentarios que expliquen el propósito clínico (algoritmos de dosis, interpretación de resultados, lógica de diagnóstico) y mantener documentación actualizada de APIs y protocolos HIPAA.
+
+**Convenciones de Código:**
+- **Guías de estilo para Frontend (Angular):**  
+  Estructura de componentes médicos (formularios de citas, historiales, comunicación doctor–paciente) según Angular CLI y convenciones oficiales.
+- **Estándares para Backend (Spring Boot):**
+    - Endpoints REST: `/api/v1/appointments`, `/api/v1/medical-history`.
+    - Uso de DTOs para transferencia segura de datos.
+    - Patrones `Repository` para acceso a datos clínicos.
+- **Revisiones automatizadas:**
+    - ESLint para Angular, SonarQube para Java, Prettier para formateo.
+    - Reglas específicas para validación de campos clínicos y patrones de datos médicos.
+
+#### 6.2.1.2 Code Quality & Code Security
+
+Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y la seguridad del código. Ambos son fundamentales para garantizar que MedSystem ofrezca una experiencia segura y confiable en el manejo de información médica.
+
+**Code Quality:**
+- **Legibilidad y mantenibilidad médica:**  
+  Uso de SonarQube para simplificar estructuras complejas (algoritmos de diagnóstico), reducir duplicación en formularios y facilitar mantenimiento de módulos de cálculo de dosis.
+- **Rendimiento en aplicaciones médicas:**  
+  Métricas de tiempo de respuesta para consultas de historiales, carga de imágenes diagnósticas y uso de memoria en grandes volúmenes de datos. Optimización de consultas a la base de datos durante emergencias.
+- **Complejidad ciclomática:**  
+  Monitoreo de funciones críticas para asegurar que la lógica de validación de prescripciones y cálculos de tratamientos sea comprensible y mantenible.
+
+**Code Security:**
+- **Protección de datos médicos (PHI):**  
+  Herramientas como Snyk, OWASP ZAP, Veracode para detectar inyecciones SQL y XSS en formularios de pacientes.
+- **Cumplimiento HIPAA y normativas:**
+    - Control de acceso basado en roles (RBAC).
+    - Cifrado de datos en tránsito y reposo.
+    - Auditoría de accesos y uso de HTTPS + JWT para autenticación de APIs.
+- **Validación de datos médicos:**  
+  Reglas estrictas para alergias, dosis, resultados de laboratorio, evitando entradas incorrectas que comprometan la seguridad del paciente.
+- **Pruebas de penetración médica:**  
+  Simulaciones de ataques a bases de datos de pacientes, accesos no autorizados a historiales y vulnerabilidades en sistemas de comunicación doctor–paciente.
+
+## 6.2.2 Reviews
+
+## 6.3. Validation Interviews
+
+### 6.3.1. Diseño de entrevistas
+
+**Objetivo:** Evaluar la usabilidad, funcionalidad y satisfacción de los usuarios con MedSystem.
+
+**Preguntas para el segmento objetivo Paciente:**
+
+1. ¿Cómo describiría su experiencia general utilizando MedSystem?
+2. ¿Qué tan fácil fue programar su primera cita médica a través de la plataforma?
+3. ¿El proceso de selección de especialista y horario fue claro y eficiente?
+4. ¿Ha utilizado el sistema de chat para comunicarse con su médico? ¿Qué opina?
+5. ¿Puede acceder fácilmente a su historial de citas y tratamientos?
+6. ¿Los recordatorios automáticos de citas son útiles?
+7. ¿La información sobre sus tratamientos es clara y comprensible?
+8. ¿Se siente seguro compartiendo su información médica a través de la plataforma?
+9. ¿Qué funcionalidad considera más valiosa de la plataforma?
+10. ¿Recomendaría MedSystem a otros pacientes? ¿Por qué?
+
+**Preguntas para el segmento objetivo Doctor/Médico Traumatólogo:**
+
+1. ¿Cómo ha impactado MedSystem en la eficiencia de su práctica médica diaria?
+2. ¿Qué tan fácil es acceder y revisar los historiales médicos de sus pacientes?
+3. ¿El proceso de actualización de historiales y registro de consultas es eficiente?
+4. ¿La funcionalidad de gestión de tratamientos le permite hacer un seguimiento adecuado?
+5. ¿El sistema de comunicación con pacientes es efectivo para resolver consultas?
+6. ¿Ha utilizado las funciones de solicitud de exámenes médicos? ¿Cómo fue la experiencia?
+7. ¿Las notificaciones y alertas del sistema son útiles y oportunas?
+8. ¿Qué tan fácil fue adaptarse al uso de MedSystem en su práctica?
+9. ¿Qué funcionalidad considera más valiosa para su trabajo como traumatólogo?
+10. ¿Recomendaría MedSystem a otros colegas traumatólogos? ¿Por qué?
+
+**Preguntas para el segmento objetivo Laboratorio/Consultoría:**
+
+1. ¿Cómo ha sido la experiencia de integrar MedSystem en sus procesos de laboratorio?
+2. ¿Qué tan fácil es registrar nuevas muestras en el sistema?
+3. ¿El proceso de asignación de análisis a las muestras es claro y eficiente?
+4. ¿La funcionalidad de registro y envío de resultados satisface sus necesidades?
+5. ¿La comunicación con los médicos solicitantes a través de la plataforma es efectiva?
+6. ¿El sistema facilita la entrega oportuna de resultados a los doctores?
+7. ¿Las notificaciones automáticas sobre el estado de análisis son útiles?
+8. ¿Considera que la plataforma cumple con los estándares de seguridad necesarios?
+9. ¿Qué funcionalidad considera más importante para las operaciones de su laboratorio?
+10. ¿Recomendaría MedSystem a otros laboratorios o consultorías médicas? ¿Por qué?
+
+### 6.3.2. Registro de entrevistas
+
+**Estructura para el Registro de Entrevistas:**
+
+**Entrevista N°: [Número]**
+
+| Campo | Información |
+|-------|-------------|
+| **Segmento Objetivo** | [Paciente/Doctor/Laboratorio] |
+| **Fecha** | [DD/MM/AAAA] |
+| **Duración** | [X minutos] |
+| **Modalidad** | [Presencial/Virtual] |
+| **Entrevistador** | [Nombre del equipo] |
+
+**Datos del Entrevistado:**
+| Campo | Información |
+|-------|-------------|
+| **Nombre** | [Nombre completo] |
+| **Edad** | [X años] |
+| **Ocupación** | [Detalle] |
+| **Experiencia** | [Años] |
+| **Ubicación** | [Ciudad] |
+
+**Resumen:** [Descripción de puntos importantes, observaciones y nivel de satisfacción]
+**Link de Grabación:** [URL]
+**Timing:** [Inicio - Fin]
+
+### 6.3.3. Evaluaciones según heurísticas
+
+**UX Heuristics & Principles Evaluation**
+
+**PLATAFORMA A EVALUAR:** MedSystem
+**AUDITOR:** SuperMedStartUp
+
+**Tabla Resumen de Problemas:**
+
+| # | Problema | Severidad (1-4) | Heurística Violada | Segmento Afectado |
+|---|----------|-----------------|-------------------|-------------------|
+| 1 | [Problema] | [Nivel] | [Heurística] | [Segmento] |
+| 2 | [Problema] | [Nivel] | [Heurística] | [Segmento] |
+| 3 | [Problema] | [Nivel] | [Heurística] | [Segmento] |
+
+**Descripción de Problemas:**
+
+**Problema #1: [Título]**
+- **Severidad:** [1-4]
+- **Heurística violada:** [Nombre]
+- **Descripción:** [Explicación del problema]
+- **Recomendación:** [Sugerencia de mejora]
+
+## 6.4. Auditoría de Experiencias de Usuario
+
+### 6.4.1. Auditoría realizada
+
+#### 6.4.1.1. Información del grupo auditado
+
+| Campo | Información |
+|-------|-------------|
+| **Nombre del Grupo** | [Nombre] |
+| **Producto** | [Nombre del producto] |
+| **Dominio** | [Sector/industria] |
+| **Integrantes** | [Lista con códigos] |
+| **Contacto** | [Email] |
+| **Repositorio** | [URL GitHub] |
+| **App Desplegada** | [URL producción] |
+
+**Descripción del Producto:** [Breve descripción del producto auditado]
+
+#### 6.4.1.2. Cronograma de auditoría realizada
+
+| Fecha | Actividad | Duración | Responsables | Entregable |
+|-------|-----------|----------|--------------|------------|
+| [DD/MM] | Reunión inicial | [X horas] | [Nombres] | Contexto del producto |
+| [DD/MM] | Evaluación UX/UI | [X horas] | [Nombres] | Matriz de evaluación |
+| [DD/MM] | Análisis técnico | [X horas] | [Nombres] | Reporte técnico |
+| [DD/MM] | Pruebas de usuario | [X horas] | [Nombres] | Resultados de pruebas |
+| [DD/MM] | Presentación final | [X horas] | [Nombres] | Informe final |
+
+#### 6.4.1.3. Contenido de auditoría realizada
+
+**Evaluación de Usabilidad:**
+
+| Heurística | Puntuación (1-5) | Observaciones | Recomendaciones |
+|------------|------------------|---------------|-----------------|
+| Visibilidad del estado | [Puntuación] | [Comentarios] | [Mejoras] |
+| Lenguaje familiar | [Puntuación] | [Comentarios] | [Mejoras] |
+| Control del usuario | [Puntuación] | [Comentarios] | [Mejoras] |
+| Consistencia | [Puntuación] | [Comentarios] | [Mejoras] |
+| Prevención de errores | [Puntuación] | [Comentarios] | [Mejoras] |
+
+**Hallazgos Principales:**
+- **Fortalezas:** [Lista de aspectos positivos]
+- **Áreas de mejora:** [Lista de problemas identificados]
+
+**Puntuación General:**
+
+| Aspecto | Puntuación (1-10) | Peso | Ponderada |
+|---------|------------------|------|-----------|
+| Usabilidad | [Puntuación] | 30% | [Resultado] |
+| Funcionalidad | [Puntuación] | 25% | [Resultado] |
+| Diseño | [Puntuación] | 20% | [Resultado] |
+| Rendimiento | [Puntuación] | 15% | [Resultado] |
+| Calidad técnica | [Puntuación] | 10% | [Resultado] |
+| **TOTAL** | | **100%** | **[Final]** |
+
+### 6.4.2. Auditoría recibida
+
+#### 6.4.2.1. Información del grupo auditor
+
+| Campo | Información |
+|-------|-------------|
+| **Grupo Auditor** | [Nombre] |
+| **Su Producto** | [Nombre] |
+| **Integrantes** | [Lista] |
+| **Contacto** | [Email] |
+| **Especialización** | [Área de expertise] |
+| **Metodología** | [Enfoque utilizado] |
+
+#### 6.4.2.2. Cronograma de auditoría recibida
+
+| Fecha | Actividad | Duración | Participantes MedSystem | Entregable |
+|-------|-----------|----------|------------------------|------------|
+| [DD/MM] | Presentación MedSystem | [X horas] | [Nombres] | [Documento] |
+| [DD/MM] | Evaluación heurística | [X horas] | [Nombres] | [Evaluación] |
+| [DD/MM] | Pruebas de usuario | [X horas] | [Nombres] | [Resultados] |
+| [DD/MM] | Análisis técnico | [X horas] | [Nombres] | [Reporte] |
+| [DD/MM] | Presentación hallazgos | [X horas] | [Nombres] | [Informe final] |
+
+#### 6.4.2.3. Contenido de auditoría recibida
+
+**Aspectos Positivos Identificados:**
+- [Fortaleza 1]
+- [Fortaleza 2]
+- [Fortaleza 3]
+
+**Problemas Identificados:**
+
+| ID | Problema | Severidad | Área | Recomendación |
+|----|----------|-----------|------|---------------|
+| P001 | [Descripción] | [Alta/Media/Baja] | [Frontend/Backend] | [Sugerencia] |
+| P002 | [Descripción] | [Severidad] | [Área] | [Sugerencia] |
+| P003 | [Descripción] | [Severidad] | [Área] | [Sugerencia] |
+
+**Puntuación Asignada:**
+
+| Criterio | Puntuación (1-10) | Comentarios |
+|----------|------------------|-------------|
+| Usabilidad | [Puntuación] | [Comentarios] |
+| Funcionalidad | [Puntuación] | [Comentarios] |
+| Diseño | [Puntuación] | [Comentarios] |
+| Rendimiento | [Puntuación] | [Comentarios] |
+| **Global** | **[Promedio]** | [Comentario general] |
+
+#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
+
+**Plan de Mejoras:**
+
+| Hallazgo | Modificación | Responsable | Fecha | Prioridad |
+|----------|--------------|-------------|-------|-----------|
+| [ID] | [Descripción del cambio] | [Miembro] | [DD/MM] | [Alta/Media/Baja] |
+
+**Modificaciones por Sprint:**
+
+**Sprint Actual:**
+- [Modificación 1]
+- [Modificación 2]
+
+**Próximos Sprints:**
+- [Modificación 1]
+- [Modificación 2]
+
+**Versiones Futuras:**
+- [Modificación 1]
+- [Modificación 2]
+
+**Métricas de Seguimiento:**
+- [Métrica 1: Descripción]
+- [Métrica 2: Descripción]
+- [Métrica 3: Descripción]
+
+**Lecciones Aprendidas:**
+- [Lección 1]
+- [Lección 2]
+- [Lección 3]
+
 
 
 # 7. Capítulo VII: DevOps Practices
