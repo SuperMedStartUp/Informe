@@ -5221,9 +5221,10 @@ Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_
 
 <img src= "./assets/about-product.png"/>
 
-# 6. Capítulo VI: Testing Strategy
+# 6. Capítulo VI: Product Verification & Validation
 
 En este capítulo se describen las estrategias de testing aplicadas para asegurar la calidad y confiabilidad del sistema desarrollado. Se organizaron los tests de acuerdo con los cinco _bounded contexts_ del sistema.
+# 6.1. Testing Suites & Validation
 
 ## 6.1.1. Core Entities Unit Tests
 
@@ -5385,6 +5386,17 @@ En este capítulo se describen las estrategias de testing aplicadas para asegura
   <img src="https://github.com/user-attachments/assets/e07d2c1d-b820-46c8-9ec6-c5adbc91cba1" alt="Test 2" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
   <p><em>Test: Usuarios por rol</em></p>
 </div>
+
+## 6.2 Static Testing & Verification
+### 6.2.1 Static Code Analysis
+#### 6.2.1.1 Coding standards & code conventions
+#### 6.2.1.2 Code quality & code security
+
+### 6.2.2 Reviews
+#### 6.2.2.1 Peer reviews
+#### 6.2.2.2 Tool-assisted reviews
+#### 6.2.2.3 Audit reports and findings
+
 
 # 7. Capítulo VII: DevOps Practices
 
