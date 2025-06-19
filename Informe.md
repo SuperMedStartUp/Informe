@@ -1833,7 +1833,7 @@ Para desarrollar el diagrama de clases para nuestro proyecto, se usó la herrami
 
 ### 4.7.2. Class Dictionary
 
-Class User
+**Class User**
 
 <table border="1">
   <tr>
@@ -1857,59 +1857,28 @@ Class User
     <td>Last name of the client</td>
   </tr>
   <tr>
+    <td>dni</td>
+    <td>string</td>
+    <td>National identification number</td>
+  </tr>
+  <tr>
     <td>gender</td>
     <td>char</td>
     <td>Gender of de client</td>
   </tr>
-</table>
-
-Class Credential
-
-<table border="1">
   <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for client</td>
-  </tr>
-  <tr>
-    <td>username</td>
+    <td>email</td>
     <td>string</td>
-    <td>Username of the client</td>
+    <td>Email address</td>
   </tr>
   <tr>
-    <td>password</td>
+    <td>gender</td>
     <td>string</td>
-    <td>Password of the client</td>
+    <td>Password for login</td>
   </tr>
 </table>
 
-Class Procedure
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for procedure</td>
-  </tr>
-  <tr>
-    <td>info</td>
-    <td>string</td>
-    <td>More information about the procedure</td>
-  </tr>
-  
-</table>
-
-Class Doctor
+**Class Doctor**
 
 <table border="1">
   <tr>
@@ -1923,13 +1892,23 @@ Class Doctor
     <td>Unique code for doctor</td>
   </tr>
   <tr>
-    <td>field</td>
+    <td>doctor</td>
+    <td>User</td>
+    <td>Associated user entity<td>
+  </tr>
+  <tr>
+    <td>speciality</td>
     <td>string</td>
-    <td>Field of the doctor<td>
+    <td>Medical specialty<td>
+  </tr>
+  <tr>
+    <td>licenceNumber</td>
+    <td>string</td>
+    <td>Doctor's license number<td>
   </tr>
 </table>
 
-Class MedicalHistory
+**Class Patient**
 
 <table border="1">
   <tr>
@@ -1940,16 +1919,16 @@ Class MedicalHistory
   <tr>
     <td>id</td>
     <td>int</td>
-    <td>Unique code for MedicalHistory</td>
+    <td>Unique code for patien</td>
   </tr>
   <tr>
-    <td>info</td>
-    <td>string</td>
-    <td>More information about the MedicalHistory</td>
+    <td>patiend</td>
+    <td>User</td>
+    <td>Associated user entity<td>
   </tr>
 </table>
 
-Class Appointment
+**Class Appointment**
 
 <table border="1">
   <tr>
@@ -1968,7 +1947,7 @@ Class Appointment
     <td>Specific date of the appointment</td>
   </tr>
   <tr>
-    <td>info</td>
+    <td>information</td>
     <td>string</td>
     <td>More info about the Appointment</td>
   </tr>
@@ -1979,7 +1958,7 @@ Class Appointment
   </tr>
 </table>
 
-Class Agenda
+**Class Treatment**
 
 <table border="1">
   <tr>
@@ -1990,16 +1969,101 @@ Class Agenda
   <tr>
     <td>id</td>
     <td>int</td>
-    <td>Unique code for Agenda</td>
+    <td>Unique code for Treatment</td>
   </tr>
   <tr>
-    <td>listOfAppointments</td>
-    <td>list&lt;Appointment&gt;</td>
-    <td>List of appointments</td>
+    <td>name</td>
+    <td>string</td>
+    <td>Name of the treatment</td>
+  </tr>
+  <tr>
+    <td>doctor</td>
+    <td>Doctor</td>
+    <td>Doctor who prescribed it</td>
+  </tr>
+  <tr>
+    <td>patient</td>
+    <td>Patient</td>
+    <td>Patient receiving the treatment</td>
+  </tr>
+  <tr>
+    <td>startDay</td>
+    <td>Date</td>
+    <td>Start date of the treatment</td>
+  </tr>
+  <tr>
+    <td>endDay</td>
+    <td>Date</td>
+    <td>End date of the treatment</td>
   </tr>
 </table>
 
-Class Notification
+**Class MedicalHistory**
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalHistory</td>
+  </tr>
+  <tr>
+    <td>patient</td>
+    <td>Patient</td>
+    <td>Patient associated with this history</td>
+  </tr>
+  <tr>
+    <td>consultation</td>
+    <td>List<Consultation></td>
+    <td>List of consultations</td>
+  </tr>
+</table>
+
+**Class Consultation**
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalHistory</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>Date</td>
+    <td>Date of consultation</td>
+  </tr>
+  <tr>
+    <td>time</td>
+    <td>Time<Consultation></td>
+    <td>Time of consultation</td>
+  </tr>
+  <tr>
+    <td>diagnosis</td>
+    <td>string<Consultation></td>
+    <td>Medical diagnosis</td>
+  </tr>
+  <tr>
+    <td>prescription</td>
+    <td>string<Consultation></td>
+    <td>Medical prescription</td>
+  </tr>
+  <tr>
+    <td>appointment</td>
+    <td>Appointment<Consultation></td>
+    <td>Linked appointment</td>
+  </tr>
+</table>
+
+**Class Notification**
 
 <table border="1">
   <tr>
@@ -2015,76 +2079,21 @@ Class Notification
   <tr>
     <td>message</td>
     <td>string</td>
-    <td>Message appearing on the notification</td>
+    <td>Notification message</td>
   </tr>
   <tr>
     <td>date</td>
     <td>date</td>
     <td>Date of the notification</td>
   </tr>
-</table>
-
-Class MedicalResult
-
-<table border="1">
   <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for MedicalResult</td>
-  </tr>
-  <tr>
-    <td>info</td>
-    <td>string</td>
-    <td>More info about the MedicalResult</td>
+    <td>hour</td>
+    <td>Time</td>
+    <td>Time of the notification</td>
   </tr>
 </table>
 
-Class MedicalSample
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for MedicalSample</td>
-  </tr>
-  <tr>
-    <td>info</td>
-    <td>string</td>
-    <td>More info about the MedicalSample</td>
-  </tr>
-</table>
-
-Class MedicalAnalisis
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for MedicalAnalisis</td>
-  </tr>
-  <tr>
-    <td>info</td>
-    <td>string</td>
-    <td>More info about the MedicalAnalisis</td>
-  </tr>
-</table>
-
-Class Message
+**Class Message**
 
 <table border="1">
   <tr>
@@ -2098,13 +2107,18 @@ Class Message
     <td>Unique code for Message</td>
   </tr>
   <tr>
-    <td>info</td>
+    <td>content</td>
     <td>string</td>
-    <td>More info about the Message</td>
+    <td>Content of the message</td>
   </tr>
+  <tr>
+    <td>sendDate</td>
+    <td>Date</td>
+    <td>Date message was sent</td>
+  <tr>
 </table>
 
-Class Progress
+**Class Chat**
 
 <table border="1">
   <tr>
@@ -2115,32 +2129,12 @@ Class Progress
   <tr>
     <td>id</td>
     <td>int</td>
-    <td>Unique code for Progress</td>
+    <td>Unique code for Message</td>
   </tr>
   <tr>
-    <td>info</td>
-    <td>string</td>
-    <td>More info about the Progress</td>
-  </tr>
-</table>
-
-Class Treatment
-
-<table border="1">
-  <tr>
-    <th>Attribute</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td>id</td>
-    <td>int</td>
-    <td>Unique code for Treatment</td>
-  </tr>
-  <tr>
-    <td>info</td>
-    <td>string</td>
-    <td>More info about the Treatment</td>
+    <td>messages</td>
+    <td>List<Message></td>
+    <td>List of messages in the chat</td>
   </tr>
 </table>
 
