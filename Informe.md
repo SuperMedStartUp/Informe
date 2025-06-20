@@ -5478,19 +5478,6 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
 9. ¿Qué funcionalidad considera más valiosa para su trabajo como traumatólogo?
 10. ¿Recomendaría MedSystem a otros colegas traumatólogos? ¿Por qué?
 
-**Preguntas para el segmento objetivo Laboratorio/Consultoría:**
-
-1. ¿Cómo ha sido la experiencia de integrar MedSystem en sus procesos de laboratorio?
-2. ¿Qué tan fácil es registrar nuevas muestras en el sistema?
-3. ¿El proceso de asignación de análisis a las muestras es claro y eficiente?
-4. ¿La funcionalidad de registro y envío de resultados satisface sus necesidades?
-5. ¿La comunicación con los médicos solicitantes a través de la plataforma es efectiva?
-6. ¿El sistema facilita la entrega oportuna de resultados a los doctores?
-7. ¿Las notificaciones automáticas sobre el estado de análisis son útiles?
-8. ¿Considera que la plataforma cumple con los estándares de seguridad necesarios?
-9. ¿Qué funcionalidad considera más importante para las operaciones de su laboratorio?
-10. ¿Recomendaría MedSystem a otros laboratorios o consultorías médicas? ¿Por qué?
-
 ### 6.3.2. Registro de entrevistas
 
 **Estructura para el Registro de Entrevistas:**
