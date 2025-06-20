@@ -2213,7 +2213,7 @@ Railway es una plataforma de desarrollo en la nube que permite desplegar, alojar
 
 <div id='5.2.1.1.'><h4> 5.2.1.1. Sprint 1.</h4></div>
 
-<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
+<h5> 5.2.1.1. Sprint Planning 1.</h5>
 
 Se planeó el primer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.
 
@@ -2272,7 +2272,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 	</tbody>
 </table>
 
-<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog 1.</h5></div>
+<h5> 5.2.1.2. Sprint Backlog 1.</h5>
 
 <table>
 	<tbody>
@@ -2455,7 +2455,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 	</tbody>
 </table>
 
-<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review. </h5></div>
+<h5> 5.2.1.3. Development Evidence for Sprint Review. </h5>
 
 Registro de commits hechos por los integrantes del grupo en este sprint.
 
@@ -2498,7 +2498,7 @@ Registro de commits hechos por los integrantes del grupo en este sprint.
   </tbody>
 </table>
 
-<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
+<h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5>
 
 Hemos realizado los acceptance test para las user stories del sprint:
 
@@ -2694,7 +2694,7 @@ Hemos realizado los acceptance test para las user stories del sprint:
 **Then** el sistema muestra el historial médico completo del paciente <br>
 **And** se incluyen los exámenes realizados, diagnósticos y medicaciones prescritas
 
-<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
+<h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5>
 
 - Web
 
@@ -2732,11 +2732,11 @@ Citas disponibles de paciente
 
 <img src= "./assets/evidence-disponible.png"/>
 
-<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
+<h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5>
 
 No se realizo ningun trabajo con servicios web.
 
-<div id='5.2.1.7.'><h5> 5.2.1.7. Services Documentation Evidence for Sprint Review. </h5></div>
+<h5> 5.2.1.7. Services Documentation Evidence for Sprint Review. </h5>
 
 Se procede a desplegar la landing page una vez terminada, por lo que se usarla Github Pages.
 
@@ -2754,7 +2754,7 @@ Presionamos save y tendremos que esperar que se despliegue la página
 
 **Link de la landing page desplegada:**
 
-<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
+<h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5>
 
 <img src= "./assets/team-1.png"/>
 
