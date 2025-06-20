@@ -6063,6 +6063,139 @@ La situación actual en el sector de traumatología presenta los siguientes desa
 
 ---
 
+## 8.2. Experiment Design
+
+### 8.2.1. Hypotheses
+
+Las hipótesis son declaraciones comprobables que buscan validar suposiciones sobre el comportamiento de los usuarios, la eficiencia del sistema y la efectividad de las funcionalidades implementadas.
+
+**Hipótesis primarias:**
+
+- **H1:** Los pacientes que reciben recordatorios automáticos (SMS, email, push) presentarán una tasa de ausencias menor al 15%, comparado con una línea base actual de 25%.
+- **H2:** Los médicos que acceden a historias clínicas digitales tomarán decisiones clínicas en un 25% menos de tiempo, debido a una mejor disponibilidad y organización de la información.
+- **H3:** Los usuarios mayores de 60 años podrán completar de manera autónoma el flujo de programación de citas en línea en menos de 5 minutos, siempre que la interfaz esté optimizada para accesibilidad.
+- **H4:** La inclusión de un chatbot para resolver dudas frecuentes reducirá en al menos un 30% la carga de trabajo del personal administrativo en consultas repetitivas o administrativas.
+
+**Hipótesis secundarias:**
+
+- **H5:** La integración de funcionalidades de telemedicina mejorará el Net Promoter Score (NPS) del servicio en al menos 15 puntos.
+- **H6:** La centralización de historias clínicas reducirá errores médicos relacionados con información incompleta en al menos un 20%.
+- **H7:** La plataforma reducirá el tiempo promedio de programación de una cita en al menos un 40% respecto al proceso manual actual.
+
+---
+
+### 8.2.2. Measures
+
+Las métricas se clasifican en tres categorías:
+
+#### Métricas Primarias (KPIs)
+
+- **Tasa de asistencia (%):** Proporción de citas agendadas que se concretan, con y sin recordatorio.
+- **Tiempo promedio de programación (min):** Desde el inicio hasta la confirmación de una cita.
+- **Nivel de adopción tecnológica (%):** Uso activo de la plataforma por médicos y pacientes.
+- **Net Promoter Score (NPS):** Nivel de satisfacción y recomendación.
+- **Eficiencia médica (consultas/hora):** Consultas atendidas por jornada.
+
+#### Métricas Secundarias
+
+- **Engagement:** Número de sesiones, clics por sesión, duración promedio.
+- **Errores en flujo de programación:** Abandonos o bloqueos en pasos clave.
+- **Tiempo de respuesta entre especialistas:** Intervalo entre solicitud y respuesta.
+- **Uso del chatbot:** Interacciones vs. derivaciones.
+- **Acceso a historia clínica:** Frecuencia y tiempo por sesión.
+
+#### Métricas de Control
+
+- **Volumen de citas programadas:** Cambios en la demanda general.
+- **Perfil demográfico:** Edad, canal, experiencia digital.
+- **Satisfacción por funcionalidad:** Encuestas específicas por módulo.
+
+---
+
+### 8.2.3. Conditions
+
+Diseño del experimento:
+
+- **Tipo:** Cuasi-experimental con grupos paralelos.
+- **Duración:** Entre 1 y 4 semanas por experimento.
+- **Asignación:** Aleatoria o bloqueada por criterios.
+
+#### Grupo Control
+
+- Sin mejoras activadas (estado actual).
+
+#### Grupo Experimental
+
+- Con nuevas funcionalidades: recordatorios, chatbot, historia digital, etc.
+
+#### Variables constantes
+
+- Tipo de consulta.
+- Canal de acceso (web/app).
+- Franja horaria y día de semana.
+- Nivel de experiencia tecnológica.
+
+#### Criterios de Inclusión/Exclusión
+
+- **Inclusión:** Mayores de 18 años, al menos una cita.
+- **Exclusión:** Dificultades severas para uso digital.
+
+#### Ética y protección de datos
+
+- Consentimiento informado.
+- Cumplimiento de legislación local.
+- Anonimización y seguridad de datos.
+- Auditoría y transparencia.
+
+---
+
+### 8.2.4. Scale Calculations and Decisions
+
+#### Parámetros estadísticos
+
+- **α:** 0.05
+- **β:** 0.20
+- **p (base):** 20%
+- **Diferencia mínima detectable:** 5%
+- **Tamaño por grupo:** n ≈ 246
+- **Total por experimento:** 492 usuarios
+
+#### Fase Piloto
+
+- **Duración:** 4 semanas
+- **Cobertura:**  
+  - 500 pacientes (250 por grupo)  
+  - 10 médicos  
+  - 2 clínicas
+- **Objetivo:** Validar funcionalidad, captar primeros datos.
+
+#### Fase de Validación
+
+- **Duración:** 12 semanas
+- **Cobertura:**  
+  - 2,000 pacientes  
+  - 50 médicos  
+  - 5 clínicas
+- **Objetivo:** Medir impacto sostenido y escalabilidad.
+
+#### Criterios de Escalamiento
+
+- Adopción > 60%
+- NPS > 30
+- Ausencias < 15%
+- Programación < 5 minutos
+- Errores técnicos < 2%
+- Feedback positivo > 75%
+
+#### Decisiones según resultados
+
+- **Éxito:** Escalamiento regional o nacional.
+- **Resultados marginales:** Iteración de funcionalidades.
+- **Resultados negativos:** Rediseño de hipótesis o estrategia.
+
+---
+
+
 ## 8.2.5. Methods Selection
 
 ### Métodos Cuantitativos:
