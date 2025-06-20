@@ -5164,17 +5164,6 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
 
 
 
-## 6.2.2 Reviews
-
-
-
-
-
-
-
-
-
-
 
 
 
