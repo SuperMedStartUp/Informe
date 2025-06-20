@@ -5015,6 +5015,23 @@ Minuto de Fin: 4:30
 
 Resumen: En la entrevista de validación con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, revisó la landing page y el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto es completa y beneficia a los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es completo y la tabla de citas agendadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de exámenes.
 
+- Entrevista 3:
+
+Fecha entrevistado: 19/06/2024
+
+Entrevistado: Roberto Eustaquio
+
+Datos del entrevistado:
+
+Edad: 34 años
+Distrito: Surco
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EYlW3Cw77OdKm9SblFMJ8O8BBOOhLFmpLjwTqyB3CzEBZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DVfNwU)
+Minuto de Inicio: 0:00
+Minuto de Fin: 6:20
+
+Resumen:
+En una entrevista de validación con Roberto Eustaquio, paciente con antecedentes traumatológicos, se revisaron la landing page y la aplicación web. Roberto valoró que la información en la página principal es clara, concisa y fácil de entender para alguien sin formación médica, lo cual mejora su experiencia como usuario. Sin embargo, comentó que podría añadirse una sección que brinde más detalles sobre el perfil profesional de los médicos. En cuanto al formulario para agendar citas, lo consideró práctico, aunque sugirió ajustar algunos términos para que sean más familiares al público general. Destacó que la tabla de citas programadas ayuda a mantener orden y planificación en sus tratamientos. También encontró útil la sección de tratamientos, ya que le permite seguir con precisión las indicaciones médicas. En general, consideró que la plataforma cumple con lo esencial, pero aún hay espacio para mejorar la personalización del lenguaje y enriquecer algunas secciones con información adicional.
+
 **Segmento objetivo - Doctor**
 
 - Entrevista 1:
@@ -5033,6 +5050,22 @@ Minuto de Inicio: 11:07
 Minuto de Fin: 22:41
 
 Resumen: En esta entrevista, Giannina nos comenta sobre nuestro Landing Page y Aplicación Web. Ella considera que la página esta bien estructurada, sin embargo, preferiría que las características sean más específicas al campo de traumatología. Por la parte de la aplicación web, considera que los coampos estan bien seccionado para la vista de doctor, pero le gustaría que en la parte de appointments se pudiera poner de acuerdo a la disponibilidad del doctor, es decir, por horarios; en vez de que el paciente elija cualquier hora y fecha. Ella prefiere marcas como Sony, MEDISONIC, Samsung y suele usar WhatsApp o Facebook como canal de interacción. Por último, ella usa Google Chrome como browser de preferencia y utliza dispositivos Android.
+
+- Entrevista 2:
+
+Fecha entrevistado: 19/06/2024
+
+Entrevistado: Renzo Arteaga
+
+Datos del entrevistado:
+
+Edad: 28 años
+Distrito: La Victoria
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EWnuViVmvDlIljfFsEgWEDUB19HD18DHN5nWOs5EG56s6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QT6O8g)
+Minuto de Inicio: 00:00
+Minuto de Fin: 06:17
+
+Resumen: En la entrevista de validación con el Dr. Renzo Arteaga, llevada a cabo mediante una videollamada por Zoom, se revisaron las funcionalidades clave de la aplicación web para el manejo de historias clínicas y tratamientos en traumatología. Renzo valoró la organización del sistema y destacó que facilita el acceso a la información médica, aunque señaló que el backend aún presenta lentitud, lo que afecta la carga de datos en tiempo real. Sugirió mejorar la velocidad de respuesta y estabilidad de la plataforma. Además, indicó que sería útil integrar la carga de imágenes médicas (como resonancias o radiografías) al historial clínico, ya que esto optimizaría la toma de decisiones. También recomendó simplificar la navegación inicial para usuarios nuevos, aunque consideró que la curva de aprendizaje es razonable. Valoró positivamente el sistema de gestión de tratamientos y la comunicación con pacientes, pero sugirió ampliar las opciones para seguimiento de terapias. En general, consideró que la plataforma tiene alto potencial y la recomendaría, pero con mejoras adicionales en usabilidad y performance técnica.
 
 <div id='5.3.3.'><h4> 5.3.3. Evaluación según heuristicas</h4></div>
 
