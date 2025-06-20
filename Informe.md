@@ -5547,54 +5547,82 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
 
 #### 6.4.1.1. Información del grupo auditado
 
-| Campo | Información |
-|-------|-------------|
-| **Nombre del Grupo** | [Nombre] |
-| **Producto** | [Nombre del producto] |
-| **Dominio** | [Sector/industria] |
-| **Integrantes** | [Lista con códigos] |
-| **Contacto** | [Email] |
-| **Repositorio** | [URL GitHub] |
-| **App Desplegada** | [URL producción] |
+- **Nombre del grupo auditado:** SuperMed
+- **Proyecto auditado:** Med
+- **Segmento objetivo evaluado:** Doctores/Especialistas y Pacientes
+- **Interfaces evaluadas:**
+    - Landing Page
+    - Aplicación web
 
-**Descripción del Producto:** [Breve descripción del producto auditado]
+
 
 #### 6.4.1.2. Cronograma de auditoría realizada
 
-| Fecha | Actividad | Duración | Responsables | Entregable |
-|-------|-----------|----------|--------------|------------|
-| [DD/MM] | Reunión inicial | [X horas] | [Nombres] | Contexto del producto |
-| [DD/MM] | Evaluación UX/UI | [X horas] | [Nombres] | Matriz de evaluación |
-| [DD/MM] | Análisis técnico | [X horas] | [Nombres] | Reporte técnico |
-| [DD/MM] | Pruebas de usuario | [X horas] | [Nombres] | Resultados de pruebas |
-| [DD/MM] | Presentación final | [X horas] | [Nombres] | Informe final |
+| Fecha       | Actividad realizada                               | Participantes            |
+|-------------|----------------------------------------------------|--------------------------|
+| 19/06/2025  | Reunión de coordinación con grupo auditado         | Miembros de ambos equipos |
+| 19/06/2025  | Aplicación de evaluación heurística                | CodeMinds – RutaKids     |
+| 19/06/2025  | Discusión de hallazgos y entrega de recomendaciones| CodeMinds – RutaKids     |
+
+
 
 #### 6.4.1.3. Contenido de auditoría realizada
 
-**Evaluación de Usabilidad:**
+### a) Criterios utilizados
 
-| Heurística | Puntuación (1-5) | Observaciones | Recomendaciones |
-|------------|------------------|---------------|-----------------|
-| Visibilidad del estado | [Puntuación] | [Comentarios] | [Mejoras] |
-| Lenguaje familiar | [Puntuación] | [Comentarios] | [Mejoras] |
-| Control del usuario | [Puntuación] | [Comentarios] | [Mejoras] |
-| Consistencia | [Puntuación] | [Comentarios] | [Mejoras] |
-| Prevención de errores | [Puntuación] | [Comentarios] | [Mejoras] |
+La auditoría se basó en los siguientes principios de evaluación:
 
-**Hallazgos Principales:**
-- **Fortalezas:** [Lista de aspectos positivos]
-- **Áreas de mejora:** [Lista de problemas identificados]
+- Usabilidad (heurísticas de Nielsen)
+- Diseño inclusivo
+- Arquitectura de información
+- Accesibilidad visual y funcional
+- Percepción de confianza
 
-**Puntuación General:**
+Se empleó la plantilla de evaluación heurística proporcionada en el curso, adaptando las observaciones según el contexto del proyecto “Med”.
 
-| Aspecto | Puntuación (1-10) | Peso | Ponderada |
-|---------|------------------|------|-----------|
-| Usabilidad | [Puntuación] | 30% | [Resultado] |
-| Funcionalidad | [Puntuación] | 25% | [Resultado] |
-| Diseño | [Puntuación] | 20% | [Resultado] |
-| Rendimiento | [Puntuación] | 15% | [Resultado] |
-| Calidad técnica | [Puntuación] | 10% | [Resultado] |
-| **TOTAL** | | **100%** | **[Final]** |
+
+
+### b) Interfaz(es) evaluadas
+
+#### 1. Landing Page – [http://landingpage-med.netlify.app](http://landingpage-med.netlify.app)
+
+Se evaluó la claridad en la propuesta de valor, organización de los contenidos, efectividad de los llamados a la acción (CTAs) y percepción de confianza. También se revisó el diseño visual, la jerarquía tipográfica y el lenguaje utilizado en los textos para validar si conecta con los usuarios (pacientes, doctores y clínicas).
+
+**Hallazgos:**
+
+- La propuesta de valor es visible y rápida de entender desde la portada.
+- Se identificaron buenas prácticas en cuanto a diseño visual: uso adecuado de iconografía, estructura clara por segmentos y paleta de colores alineada con el sector salud.
+
+#### 2. Aplicación Web – [http://med-webapp.netlify.app](http://med-webapp.netlify.app)
+
+Se evaluaron los siguientes flujos principales:
+
+- Registro de usuarios (pacientes y doctores)
+- Inicio de sesión
+- Dashboard principal
+- Módulo de citas (doctores y pacientes)
+- Módulo de tratamientos (creación, edición, visualización y eliminación)
+- Navegación y estructura de menús laterales
+
+**Hallazgos:**
+
+- La interfaz mantiene consistencia visual y navegación clara, especialmente en la barra lateral.
+- La segmentación por roles (doctor/paciente) está bien diferenciada, lo que facilita la personalización del contenido.
+- Algunas áreas, como el historial o resultados de citas, podrían beneficiarse de una jerarquía visual más clara para facilitar la lectura.
+
+
+
+### c) Resultados de la auditoría basada en heurísticas de usabilidad
+
+A continuación, se presentan los principales hallazgos encontrados durante la evaluación heurística de las interfaces del proyecto Med, agrupados según los principios de usabilidad de Nielsen. Cada problema identificado incluye su severidad y una recomendación específica para su mejora.
+
+| Nº | Problema identificado                                                                 | Severidad | Heurística afectada              | Recomendación                                                              | Ubicación                         |
+|----|----------------------------------------------------------------------------------------|-----------|----------------------------------|---------------------------------------------------------------------------|----------------------------------|
+| 1  | En la landing, el botón "Nuestra Página" no indica claramente su función hasta ser usado | 2         | Visibilidad del estado del sistema | Agregar tooltips o descripciones breves al pasar el mouse                | Landing Page                     |
+| 2  | No hay botón en el hero de la landing que direccione a la plataforma                   | 3         | Visibilidad del estado del sistema | Añadir botón llamativo tipo “Comienza ahora” o “Ir a la plataforma”      | Landing Page                     |
+| 3  | Al agregar un tratamiento, no aparece ningún mensaje de confirmación o error           | 3         | Visibilidad del estado del sistema | Incluir mensaje de éxito/error al agregar tratamiento                    | App Web / Doctor o Especialista |
+| 4  | En el panel de citas, las fechas aparecen con formato UTC (2025-06-26T05:00:00.000Z)   | 2         | Reconocer en lugar de recordar     | Mostrar fechas en formato local legible: 26/06/2025                      | App Web / Doctor o Especialista |
+| 5  | No se muestra mensaje tras eliminar un tratamiento                                     | 3         | Visibilidad del estado del sistema | Añadir notificación de éxito al eliminar tratamiento                     | App Web / Doctor o Especialista |
 
 ### 6.4.2. Auditoría recibida
 
