@@ -5155,17 +5155,15 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
 
 ## 6.2.2 Reviews
 
+Se implementó un flujo de revisión de código colaborativo basado en Pull Requests en GitHub:
 
+- Cada cambio fue sometido a revisión por al menos un integrante del equipo antes de ser fusionado al branch principal.
 
+- Se utilizó una checklist de revisión que evaluaba: claridad de nombres, documentación, calidad de pruebas, coherencia con arquitectura, y cumplimiento de estándares.
 
+- Durante las revisiones se discutieron mejoras en la eficiencia de algoritmos, modularización y detección de posibles errores lógicos.
 
-
-
-
-
-
-
-
+- También se usaron revisiones automatizadas con GitHub Actions para verificar que el código pase las pruebas unitarias y de integración antes de hacer merge.
 
 
 
@@ -5229,9 +5227,9 @@ Fecha entrevistada: 08/06/2024
 Entrevistado: Abril Gloria Montes Jiménez
 
 Datos del entrevistado:
+- Edad: 50
+- Distrito: La Molina
 
-Edad: 50
-Distrito: La Molina
 Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e)
 
 Minuto de Inicio: 00:00
