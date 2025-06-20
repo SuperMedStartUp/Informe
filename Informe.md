@@ -5473,20 +5473,155 @@ Descripción: La seguridad y privacidad de los datos médicos son cruciales y de
 Recomendación: Asegurar que se implementen medidas de seguridad robustas para proteger los datos médicos de los usuarios. <br>
 
 
+Cuarto Entrevistado - Jean Piere Grandez Mansilla
+Tabla Resumen:
+
+<table>
+	<tbody>
+		<tr>
+			<td>#</td>
+			<td>Problema</td>
+			<td>Escala de Severidad</td>
+			<td>Heurística/Principio Violado</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Proceso de registro de consultas toma más tiempo del esperado</td>
+			<td>2</td>
+			<td>Usability: Efficiency of use</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Falta función de plantillas para notas médicas comunes</td>
+			<td>2</td>
+			<td>Usability: Flexibility & efficiency of use</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>No hay integración directa con el sistema de radiología</td>
+			<td>3</td>
+			<td>Usability: System integration</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>Ausencia de modo offline para consultas de emergencia</td>
+			<td>3</td>
+			<td>Usability: Error prevention & recovery</td>
+		</tr>
+	</tbody>
+</table>
+
+Descripción de Problemas:
+
+**Problema #1: Proceso de registro de consultas toma más tiempo del esperado**
+
+Severidad: 2 <br>
+Heurística violada: Usability - Efficiency of use <br>
+Descripción: El Dr. Grandez mencionó que inicialmente le tomaba 10 minutos registrar una consulta y aunque ahora lo hace en 3-4 minutos, considera que podría ser más rápido con algunas optimizaciones en el formulario. <br>
+Recomendación: Implementar campos con autocompletado y opciones de guardado rápido para acelerar el proceso de documentación de consultas. <br>
+
+**Problema #2: Falta función de plantillas para notas médicas comunes**
+
+Severidad: 2 <br>
+Heurística violada: Usability - Flexibility & efficiency of use <br>
+Descripción: Como interno que maneja casos similares frecuentemente, el doctor sugirió que sería útil tener plantillas predefinidas para diagnósticos comunes en traumatología que puedan ser personalizadas según cada caso. <br>
+Recomendación: Desarrollar un sistema de plantillas médicas personalizables para diferentes especialidades y tipos de consulta. <br>
+
+**Problema #3: No hay integración directa con el sistema de radiología**
+
+Severidad: 3 <br>
+Heurística violada: Usability - System integration <br>
+Descripción: Aunque puede ver las imágenes de rayos X en la plataforma, el doctor mencionó que sería más eficiente si hubiera una integración más fluida con el sistema de radiología para visualización y análisis de imágenes. <br>
+Recomendación: Implementar una integración más robusta con sistemas PACS (Picture Archiving and Communication System) para mejorar la visualización y manipulación de imágenes médicas. <br>
+
+**Problema #4: Ausencia de modo offline para consultas de emergencia**
+
+Severidad: 3 <br>
+Heurística violada: Usability - Error prevention & recovery <br>
+Descripción: El interno expresó preocupación por la dependencia de conectividad a internet, especialmente en situaciones de emergencia donde el acceso a información crítica del paciente es vital. <br>
+Recomendación: Desarrollar una funcionalidad offline que permita acceso a información básica del paciente y registro de datos críticos cuando no hay conectividad, con sincronización automática al restablecerse la conexión. <br>
+
 ## 6.4. Auditoría de Experiencias de Usuario
 
 ### 6.4.1. Auditoría realizada
-
 #### 6.4.1.1. Información del grupo auditado
+**Nombre del grupo auditado:** innovatech  
+**Proyecto auditado:** agrotech  
+**Segmento objetivo evaluado:** granjero / asesor  
+**Interfaces evaluadas:**
+- Landing Page
+- Aplicación Web
+
+---
+
+#### 6.4.1.2. Cronograma de auditoría realizada
+
+| Fecha       | Actividad realizada                                            | Participantes                    |
+|-------------|----------------------------------------------------------------|----------------------------------|
+| 17/06/2025  | Reunión de coordinación con el equipo de Innovatech            | Innovatech – Equipo de Auditoría |
+| 18/06/2025  | Evaluación heurística de la Landing Page                       | Innovatech – Equipo de Auditoría |
+| 19/06/2025  | Evaluación heurística de la Aplicación Web                     | Innovatech – Equipo de Auditoría |
+| 20/06/2025  | Discusión de hallazgos y entrega de recomendaciones finales    | Innovatech – Equipo de Auditoría |
+
+---
+
+#### 6.4.1.3. Contenido de auditoría realizada
+
+### a) Criterios utilizados
+La auditoría se basó en los siguientes principios de evaluación:
+- Usabilidad (heurísticas de Nielsen)
+- Diseño inclusivo
+- Arquitectura de la información
+- Accesibilidad visual y funcional
+- Percepción de confianza
+
+### b) Interfaz(es) evaluadas
+
+#### 1. Landing Page
+Se revisó el “hero” (Gestión moderna, Resultados duraderos), la navegación principal y la sección **Sobre Nosotros** (Misión & Visión).  
+Se analizaron claridad de propuesta de valor, efectividad de CTAs, jerarquía visual, contraste y consistencia de estilo.
+
+**Hallazgos:**
+- La propuesta de valor en el hero es contundente, pero carece de un botón primario de “Regístrate” o “Comienza ahora”.
+- La barra de navegación utiliza texto blanco sobre fondo melocotón con contraste insuficiente para algunos usuarios.
+- La sección “Sobre Nosotros” presenta iconos (misión/visión) sin descripciones alternativas ni tooltips, lo que puede afectar la accesibilidad.
+
+#### 2. Aplicación Web
+Flujos evaluados:
+- Selección de rol (Granjero vs. Asesor)
+- Gestión de “Mi Granja” (tabla de recintos)
+- Perfil de Asesor (edición de título, descripción y publicaciones)
+- Listado de Asesores y sección “Historial” de citas
+
+**Hallazgos:**
+- El selector de rol es claro y visual, pero no ofrece retroalimentación tras la selección (p. ej. resaltado persistente o indicador de carga).
+- En “Mi Granja”, la tabla está bien organizada, pero no cuenta con filtros, ordenamiento ni paginación para manejar grandes volúmenes de datos.
+- Al guardar cambios en el perfil de asesor no se despliega ningún mensaje de éxito o error, lo que deja al usuario sin confirmación de que la operación se completó.
+- En el listado de asesores, el punto azul junto a la foto indica “conectado/activo” pero no hay leyenda o texto explicativo.
+- La sección “Historial” muestra claramente las citas pasadas, aunque podría beneficiarse de un agrupamiento por fechas más destacadas.
+
+### c) Resultados de la auditoría basada en heurísticas de usabilidad
+
+| Nº | Problema identificado                                                             | Severidad | Heurística afectada                | Recomendación                                                                              | Ubicación                                |
+|----|-----------------------------------------------------------------------------------|-----------|------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------|
+| 1  | Ausencia de botón primario de registro en el hero                                 | 3         | Visibilidad del estado del sistema | Añadir un CTA destacado “Regístrate” o “Comienza ahora” junto a “Iniciar sesión”.           | Landing Page – Hero                      |
+| 2  | Texto de menú en nav bar con contraste insuficiente                               | 2         | Estética y diseño minimalista      | Incrementar contraste (oscurecer texto o aclarar fondo) según WCAG.                        | Landing Page – Barra de navegación       |
+| 3  | Selector de rol no muestra feedback tras el clic                                  | 3         | Visibilidad del estado del sistema | Incluir animación de carga o resaltado persistente del rol seleccionado.                    | App Web – Página de Registro (Rol)       |
+| 4  | Eliminación de un recinto en “Mi Granja” no solicita confirmación                 | 3         | Prevención de errores              | Mostrar cuadro de diálogo de confirmación antes de borrar definitivamente un recinto.      | App Web – Mi Granja                      |
+| 5  | Al guardar perfil de asesor, no hay notificación de éxito o error                  | 3         | Visibilidad del estado del sistema | Desplegar una notificación (toast) o mensaje inline al guardar cambios correctamente.       | App Web – Perfil de Asesor (Edición)     |
+
+### 6.4.2. Auditoría recibida
+
+#### 6.4.2.1. Información del grupo auditado
 
 - **Nombre del grupo auditado:** SuperMed
 - **Proyecto auditado:** Med
 - **Segmento objetivo evaluado:** Doctores/Especialistas y Pacientes
 - **Interfaces evaluadas:**
-  - Landing Page
-  - Aplicación web
+    - Landing Page
+    - Aplicación web
 
-#### 6.4.1.2. Cronograma de auditoría realizada
+#### 6.4.2.2. Cronograma de auditoría realizada
 
 | Fecha      | Actividad realizada                                 | Participantes             |
 | ---------- | --------------------------------------------------- | ------------------------- |
@@ -5494,7 +5629,7 @@ Recomendación: Asegurar que se implementen medidas de seguridad robustas para p
 | 19/06/2025 | Aplicación de evaluación heurística                 | CodeMinds – RutaKids      |
 | 19/06/2025 | Discusión de hallazgos y entrega de recomendaciones | CodeMinds – RutaKids      |
 
-#### 6.4.1.3. Contenido de auditoría realizada
+#### 6.4.2.3. Contenido de auditoría realizada
 
 ### a) Criterios utilizados
 
@@ -5548,91 +5683,14 @@ A continuación, se presentan los principales hallazgos encontrados durante la e
 | 4   | En el panel de citas, las fechas aparecen con formato UTC (2025-06-26T05:00:00.000Z)     | 2         | Reconocer en lugar de recordar     | Mostrar fechas en formato local legible: 26/06/2025                 | App Web / Doctor o Especialista |
 | 5   | No se muestra mensaje tras eliminar un tratamiento                                       | 3         | Visibilidad del estado del sistema | Añadir notificación de éxito al eliminar tratamiento                | App Web / Doctor o Especialista |
 
-### 6.4.2. Auditoría recibida
-
-#### 6.4.2.1. Información del grupo auditor
-
-| Campo               | Información         |
-| ------------------- | ------------------- |
-| **Grupo Auditor**   | [Nombre]            |
-| **Su Producto**     | [Nombre]            |
-| **Integrantes**     | [Lista]             |
-| **Contacto**        | [Email]             |
-| **Especialización** | [Área de expertise] |
-| **Metodología**     | [Enfoque utilizado] |
-
-#### 6.4.2.2. Cronograma de auditoría recibida
-
-| Fecha   | Actividad              | Duración  | Participantes MedSystem | Entregable      |
-| ------- | ---------------------- | --------- | ----------------------- | --------------- |
-| [DD/MM] | Presentación MedSystem | [X horas] | [Nombres]               | [Documento]     |
-| [DD/MM] | Evaluación heurística  | [X horas] | [Nombres]               | [Evaluación]    |
-| [DD/MM] | Pruebas de usuario     | [X horas] | [Nombres]               | [Resultados]    |
-| [DD/MM] | Análisis técnico       | [X horas] | [Nombres]               | [Reporte]       |
-| [DD/MM] | Presentación hallazgos | [X horas] | [Nombres]               | [Informe final] |
-
-#### 6.4.2.3. Contenido de auditoría recibida
-
-**Aspectos Positivos Identificados:**
-
-- [Fortaleza 1]
-- [Fortaleza 2]
-- [Fortaleza 3]
-
-**Problemas Identificados:**
-
-| ID   | Problema      | Severidad         | Área               | Recomendación |
-| ---- | ------------- | ----------------- | ------------------ | ------------- |
-| P001 | [Descripción] | [Alta/Media/Baja] | [Frontend/Backend] | [Sugerencia]  |
-| P002 | [Descripción] | [Severidad]       | [Área]             | [Sugerencia]  |
-| P003 | [Descripción] | [Severidad]       | [Área]             | [Sugerencia]  |
-
-**Puntuación Asignada:**
-
-| Criterio      | Puntuación (1-10) | Comentarios          |
-| ------------- | ----------------- | -------------------- |
-| Usabilidad    | [Puntuación]      | [Comentarios]        |
-| Funcionalidad | [Puntuación]      | [Comentarios]        |
-| Diseño        | [Puntuación]      | [Comentarios]        |
-| Rendimiento   | [Puntuación]      | [Comentarios]        |
-| **Global**    | **[Promedio]**    | [Comentario general] |
-
 #### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
 
-**Plan de Mejoras:**
-
-| Hallazgo | Modificación             | Responsable | Fecha   | Prioridad         |
-| -------- | ------------------------ | ----------- | ------- | ----------------- |
-| [ID]     | [Descripción del cambio] | [Miembro]   | [DD/MM] | [Alta/Media/Baja] |
-
-**Modificaciones por Sprint:**
-
-**Sprint Actual:**
-
-- [Modificación 1]
-- [Modificación 2]
-
-**Próximos Sprints:**
-
-- [Modificación 1]
-- [Modificación 2]
-
-**Versiones Futuras:**
-
-- [Modificación 1]
-- [Modificación 2]
-
-**Métricas de Seguimiento:**
-
-- [Métrica 1: Descripción]
-- [Métrica 2: Descripción]
-- [Métrica 3: Descripción]
-
-**Lecciones Aprendidas:**
-
-- [Lección 1]
-- [Lección 2]
-- [Lección 3]
+- Incorporar tooltips y descripciones breves en botones poco claros para mejorar la visibilidad de funciones.
+- Añadir un CTA destacado en el hero de la landing que dirija directamente a la plataforma o registro.
+- Ajustar contraste de texto y fondos en la navegación y elementos clave para cumplir con estándares de accesibilidad.
+- Implementar notificaciones (toasts o banners) de éxito/error tras acciones críticas (registro, guardado, eliminación).
+- Mostrar fechas en formato local legible y agrupar citas o eventos por rango de fechas.
+- Añadir confirmaciones previas a operaciones destructivas (eliminación de datos) y retroalimentación posterior.
 
 # 7. Capítulo VII: DevOps Practices
 
