@@ -5164,6 +5164,17 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
 
 
 
+## 6.2.2 Reviews
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -5172,25 +5183,34 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
 <div id='6.3.'><h3> 6.3. Validation interviews.</h3></div>
 <div id='6.3.1.'><h4> 6.3.1. Diseño de entrevistas.</h4></div>
 
-Preguntas para el segmento objetivo paciente:
+**Objetivo:** Evaluar la usabilidad, funcionalidad y satisfacción de los usuarios con MedSystem.
 
-1. ¿La página contiene información útil sobre la startup?
-2. ¿La información es clara y concisa?
-3. ¿La página contiene información útil sobre el producto que ofrecemos?
-4. ¿La landing page tiene las secciones necesarias? Si no que sección debería de ser agregada?
-5. ¿Las secciones de la landing page contienen información relevante?
-6. ¿Considera que el formulario para agendar una cita tiene los campos necesarios?
-7. ¿Le es de utilidad la tabla que muestra sus citas agendadas?
-8. ¿Considera útil la sección donde puede ver sus tratamientos?
-9. ¿Considera útil la sección donde puede ver los resultados de algún examen que se haya realizado?
+**Preguntas para el segmento objetivo Paciente:**
 
-Preguntas para el segmento objetivo doctor:
+1. ¿Cómo describiría su experiencia general utilizando MedSystem?
+2. ¿Qué tan fácil fue programar su primera cita médica a través de la plataforma?
+3. ¿El proceso de selección de especialista y horario fue claro y eficiente?
+4. ¿Ha utilizado el sistema de chat para comunicarse con su médico? ¿Qué opina?
+5. ¿Puede acceder fácilmente a su historial de citas y tratamientos?
+6. ¿Los recordatorios automáticos de citas son útiles?
+7. ¿La información sobre sus tratamientos es clara y comprensible?
+8. ¿Se siente seguro compartiendo su información médica a través de la plataforma?
+9. ¿Qué funcionalidad considera más valiosa de la plataforma?
+10. ¿Recomendaría MedSystem a otros pacientes? ¿Por qué?
 
-1. ¿Considera que el formulario para agendar una cita tiene los campos necesarios?
-2. ¿Le es de utilidad la tabla que muestra sus citas agendadas?
-3. ¿Considera útil la sección donde puede ver los tratamientos que usted ha asignado a un paciente?
-4. ¿Considera útil la sección donde puede ver los resultados de exámenes de los pacientes?
-5. ¿Considera útil la sección donde puede ver el historial clínico del paciente?
+**Preguntas para el segmento objetivo Doctor/Médico Traumatólogo:**
+
+1. ¿Cómo ha impactado MedSystem en la eficiencia de su práctica médica diaria?
+2. ¿Qué tan fácil es acceder y revisar los historiales médicos de sus pacientes?
+3. ¿El proceso de actualización de historiales y registro de consultas es eficiente?
+4. ¿La funcionalidad de gestión de tratamientos le permite hacer un seguimiento adecuado?
+5. ¿El sistema de comunicación con pacientes es efectivo para resolver consultas?
+6. ¿Ha utilizado las funciones de solicitud de exámenes médicos? ¿Cómo fue la experiencia?
+7. ¿Las notificaciones y alertas del sistema son útiles y oportunas?
+8. ¿Qué tan fácil fue adaptarse al uso de MedSystem en su práctica?
+9. ¿Qué funcionalidad considera más valiosa para su trabajo como traumatólogo?
+10. ¿Recomendaría MedSystem a otros colegas traumatólogos? ¿Por qué?
+
 
 <div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas.</h4></div>
 
@@ -5282,7 +5302,7 @@ Minuto de Fin: 06:17
 
 Resumen: En la entrevista de validación con el Dr. Renzo Arteaga, llevada a cabo mediante una videollamada por Zoom, se revisaron las funcionalidades clave de la aplicación web para el manejo de historias clínicas y tratamientos en traumatología. Renzo valoró la organización del sistema y destacó que facilita el acceso a la información médica, aunque señaló que el backend aún presenta lentitud, lo que afecta la carga de datos en tiempo real. Sugirió mejorar la velocidad de respuesta y estabilidad de la plataforma. Además, indicó que sería útil integrar la carga de imágenes médicas (como resonancias o radiografías) al historial clínico, ya que esto optimizaría la toma de decisiones. También recomendó simplificar la navegación inicial para usuarios nuevos, aunque consideró que la curva de aprendizaje es razonable. Valoró positivamente el sistema de gestión de tratamientos y la comunicación con pacientes, pero sugirió ampliar las opciones para seguimiento de terapias. En general, consideró que la plataforma tiene alto potencial y la recomendaría, pero con mejoras adicionales en usabilidad y performance técnica.
 
-<div id='5.3.3.'><h4> 5.3.3. Evaluación según heuristicas</h4></div>
+<div id='6.3.3.'><h4> 6.3.3. Evaluación según heuristicas</h4></div>
 
 UX Heuristics & Principles Evaluation
 
@@ -5463,88 +5483,6 @@ Heurística violada: Usability - Security & privacy <br>
 Descripción: La seguridad y privacidad de los datos médicos son cruciales y deben ser protegidos adecuadamente. <br>
 Recomendación: Asegurar que se implementen medidas de seguridad robustas para proteger los datos médicos de los usuarios. <br>
 
-## 6.3. Validation Interviews
-
-### 6.3.1. Diseño de entrevistas
-
-**Objetivo:** Evaluar la usabilidad, funcionalidad y satisfacción de los usuarios con MedSystem.
-
-**Preguntas para el segmento objetivo Paciente:**
-
-1. ¿Cómo describiría su experiencia general utilizando MedSystem?
-2. ¿Qué tan fácil fue programar su primera cita médica a través de la plataforma?
-3. ¿El proceso de selección de especialista y horario fue claro y eficiente?
-4. ¿Ha utilizado el sistema de chat para comunicarse con su médico? ¿Qué opina?
-5. ¿Puede acceder fácilmente a su historial de citas y tratamientos?
-6. ¿Los recordatorios automáticos de citas son útiles?
-7. ¿La información sobre sus tratamientos es clara y comprensible?
-8. ¿Se siente seguro compartiendo su información médica a través de la plataforma?
-9. ¿Qué funcionalidad considera más valiosa de la plataforma?
-10. ¿Recomendaría MedSystem a otros pacientes? ¿Por qué?
-
-**Preguntas para el segmento objetivo Doctor/Médico Traumatólogo:**
-
-1. ¿Cómo ha impactado MedSystem en la eficiencia de su práctica médica diaria?
-2. ¿Qué tan fácil es acceder y revisar los historiales médicos de sus pacientes?
-3. ¿El proceso de actualización de historiales y registro de consultas es eficiente?
-4. ¿La funcionalidad de gestión de tratamientos le permite hacer un seguimiento adecuado?
-5. ¿El sistema de comunicación con pacientes es efectivo para resolver consultas?
-6. ¿Ha utilizado las funciones de solicitud de exámenes médicos? ¿Cómo fue la experiencia?
-7. ¿Las notificaciones y alertas del sistema son útiles y oportunas?
-8. ¿Qué tan fácil fue adaptarse al uso de MedSystem en su práctica?
-9. ¿Qué funcionalidad considera más valiosa para su trabajo como traumatólogo?
-10. ¿Recomendaría MedSystem a otros colegas traumatólogos? ¿Por qué?
-
-### 6.3.2. Registro de entrevistas
-
-**Estructura para el Registro de Entrevistas:**
-
-**Entrevista N°: [Número]**
-
-| Campo                 | Información                   |
-| --------------------- | ----------------------------- |
-| **Segmento Objetivo** | [Paciente/Doctor/Laboratorio] |
-| **Fecha**             | [DD/MM/AAAA]                  |
-| **Duración**          | [X minutos]                   |
-| **Modalidad**         | [Presencial/Virtual]          |
-| **Entrevistador**     | [Nombre del equipo]           |
-
-**Datos del Entrevistado:**
-| Campo | Información |
-|-------|-------------|
-| **Nombre** | [Nombre completo] |
-| **Edad** | [X años] |
-| **Ocupación** | [Detalle] |
-| **Experiencia** | [Años] |
-| **Ubicación** | [Ciudad] |
-
-**Resumen:** [Descripción de puntos importantes, observaciones y nivel de satisfacción]
-**Link de Grabación:** [URL]
-**Timing:** [Inicio - Fin]
-
-### 6.3.3. Evaluaciones según heurísticas
-
-**UX Heuristics & Principles Evaluation**
-
-**PLATAFORMA A EVALUAR:** MedSystem
-**AUDITOR:** SuperMedStartUp
-
-**Tabla Resumen de Problemas:**
-
-| #   | Problema   | Severidad (1-4) | Heurística Violada | Segmento Afectado |
-| --- | ---------- | --------------- | ------------------ | ----------------- |
-| 1   | [Problema] | [Nivel]         | [Heurística]       | [Segmento]        |
-| 2   | [Problema] | [Nivel]         | [Heurística]       | [Segmento]        |
-| 3   | [Problema] | [Nivel]         | [Heurística]       | [Segmento]        |
-
-**Descripción de Problemas:**
-
-**Problema #1: [Título]**
-
-- **Severidad:** [1-4]
-- **Heurística violada:** [Nombre]
-- **Descripción:** [Explicación del problema]
-- **Recomendación:** [Sugerencia de mejora]
 
 ## 6.4. Auditoría de Experiencias de Usuario
 
