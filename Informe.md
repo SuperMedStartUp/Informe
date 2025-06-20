@@ -5474,6 +5474,7 @@ Recomendación: Asegurar que se implementen medidas de seguridad robustas para p
 
 
 Cuarto Entrevistado - Jean Piere Grandez Mansilla
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212645_upc_edu_pe/EceH--zkm7BCjBKlAn1jsdYBo8YSHBguANBhrd65EEnXzA?e=xEqfin 
 Tabla Resumen:
 
 <table>
