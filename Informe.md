@@ -144,47 +144,11 @@
    5.1.3. [Source Code Style Guide & Conventions.](#5.1.3.) <br>
    5.1.4. [Software Deployment Configuration.](#5.1.4.) <br>
    5.2. [Landing Page, Services & Applications Implementation.](#5.2.) <br>
-   5.2.1. [Sprint 1.](#5.2.1.) <br>
-   5.2.1.1. [Sprint Planning 1.](#5.2.1.1.) <br>
-   5.2.1.2. [Sprint Backlog 1.](#5.2.1.2.) <br>
-   5.2.1.3. [Development Evidence for Sprint Review.](#5.2.1.3.) <br>
-   5.2.1.4. [Testing Suite Evidence for Sprint Review.](#5.2.1.4.) <br>
-   5.2.1.5. [Execution Evidence for Sprint Review.](#5.2.1.5.) <br>
-   5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.) <br>
-   5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.) <br>
-   5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.) <br>
-   5.2.2. [Sprint 2.](#5.2.2.) <br>
-   5.2.2.1. [Sprint Planning 2.](#5.2.2.1.) <br>
-   5.2.2.2. [Sprint Backlog 2.](#5.2.2.2.) <br>
-   5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.) <br>
-   5.2.2.4. [Testing Suite Evidence for Sprint Review.](#5.2.2.4.) <br>
-   5.2.2.5. [Execution Evidence for Sprint Review.](#5.2.2.5.) <br>
-   5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.) <br>
-   5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.) <br>
-   5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.) <br>
-   5.2.3. [Sprint 3.](#5.2.3.) <br>
-   5.2.3.1. [Sprint Planning 3.](#5.2.3.1.) <br>
-   5.2.3.2. [Sprint Backlog 3.](#5.2.3.2.) <br>
-   5.2.3.3. [Development Evidence for Sprint Review.](#5.2.3.3.) <br>
-   5.2.3.4. [Testing Suite Evidence for Sprint Review.](#5.2.3.4.) <br>
-   5.2.3.5. [Execution Evidence for Sprint Review.](#5.2.3.5.) <br>
-   5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.) <br>
-   5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.) <br>
-   5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.) <br>
-   5.2.4. [Sprint 4.](#5.2.4.) <br>
-   5.2.4.1. [Sprint Planning 4.](#5.2.4.1.) <br>
-   5.2.4.2. [Sprint Backlog 4.](#5.2.4.2.) <br>
-   5.2.4.3. [Development Evidence for Sprint Review.](#5.2.4.3.) <br>
-   5.2.4.4. [Testing Suite Evidence for Sprint Review.](#5.2.4.4.) <br>
-   5.2.4.5. [Execution Evidence for Sprint Review.](#5.2.4.5.) <br>
-   5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.) <br>
-   5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.) <br>
-   5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.) <br>
-   5.3. [Validation Interviews.](#5.3.) <br>
-   5.3.1. [Diseño de Entrevistas.](#5.3.1.) <br>
-   5.3.2. [Registro de Entrevistas.](#5.3.2.) <br>
-   5.3.3. [Evaluaciones según heurísticas.](#5.3.3.) <br>
-   5.4. [Video About-the-Product.](#5.4.) <br>
+   5.2.1.1 [Sprint 1.](#5.2.1.1.) <br>
+   5.2.1.2 [Sprint 2.](#5.2.1.2.) <br>
+   5.2.1.3. [Sprint 3.](#5.2.1.3.) <br>
+   5.2.1.4. [Sprint 4.](#5.2.1.4.) <br>
+   5.3. [Video About-the-Product.](#5.3.) <br>
 
 6. [**Capítulo VI: Product Verification & Validation.**](#6.) <br>
    6.1. [Testing Suites & Validation](#6.1.) <br>
@@ -2247,7 +2211,7 @@ Railway es una plataforma de desarrollo en la nube que permite desplegar, alojar
 
 <div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implemetation.</h3></div>
 
-<div id='5.2.1.'><h4> 5.2.1.	Sprint 1.</h4></div>
+<div id='5.2.1.1.'><h4> 5.2.1.1. Sprint 1.</h4></div>
 
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning 1.</h5></div>
 
@@ -2794,7 +2758,7 @@ Presionamos save y tendremos que esperar que se despliegue la página
 
 <img src= "./assets/team-1.png"/>
 
-<div id='5.2.2.'><h4> 5.2.2. Sprint 2.</h4></div>
+<div id='5.2.1.2.'><h4> 5.2.1.2. Sprint 2.</h4></div>
 
 <div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
 
@@ -3538,7 +3502,7 @@ Lo hemos desplegado en firebase el servicio de chat, donde se guardarán los men
 
 <img src= "./assets/team-2.png"/>
 
-<div id='5.2.3.'><h4> 5.2.3. Sprint 3.</h4></div>
+<div id='5.2.1.3.'><h4> 5.2.1.3. Sprint 3.</h4></div>
 
 <div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
 
@@ -4139,7 +4103,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 
 <img src= "./assets/team-3.png"/>
 
-<div id='5.2.4.'><h4> 5.2.4. Sprint 4.</h4></div>
+<div id='5.2.1.4.'><h4> 5.2.1.4. Sprint 4.</h4></div>
 
 <div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
 
@@ -4954,8 +4918,259 @@ Luego ponemos :
 
 <img src= "./assets/team-1.png"/>
 
-<div id='5.3.'><h3> 5.3. Validation interviews.</h3></div>
-<div id='5.3.1.'><h4> 5.3.1. Diseño de entrevistas.</h4></div>
+
+<div id='5.3.'><h3> 5.3. Video About the Product. </h3></div>
+
+Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e](https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e)
+
+<img src= "./assets/about-product.png"/>
+
+# 6. Capítulo VI: Product Verification & Validation
+
+En este capítulo se describen las estrategias de testing aplicadas para asegurar la calidad y confiabilidad del sistema desarrollado. Se organizaron los tests de acuerdo con los cinco _bounded contexts_ del sistema.
+
+# 6.1. Testing Suites & Validation
+
+## 6.1.1. Core Entities Unit Tests
+
+**Bounded Context: Medical Service**
+
+<div align="center">
+  <img src="assets/VerUnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y validación de entidad Treatment</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/UnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+**Bounded Context: Profiles**
+
+<div align="center">
+  <img src="assets/1 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y validación de entidad Doctor</em></p>
+</div>
+<div align="center">
+  <img src="assets/2 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y validación de entidad Patientg</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/3 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test Doctor</em></p>
+</div>
+<div align="center">
+  <img src="assets/4 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test Patient</em></p>
+</div>
+
+**Bounded Context: Auth**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c328998f-2806-4265-83ba-b84cd04abdb2" alt="Test 4" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Integración completa del controller</em></p>
+</div>
+
+## 6.1.2. Core Integration Tests
+
+**Bounded Context: Medical Service**
+
+<div align="center">
+  <img src="assets/VerIntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación de reportes vía API REST</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/IntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+**Bounded Context: Profiles**
+
+<div align="center">
+  <img src="assets/5 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación de reportes vía API REST</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/6 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación de reportes vía API REST</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/7 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/8 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/12 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+## 6.1.3. Core Behavior-Driven Development
+
+**Bounded Context: Medical Service**
+
+<div align="center">
+  <img src="assets/VerBehavior-Driven-Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Ejecución de pruebas BDD con Report</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/Behavior-Driven Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+**Bounded Context: Profiles**
+
+<div align="center">
+  <img src="assets/9 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Ejecución de pruebas BDD con Doctor</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/10 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Ejecución de pruebas BDD con Patient</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/11 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+## 6.1.4. Core System Tests.
+
+**Bounded Context: Medical Service**
+
+<div align="center">
+  <img src="assets/VerSystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y validación de resultados con Reporte</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/SystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+**Bounded Context: Profiles**
+
+<div align="center">
+  <img src="assets/13 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Ejecución de pruebas BDD con Doctor</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/14 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Ejecución de pruebas BDD con Patient</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/13 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/14 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Resultado del Test</em></p>
+</div>
+
+**Bounded Context: Auth**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1115c7bb-0af2-4928-930d-6fafff3b2e99" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Creación y recuperación de usuarios</em></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e07d2c1d-b820-46c8-9ec6-c5adbc91cba1" alt="Test 2" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
+  <p><em>Test: Usuarios por rol</em></p>
+</div>
+
+## 6.2 Static Testing & Verification
+
+En la etapa de análisis estático del código de la plataforma **MedSystem**, se utiliza un conjunto de herramientas y metodologías para evaluar el código fuente sin ejecutarlo. Este análisis es esencial para identificar defectos, vulnerabilidades y oportunidades de mejora en el código, lo que resulta en una plataforma más confiable y segura para el manejo de información médica sensible.
+
+### 6.2.1 Static Code Analysis
+
+Este componente se centra en el análisis exhaustivo del código fuente de MedSystem para garantizar que cumple con los más altos estándares de calidad y seguridad, especialmente críticos en el ámbito de la salud digital.
+
+#### 6.2.1.1 Coding Standards & Code Conventions
+
+Este componente se centra en la aplicación de estándares de codificación y convenciones en el desarrollo del código de MedSystem. Es fundamental para asegurar la calidad, mantenibilidad y seguridad del código a largo plazo, especialmente considerando el manejo de información médica sensible.
+
+**Estándares de Codificación:**
+
+- **Consistencia en la nomenclatura:**
+  - Variables en `camelCase` (e.g., `patientHistory`, `appointmentDate`).
+  - Clases en `PascalCase` (e.g., `MedicalRecord`, `TreatmentPlan`).
+  - Anotaciones Java/Spring Boot con `@Entity` para entidades médicas, `@Service` para servicios clínicos.
+- **Estructura por bounded contexts:**  
+  Organización del código según dominios médicos (citas, historiales, tratamientos, laboratorio, autenticación).
+- **Comentarios y documentación médica:**  
+  Incluir comentarios que expliquen el propósito clínico (algoritmos de dosis, interpretación de resultados, lógica de diagnóstico) y mantener documentación actualizada de APIs y protocolos HIPAA.
+
+**Convenciones de Código:**
+
+- **Guías de estilo para Frontend (Angular):**  
+  Estructura de componentes médicos (formularios de citas, historiales, comunicación doctor–paciente) según Angular CLI y convenciones oficiales.
+- **Estándares para Backend (Spring Boot):**
+  - Endpoints REST: `/api/v1/appointments`, `/api/v1/medical-history`.
+  - Uso de DTOs para transferencia segura de datos.
+  - Patrones `Repository` para acceso a datos clínicos.
+- **Revisiones automatizadas:**
+  - ESLint para Angular, SonarQube para Java, Prettier para formateo.
+  - Reglas específicas para validación de campos clínicos y patrones de datos médicos.
+
+#### 6.2.1.2 Code Quality & Code Security
+
+Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y la seguridad del código. Ambos son fundamentales para garantizar que MedSystem ofrezca una experiencia segura y confiable en el manejo de información médica.
+
+**Code Quality:**
+
+- **Legibilidad y mantenibilidad médica:**  
+  Uso de SonarQube para simplificar estructuras complejas (algoritmos de diagnóstico), reducir duplicación en formularios y facilitar mantenimiento de módulos de cálculo de dosis.
+- **Rendimiento en aplicaciones médicas:**  
+  Métricas de tiempo de respuesta para consultas de historiales, carga de imágenes diagnósticas y uso de memoria en grandes volúmenes de datos. Optimización de consultas a la base de datos durante emergencias.
+- **Complejidad ciclomática:**  
+  Monitoreo de funciones críticas para asegurar que la lógica de validación de prescripciones y cálculos de tratamientos sea comprensible y mantenible.
+
+**Code Security:**
+
+- **Protección de datos médicos (PHI):**  
+  Herramientas como Snyk, OWASP ZAP, Veracode para detectar inyecciones SQL y XSS en formularios de pacientes.
+- **Cumplimiento HIPAA y normativas:**
+  - Control de acceso basado en roles (RBAC).
+  - Cifrado de datos en tránsito y reposo.
+  - Auditoría de accesos y uso de HTTPS + JWT para autenticación de APIs.
+- **Validación de datos médicos:**  
+  Reglas estrictas para alergias, dosis, resultados de laboratorio, evitando entradas incorrectas que comprometan la seguridad del paciente.
+- **Pruebas de penetración médica:**  
+  Simulaciones de ataques a bases de datos de pacientes, accesos no autorizados a historiales y vulnerabilidades en sistemas de comunicación doctor–paciente.
+
+## 6.2.2 Reviews
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id='6.3.'><h3> 6.3. Validation interviews.</h3></div>
+<div id='6.3.1.'><h4> 6.3.1. Diseño de entrevistas.</h4></div>
 
 Preguntas para el segmento objetivo paciente:
 
@@ -5247,242 +5462,6 @@ Severidad: 4 <br>
 Heurística violada: Usability - Security & privacy <br>
 Descripción: La seguridad y privacidad de los datos médicos son cruciales y deben ser protegidos adecuadamente. <br>
 Recomendación: Asegurar que se implementen medidas de seguridad robustas para proteger los datos médicos de los usuarios. <br>
-
-<div id='5.4.'><h3> 5.4. Video About the Product. </h3></div>
-
-Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e](https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e)
-
-<img src= "./assets/about-product.png"/>
-
-# 6. Capítulo VI: Product Verification & Validation
-
-En este capítulo se describen las estrategias de testing aplicadas para asegurar la calidad y confiabilidad del sistema desarrollado. Se organizaron los tests de acuerdo con los cinco _bounded contexts_ del sistema.
-
-# 6.1. Testing Suites & Validation
-
-## 6.1.1. Core Entities Unit Tests
-
-**Bounded Context: Medical Service**
-
-<div align="center">
-  <img src="assets/VerUnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y validación de entidad Treatment</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/UnitTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-**Bounded Context: Profiles**
-
-<div align="center">
-  <img src="assets/1 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y validación de entidad Doctor</em></p>
-</div>
-<div align="center">
-  <img src="assets/2 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y validación de entidad Patientg</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/3 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test Doctor</em></p>
-</div>
-<div align="center">
-  <img src="assets/4 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test Patient</em></p>
-</div>
-
-**Bounded Context: Auth**
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c328998f-2806-4265-83ba-b84cd04abdb2" alt="Test 4" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Integración completa del controller</em></p>
-</div>
-
-## 6.1.2. Core Integration Tests
-
-**Bounded Context: Medical Service**
-
-<div align="center">
-  <img src="assets/VerIntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación de reportes vía API REST</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/IntegrationTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-**Bounded Context: Profiles**
-
-<div align="center">
-  <img src="assets/5 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación de reportes vía API REST</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/6 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación de reportes vía API REST</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/7 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/8 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/12 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-## 6.1.3. Core Behavior-Driven Development
-
-**Bounded Context: Medical Service**
-
-<div align="center">
-  <img src="assets/VerBehavior-Driven-Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Ejecución de pruebas BDD con Report</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/Behavior-Driven Development.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-**Bounded Context: Profiles**
-
-<div align="center">
-  <img src="assets/9 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Ejecución de pruebas BDD con Doctor</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/10 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Ejecución de pruebas BDD con Patient</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/11 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-## 6.1.4. Core System Tests.
-
-**Bounded Context: Medical Service**
-
-<div align="center">
-  <img src="assets/VerSystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y validación de resultados con Reporte</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/SystemTests.png" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-**Bounded Context: Profiles**
-
-<div align="center">
-  <img src="assets/13 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Ejecución de pruebas BDD con Doctor</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/14 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Ejecución de pruebas BDD con Patient</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/13 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/14 .jpg" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Resultado del Test</em></p>
-</div>
-
-**Bounded Context: Auth**
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1115c7bb-0af2-4928-930d-6fafff3b2e99" alt="Test 1" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Creación y recuperación de usuarios</em></p>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e07d2c1d-b820-46c8-9ec6-c5adbc91cba1" alt="Test 2" width="700" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2); margin: 10px;">
-  <p><em>Test: Usuarios por rol</em></p>
-</div>
-
-## 6.2 Static Testing & Verification
-
-En la etapa de análisis estático del código de la plataforma **MedSystem**, se utiliza un conjunto de herramientas y metodologías para evaluar el código fuente sin ejecutarlo. Este análisis es esencial para identificar defectos, vulnerabilidades y oportunidades de mejora en el código, lo que resulta en una plataforma más confiable y segura para el manejo de información médica sensible.
-
-### 6.2.1 Static Code Analysis
-
-Este componente se centra en el análisis exhaustivo del código fuente de MedSystem para garantizar que cumple con los más altos estándares de calidad y seguridad, especialmente críticos en el ámbito de la salud digital.
-
-#### 6.2.1.1 Coding Standards & Code Conventions
-
-Este componente se centra en la aplicación de estándares de codificación y convenciones en el desarrollo del código de MedSystem. Es fundamental para asegurar la calidad, mantenibilidad y seguridad del código a largo plazo, especialmente considerando el manejo de información médica sensible.
-
-**Estándares de Codificación:**
-
-- **Consistencia en la nomenclatura:**
-  - Variables en `camelCase` (e.g., `patientHistory`, `appointmentDate`).
-  - Clases en `PascalCase` (e.g., `MedicalRecord`, `TreatmentPlan`).
-  - Anotaciones Java/Spring Boot con `@Entity` para entidades médicas, `@Service` para servicios clínicos.
-- **Estructura por bounded contexts:**  
-  Organización del código según dominios médicos (citas, historiales, tratamientos, laboratorio, autenticación).
-- **Comentarios y documentación médica:**  
-  Incluir comentarios que expliquen el propósito clínico (algoritmos de dosis, interpretación de resultados, lógica de diagnóstico) y mantener documentación actualizada de APIs y protocolos HIPAA.
-
-**Convenciones de Código:**
-
-- **Guías de estilo para Frontend (Angular):**  
-  Estructura de componentes médicos (formularios de citas, historiales, comunicación doctor–paciente) según Angular CLI y convenciones oficiales.
-- **Estándares para Backend (Spring Boot):**
-  - Endpoints REST: `/api/v1/appointments`, `/api/v1/medical-history`.
-  - Uso de DTOs para transferencia segura de datos.
-  - Patrones `Repository` para acceso a datos clínicos.
-- **Revisiones automatizadas:**
-  - ESLint para Angular, SonarQube para Java, Prettier para formateo.
-  - Reglas específicas para validación de campos clínicos y patrones de datos médicos.
-
-#### 6.2.1.2 Code Quality & Code Security
-
-Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y la seguridad del código. Ambos son fundamentales para garantizar que MedSystem ofrezca una experiencia segura y confiable en el manejo de información médica.
-
-**Code Quality:**
-
-- **Legibilidad y mantenibilidad médica:**  
-  Uso de SonarQube para simplificar estructuras complejas (algoritmos de diagnóstico), reducir duplicación en formularios y facilitar mantenimiento de módulos de cálculo de dosis.
-- **Rendimiento en aplicaciones médicas:**  
-  Métricas de tiempo de respuesta para consultas de historiales, carga de imágenes diagnósticas y uso de memoria en grandes volúmenes de datos. Optimización de consultas a la base de datos durante emergencias.
-- **Complejidad ciclomática:**  
-  Monitoreo de funciones críticas para asegurar que la lógica de validación de prescripciones y cálculos de tratamientos sea comprensible y mantenible.
-
-**Code Security:**
-
-- **Protección de datos médicos (PHI):**  
-  Herramientas como Snyk, OWASP ZAP, Veracode para detectar inyecciones SQL y XSS en formularios de pacientes.
-- **Cumplimiento HIPAA y normativas:**
-  - Control de acceso basado en roles (RBAC).
-  - Cifrado de datos en tránsito y reposo.
-  - Auditoría de accesos y uso de HTTPS + JWT para autenticación de APIs.
-- **Validación de datos médicos:**  
-  Reglas estrictas para alergias, dosis, resultados de laboratorio, evitando entradas incorrectas que comprometan la seguridad del paciente.
-- **Pruebas de penetración médica:**  
-  Simulaciones de ataques a bases de datos de pacientes, accesos no autorizados a historiales y vulnerabilidades en sistemas de comunicación doctor–paciente.
-
-## 6.2.2 Reviews
 
 ## 6.3. Validation Interviews
 
