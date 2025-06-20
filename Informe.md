@@ -5224,6 +5224,7 @@ Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_
 # 6. Capítulo VI: Product Verification & Validation
 
 En este capítulo se describen las estrategias de testing aplicadas para asegurar la calidad y confiabilidad del sistema desarrollado. Se organizaron los tests de acuerdo con los cinco _bounded contexts_ del sistema.
+
 # 6.1. Testing Suites & Validation
 
 ## 6.1.1. Core Entities Unit Tests
@@ -5400,31 +5401,34 @@ Este componente se centra en el análisis exhaustivo del código fuente de MedSy
 Este componente se centra en la aplicación de estándares de codificación y convenciones en el desarrollo del código de MedSystem. Es fundamental para asegurar la calidad, mantenibilidad y seguridad del código a largo plazo, especialmente considerando el manejo de información médica sensible.
 
 **Estándares de Codificación:**
+
 - **Consistencia en la nomenclatura:**
-    - Variables en `camelCase` (e.g., `patientHistory`, `appointmentDate`).
-    - Clases en `PascalCase` (e.g., `MedicalRecord`, `TreatmentPlan`).
-    - Anotaciones Java/Spring Boot con `@Entity` para entidades médicas, `@Service` para servicios clínicos.
+  - Variables en `camelCase` (e.g., `patientHistory`, `appointmentDate`).
+  - Clases en `PascalCase` (e.g., `MedicalRecord`, `TreatmentPlan`).
+  - Anotaciones Java/Spring Boot con `@Entity` para entidades médicas, `@Service` para servicios clínicos.
 - **Estructura por bounded contexts:**  
   Organización del código según dominios médicos (citas, historiales, tratamientos, laboratorio, autenticación).
 - **Comentarios y documentación médica:**  
   Incluir comentarios que expliquen el propósito clínico (algoritmos de dosis, interpretación de resultados, lógica de diagnóstico) y mantener documentación actualizada de APIs y protocolos HIPAA.
 
 **Convenciones de Código:**
+
 - **Guías de estilo para Frontend (Angular):**  
   Estructura de componentes médicos (formularios de citas, historiales, comunicación doctor–paciente) según Angular CLI y convenciones oficiales.
 - **Estándares para Backend (Spring Boot):**
-    - Endpoints REST: `/api/v1/appointments`, `/api/v1/medical-history`.
-    - Uso de DTOs para transferencia segura de datos.
-    - Patrones `Repository` para acceso a datos clínicos.
+  - Endpoints REST: `/api/v1/appointments`, `/api/v1/medical-history`.
+  - Uso de DTOs para transferencia segura de datos.
+  - Patrones `Repository` para acceso a datos clínicos.
 - **Revisiones automatizadas:**
-    - ESLint para Angular, SonarQube para Java, Prettier para formateo.
-    - Reglas específicas para validación de campos clínicos y patrones de datos médicos.
+  - ESLint para Angular, SonarQube para Java, Prettier para formateo.
+  - Reglas específicas para validación de campos clínicos y patrones de datos médicos.
 
 #### 6.2.1.2 Code Quality & Code Security
 
 Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y la seguridad del código. Ambos son fundamentales para garantizar que MedSystem ofrezca una experiencia segura y confiable en el manejo de información médica.
 
 **Code Quality:**
+
 - **Legibilidad y mantenibilidad médica:**  
   Uso de SonarQube para simplificar estructuras complejas (algoritmos de diagnóstico), reducir duplicación en formularios y facilitar mantenimiento de módulos de cálculo de dosis.
 - **Rendimiento en aplicaciones médicas:**  
@@ -5433,12 +5437,13 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
   Monitoreo de funciones críticas para asegurar que la lógica de validación de prescripciones y cálculos de tratamientos sea comprensible y mantenible.
 
 **Code Security:**
+
 - **Protección de datos médicos (PHI):**  
   Herramientas como Snyk, OWASP ZAP, Veracode para detectar inyecciones SQL y XSS en formularios de pacientes.
 - **Cumplimiento HIPAA y normativas:**
-    - Control de acceso basado en roles (RBAC).
-    - Cifrado de datos en tránsito y reposo.
-    - Auditoría de accesos y uso de HTTPS + JWT para autenticación de APIs.
+  - Control de acceso basado en roles (RBAC).
+  - Cifrado de datos en tránsito y reposo.
+  - Auditoría de accesos y uso de HTTPS + JWT para autenticación de APIs.
 - **Validación de datos médicos:**  
   Reglas estrictas para alergias, dosis, resultados de laboratorio, evitando entradas incorrectas que comprometan la seguridad del paciente.
 - **Pruebas de penetración médica:**  
@@ -5484,13 +5489,13 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
 
 **Entrevista N°: [Número]**
 
-| Campo | Información |
-|-------|-------------|
+| Campo                 | Información                   |
+| --------------------- | ----------------------------- |
 | **Segmento Objetivo** | [Paciente/Doctor/Laboratorio] |
-| **Fecha** | [DD/MM/AAAA] |
-| **Duración** | [X minutos] |
-| **Modalidad** | [Presencial/Virtual] |
-| **Entrevistador** | [Nombre del equipo] |
+| **Fecha**             | [DD/MM/AAAA]                  |
+| **Duración**          | [X minutos]                   |
+| **Modalidad**         | [Presencial/Virtual]          |
+| **Entrevistador**     | [Nombre del equipo]           |
 
 **Datos del Entrevistado:**
 | Campo | Información |
@@ -5514,15 +5519,16 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
 
 **Tabla Resumen de Problemas:**
 
-| # | Problema | Severidad (1-4) | Heurística Violada | Segmento Afectado |
-|---|----------|-----------------|-------------------|-------------------|
-| 1 | [Problema] | [Nivel] | [Heurística] | [Segmento] |
-| 2 | [Problema] | [Nivel] | [Heurística] | [Segmento] |
-| 3 | [Problema] | [Nivel] | [Heurística] | [Segmento] |
+| #   | Problema   | Severidad (1-4) | Heurística Violada | Segmento Afectado |
+| --- | ---------- | --------------- | ------------------ | ----------------- |
+| 1   | [Problema] | [Nivel]         | [Heurística]       | [Segmento]        |
+| 2   | [Problema] | [Nivel]         | [Heurística]       | [Segmento]        |
+| 3   | [Problema] | [Nivel]         | [Heurística]       | [Segmento]        |
 
 **Descripción de Problemas:**
 
 **Problema #1: [Título]**
+
 - **Severidad:** [1-4]
 - **Heurística violada:** [Nombre]
 - **Descripción:** [Explicación del problema]
@@ -5538,20 +5544,16 @@ Durante esta fase, evaluaremos dos aspectos críticos: la calidad del código y 
 - **Proyecto auditado:** Med
 - **Segmento objetivo evaluado:** Doctores/Especialistas y Pacientes
 - **Interfaces evaluadas:**
-    - Landing Page
-    - Aplicación web
-
-
+  - Landing Page
+  - Aplicación web
 
 #### 6.4.1.2. Cronograma de auditoría realizada
 
-| Fecha       | Actividad realizada                               | Participantes            |
-|-------------|----------------------------------------------------|--------------------------|
-| 19/06/2025  | Reunión de coordinación con grupo auditado         | Miembros de ambos equipos |
-| 19/06/2025  | Aplicación de evaluación heurística                | CodeMinds – RutaKids     |
-| 19/06/2025  | Discusión de hallazgos y entrega de recomendaciones| CodeMinds – RutaKids     |
-
-
+| Fecha      | Actividad realizada                                 | Participantes             |
+| ---------- | --------------------------------------------------- | ------------------------- |
+| 19/06/2025 | Reunión de coordinación con grupo auditado          | Miembros de ambos equipos |
+| 19/06/2025 | Aplicación de evaluación heurística                 | CodeMinds – RutaKids      |
+| 19/06/2025 | Discusión de hallazgos y entrega de recomendaciones | CodeMinds – RutaKids      |
 
 #### 6.4.1.3. Contenido de auditoría realizada
 
@@ -5566,8 +5568,6 @@ La auditoría se basó en los siguientes principios de evaluación:
 - Percepción de confianza
 
 Se empleó la plantilla de evaluación heurística proporcionada en el curso, adaptando las observaciones según el contexto del proyecto “Med”.
-
-
 
 ### b) Interfaz(es) evaluadas
 
@@ -5597,101 +5597,103 @@ Se evaluaron los siguientes flujos principales:
 - La segmentación por roles (doctor/paciente) está bien diferenciada, lo que facilita la personalización del contenido.
 - Algunas áreas, como el historial o resultados de citas, podrían beneficiarse de una jerarquía visual más clara para facilitar la lectura.
 
-
-
 ### c) Resultados de la auditoría basada en heurísticas de usabilidad
 
 A continuación, se presentan los principales hallazgos encontrados durante la evaluación heurística de las interfaces del proyecto Med, agrupados según los principios de usabilidad de Nielsen. Cada problema identificado incluye su severidad y una recomendación específica para su mejora.
 
-| Nº | Problema identificado                                                                 | Severidad | Heurística afectada              | Recomendación                                                              | Ubicación                         |
-|----|----------------------------------------------------------------------------------------|-----------|----------------------------------|---------------------------------------------------------------------------|----------------------------------|
-| 1  | En la landing, el botón "Nuestra Página" no indica claramente su función hasta ser usado | 2         | Visibilidad del estado del sistema | Agregar tooltips o descripciones breves al pasar el mouse                | Landing Page                     |
-| 2  | No hay botón en el hero de la landing que direccione a la plataforma                   | 3         | Visibilidad del estado del sistema | Añadir botón llamativo tipo “Comienza ahora” o “Ir a la plataforma”      | Landing Page                     |
-| 3  | Al agregar un tratamiento, no aparece ningún mensaje de confirmación o error           | 3         | Visibilidad del estado del sistema | Incluir mensaje de éxito/error al agregar tratamiento                    | App Web / Doctor o Especialista |
-| 4  | En el panel de citas, las fechas aparecen con formato UTC (2025-06-26T05:00:00.000Z)   | 2         | Reconocer en lugar de recordar     | Mostrar fechas en formato local legible: 26/06/2025                      | App Web / Doctor o Especialista |
-| 5  | No se muestra mensaje tras eliminar un tratamiento                                     | 3         | Visibilidad del estado del sistema | Añadir notificación de éxito al eliminar tratamiento                     | App Web / Doctor o Especialista |
+| Nº  | Problema identificado                                                                    | Severidad | Heurística afectada                | Recomendación                                                       | Ubicación                       |
+| --- | ---------------------------------------------------------------------------------------- | --------- | ---------------------------------- | ------------------------------------------------------------------- | ------------------------------- |
+| 1   | En la landing, el botón "Nuestra Página" no indica claramente su función hasta ser usado | 2         | Visibilidad del estado del sistema | Agregar tooltips o descripciones breves al pasar el mouse           | Landing Page                    |
+| 2   | No hay botón en el hero de la landing que direccione a la plataforma                     | 3         | Visibilidad del estado del sistema | Añadir botón llamativo tipo “Comienza ahora” o “Ir a la plataforma” | Landing Page                    |
+| 3   | Al agregar un tratamiento, no aparece ningún mensaje de confirmación o error             | 3         | Visibilidad del estado del sistema | Incluir mensaje de éxito/error al agregar tratamiento               | App Web / Doctor o Especialista |
+| 4   | En el panel de citas, las fechas aparecen con formato UTC (2025-06-26T05:00:00.000Z)     | 2         | Reconocer en lugar de recordar     | Mostrar fechas en formato local legible: 26/06/2025                 | App Web / Doctor o Especialista |
+| 5   | No se muestra mensaje tras eliminar un tratamiento                                       | 3         | Visibilidad del estado del sistema | Añadir notificación de éxito al eliminar tratamiento                | App Web / Doctor o Especialista |
 
 ### 6.4.2. Auditoría recibida
 
 #### 6.4.2.1. Información del grupo auditor
 
-| Campo | Información |
-|-------|-------------|
-| **Grupo Auditor** | [Nombre] |
-| **Su Producto** | [Nombre] |
-| **Integrantes** | [Lista] |
-| **Contacto** | [Email] |
+| Campo               | Información         |
+| ------------------- | ------------------- |
+| **Grupo Auditor**   | [Nombre]            |
+| **Su Producto**     | [Nombre]            |
+| **Integrantes**     | [Lista]             |
+| **Contacto**        | [Email]             |
 | **Especialización** | [Área de expertise] |
-| **Metodología** | [Enfoque utilizado] |
+| **Metodología**     | [Enfoque utilizado] |
 
 #### 6.4.2.2. Cronograma de auditoría recibida
 
-| Fecha | Actividad | Duración | Participantes MedSystem | Entregable |
-|-------|-----------|----------|------------------------|------------|
-| [DD/MM] | Presentación MedSystem | [X horas] | [Nombres] | [Documento] |
-| [DD/MM] | Evaluación heurística | [X horas] | [Nombres] | [Evaluación] |
-| [DD/MM] | Pruebas de usuario | [X horas] | [Nombres] | [Resultados] |
-| [DD/MM] | Análisis técnico | [X horas] | [Nombres] | [Reporte] |
-| [DD/MM] | Presentación hallazgos | [X horas] | [Nombres] | [Informe final] |
+| Fecha   | Actividad              | Duración  | Participantes MedSystem | Entregable      |
+| ------- | ---------------------- | --------- | ----------------------- | --------------- |
+| [DD/MM] | Presentación MedSystem | [X horas] | [Nombres]               | [Documento]     |
+| [DD/MM] | Evaluación heurística  | [X horas] | [Nombres]               | [Evaluación]    |
+| [DD/MM] | Pruebas de usuario     | [X horas] | [Nombres]               | [Resultados]    |
+| [DD/MM] | Análisis técnico       | [X horas] | [Nombres]               | [Reporte]       |
+| [DD/MM] | Presentación hallazgos | [X horas] | [Nombres]               | [Informe final] |
 
 #### 6.4.2.3. Contenido de auditoría recibida
 
 **Aspectos Positivos Identificados:**
+
 - [Fortaleza 1]
 - [Fortaleza 2]
 - [Fortaleza 3]
 
 **Problemas Identificados:**
 
-| ID | Problema | Severidad | Área | Recomendación |
-|----|----------|-----------|------|---------------|
-| P001 | [Descripción] | [Alta/Media/Baja] | [Frontend/Backend] | [Sugerencia] |
-| P002 | [Descripción] | [Severidad] | [Área] | [Sugerencia] |
-| P003 | [Descripción] | [Severidad] | [Área] | [Sugerencia] |
+| ID   | Problema      | Severidad         | Área               | Recomendación |
+| ---- | ------------- | ----------------- | ------------------ | ------------- |
+| P001 | [Descripción] | [Alta/Media/Baja] | [Frontend/Backend] | [Sugerencia]  |
+| P002 | [Descripción] | [Severidad]       | [Área]             | [Sugerencia]  |
+| P003 | [Descripción] | [Severidad]       | [Área]             | [Sugerencia]  |
 
 **Puntuación Asignada:**
 
-| Criterio | Puntuación (1-10) | Comentarios |
-|----------|------------------|-------------|
-| Usabilidad | [Puntuación] | [Comentarios] |
-| Funcionalidad | [Puntuación] | [Comentarios] |
-| Diseño | [Puntuación] | [Comentarios] |
-| Rendimiento | [Puntuación] | [Comentarios] |
-| **Global** | **[Promedio]** | [Comentario general] |
+| Criterio      | Puntuación (1-10) | Comentarios          |
+| ------------- | ----------------- | -------------------- |
+| Usabilidad    | [Puntuación]      | [Comentarios]        |
+| Funcionalidad | [Puntuación]      | [Comentarios]        |
+| Diseño        | [Puntuación]      | [Comentarios]        |
+| Rendimiento   | [Puntuación]      | [Comentarios]        |
+| **Global**    | **[Promedio]**    | [Comentario general] |
 
 #### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
 
 **Plan de Mejoras:**
 
-| Hallazgo | Modificación | Responsable | Fecha | Prioridad |
-|----------|--------------|-------------|-------|-----------|
-| [ID] | [Descripción del cambio] | [Miembro] | [DD/MM] | [Alta/Media/Baja] |
+| Hallazgo | Modificación             | Responsable | Fecha   | Prioridad         |
+| -------- | ------------------------ | ----------- | ------- | ----------------- |
+| [ID]     | [Descripción del cambio] | [Miembro]   | [DD/MM] | [Alta/Media/Baja] |
 
 **Modificaciones por Sprint:**
 
 **Sprint Actual:**
+
 - [Modificación 1]
 - [Modificación 2]
 
 **Próximos Sprints:**
+
 - [Modificación 1]
 - [Modificación 2]
 
 **Versiones Futuras:**
+
 - [Modificación 1]
 - [Modificación 2]
 
 **Métricas de Seguimiento:**
+
 - [Métrica 1: Descripción]
 - [Métrica 2: Descripción]
 - [Métrica 3: Descripción]
 
 **Lecciones Aprendidas:**
+
 - [Lección 1]
 - [Lección 2]
 - [Lección 3]
-
-
 
 # 7. Capítulo VII: DevOps Practices
 
@@ -5816,6 +5818,36 @@ Consiste en la capacidad de entregar características de un programa de manera c
 
 6. Mecanismos de seguimiento y retroalimentación:
    Si se detecta algún problema en producción, el uso del pipeline permitirá la reversión rápida a una versión anterior de la aplicación, y permitir su correcto funcionamiento.
+
+## 7.4. Continuous Monitoring
+
+### 7.4.1. Tools and Practices
+
+Para el presente proyecto que necesita implementar monitoreo continuo, las herramientas elegida será **Grafana con Prometheus**, porque se consideran, en conjunto, una solución ideal al momento de configurarlo e integrarlo en el entorno DevOps. **Prometheus** permite la recolección de métricas de forma sencilla mediante endpoints HTTP, mientras que **Grafana** proporciona una interfaz gráfica fácil de usar y que se puede personalizar para visualizar dichas métricas en paneles interactivos. Esta combinación es perfecta para grupos que buscan rapidez en la implementación, un bajo uso de recursos y una curva de aprendizaje sencilla. Además, el respaldo de la comunidad y la disponibilidad de numerosos plugins hacen que su integración con herramientas del pipeline como Jenkins y Kubernetes sea más fácil. Por estas razones, se justifica su elección como herramienta de monitoreo en el proyecto.
+
+### 7.4.2. Monitoring Pipeline Components
+
+Dentro del pipeline de Jenkins, la monitorización puede integrarse como parte de la etapa final de cada despliegue, donde se anotan los eventos importantes como la versión desplegada, corecciones a nivel lógico, entorno y/o timestamp
+
+Prometheus tiene la capacidad de recopilar la información de manera automática desde aplicaciones que han sido configuradas o empleando herramientas de vigilancia del clúster como kube-state-metrics o node-exporter en Kubernetes.
+
+### 7.4.3. Alerting Pipeline Components
+
+Cuando se detectan problemas como altos tiempos de respuesta, errores o interrupciones en los servicios, el sistema de alertas se activa. La combinación de Prometheus y Alertmanager es fundamental para establecer reglas de alerta que, al cumplirse, desencadenan notificaciones dirigidas a los equipos responsables. Es crucial que estas alertas posean ciertas características para maximizar su efectividad:
+
+- **Relevantes:** Se deben evitar notificaciones innecesarias, porque pueden llevar a la desensibilización de los equipos. Únicamente las situaciones que realmente demanden atención o acción deben generar algún tipo de alerta, garantizando que cada aviso sea relevante.
+
+- **Automatizadas:** Las notificaciones deben estar completamente incorporadas en el ciclo de vida de desarrollo y operación como eventos del sistema. Esto significa que su creación debe ser automática al registrarse métricas específicas y al superarse ciertos límites, sin necesidad de intervención manual para que se activen.
+
+- **Accionables:** Cada notificación debe incluir la información precisa y suficiente para que el equipo a cargo pueda entender de manera rápida la naturaleza del inconveniente y tomar las acciones correctivas necesarias. Esto abarca detalles como saber sobre servicio afectado, la métrica que originó la alerta, el posible impacto y enlaces a tableros de control que permitan investigar a más
+
+### 7.4.4. Notification Pipeline Components.
+
+Finalmente, el componente de notificación se encarga de enviar los mensajes adecuados a los canales configurados, siendo en este caso, donde se usará Microsoft Teams como la plataforma principal para la difusión de información crítica. Esto permite la integración en los flujos de trabajo existentes garantizando que la información llegue al equipo correcto de manera oportuna.
+
+A través de Jenkins, una herramienta de automatización ampliamente utilizada, se pueden configurar notificaciones detalladas para cada fase del ciclo de vida del desarrollo de software. Esto incluye notificaciones para builds exitosos, que indican la correcta compilación del código y la aprobación de las pruebas automatizadas, hasta construcciones que fallan, las cuales notifican sobre errores en la compilación, fallas en las pruebas o dificultades con la integración. Estas notificaciones de Jenkins son fundamentales para mantener a los equipos de desarrollo informados sobre el estado de sus pipelines de CI/CD, permitiendo una rápida identificación y resolución de problemas.
+
+Estas notificaciones mejoran significativamente la colaboración entre los equipos de desarrollo, operaciones y calidad. Al recibir alertas inmediatas, los equipos pueden reducir drásticamente el tiempo de respuesta ante incidentes o fallos.
 
 # Capítulo VIII: Experiment-Driven Development
 
