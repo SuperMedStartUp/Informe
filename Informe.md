@@ -144,10 +144,18 @@
    5.1.3. [Source Code Style Guide & Conventions.](#5.1.3.) <br>
    5.1.4. [Software Deployment Configuration.](#5.1.4.) <br>
    5.2. [Landing Page, Services & Applications Implementation.](#5.2.) <br>
+   5.2.1. [Sprint Backlogs.](#5.2.1) <br>
    5.2.1.1 [Sprint 1.](#5.2.1.1.) <br>
    5.2.1.2 [Sprint 2.](#5.2.1.2.) <br>
    5.2.1.3. [Sprint 3.](#5.2.1.3.) <br>
    5.2.1.4. [Sprint 4.](#5.2.1.4.) <br>
+   5.2.2. [Implemented Landing Page Evidence. ](#5.2.2) <br>
+   5.2.3. [Implemented Frontend-Web Application Evidence.](#5.2.3) <br>
+   5.2.4. [Acuerdo de Servicio - SaaS.](#5.2.4) <br>
+   5.2.5. [Implemented Native-Mobile Application Evidence.](#5.2.5) <br>
+   5.2.6. [Implemented RESTful API and/or Serverless Backend Evidence.](#5.2.6) <br>
+   5.2.7. [RESTful API documentation.](#5.2.7) <br>
+   5.2.8. [Team Collaboration Insights.](#5.2.8) <br>
    5.3. [Video About-the-Product.](#5.3.) <br>
 
 6. [**Capítulo VI: Product Verification & Validation.**](#6.) <br>
@@ -2209,11 +2217,13 @@ Para gestionar el despliegue de nuestro backend y de la base de datos, hemos dec
 Railway es una plataforma de desarrollo en la nube que permite desplegar, alojar y gestionar aplicaciones y bases de datos de manera sencilla y rápida.
 </div>
 
-<div id='5.2.'><h3> 5.2. Landing Page, Services & Applications Implemetation.</h3></div>
+<div id='5.2.'><h3> 5.2. Product Implementation & Deployment.</h3></div>
 
-<div id='5.2.1.1.'><h4> 5.2.1.1. Sprint 1.</h4></div>
+<div id='5.2.1.'><h4> 5.2.1.	Sprint Backlogs. </h4></div>
 
-<h5> 5.2.1.1. Sprint Planning 1.</h5>
+<div id='5.2.1.1.'><h5> 5.2.1.1.	Sprint 1.</h5></div>
+
+<div id='5.2.1.1.1.'><h5> 5.2.1.1.1. Sprint Planning 1.</h5></div>
 
 Se planeó el primer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.
 
@@ -2272,7 +2282,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 	</tbody>
 </table>
 
-<h5> 5.2.1.2. Sprint Backlog 1.</h5>
+<div id='5.2.1.1.2.'><h5> 5.2.1.1.2 Sprint Backlog 1.</h5></div>
 
 <table>
 	<tbody>
@@ -2455,7 +2465,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 	</tbody>
 </table>
 
-<h5> 5.2.1.3. Development Evidence for Sprint Review. </h5>
+<div id='5.2.1.1.3.'><h5> 5.2.1.1.3. Development Evidence for Sprint Review. </h5></div>
 
 Registro de commits hechos por los integrantes del grupo en este sprint.
 
@@ -2498,7 +2508,7 @@ Registro de commits hechos por los integrantes del grupo en este sprint.
   </tbody>
 </table>
 
-<h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5>
+<div id='5.2.1.1.4.'><h5> 5.2.1.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
 Hemos realizado los acceptance test para las user stories del sprint:
 
@@ -2694,7 +2704,7 @@ Hemos realizado los acceptance test para las user stories del sprint:
 **Then** el sistema muestra el historial médico completo del paciente <br>
 **And** se incluyen los exámenes realizados, diagnósticos y medicaciones prescritas
 
-<h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5>
+<div id='5.2.1.1.5.'><h5> 5.2.1.1.5. Execution Evidence for Sprint Review. </h5></div>
 
 - Web
 
@@ -2732,11 +2742,11 @@ Citas disponibles de paciente
 
 <img src= "./assets/evidence-disponible.png"/>
 
-<h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5>
+<div id='5.2.1.1.6.'><h5> 5.2.1.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
 No se realizo ningun trabajo con servicios web.
 
-<h5> 5.2.1.7. Services Documentation Evidence for Sprint Review. </h5>
+<div id='5.2.1.1.7.'><h5> 5.2.1.1.7. Services Documentation Evidence for Sprint Review. </h5></div>
 
 Se procede a desplegar la landing page una vez terminada, por lo que se usarla Github Pages.
 
@@ -2754,13 +2764,13 @@ Presionamos save y tendremos que esperar que se despliegue la página
 
 **Link de la landing page desplegada:**
 
-<h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5>
+<div id='5.2.1.1.8.'><h5> 5.2.1.1.8. Team Collaboration Insights during Sprint. </h5></div>
 
 <img src= "./assets/team-1.png"/>
 
 <div id='5.2.1.2.'><h4> 5.2.1.2. Sprint 2.</h4></div>
 
-<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning 2.</h5></div>
+<div id='5.2.1.2.1.'><h5> 5.2.1.2.1. Sprint Planning 2.</h5></div>
 
 Se planeó el primer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.
 
@@ -2820,7 +2830,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 	</tbody>
 </table>
 
-<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog 2.</h5></div>
+<div id='5.2.1.2.2.'><h5> 5.2.1.2.2. Sprint Backlog 2.</h5></div>
 
 <table>
 	<tbody>
@@ -3053,7 +3063,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 	</tbody>
 </table>
 
-<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.2.3.'><h5> 5.2.1.2.3. Development Evidence for Sprint Review. </h5></div>
 
 - **Fronted - Web**
 
@@ -3376,7 +3386,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
   </tbody>
 </table>
 
-<div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Reviews. </h5></div>
+<div id='5.2.1.2.4.'><h5> 5.2.1.2.4. Testing Suite Evidence for Sprint Reviews. </h5></div>
 
 <img src= "./assets/testing-2.1.png"/>
 
@@ -3388,7 +3398,7 @@ Se planeó el primer sprint a través de una reunión dentro de la plataforma Di
 
 <img src= "./assets/testing-2.5.png"/>
 
-<div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.2.5.'><h5> 5.2.1.2.5. Execution Evidence for Sprint Review. </h5></div>
 
 Fronted - Web
 
@@ -3470,11 +3480,11 @@ Fronted - Movil
 
 <img src= "./assets/execution-2.11.png"/>
 
-<div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.2.6.'><h5> 5.2.1.2.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
 Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados con OpenAPI y se realizará en las próximas entregas.
 
-<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.2.7.'><h5> 5.2.1.2.7. Software Deployment Evidence for Sprint Review. </h5></div>
 
 - Creamos un proyecto en Firebase
 
@@ -3498,13 +3508,13 @@ Lo hemos desplegado en firebase el servicio de chat, donde se guardarán los men
 
 <img src= "./assets/base-datos.png"/>
 
-<div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint. </h5></div>
+<div id='5.2.1.2.8.'><h5> 5.2.1.2.8. Team Collaboration Insights during Sprint. </h5></div>
 
 <img src= "./assets/team-2.png"/>
 
 <div id='5.2.1.3.'><h4> 5.2.1.3. Sprint 3.</h4></div>
 
-<div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning 3.</h5></div>
+<div id='5.2.1.3.1.'><h5> 5.2.1.3.1. Sprint Planning 3.</h5></div>
 
 Se planeó el tercer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.
 
@@ -3563,7 +3573,7 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
 	</tbody>
 </table>
 
-<div id='5.2.3.2.'><h5> 5.2.3.2. Sprint Planning 3.</h5></div>
+<div id='5.2.1.3.2.'><h5> 5.2.1.3.2. Sprint Planning 3.</h5></div>
 
 <table>
 	<tbody>
@@ -3810,7 +3820,7 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
 	</tbody>
 </table>
 
-<div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.3.3.'><h5> 5.2.1.3.3. Development Evidence for Sprint Review. </h5></div>
 
 **Fronted-Web**
 
@@ -4044,12 +4054,12 @@ Se planeó el tercer sprint a través de una reunión dentro de la plataforma Di
   </tbody>
 </table>
 
-<div id='5.2.3.4.'><h5> 5.2.3.4. Testing Suite Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.3.4.'><h5> 5.2.1.3.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
 Email service:
 <img src= "./assets/email-service.png"/>
 
-<div id='5.2.3.5.'><h5> 5.2.3.5. Execution Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.3.5.'><h5> 5.2.1.3.5. Execution Evidence for Sprint Review. </h5></div>
 
 - Swagger
 
@@ -4061,7 +4071,7 @@ Email service:
 
 <img src= "./assets/envio-correo.png"/>
 
-<div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.3.6.'><h5> 5.2.1.3.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
 - Appointments
 
@@ -4079,7 +4089,7 @@ Email service:
 
 <img src= "./assets/services-3.4.png"/>
 
-<div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.3.7.'><h5> 5.2.1.3.7. Software Deployment Evidence for Sprint Review. </h5></div>
 
 Para hacer el despliegue del backend lo hemos divido por dos partes, el deployment de la base de datos y del proyecto
 
@@ -4099,13 +4109,13 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 
 <img src= "./assets/deploy-3.4.png"/>
 
-<div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint. </h5></div>
+<div id='5.2.1.3.8.'><h5> 5.2.1.3.8. Team Collaboration Insights during Sprint. </h5></div>
 
 <img src= "./assets/team-3.png"/>
 
 <div id='5.2.1.4.'><h4> 5.2.1.4. Sprint 4.</h4></div>
 
-<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning 4.</h5></div>
+<div id='5.2.1.4.1.'><h5> 5.2.1.4.1. Sprint Planning 4.</h5></div>
 
 <table>
 	<tbody>
@@ -4162,7 +4172,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 	</tbody>
 </table>
 
-<div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog 4.</h5></div>
+<div id='5.2.1.4.2.'><h5> 5.2.1.4.2. Sprint Backlog 4.</h5></div>
 
 <table border="1">
   <thead>
@@ -4391,7 +4401,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
   </tbody>
 </table>
 
-<div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.4.3.'><h5> 5.2.1.4.3. Development Evidence for Sprint Review. </h5></div>
 
 **Fronted-Web**
 
@@ -4765,7 +4775,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
   </tbody>
 </table>
 
-<div id='5.2.4.4.'><h5> 5.2.4.4. Testing Suite Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.4.4.'><h5> 5.2.1.4.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
 <img src= "./assets/testing-4.1.png"/>
 
@@ -4773,7 +4783,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 
 <img src= "./assets/testing-4.3.png"/>
 
-<div id='5.2.4.5.'><h5> 5.2.4.5. Execution Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.4.5.'><h5> 5.2.1.4.5. Execution Evidence for Sprint Review. </h5></div>
 
 Imagen de la aplicacion backend corriendo
 
@@ -4830,7 +4840,7 @@ Imagen de la aplicacion backend corriendo
 
 <img src= "./assets/movil-4.14.png"/>
 
-<div id='5.2.4.6.'><h5> 5.2.4.6. Services Documentation Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.4.6.'><h5> 5.2.1.4.6. Services Documentation Evidence for Sprint Review. </h5></div>
 
 - Appointments
 
@@ -4868,7 +4878,7 @@ Imagen de la aplicacion backend corriendo
 
 <img src= "./assets/service-4.9.png"/>
 
-<div id='5.2.4.7.'><h5> 5.2.4.7. Software Deployment Evidence for Sprint Review. </h5></div>
+<div id='5.2.1.4.7.'><h5> 5.2.1.4.7. Software Deployment Evidence for Sprint Review. </h5></div>
 
 **Backend:**
 
@@ -4909,21 +4919,20 @@ Luego ponemos :
 **Fronted-Movil:**
 
 - Autenticación:
-  No se realizo cambio en la autenticación con firebase.
+  No se hizo cambios en la autenticación con firebase.
 
 - Base de datos para el chat:
-  No hemos cambiado el despliegue en firebase el servicio de chat.
+  No hemse hizo cambios en el despliegue en firebase el servicio de chat.
 
-<div id='5.2.4.8.'><h5> 5.2.4.8. Team Collaboration Insights during Sprint. </h5></div>
+<div id='5.2.1.4.8.'><h5> 5.2.1.4.8. Team Collaboration Insights during Sprint. </h5></div>
 
 <img src= "./assets/team-1.png"/>
-
 
 <div id='5.3.'><h3> 5.3. Video About the Product. </h3></div>
 
 Link del video: [https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e](https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlosluminosos%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb3103209%2D25d7%2D4413%2D9e9a%2D6ec8e2462b0e)
 
-<img src= "./assets/about-product.png"/>
+<img src= "./assets/abouttheproduct.png"/>
 
 # 6. Capítulo VI: Product Verification & Validation
 
@@ -5165,8 +5174,6 @@ Se implementó un flujo de revisión de código colaborativo basado en Pull Requ
 
 - También se usaron revisiones automatizadas con GitHub Actions para verificar que el código pase las pruebas unitarias y de integración antes de hacer merge.
 
-
-
 <div id='6.3.'><h3> 6.3. Validation interviews.</h3></div>
 <div id='6.3.1.'><h4> 6.3.1. Diseño de entrevistas.</h4></div>
 
@@ -5198,7 +5205,6 @@ Se implementó un flujo de revisión de código colaborativo basado en Pull Requ
 9. ¿Qué funcionalidad considera más valiosa para su trabajo como traumatólogo?
 10. ¿Recomendaría MedSystem a otros colegas traumatólogos? ¿Por qué?
 
-
 <div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas.</h4></div>
 
 **Segmento objetivo - Paciente**
@@ -5227,6 +5233,7 @@ Fecha entrevistada: 08/06/2024
 Entrevistado: Abril Gloria Montes Jiménez
 
 Datos del entrevistado:
+
 - Edad: 50
 - Distrito: La Molina
 
@@ -5247,7 +5254,7 @@ Datos del entrevistado:
 
 Edad: 34 años
 Distrito: Surco
-Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EYlW3Cw77OdKm9SblFMJ8O8BBOOhLFmpLjwTqyB3CzEBZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DVfNwU)
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EYlW3Cw77OdKm9SblFMJ8O8BBOOhLFmpLjwTqyB3CzEBZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DVfNwU)
 Minuto de Inicio: 0:00
 Minuto de Fin: 6:20
 
@@ -5283,7 +5290,7 @@ Datos del entrevistado:
 
 Edad: 28 años
 Distrito: La Victoria
-Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EWnuViVmvDlIljfFsEgWEDUB19HD18DHN5nWOs5EG56s6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QT6O8g)
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EWnuViVmvDlIljfFsEgWEDUB19HD18DHN5nWOs5EG56s6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QT6O8g)
 Minuto de Inicio: 00:00
 Minuto de Fin: 06:17
 
@@ -5470,9 +5477,8 @@ Heurística violada: Usability - Security & privacy <br>
 Descripción: La seguridad y privacidad de los datos médicos son cruciales y deben ser protegidos adecuadamente. <br>
 Recomendación: Asegurar que se implementen medidas de seguridad robustas para proteger los datos médicos de los usuarios. <br>
 
-
 Cuarto Entrevistado - Jean Piere Grandez Mansilla
-URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212645_upc_edu_pe/EceH--zkm7BCjBKlAn1jsdYBo8YSHBguANBhrd65EEnXzA?e=xEqfin 
+URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212645_upc_edu_pe/EceH--zkm7BCjBKlAn1jsdYBo8YSHBguANBhrd65EEnXzA?e=xEqfin
 Tabla Resumen:
 
 <table>
@@ -5543,11 +5549,14 @@ Recomendación: Desarrollar una funcionalidad offline que permita acceso a infor
 ## 6.4. Auditoría de Experiencias de Usuario
 
 ### 6.4.1. Auditoría realizada
+
 #### 6.4.1.1. Información del grupo auditado
+
 **Nombre del grupo auditado:** innovatech  
 **Proyecto auditado:** agrotech  
 **Segmento objetivo evaluado:** granjero / asesor  
 **Interfaces evaluadas:**
+
 - Landing Page
 - Aplicación Web
 
@@ -5555,19 +5564,21 @@ Recomendación: Desarrollar una funcionalidad offline que permita acceso a infor
 
 #### 6.4.1.2. Cronograma de auditoría realizada
 
-| Fecha       | Actividad realizada                                            | Participantes                    |
-|-------------|----------------------------------------------------------------|----------------------------------|
-| 17/06/2025  | Reunión de coordinación con el equipo de Innovatech            | Innovatech – Equipo de Auditoría |
-| 18/06/2025  | Evaluación heurística de la Landing Page                       | Innovatech – Equipo de Auditoría |
-| 19/06/2025  | Evaluación heurística de la Aplicación Web                     | Innovatech – Equipo de Auditoría |
-| 20/06/2025  | Discusión de hallazgos y entrega de recomendaciones finales    | Innovatech – Equipo de Auditoría |
+| Fecha      | Actividad realizada                                         | Participantes                    |
+| ---------- | ----------------------------------------------------------- | -------------------------------- |
+| 17/06/2025 | Reunión de coordinación con el equipo de Innovatech         | Innovatech – Equipo de Auditoría |
+| 18/06/2025 | Evaluación heurística de la Landing Page                    | Innovatech – Equipo de Auditoría |
+| 19/06/2025 | Evaluación heurística de la Aplicación Web                  | Innovatech – Equipo de Auditoría |
+| 20/06/2025 | Discusión de hallazgos y entrega de recomendaciones finales | Innovatech – Equipo de Auditoría |
 
 ---
 
 #### 6.4.1.3. Contenido de auditoría realizada
 
 ### a) Criterios utilizados
+
 La auditoría se basó en los siguientes principios de evaluación:
+
 - Usabilidad (heurísticas de Nielsen)
 - Diseño inclusivo
 - Arquitectura de la información
@@ -5577,22 +5588,27 @@ La auditoría se basó en los siguientes principios de evaluación:
 ### b) Interfaz(es) evaluadas
 
 #### 1. Landing Page
+
 Se revisó el “hero” (Gestión moderna, Resultados duraderos), la navegación principal y la sección **Sobre Nosotros** (Misión & Visión).  
 Se analizaron claridad de propuesta de valor, efectividad de CTAs, jerarquía visual, contraste y consistencia de estilo.
 
 **Hallazgos:**
+
 - La propuesta de valor en el hero es contundente, pero carece de un botón primario de “Regístrate” o “Comienza ahora”.
 - La barra de navegación utiliza texto blanco sobre fondo melocotón con contraste insuficiente para algunos usuarios.
 - La sección “Sobre Nosotros” presenta iconos (misión/visión) sin descripciones alternativas ni tooltips, lo que puede afectar la accesibilidad.
 
 #### 2. Aplicación Web
+
 Flujos evaluados:
+
 - Selección de rol (Granjero vs. Asesor)
 - Gestión de “Mi Granja” (tabla de recintos)
 - Perfil de Asesor (edición de título, descripción y publicaciones)
 - Listado de Asesores y sección “Historial” de citas
 
 **Hallazgos:**
+
 - El selector de rol es claro y visual, pero no ofrece retroalimentación tras la selección (p. ej. resaltado persistente o indicador de carga).
 - En “Mi Granja”, la tabla está bien organizada, pero no cuenta con filtros, ordenamiento ni paginación para manejar grandes volúmenes de datos.
 - Al guardar cambios en el perfil de asesor no se despliega ningún mensaje de éxito o error, lo que deja al usuario sin confirmación de que la operación se completó.
@@ -5601,13 +5617,13 @@ Flujos evaluados:
 
 ### c) Resultados de la auditoría basada en heurísticas de usabilidad
 
-| Nº | Problema identificado                                                             | Severidad | Heurística afectada                | Recomendación                                                                              | Ubicación                                |
-|----|-----------------------------------------------------------------------------------|-----------|------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------|
-| 1  | Ausencia de botón primario de registro en el hero                                 | 3         | Visibilidad del estado del sistema | Añadir un CTA destacado “Regístrate” o “Comienza ahora” junto a “Iniciar sesión”.           | Landing Page – Hero                      |
-| 2  | Texto de menú en nav bar con contraste insuficiente                               | 2         | Estética y diseño minimalista      | Incrementar contraste (oscurecer texto o aclarar fondo) según WCAG.                        | Landing Page – Barra de navegación       |
-| 3  | Selector de rol no muestra feedback tras el clic                                  | 3         | Visibilidad del estado del sistema | Incluir animación de carga o resaltado persistente del rol seleccionado.                    | App Web – Página de Registro (Rol)       |
-| 4  | Eliminación de un recinto en “Mi Granja” no solicita confirmación                 | 3         | Prevención de errores              | Mostrar cuadro de diálogo de confirmación antes de borrar definitivamente un recinto.      | App Web – Mi Granja                      |
-| 5  | Al guardar perfil de asesor, no hay notificación de éxito o error                  | 3         | Visibilidad del estado del sistema | Desplegar una notificación (toast) o mensaje inline al guardar cambios correctamente.       | App Web – Perfil de Asesor (Edición)     |
+| Nº  | Problema identificado                                             | Severidad | Heurística afectada                | Recomendación                                                                         | Ubicación                            |
+| --- | ----------------------------------------------------------------- | --------- | ---------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------ |
+| 1   | Ausencia de botón primario de registro en el hero                 | 3         | Visibilidad del estado del sistema | Añadir un CTA destacado “Regístrate” o “Comienza ahora” junto a “Iniciar sesión”.     | Landing Page – Hero                  |
+| 2   | Texto de menú en nav bar con contraste insuficiente               | 2         | Estética y diseño minimalista      | Incrementar contraste (oscurecer texto o aclarar fondo) según WCAG.                   | Landing Page – Barra de navegación   |
+| 3   | Selector de rol no muestra feedback tras el clic                  | 3         | Visibilidad del estado del sistema | Incluir animación de carga o resaltado persistente del rol seleccionado.              | App Web – Página de Registro (Rol)   |
+| 4   | Eliminación de un recinto en “Mi Granja” no solicita confirmación | 3         | Prevención de errores              | Mostrar cuadro de diálogo de confirmación antes de borrar definitivamente un recinto. | App Web – Mi Granja                  |
+| 5   | Al guardar perfil de asesor, no hay notificación de éxito o error | 3         | Visibilidad del estado del sistema | Desplegar una notificación (toast) o mensaje inline al guardar cambios correctamente. | App Web – Perfil de Asesor (Edición) |
 
 ### 6.4.2. Auditoría recibida
 
@@ -5617,8 +5633,8 @@ Flujos evaluados:
 - **Proyecto auditado:** Med
 - **Segmento objetivo evaluado:** Doctores/Especialistas y Pacientes
 - **Interfaces evaluadas:**
-    - Landing Page
-    - Aplicación web
+  - Landing Page
+  - Aplicación web
 
 #### 6.4.2.2. Cronograma de auditoría realizada
 
@@ -6147,18 +6163,18 @@ Diseño del experimento:
 #### Fase Piloto
 
 - **Duración:** 4 semanas
-- **Cobertura:**  
-  - 500 pacientes (250 por grupo)  
-  - 10 médicos  
+- **Cobertura:**
+  - 500 pacientes (250 por grupo)
+  - 10 médicos
   - 2 clínicas
 - **Objetivo:** Validar funcionalidad, captar primeros datos.
 
 #### Fase de Validación
 
 - **Duración:** 12 semanas
-- **Cobertura:**  
-  - 2,000 pacientes  
-  - 50 médicos  
+- **Cobertura:**
+  - 2,000 pacientes
+  - 50 médicos
   - 5 clínicas
 - **Objetivo:** Medir impacto sostenido y escalabilidad.
 
@@ -6178,7 +6194,6 @@ Diseño del experimento:
 - **Resultados negativos:** Rediseño de hipótesis o estrategia.
 
 ---
-
 
 ## 8.2.5. Methods Selection
 
