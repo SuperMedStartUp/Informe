@@ -5296,6 +5296,25 @@ Minuto de Fin: 06:17
 
 Resumen: En la entrevista de validación con el Dr. Renzo Arteaga, llevada a cabo mediante una videollamada por Zoom, se revisaron las funcionalidades clave de la aplicación web para el manejo de historias clínicas y tratamientos en traumatología. Renzo valoró la organización del sistema y destacó que facilita el acceso a la información médica, aunque señaló que el backend aún presenta lentitud, lo que afecta la carga de datos en tiempo real. Sugirió mejorar la velocidad de respuesta y estabilidad de la plataforma. Además, indicó que sería útil integrar la carga de imágenes médicas (como resonancias o radiografías) al historial clínico, ya que esto optimizaría la toma de decisiones. También recomendó simplificar la navegación inicial para usuarios nuevos, aunque consideró que la curva de aprendizaje es razonable. Valoró positivamente el sistema de gestión de tratamientos y la comunicación con pacientes, pero sugirió ampliar las opciones para seguimiento de terapias. En general, consideró que la plataforma tiene alto potencial y la recomendaría, pero con mejoras adicionales en usabilidad y performance técnica.
 
+- Entrevista 3:
+
+Fecha entrevistada: 20/11/2024
+
+Entrevistado: Dr. Jean Pierre Grandez Mansilla
+
+Datos del entrevistado:
+
+Edad: 21 años
+Distrito: San Juan de Lurigancho
+Especialidad: Médico Interno
+Lugar de trabajo: Clínica San Juan Bautista
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212645_upc_edu_pe/EceH--zkm7BCjBKlAn1jsdYBo8YSHBguANBhrd65EEnXzA?e=xEqfin](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212645_upc_edu_pe/EceH--zkm7BCjBKlAn1jsdYBo8YSHBguANBhrd65EEnXzA?e=xEqfin)
+
+Minuto de Inicio: 00:00
+Minuto de Fin: 15:30
+
+Resumen: En la entrevista de validación con el Dr. Jean Pierre Grandez, médico interno de 21 años en la Clínica San Juan Bautista, se evaluó su experiencia usando MedSystem durante 2 meses. Como nativo digital, se adaptó rápidamente a la plataforma y destacó especialmente el acceso eficiente a historiales médicos y la gestión de tratamientos. Valoró positivamente la integración tecnológica y la facilidad para comunicarse con pacientes. Sin embargo, identificó algunas áreas de mejora relacionadas con la optimización de formularios de registro de consultas, la necesidad de plantillas para notas médicas comunes, mejor integración con sistemas de radiología y la implementación de un modo offline para emergencias. En general, mostró gran satisfacción con la plataforma y expresó que la recomendaría a otros colegas médicos, especialmente a internos y médicos jóvenes que están familiarizados con la tecnología.
+
 <div id='6.3.3.'><h4> 6.3.3. Evaluación según heuristicas</h4></div>
 
 UX Heuristics & Principles Evaluation
@@ -5476,75 +5495,6 @@ Severidad: 4 <br>
 Heurística violada: Usability - Security & privacy <br>
 Descripción: La seguridad y privacidad de los datos médicos son cruciales y deben ser protegidos adecuadamente. <br>
 Recomendación: Asegurar que se implementen medidas de seguridad robustas para proteger los datos médicos de los usuarios. <br>
-
-Cuarto Entrevistado - Jean Piere Grandez Mansilla
-URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212645_upc_edu_pe/EceH--zkm7BCjBKlAn1jsdYBo8YSHBguANBhrd65EEnXzA?e=xEqfin
-Tabla Resumen:
-
-<table>
-	<tbody>
-		<tr>
-			<td>#</td>
-			<td>Problema</td>
-			<td>Escala de Severidad</td>
-			<td>Heurística/Principio Violado</td>
-		</tr>
-		<tr>
-			<td>1</td>
-			<td>Proceso de registro de consultas toma más tiempo del esperado</td>
-			<td>2</td>
-			<td>Usability: Efficiency of use</td>
-		</tr>
-		<tr>
-			<td>2</td>
-			<td>Falta función de plantillas para notas médicas comunes</td>
-			<td>2</td>
-			<td>Usability: Flexibility & efficiency of use</td>
-		</tr>
-		<tr>
-			<td>3</td>
-			<td>No hay integración directa con el sistema de radiología</td>
-			<td>3</td>
-			<td>Usability: System integration</td>
-		</tr>
-		<tr>
-			<td>4</td>
-			<td>Ausencia de modo offline para consultas de emergencia</td>
-			<td>3</td>
-			<td>Usability: Error prevention & recovery</td>
-		</tr>
-	</tbody>
-</table>
-
-Descripción de Problemas:
-
-**Problema #1: Proceso de registro de consultas toma más tiempo del esperado**
-
-Severidad: 2 <br>
-Heurística violada: Usability - Efficiency of use <br>
-Descripción: El Dr. Grandez mencionó que inicialmente le tomaba 10 minutos registrar una consulta y aunque ahora lo hace en 3-4 minutos, considera que podría ser más rápido con algunas optimizaciones en el formulario. <br>
-Recomendación: Implementar campos con autocompletado y opciones de guardado rápido para acelerar el proceso de documentación de consultas. <br>
-
-**Problema #2: Falta función de plantillas para notas médicas comunes**
-
-Severidad: 2 <br>
-Heurística violada: Usability - Flexibility & efficiency of use <br>
-Descripción: Como interno que maneja casos similares frecuentemente, el doctor sugirió que sería útil tener plantillas predefinidas para diagnósticos comunes en traumatología que puedan ser personalizadas según cada caso. <br>
-Recomendación: Desarrollar un sistema de plantillas médicas personalizables para diferentes especialidades y tipos de consulta. <br>
-
-**Problema #3: No hay integración directa con el sistema de radiología**
-
-Severidad: 3 <br>
-Heurística violada: Usability - System integration <br>
-Descripción: Aunque puede ver las imágenes de rayos X en la plataforma, el doctor mencionó que sería más eficiente si hubiera una integración más fluida con el sistema de radiología para visualización y análisis de imágenes. <br>
-Recomendación: Implementar una integración más robusta con sistemas PACS (Picture Archiving and Communication System) para mejorar la visualización y manipulación de imágenes médicas. <br>
-
-**Problema #4: Ausencia de modo offline para consultas de emergencia**
-
-Severidad: 3 <br>
-Heurística violada: Usability - Error prevention & recovery <br>
-Descripción: El interno expresó preocupación por la dependencia de conectividad a internet, especialmente en situaciones de emergencia donde el acceso a información crítica del paciente es vital. <br>
-Recomendación: Desarrollar una funcionalidad offline que permita acceso a información básica del paciente y registro de datos críticos cuando no hay conectividad, con sincronización automática al restablecerse la conexión. <br>
 
 ## 6.4. Auditoría de Experiencias de Usuario
 
