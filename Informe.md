@@ -6382,6 +6382,77 @@ Diseño del experimento:
 - **Monthly:** Business metrics and KPI review
 - **Quarterly:** Comprehensive experiment results analysis
 
+## 8.3. Experimentation
+
+El objetivo de esta etapa es diseñar e implementar mejoras concretas en base a los aprendizajes obtenidos en las fases anteriores de experimentación planificada y validación de hipótesis. A partir de los resultados, se definen nuevas funcionalidades o ajustes en el producto, reflejados en historias de usuario ("To-Be") y backlog refinado.
+
+---
+
+### 8.3.1. To-Be User Stories
+
+A continuación, se presentan las principales historias de usuario emergentes de los aprendizajes obtenidos durante la validación de hipótesis:
+
+#### Epic 1: Mejora en la asistencia a citas médicas
+
+- **Historia 1:** Como paciente, quiero recibir recordatorios automáticos de mis citas para no olvidarlas.  
+- **Historia 2:** Como paciente, quiero confirmar mi asistencia directamente desde el mensaje de recordatorio.  
+- **Historia 3:** Como médico, quiero visualizar las ausencias históricas de mis pacientes para tomar decisiones informadas.
+
+#### Epic 2: Digitalización y acceso a historia clínica
+
+- **Historia 4:** Como médico, quiero acceder en tiempo real a la historia clínica del paciente desde cualquier dispositivo.  
+- **Historia 5:** Como paciente, quiero poder actualizar información básica de salud desde la app antes de mi consulta.  
+- **Historia 6:** Como médico, quiero registrar hallazgos clínicos de forma estructurada y rápida durante la consulta.
+
+#### Epic 3: Interfaz accesible para adultos mayores
+
+- **Historia 7:** Como usuario mayor de 60 años, quiero una versión simplificada de la pantalla de programación.  
+- **Historia 8:** Como paciente, quiero recibir asistencia guiada paso a paso en el flujo de cita médica.
+
+#### Epic 4: Reducción de carga operativa vía chatbot
+
+- **Historia 9:** Como usuario, quiero consultar horarios, precios y requisitos mediante un chatbot sin tener que llamar.  
+- **Historia 10:** Como administrador, quiero analizar las preguntas más frecuentes respondidas por el chatbot.
+
+---
+
+### 8.3.2. To-Be Product Backlog
+
+El backlog actualizado recoge las funcionalidades priorizadas tras la validación experimental, clasificadas por su impacto esperado y esfuerzo estimado (MoSCoW):
+
+| ID  | Historia / Funcionalidad                                  | Prioridad | Tipo     | Iteración |
+|-----|------------------------------------------------------------|-----------|----------|-----------|
+| PB01| Recordatorios multicanal para citas                        | Must      | Feature  | Sprint 1  |
+| PB02| Confirmación y reprogramación desde notificaciones         | Must      | Feature  | Sprint 1  |
+| PB03| Módulo de historial clínico con vista resumida             | Should    | Feature  | Sprint 2  |
+| PB04| Registro clínico estructurado por el médico                | Must      | Feature  | Sprint 2  |
+| PB05| Chatbot de atención básica integrada                       | Must      | Feature  | Sprint 3  |
+| PB06| Reporte de interacciones chatbot                           | Should    | Analytics| Sprint 3  |
+| PB07| Modo accesible (UI adaptada) para adultos mayores          | Should    | UI/UX    | Sprint 2  |
+| PB08| Panel de ausencias por paciente para el médico             | Could     | Feature  | Sprint 3  |
+| PB09| Dashboard para seguimiento de adopción y métricas clave    | Must      | Analytics| Sprint 1  |
+| PB10| Formulario pre-consulta editable por el paciente           | Could     | Feature  | Sprint 4  |
+
+> **Notas:**
+> - Las funcionalidades Must serán lanzadas en la versión mínima viable (MVP).
+> - Se prioriza lo que tenga mayor impacto directo en KPIs validados: adopción, ausencias, tiempo de programación y NPS.
+> - Cada ítem tiene asociados criterios de aceptación definidos por comportamiento observable y validación automática cuando sea posible.
+
+---
+
+### Avance de Conclusiones, Bibliografía y Anexos
+
+- Las conclusiones preliminares evidencian que la validación iterativa de hipótesis acelera la toma de decisiones estratégicas en el diseño de plataformas médicas digitales.
+- El enfoque de desarrollo basado en experimentación (Experiment-Driven Development) ha demostrado efectividad para identificar funcionalidades de alto impacto en la experiencia del paciente y la eficiencia médica.
+- La próxima versión del documento incluirá:
+  - Conclusiones detalladas
+  - Recomendaciones estratégicas por stakeholder
+  - Bibliografía técnica y académica (Harvard o APA)
+  - Anexos: experiment cards, raw data, gráficos y dashboards
+
+---
+
+
 **Conclusiones**
 
 -Validación del Modelo de Negocio: A lo largo del proyecto, se ha confirmado la viabilidad del modelo de negocio centrado en el desarrollo y comercialización de una plataforma tecnológica destinada a la gestión de clientes en el sector automotriz peruano.
