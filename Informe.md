@@ -5217,11 +5217,11 @@ Entrevistado: Gonzalo Jaime Zapata Campos
 
 Datos del entrevistado:
 
-Edad: 20 años
-Distrito: San Martin de Porres
+Edad: 20 años <br>
+Distrito: San Martin de Porres <br>
 Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb1d18af%2D92e4%2D4959%2Dbed3%2Ddf3cffccbe4f](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ebb1d18af%2D92e4%2D4959%2Dbed3%2Ddf3cffccbe4f)
 
-Minuto de Inicio: 4:31
+Minuto de Inicio: 4:31 <br>
 Minuto de Fin: 11:06
 
 Resume: En una entrevista de validación con Gonzalo Jaime Zapata Campos, llevada a cabo mediante una videollamada en Zoom desde su teléfono móvil, Abril examinó tanto la página de inicio como el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto le pareció completa y beneficiosa para los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es detallado y la tabla de citas programadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de los exámenes.
@@ -5239,7 +5239,7 @@ Datos del entrevistado:
 
 Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0239be73%2D730b%2D4a7b%2D904a%2D64a2c17bef5e)
 
-Minuto de Inicio: 00:00
+Minuto de Inicio: 00:00 <br>
 Minuto de Fin: 4:30
 
 Resumen: En la entrevista de validación con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, revisó la landing page y el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto es completa y beneficia a los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es completo y la tabla de citas agendadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de exámenes.
@@ -5255,7 +5255,8 @@ Datos del entrevistado:
 Edad: 34 años
 Distrito: Surco
 Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EYlW3Cw77OdKm9SblFMJ8O8BBOOhLFmpLjwTqyB3CzEBZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=DVfNwU)
-Minuto de Inicio: 0:00
+<br>
+Minuto de Inicio: 0:00 <br>
 Minuto de Fin: 6:20
 
 Resumen:
@@ -5271,12 +5272,14 @@ Entrevistado: Giannina Escalante Gutierrez
 
 Datos del entrevistado:
 
-Edad: 51
-Distrito: Trujillo
+Edad: 51 <br>
+
+Distrito: Trujillo <br>
+
 Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee2d1b04d%2D94ad%2D42cf%2Da494%2D670c682edc15](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee2d1b04d%2D94ad%2D42cf%2Da494%2D670c682edc15)
 
-Minuto de Inicio: 11:07
-Minuto de Fin: 22:41
+Minuto de Inicio: 11:07 <br>
+Minuto de Fin: 22:41 <br>
 
 Resumen: En esta entrevista, Giannina nos comenta sobre nuestro Landing Page y Aplicación Web. Ella considera que la página esta bien estructurada, sin embargo, preferiría que las características sean más específicas al campo de traumatología. Por la parte de la aplicación web, considera que los coampos estan bien seccionado para la vista de doctor, pero le gustaría que en la parte de appointments se pudiera poner de acuerdo a la disponibilidad del doctor, es decir, por horarios; en vez de que el paciente elija cualquier hora y fecha. Ella prefiere marcas como Sony, MEDISONIC, Samsung y suele usar WhatsApp o Facebook como canal de interacción. Por último, ella usa Google Chrome como browser de preferencia y utliza dispositivos Android.
 
@@ -5288,11 +5291,15 @@ Entrevistado: Renzo Arteaga
 
 Datos del entrevistado:
 
-Edad: 28 años
-Distrito: La Victoria
+Edad: 28 años <br>
+
+Distrito: La Victoria <br>
+
 Link de la Entrevista: [https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2FENTREVISTAS%20VALIDACION%2Emp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EWnuViVmvDlIljfFsEgWEDUB19HD18DHN5nWOs5EG56s6g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=QT6O8g)
-Minuto de Inicio: 00:00
-Minuto de Fin: 06:17
+<br>
+Minuto de Inicio: 00:00<br>
+
+Minuto de Fin: 06:17 <br>
 
 Resumen: En la entrevista de validación con el Dr. Renzo Arteaga, llevada a cabo mediante una videollamada por Zoom, se revisaron las funcionalidades clave de la aplicación web para el manejo de historias clínicas y tratamientos en traumatología. Renzo valoró la organización del sistema y destacó que facilita el acceso a la información médica, aunque señaló que el backend aún presenta lentitud, lo que afecta la carga de datos en tiempo real. Sugirió mejorar la velocidad de respuesta y estabilidad de la plataforma. Además, indicó que sería útil integrar la carga de imágenes médicas (como resonancias o radiografías) al historial clínico, ya que esto optimizaría la toma de decisiones. También recomendó simplificar la navegación inicial para usuarios nuevos, aunque consideró que la curva de aprendizaje es razonable. Valoró positivamente el sistema de gestión de tratamientos y la comunicación con pacientes, pero sugirió ampliar las opciones para seguimiento de terapias. En general, consideró que la plataforma tiene alto potencial y la recomendaría, pero con mejoras adicionales en usabilidad y performance técnica.
 
@@ -5304,14 +5311,18 @@ Entrevistado: Dr. Jean Pierre Grandez Mansilla
 
 Datos del entrevistado:
 
-Edad: 21 años
-Distrito: San Juan de Lurigancho
-Especialidad: Médico Interno
-Lugar de trabajo: Clínica San Juan Bautista
+Edad: 21 años <br>
+
+Distrito: San Juan de Lurigancho <br>
+
+Especialidad: Médico Interno <br>
+
+Lugar de trabajo: Clínica San Juan Bautista <br>
+
 Link de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212645_upc_edu_pe/EceH--zkm7BCjBKlAn1jsdYBo8YSHBguANBhrd65EEnXzA?e=xEqfin](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212645_upc_edu_pe/EceH--zkm7BCjBKlAn1jsdYBo8YSHBguANBhrd65EEnXzA?e=xEqfin)
 
-Minuto de Inicio: 00:00
-Minuto de Fin: 15:30
+Minuto de Inicio: 00:00<br>
+Minuto de Fin: 15:30<br>
 
 Resumen: En la entrevista de validación con el Dr. Jean Pierre Grandez, médico interno de 21 años en la Clínica San Juan Bautista, se evaluó su experiencia usando MedSystem durante 2 meses. Como nativo digital, se adaptó rápidamente a la plataforma y destacó especialmente el acceso eficiente a historiales médicos y la gestión de tratamientos. Valoró positivamente la integración tecnológica y la facilidad para comunicarse con pacientes. Sin embargo, identificó algunas áreas de mejora relacionadas con la optimización de formularios de registro de consultas, la necesidad de plantillas para notas médicas comunes, mejor integración con sistemas de radiología y la implementación de un modo offline para emergencias. En general, mostró gran satisfacción con la plataforma y expresó que la recomendaría a otros colegas médicos, especialmente a internos y médicos jóvenes que están familiarizados con la tecnología.
 
@@ -5666,7 +5677,7 @@ Para facilitar las implementaciones y mantener una integración continua eficien
 ### Gherkin
 
 Se empleó la herramienta Gherkin para definir criterios de aceptación, permitiendo describir escenarios de prueba de forma clara y comprensible para todos los miembros del equipo.
-![Gherkin](https://qarevolution.com/wp-content/uploads/2020/01/clipart1579509-1.png)
+![Gherkin](https://abdatum.com/media/images/jenkins.jpg)
 
 ### WebStorm
 
@@ -5789,7 +5800,7 @@ Para el presente proyecto que necesita implementar monitoreo continuo, las herra
 
 ### 7.4.2. Monitoring Pipeline Components
 
-Dentro del pipeline de Jenkins, la monitorización puede integrarse como parte de la etapa final de cada despliegue, donde se anotan los eventos importantes como la versión desplegada, corecciones a nivel lógico, entorno y/o timestamp
+Dentro del pipeline de Jenkins, la monitorización puede integrarse como parte de la etapa final de cada despliegue, donde se anotan los eventos importantes como la versión desplegada, corecciones a nivel lógico, entorno y/o timestamp.
 
 Prometheus tiene la capacidad de recopilar la información de manera automática desde aplicaciones que han sido configuradas o empleando herramientas de vigilancia del clúster como kube-state-metrics o node-exporter en Kubernetes.
 
