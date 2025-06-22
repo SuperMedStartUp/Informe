@@ -5785,7 +5785,7 @@ Consiste en la capacidad de entregar características de un programa de manera c
 
 ### 7.4.1. Tools and Practices
 
-Para el presente proyecto que necesita implementar monitoreo continuo, las herramientas elegida será **Grafana con Prometheus**, porque se consideran, en conjunto, una solución ideal al momento de configurarlo e integrarlo en el entorno DevOps. **Prometheus** permite la recolección de métricas de forma sencilla mediante endpoints HTTP, mientras que **Grafana** proporciona una interfaz gráfica fácil de usar y que se puede personalizar para visualizar dichas métricas en paneles interactivos. Esta combinación es perfecta para grupos que buscan rapidez en la implementación, un bajo uso de recursos y una curva de aprendizaje sencilla. Además, el respaldo de la comunidad y la disponibilidad de numerosos plugins hacen que su integración con herramientas del pipeline como Jenkins y Kubernetes sea más fácil. Por estas razones, se justifica su elección como herramienta de monitoreo en el proyecto.
+Para el presente proyecto que necesita implementar monitoreo continuo, las herramientas elegida será **Grafana con Prometheus**, porque se consideran una gran solución al momento de configurar e integrar el proyecto dentro del entorno DevOps. **Prometheus** permite recolectar métricas de forma sencilla a través de endpoints HTTP, mientras que **Grafana** proporciona una interfaz gráfica que se puede personalizar para visualizar dichas métricas en paneles interactivos. Esta combinación es perfecta para grupos que buscan rapidez en la implementación, un bajo uso de recursos y una curva de aprendizaje sencilla. Además, el respaldo de la comunidad y la disponibilidad de numerosos plugins hacen que su integración con herramientas del pipeline como Jenkins y Kubernetes sea más fácil. Por estas razones, se justifica su elección como herramienta de monitoreo en el proyecto.
 
 ### 7.4.2. Monitoring Pipeline Components
 
@@ -5797,17 +5797,17 @@ Prometheus tiene la capacidad de recopilar la información de manera automática
 
 Cuando se detectan problemas como altos tiempos de respuesta, errores o interrupciones en los servicios, el sistema de alertas se activa. La combinación de Prometheus y Alertmanager es fundamental para establecer reglas de alerta que, al cumplirse, desencadenan notificaciones dirigidas a los equipos responsables. Es crucial que estas alertas posean ciertas características para maximizar su efectividad:
 
-- **Relevantes:** Se deben evitar notificaciones innecesarias, porque pueden llevar a la desensibilización de los equipos. Únicamente las situaciones que realmente demanden atención o acción deben generar algún tipo de alerta, garantizando que cada aviso sea relevante.
+- **Relevantes:** Se deben evitar notificaciones innecesarias, porque pueden llevar a la desensibilización de los equipos. Solo deben generar alerta las situaciones que realmente demanden atención, de esa forma se garantiza que cada aviso rea relevante.
 
-- **Automatizadas:** Las notificaciones deben estar completamente incorporadas en el ciclo de vida de desarrollo y operación como eventos del sistema. Esto significa que su creación debe ser automática al registrarse métricas específicas y al superarse ciertos límites, sin necesidad de intervención manual para que se activen.
+- **Automatizadas:** Las notificaciones deben incorporarse dentro del ciclo de vida de desarrollo y operación como eventos del sistema. Es decir que su creación debe ser automática al registrarse las métricas, y asi, superarse los límites, sin necesidad de intervención manual para su activación.
 
-- **Accionables:** Cada notificación debe incluir la información precisa y suficiente para que el equipo a cargo pueda entender de manera rápida la naturaleza del inconveniente y tomar las acciones correctivas necesarias. Esto abarca detalles como saber sobre servicio afectado, la métrica que originó la alerta, el posible impacto y enlaces a tableros de control que permitan investigar a más
+- **Accionables:** Cada notificación debe incluir la información necesaria para que el equipo pueda saber la naturaleza del problema y tomar las acciones necesarias. Esto abarca detalles como saber sobre servicio afectado, la métrica que originó la alerta, el posible impacto y enlaces a tableros de control que permitan investigar a más.
 
 ### 7.4.4. Notification Pipeline Components.
 
-Finalmente, el componente de notificación se encarga de enviar los mensajes adecuados a los canales configurados, siendo en este caso, donde se usará Microsoft Teams como la plataforma principal para la difusión de información crítica. Esto permite la integración en los flujos de trabajo existentes garantizando que la información llegue al equipo correcto de manera oportuna.
+Finalmente, las notificaciones se encarga de enviar mensajes adecuados a los canales configurados, siendo en este caso, donde se usará Microsoft Teams como la plataforma principal para la difusión de información crítica. Esto permite la integración en los flujos de trabajo existentes que garantizan que la información llegue al equipo.
 
-A través de Jenkins, una herramienta de automatización ampliamente utilizada, se pueden configurar notificaciones detalladas para cada fase del ciclo de vida del desarrollo de software. Esto incluye notificaciones para builds exitosos, que indican la correcta compilación del código y la aprobación de las pruebas automatizadas, hasta construcciones que fallan, las cuales notifican sobre errores en la compilación, fallas en las pruebas o dificultades con la integración. Estas notificaciones de Jenkins son fundamentales para mantener a los equipos de desarrollo informados sobre el estado de sus pipelines de CI/CD, permitiendo una rápida identificación y resolución de problemas.
+A través de Jenkins, una herramienta de automatización ampliamente utilizada, se pueden configurar notificaciones detalladas para cada fase del ciclo de vida del desarrollo de software. Esto incluye notificaciones para builds exitosos, que indican la correcta compilación del código y la aprobación de las pruebas automatizadas, hasta construcciones que fallan, las cuales notifican sobre errores en la compilación, fallas en las pruebas o dificultades con la integración. Estas notificaciones son fundamentales para mantener informado a los equipos de desarrollo sobre el estado de sus pipelines.
 
 Estas notificaciones mejoran significativamente la colaboración entre los equipos de desarrollo, operaciones y calidad. Al recibir alertas inmediatas, los equipos pueden reducir drásticamente el tiempo de respuesta ante incidentes o fallos.
 
@@ -6394,24 +6394,24 @@ A continuación, se presentan las principales historias de usuario emergentes de
 
 #### Epic 1: Mejora en la asistencia a citas médicas
 
-- **Historia 1:** Como paciente, quiero recibir recordatorios automáticos de mis citas para no olvidarlas.  
-- **Historia 2:** Como paciente, quiero confirmar mi asistencia directamente desde el mensaje de recordatorio.  
+- **Historia 1:** Como paciente, quiero recibir recordatorios automáticos de mis citas para no olvidarlas.
+- **Historia 2:** Como paciente, quiero confirmar mi asistencia directamente desde el mensaje de recordatorio.
 - **Historia 3:** Como médico, quiero visualizar las ausencias históricas de mis pacientes para tomar decisiones informadas.
 
 #### Epic 2: Digitalización y acceso a historia clínica
 
-- **Historia 4:** Como médico, quiero acceder en tiempo real a la historia clínica del paciente desde cualquier dispositivo.  
-- **Historia 5:** Como paciente, quiero poder actualizar información básica de salud desde la app antes de mi consulta.  
+- **Historia 4:** Como médico, quiero acceder en tiempo real a la historia clínica del paciente desde cualquier dispositivo.
+- **Historia 5:** Como paciente, quiero poder actualizar información básica de salud desde la app antes de mi consulta.
 - **Historia 6:** Como médico, quiero registrar hallazgos clínicos de forma estructurada y rápida durante la consulta.
 
 #### Epic 3: Interfaz accesible para adultos mayores
 
-- **Historia 7:** Como usuario mayor de 60 años, quiero una versión simplificada de la pantalla de programación.  
+- **Historia 7:** Como usuario mayor de 60 años, quiero una versión simplificada de la pantalla de programación.
 - **Historia 8:** Como paciente, quiero recibir asistencia guiada paso a paso en el flujo de cita médica.
 
 #### Epic 4: Reducción de carga operativa vía chatbot
 
-- **Historia 9:** Como usuario, quiero consultar horarios, precios y requisitos mediante un chatbot sin tener que llamar.  
+- **Historia 9:** Como usuario, quiero consultar horarios, precios y requisitos mediante un chatbot sin tener que llamar.
 - **Historia 10:** Como administrador, quiero analizar las preguntas más frecuentes respondidas por el chatbot.
 
 ---
@@ -6420,20 +6420,21 @@ A continuación, se presentan las principales historias de usuario emergentes de
 
 El backlog actualizado recoge las funcionalidades priorizadas tras la validación experimental, clasificadas por su impacto esperado y esfuerzo estimado (MoSCoW):
 
-| ID  | Historia / Funcionalidad                                  | Prioridad | Tipo     | Iteración |
-|-----|------------------------------------------------------------|-----------|----------|-----------|
-| PB01| Recordatorios multicanal para citas                        | Must      | Feature  | Sprint 1  |
-| PB02| Confirmación y reprogramación desde notificaciones         | Must      | Feature  | Sprint 1  |
-| PB03| Módulo de historial clínico con vista resumida             | Should    | Feature  | Sprint 2  |
-| PB04| Registro clínico estructurado por el médico                | Must      | Feature  | Sprint 2  |
-| PB05| Chatbot de atención básica integrada                       | Must      | Feature  | Sprint 3  |
-| PB06| Reporte de interacciones chatbot                           | Should    | Analytics| Sprint 3  |
-| PB07| Modo accesible (UI adaptada) para adultos mayores          | Should    | UI/UX    | Sprint 2  |
-| PB08| Panel de ausencias por paciente para el médico             | Could     | Feature  | Sprint 3  |
-| PB09| Dashboard para seguimiento de adopción y métricas clave    | Must      | Analytics| Sprint 1  |
-| PB10| Formulario pre-consulta editable por el paciente           | Could     | Feature  | Sprint 4  |
+| ID   | Historia / Funcionalidad                                | Prioridad | Tipo      | Iteración |
+| ---- | ------------------------------------------------------- | --------- | --------- | --------- |
+| PB01 | Recordatorios multicanal para citas                     | Must      | Feature   | Sprint 1  |
+| PB02 | Confirmación y reprogramación desde notificaciones      | Must      | Feature   | Sprint 1  |
+| PB03 | Módulo de historial clínico con vista resumida          | Should    | Feature   | Sprint 2  |
+| PB04 | Registro clínico estructurado por el médico             | Must      | Feature   | Sprint 2  |
+| PB05 | Chatbot de atención básica integrada                    | Must      | Feature   | Sprint 3  |
+| PB06 | Reporte de interacciones chatbot                        | Should    | Analytics | Sprint 3  |
+| PB07 | Modo accesible (UI adaptada) para adultos mayores       | Should    | UI/UX     | Sprint 2  |
+| PB08 | Panel de ausencias por paciente para el médico          | Could     | Feature   | Sprint 3  |
+| PB09 | Dashboard para seguimiento de adopción y métricas clave | Must      | Analytics | Sprint 1  |
+| PB10 | Formulario pre-consulta editable por el paciente        | Could     | Feature   | Sprint 4  |
 
 > **Notas:**
+>
 > - Las funcionalidades Must serán lanzadas en la versión mínima viable (MVP).
 > - Se prioriza lo que tenga mayor impacto directo en KPIs validados: adopción, ausencias, tiempo de programación y NPS.
 > - Cada ítem tiene asociados criterios de aceptación definidos por comportamiento observable y validación automática cuando sea posible.
@@ -6451,7 +6452,6 @@ El backlog actualizado recoge las funcionalidades priorizadas tras la validació
   - Anexos: experiment cards, raw data, gráficos y dashboards
 
 ---
-
 
 **Conclusiones**
 
