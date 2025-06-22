@@ -5749,6 +5749,14 @@ Para garantizar una entrega continua eficaz, se pueden emplear diversas herramie
   width=30%"/>
 </div>
 
+Se hicieron pruebas en LightHouse, herramienta que permite analizar la calidad de una página web en têrminos de experiencia para el usuario y buenas prácticas, estos fueron los resultados:
+
+<img src="assets/images/lighthouse1.png">
+<br>
+
+<img src="assets/images/lighthouse2.png">
+<br>
+
 ### 7.2.2. Stages Deployment Pipeline Components.
 
 A continuación, se describe el pipeline de despliegue diseñado para el proyecto, donde cada etapa cumple una función específica para garantizar una entrega continua, estable y alineada a los requerimientos del producto.
