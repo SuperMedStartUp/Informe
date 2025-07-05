@@ -6461,6 +6461,174 @@ El backlog actualizado recoge las funcionalidades priorizadas tras la validació
 > - Cada ítem tiene asociados criterios de aceptación definidos por comportamiento observable y validación automática cuando sea posible.
 
 ---
+## 8.3.3. Team Collaboration Insights
+
+### Herramientas de Colaboración Utilizadas
+
+#### Plataformas de Comunicación
+- **Discord**: Canal principal de comunicación diaria del equipo  
+- **Microsoft Teams**: Reuniones semanales de retrospectiva y planning  
+- **WhatsApp**: Comunicación rápida y notificaciones urgentes  
+
+#### Desarrollo y Versionado
+- **Git/GitHub**: Control de versiones y colaboración en código  
+- **GitHub Projects**: Tablero Kanban integrado con repositorios  
+
+### Metodologías de Trabajo
+
+#### Scrum Framework
+- **Sprint Planning**: Reuniones cada 2 semanas para planificar iteraciones  
+- **Sprint Review**: Presentación de entregables al final de cada sprint  
+
+---
+
+## 8.3.4. To-Be Validation Interviews
+
+### Objetivo de las Entrevistas
+Validar las mejoras implementadas en MedSystem tras la experimentación, específicamente enfocadas en:
+
+- Efectividad de los recordatorios automáticos  
+- Usabilidad de la interfaz para adultos mayores  
+- Funcionalidad del chatbot de atención básica  
+- Satisfacción con el acceso a historia clínica digitalizada  
+
+### Metodología de Validación
+
+#### Estructura de Entrevistas
+- **Duración**: 30–45 minutos por entrevista  
+- **Modalidad**: Presencial y virtual (50/50)  
+- **Grabación**: Con consentimiento para análisis posterior  
+- **Incentivos**: Descuentos en consultas para participantes  
+
+#### Criterios de Selección
+- **Pacientes**: Usuarios activos con al menos 3 citas programadas  
+- **Médicos**: Especialistas en traumatología con >6 meses usando el sistema  
+- **Laboratorios**: Centros integrados con el sistema por >3 meses  
+
+---
+
+### 8.3.4.1. Diseño de Entrevistas
+
+---
+
+### Segmento: Pacientes (20 entrevistas)
+
+#### Perfil de Participantes:
+- Adultos 25-65 años que han usado las nuevas funcionalidades  
+- Distribución: 40% adultos mayores (+60 años), 60% otros grupos etarios  
+- Variedad de especialidades médicas dentro de traumatología  
+
+#### Guía de Entrevista - Pacientes
+
+##### Introducción (5 minutos)
+- Presentación del entrevistador y objetivos  
+- Consentimiento para grabación  
+- Contexto sobre las mejoras implementadas  
+
+##### Sección 1: Recordatorios Automáticos (10 minutos)
+1. ¿Cómo ha sido tu experiencia con los recordatorios de citas?  
+2. ¿Los recordatorios te han ayudado a no olvidar tus citas?  
+3. ¿Qué opinas sobre la función de confirmar/reprogramar desde el mismo mensaje?  
+4. ¿Has tenido algún problema técnico con los recordatorios?  
+5. Del 1 al 10, ¿cómo calificarías esta funcionalidad?  
+
+##### Sección 2: Interfaz Accesible (10 minutos)
+1. ¿Cómo percibes la nueva interfaz para programar citas?  
+2. ¿Es más fácil navegar ahora comparado con antes?  
+3. ¿Qué tan intuitivos son los iconos y botones?  
+4. ¿Hay algo que te confunda o sea difícil de encontrar?  
+5. ¿Recomendarías esta interfaz a otras personas de tu edad?  
+
+##### Sección 3: Chatbot de Atención (8 minutos)
+1. ¿Has usado el chatbot para hacer consultas básicas?  
+2. ¿El chatbot resolvió tus dudas de manera satisfactoria?  
+3. ¿Prefieres el chatbot o llamar por teléfono?  
+4. ¿Qué mejoras le harías al chatbot?  
+
+##### Sección 4: Historia Clínica Digital (8 minutos)
+1. ¿Has podido acceder a tu historia clínica desde la plataforma?  
+2. ¿La información está completa y actualizada?  
+3. ¿Te sientes seguro con el manejo de tu información médica?  
+4. ¿Qué tan útil es tener acceso a tu historial en línea?  
+
+##### Cierre (4 minutos)
+- Satisfacción general con las mejoras  
+- Sugerencias adicionales  
+- NPS: ¿Recomendarías MedSystem a familiares/amigos?  
+
+---
+
+### Segmento: Médicos Especialistas (15 entrevistas)
+
+#### Perfil de Participantes:
+- Traumatólogos con consulta privada  
+- Médicos de clínicas que usan MedSystem  
+- Variedad de años de experiencia (junior, senior)  
+
+#### Guía de Entrevista - Médicos
+
+##### Introducción (5 minutos)
+- Presentación y objetivos  
+- Consentimiento para grabación  
+- Contexto sobre mejoras implementadas  
+
+##### Sección 1: Eficiencia Operacional (12 minutos)
+1. ¿Has notado reducción en el tiempo de programación de citas?  
+2. ¿Cómo impactan los recordatorios automáticos en las ausencias?  
+3. ¿El acceso a historia clínica mejora tu consulta?  
+4. ¿Qué tan eficiente es el registro clínico estructurado?  
+5. ¿Has reducido tiempo administrativo desde las mejoras?  
+
+##### Sección 2: Comunicación con Pacientes (10 minutos)
+1. ¿Cómo evalúas la comunicación con pacientes ahora?  
+2. ¿El chatbot reduce consultas básicas a tu consultorio?  
+3. ¿Los pacientes llegan mejor informados a las citas?  
+4. ¿Has notado mejora en la satisfacción de tus pacientes?  
+
+##### Sección 3: Integración con Laboratorios (8 minutos)
+1. ¿Cómo funciona la coordinación con laboratorios?  
+2. ¿Los resultados llegan de manera oportuna?  
+3. ¿La comunicación entre especialistas ha mejorado?  
+4. ¿Qué tan efectiva es la plataforma para casos complejos?  
+
+##### Sección 4: Satisfacción y Adopción (10 minutos)
+1. ¿Qué tan satisfecho estás con las nuevas funcionalidades?  
+2. ¿Recomendarías MedSystem a colegas?  
+3. ¿Qué características adicionales necesitarías?  
+4. ¿Cómo calificarías la plataforma del 1 al 10?  
+
+---
+
+### Segmento: Laboratorios (10 entrevistas)
+
+#### Perfil de Participantes:
+- Laboratorios clínicos integrados con MedSystem  
+- Personal técnico y administrativo  
+- Variedad de tamaños de laboratorio  
+
+#### Guía de Entrevista - Laboratorios
+
+##### Introducción (5 minutos)
+- Presentación y objetivos  
+- Consentimiento para grabación  
+
+##### Sección 1: Integración Técnica (12 minutos)
+1. ¿Cómo ha sido la integración con MedSystem?  
+2. ¿Los pedidos de exámenes llegan completos y a tiempo?  
+3. ¿Qué tan eficiente es el flujo de subir resultados?  
+4. ¿Han tenido problemas técnicos con la plataforma?  
+
+##### Sección 2: Comunicación y Coordinación (10 minutos)
+1. ¿Cómo es la comunicación con los médicos a través de la plataforma?  
+2. ¿Los pacientes llegan mejor preparados para los exámenes?  
+3. ¿Ha mejorado la coordinación de casos urgentes?  
+4. ¿Qué tan efectiva es la notificación de resultados?  
+
+##### Sección 3: Impacto en Operaciones (8 minutos)
+1. ¿Ha mejorado la eficiencia de su laboratorio?  
+2. ¿Han reducido llamadas telefónicas de coordinación?  
+3. ¿Cómo impacta MedSystem en la satisfacción de sus clientes?  
+4. ¿Qué mejoras implementarían en la integración?  
 
 ### Avance de Conclusiones, Bibliografía y Anexos
 
