@@ -6462,6 +6462,7 @@ El backlog actualizado recoge las funcionalidades priorizadas tras la validació
 
 ---
 ## 8.3.3. Team Collaboration Insights
+![image](https://github.com/user-attachments/assets/20d5744b-1ad5-426b-8d3e-d87708b8ba5a)
 
 ### Herramientas de Colaboración Utilizadas
 
