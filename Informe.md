@@ -6042,7 +6042,7 @@ Las hipótesis son declaraciones comprobables que buscan validar suposiciones so
 
 **Hipótesis primarias:**
 
-Vinculación al problema: Este experimento aborda el problema de demoras en procedimientos causadas por inasistencias a citas, identificado en el análisis del estado actual del sistema de atención.
+**Vinculación al problema:** Este experimento aborda el problema de demoras en procedimientos causadas por inasistencias a citas, identificado en el análisis del estado actual del sistema de atención.
 
 <table>
 	<tbody>
@@ -6065,13 +6065,13 @@ Vinculación al problema: Este experimento aborda el problema de demoras en proc
 	</tbody>
 </table>
 
-Vinculación al problema: Este experimento responde a la necesidad de mejorar la coordinación del cuidado y reducir la ineficiencia en interconsultas.
+**Vinculación al problema:** Este experimento responde a la necesidad de mejorar la coordinación del cuidado y reducir la ineficiencia en interconsultas.
 
 <table>
 	<tbody>
 		<tr>
 			<td>Question</td>
-			<td><¿El acceso digital a historias clínicas por parte de los médicos reduce el tiempo en la toma de decisiones clínicas?/td>
+			<td>¿El acceso digital a historias clínicas por parte de los médicos reduce el tiempo en la toma de decisiones clínicas?</td>
 		</tr>
 		<tr>
 			<td>Belief</td>
@@ -6088,7 +6088,7 @@ Vinculación al problema: Este experimento responde a la necesidad de mejorar la
 	</tbody>
 </table>
 
-Vinculación al problema: Este experimento aborda la falta de accesibilidad a la atención médica digital para ciertos grupos, como adultos mayores.
+**Vinculación al problema** Este experimento aborda la falta de accesibilidad a la atención médica digital para ciertos grupos, como adultos mayores.
 
 <table>
 	<tbody>
@@ -6111,7 +6111,7 @@ Vinculación al problema: Este experimento aborda la falta de accesibilidad a la
 	</tbody>
 </table>
 
-Vinculación al problema: Este experimento se alinea con la necesidad de mejorar la comunicación médico-paciente y reducir ineficiencias en la gestión de información repetitiva.
+**Vinculación al problema:** Este experimento se alinea con la necesidad de mejorar la comunicación médico-paciente y reducir ineficiencias en la gestión de información repetitiva.
 
 <table>
 	<tbody>
@@ -6136,7 +6136,7 @@ Vinculación al problema: Este experimento se alinea con la necesidad de mejorar
 
 **Hipótesis secundarias:**
 
-Vinculación al problema: Este experimento se enfoca en mejorar la percepción del servicio, especialmente en cuanto a accesibilidad y seguimiento de tratamientos.
+**Vinculación al problema:** Este experimento se enfoca en mejorar la percepción del servicio, especialmente en cuanto a accesibilidad y seguimiento de tratamientos.
 
 <table>
 	<tbody>
@@ -6159,7 +6159,7 @@ Vinculación al problema: Este experimento se enfoca en mejorar la percepción d
 	</tbody>
 </table>
 
-Vinculación al problema: Responde directamente a la falta de integración de información clínica entre diferentes especialistas.
+**Vinculación al problema:** Responde directamente a la falta de integración de información clínica entre diferentes especialistas.
 
 <table>
 	<tbody>
@@ -6182,7 +6182,7 @@ Vinculación al problema: Responde directamente a la falta de integración de in
 	</tbody>
 </table>
 
-Vinculación al problema: Apunta a simplificar la gestión de citas, reduciendo tiempos innecesarios en procesos manuales.
+**Vinculación al problema:** Apunta a simplificar la gestión de citas, reduciendo tiempos innecesarios en procesos manuales.
 
 <table>
 	<tbody>
@@ -6232,6 +6232,115 @@ Las métricas se clasifican en tres categorías:
 - **Volumen de citas programadas:** Cambios en la demanda general.
 - **Perfil demográfico:** Edad, canal, experiencia digital.
 - **Satisfacción por funcionalidad:** Encuestas específicas por módulo.
+
+Explicación de cada experimento:
+
+**1. Recordatorios automáticos para reducir ausencias**
+
+- **Métrica primaria:**
+  Medir el procentaje de la tasa de asistencia tanto de citas agendadas como citas asistidas, con y sin recordatorio.
+
+- **Población objetivo:**
+  Pacientes agendados dentro de la plataforma digital.
+
+- **Duración estimada:**
+  4 semanas con al menos 1000 citas agendadas.
+
+- **Herramientas de medición:**
+  Registros del sistema de agendamiento, Google Sheets/BigQuery para análisis.
+
+**2. Historias clínicas digitales y eficiencia médica**
+
+- **Métricas primarias y secundarias:**
+
+  - Eficiencia médica a través de la realización de consultas por hora.
+  - Acceso a historia clínica midiendo la frecuencia y tiempo promedio realizados por sesión.
+
+- **Población objetivo:**
+  Médicos especialistas.
+
+- **Duración estimada:**
+  2 semanas de jornada clínica estándar por médico (mínimo 10 profesionales).
+
+- **Herramientas de medición:**
+  Logs de acceso a historia clínica y encuestas internas.
+
+**3. Accesibilidad para adultos mayores**
+
+- **Métricas primarias y secundarias:**
+
+  - Tiempo promedio de programación en minutos.
+  - Errores en flujo de programación.
+
+- **Población objetivo:**
+  Pacientes mayores de 60 años con acceso a la plataforma.
+
+- **Duración estimada:**
+  2 semanas y una muestra de alrededor de 50 participantes.
+
+- **Herramientas de medición:**
+  Grabación de sesiones (con consentimiento), Google Analytics y encuestas.
+
+**4. Chatbot y carga administrativa**
+
+- **Métricas primarias y secundarias:**
+  Uso del chatbot según el número de interacciones y/o resoluciones.
+  Satisfacción por funcionalidad al realizar encuestas rápidas post-interacción.
+
+- **Población objetivo:**
+  Pacientes con dudas frecuentes y personal administrativo.
+
+- **Duración estimada:**
+  3 semanas, mínimo 500 sesiones con chatbot activo.
+
+- **Herramientas de medición:**
+  Encuestas integradas.
+
+**5. Telemedicina y satisfacción (NPS)**
+
+- **Métrica primaria:**
+  Net Promoter Score (NPS).
+
+- **Población objetivo:**
+  Pacientes que completan una consulta virtual.
+
+- **Duración estimada:**
+  4 semanas, mínimo 100 consultas virtuales.
+
+- **Herramientas de medición:**
+  Encuestas automáticas post-consulta.
+
+**6. Centralización de historias clínicas y errores médicos**
+
+- **Métricas secundarias y control:**
+
+  - Errores médicos reportados (auditoría interna o simulaciones clínicas).
+  - Frecuencia y uso al acceder al historial clínico.
+
+- **Población objetivo:**
+  Médicos.
+
+- **Duración estimada:**
+  3 semanas con escenarios simulados o casos reales controlados.
+
+- **Herramientas de medición:**
+  Registros clínicos y entrevistas.
+
+**7. Plataforma para agendamiento eficiente**
+
+- **Métricas primarias y de control:**
+
+  - Tiempo promedio de programación en minutos
+  - Volumen de citas programadas.
+
+- **Población objetivo:**
+  Todos los usuarios de la plataforma (pacientes nuevos y recurrentes).
+
+- **Duración estimada:**
+  2 semanas con tráfico activo.
+
+- **Herramientas de medición:**
+  Google Analytics, heatmaps, herramientas UX como Hotjar.
 
 ---
 
