@@ -6042,16 +6042,168 @@ Las hipótesis son declaraciones comprobables que buscan validar suposiciones so
 
 **Hipótesis primarias:**
 
-- **H1:** Los pacientes que reciben recordatorios automáticos (SMS, email, push) presentarán una tasa de ausencias menor al 15%, comparado con una línea base actual de 25%.
-- **H2:** Los médicos que acceden a historias clínicas digitales tomarán decisiones clínicas en un 25% menos de tiempo, debido a una mejor disponibilidad y organización de la información.
-- **H3:** Los usuarios mayores de 60 años podrán completar de manera autónoma el flujo de programación de citas en línea en menos de 5 minutos, siempre que la interfaz esté optimizada para accesibilidad.
-- **H4:** La inclusión de un chatbot para resolver dudas frecuentes reducirá en al menos un 30% la carga de trabajo del personal administrativo en consultas repetitivas o administrativas.
+Vinculación al problema: Este experimento aborda el problema de demoras en procedimientos causadas por inasistencias a citas, identificado en el análisis del estado actual del sistema de atención.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Question </td>
+			<td>¿Los recordatorios automáticos (SMS, email, push) pueden reducir significativamente la tasa de ausencias a citas médicas?</td>
+		</tr>
+		<tr>
+			<td>Belief</td>
+			<td>Creemos que los recordatorios automáticos ayuden significativamente a que los pacientes recuerden y asistan a sus citas médicas.</td>
+		</tr>
+		<tr>
+			<td>Hypothesis</td>
+			<td>Los pacientes que reciben recordatorios automáticos presentarán una tasa de ausencias menor al 15%, comparado con una línea base actual de 25%.</td>
+		</tr>
+		<tr>
+			<td>Null Hypothesis</td>
+			<td>El envío de recordatorios automáticos no reduce la tasa de ausencias.</td>
+		</tr>
+	</tbody>
+</table>
+
+Vinculación al problema: Este experimento responde a la necesidad de mejorar la coordinación del cuidado y reducir la ineficiencia en interconsultas.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Question</td>
+			<td><¿El acceso digital a historias clínicas por parte de los médicos reduce el tiempo en la toma de decisiones clínicas?/td>
+		</tr>
+		<tr>
+			<td>Belief</td>
+			<td>Creemos que las historias clínicas digitales mejoran el acceso y organización de la información clínica.</td>
+		</tr>
+		<tr>
+			<td>Hypothesis</td>
+			<td>Los médicos que acceden a historias clínicas digitales tomarán decisiones clínicas en un 25% menos de tiempo, gracias a una mejor disponibilidad y organización de la información.</td>
+		</tr>
+		<tr>
+			<td>Null Hypothesis</td>
+			<td>El acceso a historias clínicas digitales no reduce significativamente el tiempo que los médicos tardan en tomar decisiones clínicas.</td>
+		</tr>
+	</tbody>
+</table>
+
+Vinculación al problema: Este experimento aborda la falta de accesibilidad a la atención médica digital para ciertos grupos, como adultos mayores.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Question</td>
+			<td>¿Los adultos mayores pueden usar de forma autónoma y eficiente una plataforma de programación de citas si se tiene en cuenta la accesibilidad?</td>
+		</tr>
+		<tr>
+			<td>Belief</td>
+			<td>Creemos que una interfaz optimizada para ser accesible permite a los adultos mayores completar procesos digitales sin asistencia.</td>
+		</tr>
+		<tr>
+			<td>Hypothesis</td>
+			<td>Los usuarios mayores de 60 años podrán completar de manera autónoma el flujo de programación de citas en línea en menos de 5 minutos, siempre que la interfaz esté optimizada para ser accesible.</td>
+		</tr>
+		<tr>
+			<td>Null Hypothesis </td>
+			<td>Los usuarios mayores de 60 años no podrán completar de manera autónoma el flujo de programación de citas en línea en menos de 5 minutos, aún con una interfaz accesible.</td>
+		</tr>
+	</tbody>
+</table>
+
+Vinculación al problema: Este experimento se alinea con la necesidad de mejorar la comunicación médico-paciente y reducir ineficiencias en la gestión de información repetitiva.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Question</td>
+			<td>¿La inclusión de un chatbot para dudas frecuentes puede reducir la carga administrativa en consultas repetitivas?</td>
+		</tr>
+		<tr>
+			<td>Belief</td>
+			<td>Creemos que un chatbot puede automatizar la atención de dudas frecuentes, reduciendo la carga de trabajo del personal administrativo.</td>
+		</tr>
+		<tr>
+			<td>Hypothesis </td>
+			<td>La inclusión de un chatbot reducirá en un 30% la carga de trabajo del personal administrativo en consultas repetitivas o administrativas.</td>
+		</tr>
+		<tr>
+			<td>Null Hypothesis </td>
+			<td>La inclusión de un chatbot no reducirá significativamente la carga de trabajo del personal administrativo.</td>
+		</tr>
+	</tbody>
+</table>
 
 **Hipótesis secundarias:**
 
-- **H5:** La integración de funcionalidades de telemedicina mejorará el Net Promoter Score (NPS) del servicio en al menos 15 puntos.
-- **H6:** La centralización de historias clínicas reducirá errores médicos relacionados con información incompleta en al menos un 20%.
-- **H7:** La plataforma reducirá el tiempo promedio de programación de una cita en al menos un 40% respecto al proceso manual actual.
+Vinculación al problema: Este experimento se enfoca en mejorar la percepción del servicio, especialmente en cuanto a accesibilidad y seguimiento de tratamientos.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Question</td>
+			<td>¿La integración de funcionalidades de telemedicina mejora la percepción del servicio, medida por el NPS?</td>
+		</tr>
+		<tr>
+			<td>Belief</td>
+			<td>Creemos que ofrecer telemedicina mejora la experiencia del paciente y su percepción del servicio.</td>
+		</tr>
+		<tr>
+			<td>Hypothesis </td>
+			<td>La integración de funcionalidades de telemedicina mejorará el Net Promoter Score (NPS) del servicio en al menos 15 puntos.</td>
+		</tr>
+		<tr>
+			<td>Null Hypothesis </td>
+			<td>La integración de funcionalidades de telemedicina no mejorará significativamente el NPS del servicio.</td>
+		</tr>
+	</tbody>
+</table>
+
+Vinculación al problema: Responde directamente a la falta de integración de información clínica entre diferentes especialistas.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Question</td>
+			<td>¿La centralización de historias clínicas reduce los errores médicos asociados a la información incompleta?</td>
+		</tr>
+		<tr>
+			<td>Belief</td>
+			<td>Creemos que, tener toda la información clínica en un solo lugar, evita omisiones y errores.</td>
+		</tr>
+		<tr>
+			<td>Hypothesis </td>
+			<td>La centralización de historias clínicas reducirá errores médicos relacionados con información incompleta en al menos un 20%.</td>
+		</tr>
+		<tr>
+			<td>Null Hypothesis </td>
+			<td>La centralización de historias clínicas no reducirá significativamente los errores médicos relacionados con información incompleta.</td>
+		</tr>
+	</tbody>
+</table>
+
+Vinculación al problema: Apunta a simplificar la gestión de citas, reduciendo tiempos innecesarios en procesos manuales.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Question</td>
+			<td>¿La digitalización del proceso de programación de citas reduce el tiempo requerido por los usuarios?</td>
+		</tr>
+		<tr>
+			<td>Belief</td>
+			<td>Creemos que una plataforma digital simplifica el proceso de agendamiento.</td>
+		</tr>
+		<tr>
+			<td>Hypothesis </td>
+			<td>La plataforma reducirá el tiempo promedio de programación de una cita en al menos un 40% respecto al proceso manual actual.</td>
+		</tr>
+		<tr>
+			<td>Null Hypothesis </td>
+			<td>La plataforma no reducirá significativamente el tiempo promedio de programación de una cita.</td>
+		</tr>
+	</tbody>
+</table>
 
 ---
 
@@ -6461,50 +6613,58 @@ El backlog actualizado recoge las funcionalidades priorizadas tras la validació
 > - Cada ítem tiene asociados criterios de aceptación definidos por comportamiento observable y validación automática cuando sea posible.
 
 ---
+
 ## 8.3.3. Team Collaboration Insights
+
 ![image](https://github.com/user-attachments/assets/20d5744b-1ad5-426b-8d3e-d87708b8ba5a)
 
 ### Herramientas de Colaboración Utilizadas
 
 #### Plataformas de Comunicación
-- **Discord**: Canal principal de comunicación diaria del equipo  
-- **Microsoft Teams**: Reuniones semanales de retrospectiva y planning  
-- **WhatsApp**: Comunicación rápida y notificaciones urgentes  
+
+- **Discord**: Canal principal de comunicación diaria del equipo
+- **Microsoft Teams**: Reuniones semanales de retrospectiva y planning
+- **WhatsApp**: Comunicación rápida y notificaciones urgentes
 
 #### Desarrollo y Versionado
-- **Git/GitHub**: Control de versiones y colaboración en código  
-- **GitHub Projects**: Tablero Kanban integrado con repositorios  
+
+- **Git/GitHub**: Control de versiones y colaboración en código
+- **GitHub Projects**: Tablero Kanban integrado con repositorios
 
 ### Metodologías de Trabajo
 
 #### Scrum Framework
-- **Sprint Planning**: Reuniones cada 2 semanas para planificar iteraciones  
-- **Sprint Review**: Presentación de entregables al final de cada sprint  
+
+- **Sprint Planning**: Reuniones cada 2 semanas para planificar iteraciones
+- **Sprint Review**: Presentación de entregables al final de cada sprint
 
 ---
 
 ## 8.3.4. To-Be Validation Interviews
 
 ### Objetivo de las Entrevistas
+
 Validar las mejoras implementadas en MedSystem tras la experimentación, específicamente enfocadas en:
 
-- Efectividad de los recordatorios automáticos  
-- Usabilidad de la interfaz para adultos mayores  
-- Funcionalidad del chatbot de atención básica  
-- Satisfacción con el acceso a historia clínica digitalizada  
+- Efectividad de los recordatorios automáticos
+- Usabilidad de la interfaz para adultos mayores
+- Funcionalidad del chatbot de atención básica
+- Satisfacción con el acceso a historia clínica digitalizada
 
 ### Metodología de Validación
 
 #### Estructura de Entrevistas
-- **Duración**: 30–45 minutos por entrevista  
-- **Modalidad**: Presencial y virtual (50/50)  
-- **Grabación**: Con consentimiento para análisis posterior  
-- **Incentivos**: Descuentos en consultas para participantes  
+
+- **Duración**: 30–45 minutos por entrevista
+- **Modalidad**: Presencial y virtual (50/50)
+- **Grabación**: Con consentimiento para análisis posterior
+- **Incentivos**: Descuentos en consultas para participantes
 
 #### Criterios de Selección
-- **Pacientes**: Usuarios activos con al menos 3 citas programadas  
-- **Médicos**: Especialistas en traumatología con >6 meses usando el sistema  
-- **Laboratorios**: Centros integrados con el sistema por >3 meses  
+
+- **Pacientes**: Usuarios activos con al menos 3 citas programadas
+- **Médicos**: Especialistas en traumatología con >6 meses usando el sistema
+- **Laboratorios**: Centros integrados con el sistema por >3 meses
 
 ---
 
@@ -6515,121 +6675,139 @@ Validar las mejoras implementadas en MedSystem tras la experimentación, especí
 ### Segmento: Pacientes (20 entrevistas)
 
 #### Perfil de Participantes:
-- Adultos 25-65 años que han usado las nuevas funcionalidades  
-- Distribución: 40% adultos mayores (+60 años), 60% otros grupos etarios  
-- Variedad de especialidades médicas dentro de traumatología  
+
+- Adultos 25-65 años que han usado las nuevas funcionalidades
+- Distribución: 40% adultos mayores (+60 años), 60% otros grupos etarios
+- Variedad de especialidades médicas dentro de traumatología
 
 #### Guía de Entrevista - Pacientes
 
 ##### Introducción (5 minutos)
-- Presentación del entrevistador y objetivos  
-- Consentimiento para grabación  
-- Contexto sobre las mejoras implementadas  
+
+- Presentación del entrevistador y objetivos
+- Consentimiento para grabación
+- Contexto sobre las mejoras implementadas
 
 ##### Sección 1: Recordatorios Automáticos (10 minutos)
-1. ¿Cómo ha sido tu experiencia con los recordatorios de citas?  
-2. ¿Los recordatorios te han ayudado a no olvidar tus citas?  
-3. ¿Qué opinas sobre la función de confirmar/reprogramar desde el mismo mensaje?  
-4. ¿Has tenido algún problema técnico con los recordatorios?  
-5. Del 1 al 10, ¿cómo calificarías esta funcionalidad?  
+
+1. ¿Cómo ha sido tu experiencia con los recordatorios de citas?
+2. ¿Los recordatorios te han ayudado a no olvidar tus citas?
+3. ¿Qué opinas sobre la función de confirmar/reprogramar desde el mismo mensaje?
+4. ¿Has tenido algún problema técnico con los recordatorios?
+5. Del 1 al 10, ¿cómo calificarías esta funcionalidad?
 
 ##### Sección 2: Interfaz Accesible (10 minutos)
-1. ¿Cómo percibes la nueva interfaz para programar citas?  
-2. ¿Es más fácil navegar ahora comparado con antes?  
-3. ¿Qué tan intuitivos son los iconos y botones?  
-4. ¿Hay algo que te confunda o sea difícil de encontrar?  
-5. ¿Recomendarías esta interfaz a otras personas de tu edad?  
+
+1. ¿Cómo percibes la nueva interfaz para programar citas?
+2. ¿Es más fácil navegar ahora comparado con antes?
+3. ¿Qué tan intuitivos son los iconos y botones?
+4. ¿Hay algo que te confunda o sea difícil de encontrar?
+5. ¿Recomendarías esta interfaz a otras personas de tu edad?
 
 ##### Sección 3: Chatbot de Atención (8 minutos)
-1. ¿Has usado el chatbot para hacer consultas básicas?  
-2. ¿El chatbot resolvió tus dudas de manera satisfactoria?  
-3. ¿Prefieres el chatbot o llamar por teléfono?  
-4. ¿Qué mejoras le harías al chatbot?  
+
+1. ¿Has usado el chatbot para hacer consultas básicas?
+2. ¿El chatbot resolvió tus dudas de manera satisfactoria?
+3. ¿Prefieres el chatbot o llamar por teléfono?
+4. ¿Qué mejoras le harías al chatbot?
 
 ##### Sección 4: Historia Clínica Digital (8 minutos)
-1. ¿Has podido acceder a tu historia clínica desde la plataforma?  
-2. ¿La información está completa y actualizada?  
-3. ¿Te sientes seguro con el manejo de tu información médica?  
-4. ¿Qué tan útil es tener acceso a tu historial en línea?  
+
+1. ¿Has podido acceder a tu historia clínica desde la plataforma?
+2. ¿La información está completa y actualizada?
+3. ¿Te sientes seguro con el manejo de tu información médica?
+4. ¿Qué tan útil es tener acceso a tu historial en línea?
 
 ##### Cierre (4 minutos)
-- Satisfacción general con las mejoras  
-- Sugerencias adicionales  
-- NPS: ¿Recomendarías MedSystem a familiares/amigos?  
+
+- Satisfacción general con las mejoras
+- Sugerencias adicionales
+- NPS: ¿Recomendarías MedSystem a familiares/amigos?
 
 ---
 
 ### Segmento: Médicos Especialistas (15 entrevistas)
 
 #### Perfil de Participantes:
-- Traumatólogos con consulta privada  
-- Médicos de clínicas que usan MedSystem  
-- Variedad de años de experiencia (junior, senior)  
+
+- Traumatólogos con consulta privada
+- Médicos de clínicas que usan MedSystem
+- Variedad de años de experiencia (junior, senior)
 
 #### Guía de Entrevista - Médicos
 
 ##### Introducción (5 minutos)
-- Presentación y objetivos  
-- Consentimiento para grabación  
-- Contexto sobre mejoras implementadas  
+
+- Presentación y objetivos
+- Consentimiento para grabación
+- Contexto sobre mejoras implementadas
 
 ##### Sección 1: Eficiencia Operacional (12 minutos)
-1. ¿Has notado reducción en el tiempo de programación de citas?  
-2. ¿Cómo impactan los recordatorios automáticos en las ausencias?  
-3. ¿El acceso a historia clínica mejora tu consulta?  
-4. ¿Qué tan eficiente es el registro clínico estructurado?  
-5. ¿Has reducido tiempo administrativo desde las mejoras?  
+
+1. ¿Has notado reducción en el tiempo de programación de citas?
+2. ¿Cómo impactan los recordatorios automáticos en las ausencias?
+3. ¿El acceso a historia clínica mejora tu consulta?
+4. ¿Qué tan eficiente es el registro clínico estructurado?
+5. ¿Has reducido tiempo administrativo desde las mejoras?
 
 ##### Sección 2: Comunicación con Pacientes (10 minutos)
-1. ¿Cómo evalúas la comunicación con pacientes ahora?  
-2. ¿El chatbot reduce consultas básicas a tu consultorio?  
-3. ¿Los pacientes llegan mejor informados a las citas?  
-4. ¿Has notado mejora en la satisfacción de tus pacientes?  
+
+1. ¿Cómo evalúas la comunicación con pacientes ahora?
+2. ¿El chatbot reduce consultas básicas a tu consultorio?
+3. ¿Los pacientes llegan mejor informados a las citas?
+4. ¿Has notado mejora en la satisfacción de tus pacientes?
 
 ##### Sección 3: Integración con Laboratorios (8 minutos)
-1. ¿Cómo funciona la coordinación con laboratorios?  
-2. ¿Los resultados llegan de manera oportuna?  
-3. ¿La comunicación entre especialistas ha mejorado?  
-4. ¿Qué tan efectiva es la plataforma para casos complejos?  
+
+1. ¿Cómo funciona la coordinación con laboratorios?
+2. ¿Los resultados llegan de manera oportuna?
+3. ¿La comunicación entre especialistas ha mejorado?
+4. ¿Qué tan efectiva es la plataforma para casos complejos?
 
 ##### Sección 4: Satisfacción y Adopción (10 minutos)
-1. ¿Qué tan satisfecho estás con las nuevas funcionalidades?  
-2. ¿Recomendarías MedSystem a colegas?  
-3. ¿Qué características adicionales necesitarías?  
-4. ¿Cómo calificarías la plataforma del 1 al 10?  
+
+1. ¿Qué tan satisfecho estás con las nuevas funcionalidades?
+2. ¿Recomendarías MedSystem a colegas?
+3. ¿Qué características adicionales necesitarías?
+4. ¿Cómo calificarías la plataforma del 1 al 10?
 
 ---
 
 ### Segmento: Laboratorios (10 entrevistas)
 
 #### Perfil de Participantes:
-- Laboratorios clínicos integrados con MedSystem  
-- Personal técnico y administrativo  
-- Variedad de tamaños de laboratorio  
+
+- Laboratorios clínicos integrados con MedSystem
+- Personal técnico y administrativo
+- Variedad de tamaños de laboratorio
 
 #### Guía de Entrevista - Laboratorios
 
 ##### Introducción (5 minutos)
-- Presentación y objetivos  
-- Consentimiento para grabación  
+
+- Presentación y objetivos
+- Consentimiento para grabación
 
 ##### Sección 1: Integración Técnica (12 minutos)
-1. ¿Cómo ha sido la integración con MedSystem?  
-2. ¿Los pedidos de exámenes llegan completos y a tiempo?  
-3. ¿Qué tan eficiente es el flujo de subir resultados?  
-4. ¿Han tenido problemas técnicos con la plataforma?  
+
+1. ¿Cómo ha sido la integración con MedSystem?
+2. ¿Los pedidos de exámenes llegan completos y a tiempo?
+3. ¿Qué tan eficiente es el flujo de subir resultados?
+4. ¿Han tenido problemas técnicos con la plataforma?
 
 ##### Sección 2: Comunicación y Coordinación (10 minutos)
-1. ¿Cómo es la comunicación con los médicos a través de la plataforma?  
-2. ¿Los pacientes llegan mejor preparados para los exámenes?  
-3. ¿Ha mejorado la coordinación de casos urgentes?  
-4. ¿Qué tan efectiva es la notificación de resultados?  
+
+1. ¿Cómo es la comunicación con los médicos a través de la plataforma?
+2. ¿Los pacientes llegan mejor preparados para los exámenes?
+3. ¿Ha mejorado la coordinación de casos urgentes?
+4. ¿Qué tan efectiva es la notificación de resultados?
 
 ##### Sección 3: Impacto en Operaciones (8 minutos)
-1. ¿Ha mejorado la eficiencia de su laboratorio?  
-2. ¿Han reducido llamadas telefónicas de coordinación?  
-3. ¿Cómo impacta MedSystem en la satisfacción de sus clientes?  
-4. ¿Qué mejoras implementarían en la integración?  
+
+1. ¿Ha mejorado la eficiencia de su laboratorio?
+2. ¿Han reducido llamadas telefónicas de coordinación?
+3. ¿Cómo impacta MedSystem en la satisfacción de sus clientes?
+4. ¿Qué mejoras implementarían en la integración?
 
 ### Avance de Conclusiones, Bibliografía y Anexos
 
