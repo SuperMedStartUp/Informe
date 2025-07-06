@@ -6557,86 +6557,62 @@ Diseño del experimento:
 
 ## 8.3. Experimentation
 
-El objetivo de esta etapa es diseñar e implementar mejoras concretas en base a los aprendizajes obtenidos en las fases anteriores de experimentación planificada y validación de hipótesis. A partir de los resultados, se definen nuevas funcionalidades o ajustes en el producto, reflejados en historias de usuario ("To-Be") y backlog refinado.
+Este apartado documenta las mejoras planificadas para la plataforma digital, enmarcadas en un enfoque de diseño experimental orientado a validar hipótesis mediante la implementación incremental. A partir de la auditoría previa y recomendaciones recibidas, se identificaron áreas clave de mejora en la experiencia de usuario y funcionamiento general del sistema. Estas mejoras se agrupan en torno a cuatro User Stories seleccionadas como base para la experimentación.
+
 
 ---
 
 ### 8.3.1. To-Be User Stories
 
-A continuación, se presentan las principales historias de usuario emergentes de los aprendizajes obtenidos durante la validación de hipótesis:
+A continuación, se presentan las User Stories seleccionadas para experimentar mejoras funcionales y de usabilidad en la plataforma. Estas representan el estado To-Be (deseado) del sistema.
 
-#### Epic 1: Mejora en la asistencia a citas médicas
+- **US37 - Barra de navegación mejorada**
+Como usuario, quiero contar con una barra de navegación clara y funcional, con tooltips explicativos y botones que redirijan correctamente a las secciones de la plataforma, para mejorar la comprensión y accesibilidad de la interfaz.
 
-- **Historia 1:** Como paciente, quiero recibir recordatorios automáticos de mis citas para no olvidarlas.
-- **Historia 2:** Como paciente, quiero confirmar mi asistencia directamente desde el mensaje de recordatorio.
-- **Historia 3:** Como médico, quiero visualizar las ausencias históricas de mis pacientes para tomar decisiones informadas.
+- **US46 - Programación de citas médicas con feedback**
+Como paciente, quiero recibir una confirmación o advertencia al programar una cita médica, para saber si el proceso fue exitoso o si hubo un error.
 
-#### Epic 2: Digitalización y acceso a historia clínica
+- **US52 - Gestión de planes de tratamiento con fechas claras**
+Como médico, quiero poder gestionar los planes de tratamiento con fechas comprensibles y en la zona horaria local, para evitar confusiones y errores en la interpretación de la información.
 
-- **Historia 4:** Como médico, quiero acceder en tiempo real a la historia clínica del paciente desde cualquier dispositivo.
-- **Historia 5:** Como paciente, quiero poder actualizar información básica de salud desde la app antes de mi consulta.
-- **Historia 6:** Como médico, quiero registrar hallazgos clínicos de forma estructurada y rápida durante la consulta.
-
-#### Epic 3: Interfaz accesible para adultos mayores
-
-- **Historia 7:** Como usuario mayor de 60 años, quiero una versión simplificada de la pantalla de programación.
-- **Historia 8:** Como paciente, quiero recibir asistencia guiada paso a paso en el flujo de cita médica.
-
-#### Epic 4: Reducción de carga operativa vía chatbot
-
-- **Historia 9:** Como usuario, quiero consultar horarios, precios y requisitos mediante un chatbot sin tener que llamar.
-- **Historia 10:** Como administrador, quiero analizar las preguntas más frecuentes respondidas por el chatbot.
+- **US54 - Eliminación de tratamientos con confirmación**
+Como médico, quiero recibir un mensaje de confirmación al eliminar un tratamiento, para asegurarme de que la acción se ha ejecutado correctamente.
 
 ---
 
 ### 8.3.2. To-Be Product Backlog
 
-El backlog actualizado recoge las funcionalidades priorizadas tras la validación experimental, clasificadas por su impacto esperado y esfuerzo estimado (MoSCoW):
+A partir de las User Stories mencionadas, se definieron los siguientes elementos en el Product Backlog To-Be, priorizando funcionalidades a experimentar e implementar:
 
-| ID   | Historia / Funcionalidad                                | Prioridad | Tipo      | Iteración |
-| ---- | ------------------------------------------------------- | --------- | --------- | --------- |
-| PB01 | Recordatorios multicanal para citas                     | Must      | Feature   | Sprint 1  |
-| PB02 | Confirmación y reprogramación desde notificaciones      | Must      | Feature   | Sprint 1  |
-| PB03 | Módulo de historial clínico con vista resumida          | Should    | Feature   | Sprint 2  |
-| PB04 | Registro clínico estructurado por el médico             | Must      | Feature   | Sprint 2  |
-| PB05 | Chatbot de atención básica integrada                    | Must      | Feature   | Sprint 3  |
-| PB06 | Reporte de interacciones chatbot                        | Should    | Analytics | Sprint 3  |
-| PB07 | Modo accesible (UI adaptada) para adultos mayores       | Should    | UI/UX     | Sprint 2  |
-| PB08 | Panel de ausencias por paciente para el médico          | Could     | Feature   | Sprint 3  |
-| PB09 | Dashboard para seguimiento de adopción y métricas clave | Must      | Analytics | Sprint 1  |
-| PB10 | Formulario pre-consulta editable por el paciente        | Could     | Feature   | Sprint 4  |
+| ID   | User Story Asociada      | Tarea                                                      | Prioridad | Observaciones                          |
+|------|---------------------------|-------------------------------------------------------------|-----------|----------------------------------------|
+| PB01 | US37 - Barra de navegación | Agregar tooltips informativos a los íconos del navbar      | Alta      | Mejora la usabilidad general           |
+| PB02 | US37 - Barra de navegación | Corregir botón de navegación que no redirige correctamente | Alta      | Problema detectado en auditoría        |
+| PB03 | US46 - Programación de citas médicas | Añadir mensaje de éxito/error al programar citas         | Media     | Mejora la comunicación al usuario      |
+| PB04 | US52 - Planes de tratamiento | Mostrar fecha local en vez de UTC                         | Alta      | Aumenta la claridad para el usuario    |
+| PB05 | US54 - Eliminación de tratamiento | Mostrar mensaje de éxito al eliminar tratamiento        | Media     | Refuerza el feedback visual al usuario |
 
-> **Notas:**
->
-> - Las funcionalidades Must serán lanzadas en la versión mínima viable (MVP).
-> - Se prioriza lo que tenga mayor impacto directo en KPIs validados: adopción, ausencias, tiempo de programación y NPS.
-> - Cada ítem tiene asociados criterios de aceptación definidos por comportamiento observable y validación automática cuando sea posible.
+## 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+
+La experimentación sigue un ciclo iterativo basado en la integración continua y el despliegue progresivo (CI/CD), soportado por una pipeline de desarrollo que permite probar hipótesis directamente en el entorno de la plataforma. Cada mejora planificada se valida mediante métricas de experiencia de usuario, retroalimentación de pruebas y observación de comportamiento esperado.
+
+Esta sección está compuesta por los siguientes subapartados:
 
 ---
 
-## 8.3.3. Team Collaboration Insights
+#### 8.3.3.1. To-Be Sprint Backlogs
 
-![image](https://github.com/user-attachments/assets/20d5744b-1ad5-426b-8d3e-d87708b8ba5a)
+Se planificaron sprints específicos para implementar y validar cada uno de los experimentos derivados del Product Backlog. A continuación se detalla el Sprint Backlog para la fase actual:
 
-### Herramientas de Colaboración Utilizadas
+**Sprint 1 – Experimentos de Usabilidad y Feedback Visual**
 
-#### Plataformas de Comunicación
-
-- **Discord**: Canal principal de comunicación diaria del equipo
-- **Microsoft Teams**: Reuniones semanales de retrospectiva y planning
-- **WhatsApp**: Comunicación rápida y notificaciones urgentes
-
-#### Desarrollo y Versionado
-
-- **Git/GitHub**: Control de versiones y colaboración en código
-- **GitHub Projects**: Tablero Kanban integrado con repositorios
-
-### Metodologías de Trabajo
-
-#### Scrum Framework
-
-- **Sprint Planning**: Reuniones cada 2 semanas para planificar iteraciones
-- **Sprint Review**: Presentación de entregables al final de cada sprint
+| Tarea                                              | Asociada a | Duración estimada | Responsable      | Estado        |
+|---------------------------------------------------|------------|-------------------|------------------|---------------|
+| Implementar tooltips en barra de navegación       | US37       | 2 días            | Astrid   | En desarrollo |
+| Corregir botón de redirección a plataforma        | US37       | 1 día             | Eduardo    | Completado    |
+| Mostrar mensaje de éxito/error en citas médicas   | US46       | 2 días            | Juan   | En desarrollo |
+| Convertir fechas a formato local (no UTC)         | US52       | 2 días            | Erick      | Pendiente     |
+| Agregar mensaje de éxito al eliminar tratamiento  | US54       | 1 día             | Luis      | En desarrollo |
 
 ---
 
