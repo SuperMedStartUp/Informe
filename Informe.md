@@ -6668,7 +6668,6 @@ Diseño del experimento:
 
 Este apartado documenta las mejoras planificadas para la plataforma digital, enmarcadas en un enfoque de diseño experimental orientado a validar hipótesis mediante la implementación incremental. A partir de la auditoría previa y recomendaciones recibidas, se identificaron áreas clave de mejora en la experiencia de usuario y funcionamiento general del sistema. Estas mejoras se agrupan en torno a cuatro User Stories seleccionadas como base para la experimentación.
 
-
 ---
 
 ### 8.3.1. To-Be User Stories
@@ -6676,16 +6675,16 @@ Este apartado documenta las mejoras planificadas para la plataforma digital, enm
 A continuación, se presentan las User Stories seleccionadas para experimentar mejoras funcionales y de usabilidad en la plataforma. Estas representan el estado To-Be (deseado) del sistema.
 
 - **US37 - Barra de navegación mejorada**
-Como usuario, quiero contar con una barra de navegación clara y funcional, con tooltips explicativos y botones que redirijan correctamente a las secciones de la plataforma, para mejorar la comprensión y accesibilidad de la interfaz.
+  Como usuario, quiero contar con una barra de navegación clara y funcional, con tooltips explicativos y botones que redirijan correctamente a las secciones de la plataforma, para mejorar la comprensión y accesibilidad de la interfaz.
 
 - **US46 - Programación de citas médicas con feedback**
-Como paciente, quiero recibir una confirmación o advertencia al programar una cita médica, para saber si el proceso fue exitoso o si hubo un error.
+  Como paciente, quiero recibir una confirmación o advertencia al programar una cita médica, para saber si el proceso fue exitoso o si hubo un error.
 
 - **US52 - Gestión de planes de tratamiento con fechas claras**
-Como médico, quiero poder gestionar los planes de tratamiento con fechas comprensibles y en la zona horaria local, para evitar confusiones y errores en la interpretación de la información.
+  Como médico, quiero poder gestionar los planes de tratamiento con fechas comprensibles y en la zona horaria local, para evitar confusiones y errores en la interpretación de la información.
 
 - **US54 - Eliminación de tratamientos con confirmación**
-Como médico, quiero recibir un mensaje de confirmación al eliminar un tratamiento, para asegurarme de que la acción se ha ejecutado correctamente.
+  Como médico, quiero recibir un mensaje de confirmación al eliminar un tratamiento, para asegurarme de que la acción se ha ejecutado correctamente.
 
 ---
 
@@ -6693,13 +6692,13 @@ Como médico, quiero recibir un mensaje de confirmación al eliminar un tratamie
 
 A partir de las User Stories mencionadas, se definieron los siguientes elementos en el Product Backlog To-Be, priorizando funcionalidades a experimentar e implementar:
 
-| ID   | User Story Asociada      | Tarea                                                      | Prioridad | Observaciones                          |
-|------|---------------------------|-------------------------------------------------------------|-----------|----------------------------------------|
-| PB01 | US37 - Barra de navegación | Agregar tooltips informativos a los íconos del navbar      | Alta      | Mejora la usabilidad general           |
-| PB02 | US37 - Barra de navegación | Corregir botón de navegación que no redirige correctamente | Alta      | Problema detectado en auditoría        |
-| PB03 | US46 - Programación de citas médicas | Añadir mensaje de éxito/error al programar citas         | Media     | Mejora la comunicación al usuario      |
-| PB04 | US52 - Planes de tratamiento | Mostrar fecha local en vez de UTC                         | Alta      | Aumenta la claridad para el usuario    |
-| PB05 | US54 - Eliminación de tratamiento | Mostrar mensaje de éxito al eliminar tratamiento        | Media     | Refuerza el feedback visual al usuario |
+| ID   | User Story Asociada                  | Tarea                                                      | Prioridad | Observaciones                          |
+| ---- | ------------------------------------ | ---------------------------------------------------------- | --------- | -------------------------------------- |
+| PB01 | US37 - Barra de navegación           | Agregar tooltips informativos a los íconos del navbar      | Alta      | Mejora la usabilidad general           |
+| PB02 | US37 - Barra de navegación           | Corregir botón de navegación que no redirige correctamente | Alta      | Problema detectado en auditoría        |
+| PB03 | US46 - Programación de citas médicas | Añadir mensaje de éxito/error al programar citas           | Media     | Mejora la comunicación al usuario      |
+| PB04 | US52 - Planes de tratamiento         | Mostrar fecha local en vez de UTC                          | Alta      | Aumenta la claridad para el usuario    |
+| PB05 | US54 - Eliminación de tratamiento    | Mostrar mensaje de éxito al eliminar tratamiento           | Media     | Refuerza el feedback visual al usuario |
 
 ## 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
 
@@ -6715,13 +6714,13 @@ Se planificaron sprints específicos para implementar y validar cada uno de los 
 
 **Sprint 1 – Experimentos de Usabilidad y Feedback Visual**
 
-| Tarea                                              | Asociada a | Duración estimada | Responsable      | Estado        |
-|---------------------------------------------------|------------|-------------------|------------------|---------------|
-| Implementar tooltips en barra de navegación       | US37       | 2 días            | Astrid   | En desarrollo |
-| Corregir botón de redirección a plataforma        | US37       | 1 día             | Eduardo    | Completado    |
-| Mostrar mensaje de éxito/error en citas médicas   | US46       | 2 días            | Juan   | En desarrollo |
-| Convertir fechas a formato local (no UTC)         | US52       | 2 días            | Erick      | Pendiente     |
-| Agregar mensaje de éxito al eliminar tratamiento  | US54       | 1 día             | Luis      | En desarrollo |
+| Tarea                                            | Asociada a | Duración estimada | Responsable | Estado        |
+| ------------------------------------------------ | ---------- | ----------------- | ----------- | ------------- |
+| Implementar tooltips en barra de navegación      | US37       | 2 días            | Astrid      | En desarrollo |
+| Corregir botón de redirección a plataforma       | US37       | 1 día             | Eduardo     | Completado    |
+| Mostrar mensaje de éxito/error en citas médicas  | US46       | 2 días            | Juan        | En desarrollo |
+| Convertir fechas a formato local (no UTC)        | US52       | 2 días            | Erick       | Pendiente     |
+| Agregar mensaje de éxito al eliminar tratamiento | US54       | 1 día             | Luis        | En desarrollo |
 
 ---
 
@@ -6905,6 +6904,42 @@ Validar las mejoras implementadas en MedSystem tras la experimentación, especí
   - Anexos: experiment cards, raw data, gráficos y dashboards
 
 ---
+
+## 8.4. Experiment Aftermath & Analysis
+
+### 8.4.1. Analysis and Interpretation of Results
+
+Para la realización de las pruebas Redline 13 junto con LightHouse. Al usar Redline 13 se probó el rendimiento de la aplicación simulando condiciones de carga masivas para, de esa forma, medir su capacidad.
+
+Es de esta forma, que se realizaron 4 pruebas para comprobar el rendimiento de la aplicación para luego comprobar las estadísticas arrojadas:
+
+**Prueba 1:**
+<img src= "./assets/images/RedPrueba1.png"/>
+<br>
+
+**Prueba 2:**
+<img src= "./assets/images/RedPrueba2.png"/>
+<br>
+
+**Prueba 3:**
+<img src= "./assets/images/RedPrueba3.png"/>
+<br>
+
+**Prueba 4:**
+<img src= "./assets/images/RedPrueba4.png"/>
+<br>
+
+En cada prueba se evidencia que el 95% de las solicitudes se realizaron en un promedio de 11 segundos, también se muestra que las pruebas tardaron alrededor de 23 segundos en realizarse. Y lo principal, que en ningún momento hubo errores durante las pruebas realizadas.
+
+### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+## 8.5. Continuous Learning
+
+### 8.5.1. Shareback Session Artifacts: Learning Workflow
+
+## 8.6. To-Be Software Platform Pre-launch
+
+### 8.6.1. About-the-Product Intro Video
 
 **Conclusiones**
 
