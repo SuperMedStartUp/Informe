@@ -6754,6 +6754,36 @@ Validar las mejoras implementadas en MedSystem tras la experimentación, especí
 
 ### 8.3.4.1. Diseño de Entrevistas
 
+Se realizó el diseño de entrevistas para validar las hipótesis planteadas en los experimentos. Las entrevistas se centraron en obtener retroalimentación directa de los usuarios sobre las nuevas características implementadas en la plataforma MedSystem.
+
+#### Preguntas de Validación para Pacientes:
+
+¿Qué te parece la idea de tener un formulario de contacto simple con solo tres campos para facilitar el registro en la plataforma médica?
+
+¿Consideras útil incluir un video explicativo sobre el producto en la página principal de la landing page de MedSystem?
+
+¿Qué opinas sobre la opción de recibir asesoría médica directamente a través de WhatsApp?
+
+¿Crees que tener un modo claro y un modo oscuro mejora tu experiencia visual dentro de la aplicación médica?
+
+¿Piensas que incorporar un foro de preguntas médicas dentro de la app agrega valor a la experiencia del usuario?
+
+¿Te resulta útil la función de guardar publicaciones del foro como favoritas? ¿Crees que está bien implementada?
+
+#### Preguntas de Validación para Médicos:
+
+¿Qué opinas sobre la interfaz simplificada para programar citas médicas?
+
+¿Consideras útil la función de recordatorios automáticos para reducir ausencias de pacientes?
+
+¿Te resulta práctico el acceso centralizado a las historias clínicas de los pacientes?
+
+¿Qué opinas sobre la integración con laboratorios para compartir resultados de exámenes?
+
+¿Crees que el chatbot de atención básica reduce la carga de consultas administrativas?
+
+¿Te parece útil la función de gestión de planes de tratamiento con fechas claras?
+
 ---
 
 ### Segmento: Pacientes (20 entrevistas)
