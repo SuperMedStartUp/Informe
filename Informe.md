@@ -6808,31 +6808,31 @@ Se realizó el diseño de entrevistas para validar las hipótesis planteadas en 
 
 #### Preguntas de Validación para Pacientes:
 
-¿Qué te parece la idea de tener un formulario de contacto simple con solo tres campos para facilitar el registro en la plataforma médica?
+1. ¿Qué te parece la idea de tener un formulario de contacto simple con solo tres campos para facilitar el registro en la plataforma médica?
 
-¿Consideras útil incluir un video explicativo sobre el producto en la página principal de la landing page de MedSystem?
+2. ¿Consideras útil incluir un video explicativo sobre el producto en la página principal de la landing page de MedSystem?
 
-¿Qué opinas sobre la opción de recibir asesoría médica directamente a través de WhatsApp?
+3. ¿Qué opinas sobre la opción de recibir asesoría médica directamente a través de WhatsApp?
 
-¿Crees que tener un modo claro y un modo oscuro mejora tu experiencia visual dentro de la aplicación médica?
+4. ¿Crees que tener un modo claro y un modo oscuro mejora tu experiencia visual dentro de la aplicación médica?
 
-¿Piensas que incorporar un foro de preguntas médicas dentro de la app agrega valor a la experiencia del usuario?
+5. ¿Piensas que incorporar un foro de preguntas médicas dentro de la app agrega valor a la experiencia del usuario?
 
-¿Te resulta útil la función de guardar publicaciones del foro como favoritas? ¿Crees que está bien implementada?
+6. ¿Te resulta útil la función de guardar publicaciones del foro como favoritas? ¿Crees que está bien implementada?
 
 #### Preguntas de Validación para Médicos:
 
-¿Qué opinas sobre la interfaz simplificada para programar citas médicas?
+1. ¿Qué opinas sobre la interfaz simplificada para programar citas médicas?
 
-¿Consideras útil la función de recordatorios automáticos para reducir ausencias de pacientes?
+2. ¿Consideras útil la función de recordatorios automáticos para reducir ausencias de pacientes?
 
-¿Te resulta práctico el acceso centralizado a las historias clínicas de los pacientes?
+3. ¿Te resulta práctico el acceso centralizado a las historias clínicas de los pacientes?
 
-¿Qué opinas sobre la integración con laboratorios para compartir resultados de exámenes?
+4. ¿Qué opinas sobre la integración con laboratorios para compartir resultados de exámenes?
 
-¿Crees que el chatbot de atención básica reduce la carga de consultas administrativas?
+5. ¿Crees que el chatbot de atención básica reduce la carga de consultas administrativas?
 
-¿Te parece útil la función de gestión de planes de tratamiento con fechas claras?
+6. ¿Te parece útil la función de gestión de planes de tratamiento con fechas claras?
 
 ---
 
@@ -6840,23 +6840,39 @@ Se realizó el diseño de entrevistas para validar las hipótesis planteadas en 
 
 **PACIENTES:**
 
-**DOCTORES:**
+Entrevista 1: <br>
+Fecha entrevistado: 07/07/2025 <br>
+Entrevistado: Niurca Huarcaya <br>
 
-Entrevista 1:
+Datos del entrevistado: <br>
+Edad: 20 años <br>
+Distrito: Surco <br>
+
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EdDZEBdGRylEg8yi_hmDbz0B73Ft52m1quluw54IzC7daQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t7S1Pw](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EdDZEBdGRylEg8yi_hmDbz0B73Ft52m1quluw54IzC7daQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t7S1Pw)
+<br>
+Minuto de Inicio: 0:00 <br>
+Minuto de Fin: 2:59 <br>
+
+Resumen:
+
+La paciente Niurka valoró positivamente las funciones propuestas para la plataforma Med. Consideró útil un formulario de registro simple, ya que facilita el acceso; apoyó la inclusión de un video explicativo en la página principal para entender mejor el producto; y vio como una opción cómoda la asesoría médica vía WhatsApp. También destacó la utilidad del modo claro/oscuro según el entorno de uso, el valor añadido de un foro de preguntas médicas para compartir experiencias, y la practicidad de poder guardar publicaciones como favoritas, siempre que estén bien organizadas y sean fáciles de acceder.
+
+**DOCTORES:**
 
 ---
 
-Entrevista 2:
-Fecha entrevistado: 06/07/2025
-Entrevistado: Renzo Arteaga
+Entrevista 1: <br>
+Fecha entrevistado: 06/07/2025 <br>
+Entrevistado: Renzo Arteaga <br>
 
-Datos del entrevistado:
-Edad: 28 años
-Distrito: La Victoria
+Datos del entrevistado: <br>
+Edad: 28 años <br>
+Distrito: La Victoria <br>
 
-Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EfDj_1ktdblDvhFq_JqKbYIBV3UoGM7lV3Y0P9vSKz63VQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FQJYUv
-Minuto de Inicio: 00:00
-Minuto de Fin: 03:42
+Link de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EfDj_1ktdblDvhFq_JqKbYIBV3UoGM7lV3Y0P9vSKz63VQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FQJYUv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EfDj_1ktdblDvhFq_JqKbYIBV3UoGM7lV3Y0P9vSKz63VQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FQJYUv)
+<br>
+Minuto de Inicio: 00:00 <br>
+Minuto de Fin: 03:42<br>
 
 Resumen:
 
