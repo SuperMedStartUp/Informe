@@ -6725,49 +6725,54 @@ Se planificaron sprints específicos para implementar y validar cada uno de los 
 ---
 
 ### 8.3.3.2. Implemented To-Be Landing Page Evidence
+
 La siguiente captura muestra la landing page implementada de acuerdo con los requisitos del proyecto. En ella, se destacan los siguientes elementos:
+
 - Diseño visual adaptativo (responsive).
 - Menú de navegación con enlaces a las secciones principales.
 - Información relevante sobre el producto/servicio con un enfoque en la usabilidad.
 
 La landing page ha sido desplegada utilizando **Netlify**, lo que garantiza una rápida carga y un despliegue continuo y escalable.
 
-*Captura de la landing page implementada:*
+_Captura de la landing page implementada:_
 
 ![Captura Landing Page](assets/desp-landing.jpg)
 
 ---
 
 ### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+
 A continuación, se presenta la evidencia de la implementación del frontend de la aplicación web, donde se incluyen las funcionalidades desarrolladas. Algunos puntos clave incluyen:
+
 - Integración de los componentes frontend con el backend.
 - Diseño interactivo con enfoque en la experiencia de usuario.
 - Implementación de formularios y validación en tiempo real.
 
 La aplicación web frontend ha sido desplegada a través de **Netlify**, garantizando su disponibilidad y rendimiento constante.
 
-*Captura de la aplicación web frontend:*
+_Captura de la aplicación web frontend:_
 
 ![Captura Frontend Web](assets/desp-web.jpg)
 
 ---
 
 ### 8.3.3.4. Implemented To-Be RESTful API Backend Evidence
+
 La siguiente sección muestra evidencia del backend implementado con una arquitectura RESTful. Las principales características son:
+
 - Endpoints para la comunicación eficiente entre el frontend y el backend.
 - Autenticación y autorización de usuarios.
 - Respuesta eficiente y rápida a las solicitudes del cliente.
 
 El backend ha sido desplegado en **Render**, una plataforma que facilita la gestión y escalabilidad de APIs de forma eficiente.
 
-*Captura de la interfaz o documentación de la API backend:*
+_Captura de la interfaz o documentación de la API backend:_
 
 ![Captura Backend](assets/desp-back1.jpg)
 
 ![Captura Backend](assets/desp-back2.jpg)
 
 ![Captura Backend](assets/desp-back3.jpg)
-
 
 ## 8.3.4. To-Be Validation Interviews
 
@@ -6835,7 +6840,6 @@ Se realizó el diseño de entrevistas para validar las hipótesis planteadas en 
 
 **PACIENTES:**
 
-
 **DOCTORES:**
 
 Entrevista 1:
@@ -6850,16 +6854,13 @@ Datos del entrevistado:
 Edad: 28 años
 Distrito: La Victoria
 
-Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EfDj_1ktdblDvhFq_JqKbYIBV3UoGM7lV3Y0P9vSKz63VQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FQJYUv 
+Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EfDj_1ktdblDvhFq_JqKbYIBV3UoGM7lV3Y0P9vSKz63VQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FQJYUv
 Minuto de Inicio: 00:00
 Minuto de Fin: 03:42
-
 
 Resumen:
 
 En esta entrevista de validación, realizada a través de videollamada con el Dr. Renzo Arteaga, médico traumatólogo de 26 años residente en La Victoria, se validaron las mejoras implementadas en la plataforma web de gestión médica. Renzo destacó que la nueva interfaz para programación de citas es mucho más clara e intuitiva, lo que facilita el proceso tanto para médicos como pacientes. Consideró muy útil la incorporación de recordatorios automáticos, ya que ayudan a reducir las inasistencias por olvido. Respecto al acceso centralizado a historias clínicas, lo consideró una mejora clave para agilizar la consulta médica y optimizar el tiempo con los pacientes. También valoró positivamente la integración con laboratorios, ya que mejora el flujo de información al permitir compartir exámenes y resultados automáticamente. El entrevistado señaló que el chatbot de atención básica ayuda a reducir la carga administrativa al resolver dudas frecuentes, lo cual le permite concentrarse más en la atención médica. Finalmente, reconoció como útil la funcionalidad de gestión de planes de tratamiento con fechas claras, ya que mejora el seguimiento del proceso terapéutico tanto para el médico como para el paciente. En general, Renzo considera que la plataforma tiene un gran potencial, con funcionalidades bien enfocadas, y expresó su disposición a seguir colaborando en futuras validaciones.
-
-
 
 ### Avance de Conclusiones, Bibliografía y Anexos
 
@@ -6899,6 +6900,40 @@ Es de esta forma, que se realizaron 4 pruebas para comprobar el rendimiento de l
 
 En cada prueba se evidencia que el 95% de las solicitudes se realizaron en un promedio de 11 segundos, también se muestra que las pruebas tardaron alrededor de 23 segundos en realizarse. Y lo principal, que en ningún momento hubo errores durante las pruebas realizadas.
 
+<img src="assets/images/lighthouse1.png">
+<br>
+
+En el caso de LightHouse, se obtuvo un rendimiento de 99/100, dando un gran resultado a nuestra aplicación.
+
+A futuro se piensan realizar los experimentos, por lo que, para registrarlos se aplicará una encuesta a una muestra de 50 personas para probar las nuevas funcionalidades que se lleguen a implementar en la aplicación. A partir de esto se podrá realizar una medición de tasas de éxito y fracaso en relación a la hipótesis formuladas:
+
+- Los pacientes que reciben recordatorios automáticos presentarán una tasa de ausencias menor al 15%, comparado con una línea base actual de 25%
+
+**Éxito:** Si la tasa de ausencias es inferior al 15%, se considera un éxito. Esto implicaría que los recordatorios automáticos tienen un impacto positivo significativo en la reducción de ausencias.
+
+**Fracaso:** Si la tasa de ausencias sigue siendo igual o superior al 15%, se consideraría un fracaso.
+
+- Los médicos que acceden a historias clínicas digitales tomarán decisiones clínicas en un 25% menos de tiempo, gracias a una mejor disponibilidad y organización de la información.
+
+**Éxito:** Si el tiempo promedio que los médicos tardan en tomar decisiones clínicas disminuye en al menos un 25% en comparación con el tiempo promedio antes de la implementación de las historias clínicas digitales.
+
+**Fracaso:** Si no se observa una reducción de al menos un 25% en el tiempo de toma de decisiones, o si la mejora es menor a esa cifra.
+
+- Los usuarios mayores de 60 años podrán completar de manera autónoma el flujo de programación de citas en línea en menos de 5 minutos, siempre que la interfaz esté optimizada para ser accesible.
+
+**Éxito:** Si al menos el 80% de los usuarios mayores de 60 años completan el proceso de programación de citas en menos de 5 minutos.
+
+**Fracaso:** Si menos del 80% de los usuarios mayores de 60 años son capaces de completar el proceso en el tiempo estipulado.
+
+- La inclusión de un chatbot reducirá en un 30% la carga de trabajo del personal administrativo en consultas repetitivas o administrativas.
+
+**Éxito:** Si la carga de trabajo del personal administrativo se reduce en al menos un 30% en comparación con la carga de trabajo previa a la implementación del chatbot.
+
+**Fracaso:** Si la reducción es inferior al 30%, o si no hay una mejora significativa.
+
+Y a partir de cada uno de los resultados, se calcularán como el porcentaje de usuarios que logran completar la acción deseada sobre el total de usuarios que intentan realizarla.
+Los resultados obtenidos en las encuestas mostraron gráficas con porcentajes que nos proporcionen la información para evaluar el impacto de los experimentos. Estos análisis estadísticos luego se analizarán para medir la satisfacción del usuario dentro de su uso.
+
 ### 8.4.2. Re-scored and Re-prioritized Question Backlog
 
 Basado en los resultados de los experimentos realizados y el análisis de las pruebas de rendimiento, se ha re-evaluado y re-priorizado el Question Backlog. Los hallazgos de las pruebas Redline 13 y Lighthouse han proporcionado insights valiosos que permiten ajustar las prioridades de investigación.
@@ -6908,6 +6943,7 @@ Basado en los resultados de los experimentos realizados y el análisis de las pr
 **Preguntas Elevadas a Prioridad Alta:**
 
 1. **Escalabilidad del Sistema**
+
    - **Pregunta Original:** ¿El sistema maneja eficientemente múltiples usuarios concurrentes?
    - **Nuevo Score:** 9.5/10
    - **Justificación:** Las pruebas de rendimiento muestran que el 95% de las solicitudes se completan en 11 segundos, confirmando la capacidad de escalabilidad del sistema.
@@ -6920,6 +6956,7 @@ Basado en los resultados de los experimentos realizados y el análisis de las pr
 **Preguntas Reducidas a Prioridad Media:**
 
 1. **Optimización de Rendimiento**
+
    - **Pregunta Original:** ¿Se pueden optimizar los tiempos de carga para mejorar la experiencia?
    - **Nuevo Score:** 6.5/10
    - **Justificación:** Los tiempos actuales son aceptables, pero hay margen para mejora.
@@ -6932,6 +6969,7 @@ Basado en los resultados de los experimentos realizados y el análisis de las pr
 **Preguntas Nuevas Identificadas:**
 
 1. **Gestión de Picos de Tráfico**
+
    - **Score:** 8.0/10
    - **Descripción:** ¿Cómo se comporta el sistema durante picos de tráfico (ej: lanzamiento de nuevas funcionalidades)?
 
@@ -6941,28 +6979,31 @@ Basado en los resultados de los experimentos realizados y el análisis de las pr
 
 #### Matriz de Re-priorización
 
-| Pregunta | Score Original | Score Nuevo | Cambio | Justificación |
-|----------|----------------|-------------|---------|---------------|
-| Escalabilidad del Sistema | 7.0 | 9.5 | +2.5 | Pruebas de rendimiento exitosas |
-| Experiencia bajo carga | 6.5 | 8.8 | +2.3 | Tiempos de respuesta consistentes |
-| Optimización de rendimiento | 8.0 | 6.5 | -1.5 | Rendimiento actual aceptable |
-| Monitoreo de errores | 8.5 | 7.2 | -1.3 | Sistema estable en pruebas |
-| Gestión de picos de tráfico | N/A | 8.0 | N/A | Nueva necesidad identificada |
-| Optimización de BD | N/A | 7.5 | N/A | Oportunidad de mejora |
+| Pregunta                    | Score Original | Score Nuevo | Cambio | Justificación                     |
+| --------------------------- | -------------- | ----------- | ------ | --------------------------------- |
+| Escalabilidad del Sistema   | 7.0            | 9.5         | +2.5   | Pruebas de rendimiento exitosas   |
+| Experiencia bajo carga      | 6.5            | 8.8         | +2.3   | Tiempos de respuesta consistentes |
+| Optimización de rendimiento | 8.0            | 6.5         | -1.5   | Rendimiento actual aceptable      |
+| Monitoreo de errores        | 8.5            | 7.2         | -1.3   | Sistema estable en pruebas        |
+| Gestión de picos de tráfico | N/A            | 8.0         | N/A    | Nueva necesidad identificada      |
+| Optimización de BD          | N/A            | 7.5         | N/A    | Oportunidad de mejora             |
 
 #### Plan de Acción para Preguntas Re-priorizadas
 
 **Inmediato (Sprint Actual):**
+
 - Implementar monitoreo de picos de tráfico
 - Configurar alertas para tiempos de respuesta >15 segundos
 - Optimizar consultas de base de datos más frecuentes
 
 **Corto Plazo (Próximos 2 Sprints):**
+
 - Implementar cache para consultas frecuentes
 - Optimizar carga de imágenes y recursos estáticos
 - Mejorar la gestión de sesiones concurrentes
 
 **Mediano Plazo (Próximos 3 Sprints):**
+
 - Implementar CDN para distribución global
 - Optimizar consultas complejas de historias clínicas
 - Implementar compresión de datos en tránsito
@@ -7011,18 +7052,19 @@ El enfoque de Experiment-Driven Development requiere un proceso de aprendizaje c
 
 #### KPIs de Aprendizaje
 
-| Métrica | Objetivo | Actual | Tendencia |
-|---------|----------|---------|-----------|
-| Tiempo de implementación | < 2 semanas | 1.8 semanas | ↘️ |
-| Tasa de éxito experimentos | > 70% | 75% | ↗️ |
-| Adopción de mejoras | > 60% | 68% | ↗️ |
-| NPS | > 50 | 52 | ↗️ |
+| Métrica                    | Objetivo    | Actual      | Tendencia |
+| -------------------------- | ----------- | ----------- | --------- |
+| Tiempo de implementación   | < 2 semanas | 1.8 semanas | ↘️        |
+| Tasa de éxito experimentos | > 70%       | 75%         | ↗️        |
+| Adopción de mejoras        | > 60%       | 68%         | ↗️        |
+| NPS                        | > 50        | 52          | ↗️        |
 
 ### Proceso de Aprendizaje Continuo
 
 #### 1. Recolección de Datos
 
 - **Fuentes Automatizadas:**
+
   - Analytics de uso de la plataforma
   - Métricas de rendimiento técnico
   - Datos de errores y excepciones
@@ -7037,6 +7079,7 @@ El enfoque de Experiment-Driven Development requiere un proceso de aprendizaje c
 #### 2. Análisis de Insights
 
 - **Análisis Cuantitativo:**
+
   - Estadísticas de uso por funcionalidad
   - Patrones de comportamiento de usuarios
   - Correlaciones entre métricas
@@ -7105,6 +7148,7 @@ Los artefactos de las sesiones de shareback documentan el flujo de trabajo de ap
 **Formato:** Tarjetas digitales con estructura estandarizada
 
 **Contenido:**
+
 - **Título del Aprendizaje:** Descripción concisa del insight
 - **Contexto:** Situación que generó el aprendizaje
 - **Insight Principal:** Hallazgo clave identificado
@@ -7130,12 +7174,14 @@ APLICABILIDAD: Aplicar optimización similar en todas las páginas críticas
 **Propósito:** Visualización centralizada de resultados de experimentos
 
 **Métricas Incluidas:**
+
 - Tasa de éxito por tipo de experimento
 - Tiempo promedio de implementación
 - Impacto en métricas de negocio
 - ROI de experimentos por categoría
 
 **Visualizaciones:**
+
 - Gráficos de tendencias temporales
 - Comparativas entre experimentos
 - Análisis de correlaciones
@@ -7144,12 +7190,14 @@ APLICABILIDAD: Aplicar optimización similar en todas las páginas críticas
 ##### 3. User Feedback Repository
 
 **Estructura:**
+
 - **Categorización:** Por funcionalidad, tipo de usuario, severidad
 - **Análisis de Sentiment:** Positivo, neutral, negativo
 - **Patrones Identificados:** Temas recurrentes en feedback
 - **Acciones Tomadas:** Respuestas específicas a cada tipo de feedback
 
 **Herramientas Utilizadas:**
+
 - Sistema de tickets integrado
 - Análisis de texto automatizado
 - Clasificación por tags
@@ -7158,12 +7206,14 @@ APLICABILIDAD: Aplicar optimización similar en todas las páginas críticas
 ##### 4. Technical Learning Log
 
 **Contenido:**
+
 - **Problemas Técnicos:** Issues identificados y soluciones implementadas
 - **Optimizaciones:** Mejoras de rendimiento y escalabilidad
 - **Patrones de Diseño:** Soluciones reutilizables identificadas
 - **Lecciones de Arquitectura:** Decisiones técnicas y sus justificaciones
 
 **Formato:**
+
 ```
 FECHA: [Fecha del aprendizaje]
 PROBLEMA: [Descripción del problema técnico]
@@ -7175,6 +7225,7 @@ APLICACIÓN FUTURA: [Cómo aplicar en otros contextos]
 ##### 5. Process Improvement Suggestions
 
 **Categorías:**
+
 - **Desarrollo:** Mejoras en flujo de trabajo técnico
 - **Testing:** Optimización de estrategias de prueba
 - **Deployment:** Mejoras en proceso de despliegue
@@ -7185,6 +7236,7 @@ APLICACIÓN FUTURA: [Cómo aplicar en otros contextos]
 ##### Fase 1: Recolección (Día 1-5)
 
 1. **Recolección Automática:**
+
    - Datos de analytics
    - Métricas de rendimiento
    - Feedback automático de usuarios
@@ -7199,6 +7251,7 @@ APLICACIÓN FUTURA: [Cómo aplicar en otros contextos]
 ##### Fase 2: Análisis (Día 6-7)
 
 1. **Procesamiento de Datos:**
+
    - Limpieza y normalización
    - Análisis estadístico
    - Identificación de patrones
@@ -7213,6 +7266,7 @@ APLICACIÓN FUTURA: [Cómo aplicar en otros contextos]
 ##### Fase 3: Shareback (Día 8)
 
 1. **Presentación de Resultados:**
+
    - Insights principales
    - Métricas clave
    - Tendencias identificadas
@@ -7227,6 +7281,7 @@ APLICACIÓN FUTURA: [Cómo aplicar en otros contextos]
 ##### Fase 4: Implementación (Día 9-14)
 
 1. **Desarrollo de Soluciones:**
+
    - Implementación de mejoras
    - Testing de cambios
    - Monitoreo de impacto
@@ -7241,37 +7296,40 @@ APLICACIÓN FUTURA: [Cómo aplicar en otros contextos]
 
 ##### Indicadores de Proceso
 
-| Métrica | Objetivo | Actual | Tendencia |
-|---------|----------|---------|-----------|
-| Tiempo de ciclo completo | < 14 días | 12 días | ↘️ |
-| % de insights implementados | > 80% | 85% | ↗️ |
-| Calidad de documentación | > 8/10 | 8.5/10 | ↗️ |
-| Participación en shareback | > 90% | 95% | ↗️ |
+| Métrica                     | Objetivo  | Actual  | Tendencia |
+| --------------------------- | --------- | ------- | --------- |
+| Tiempo de ciclo completo    | < 14 días | 12 días | ↘️        |
+| % de insights implementados | > 80%     | 85%     | ↗️        |
+| Calidad de documentación    | > 8/10    | 8.5/10  | ↗️        |
+| Participación en shareback  | > 90%     | 95%     | ↗️        |
 
 ##### Indicadores de Impacto
 
-| Métrica | Objetivo | Actual | Tendencia |
-|---------|----------|---------|-----------|
-| Velocidad de implementación | < 2 semanas | 1.8 semanas | ↘️ |
-| Tasa de éxito experimentos | > 70% | 75% | ↗️ |
-| Satisfacción del equipo | > 8/10 | 8.2/10 | ↗️ |
-| Calidad del producto | > 8.5/10 | 8.7/10 | ↗️ |
+| Métrica                     | Objetivo    | Actual      | Tendencia |
+| --------------------------- | ----------- | ----------- | --------- |
+| Velocidad de implementación | < 2 semanas | 1.8 semanas | ↘️        |
+| Tasa de éxito experimentos  | > 70%       | 75%         | ↗️        |
+| Satisfacción del equipo     | > 8/10      | 8.2/10      | ↗️        |
+| Calidad del producto        | > 8.5/10    | 8.7/10      | ↗️        |
 
 #### Herramientas y Tecnologías
 
 ##### Plataforma de Colaboración
+
 - **Notion:** Documentación centralizada de aprendizajes
 - **Miro:** Visualización de workflows y procesos
 - **Slack:** Comunicación en tiempo real
 - **GitHub:** Control de versiones y colaboración
 
 ##### Herramientas de Análisis
+
 - **Google Analytics:** Métricas de uso
 - **Hotjar:** Análisis de comportamiento
 - **Lighthouse:** Métricas de rendimiento
 - **Custom Dashboard:** Métricas específicas del producto
 
 ##### Herramientas de Experimentación
+
 - **Optimizely:** A/B testing
 - **UserTesting:** Testing de usabilidad
 - **FullStory:** Session recording
