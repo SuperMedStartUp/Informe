@@ -6724,6 +6724,51 @@ Se planificaron sprints específicos para implementar y validar cada uno de los 
 
 ---
 
+### 8.3.3.2. Implemented To-Be Landing Page Evidence
+La siguiente captura muestra la landing page implementada de acuerdo con los requisitos del proyecto. En ella, se destacan los siguientes elementos:
+- Diseño visual adaptativo (responsive).
+- Menú de navegación con enlaces a las secciones principales.
+- Información relevante sobre el producto/servicio con un enfoque en la usabilidad.
+
+La landing page ha sido desplegada utilizando **Netlify**, lo que garantiza una rápida carga y un despliegue continuo y escalable.
+
+*Captura de la landing page implementada:*
+
+![Captura Landing Page](assets/desp-landing.jpg)
+
+---
+
+### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+A continuación, se presenta la evidencia de la implementación del frontend de la aplicación web, donde se incluyen las funcionalidades desarrolladas. Algunos puntos clave incluyen:
+- Integración de los componentes frontend con el backend.
+- Diseño interactivo con enfoque en la experiencia de usuario.
+- Implementación de formularios y validación en tiempo real.
+
+La aplicación web frontend ha sido desplegada a través de **Netlify**, garantizando su disponibilidad y rendimiento constante.
+
+*Captura de la aplicación web frontend:*
+
+![Captura Frontend Web](assets/desp-web.jpg)
+
+---
+
+### 8.3.3.4. Implemented To-Be RESTful API Backend Evidence
+La siguiente sección muestra evidencia del backend implementado con una arquitectura RESTful. Las principales características son:
+- Endpoints para la comunicación eficiente entre el frontend y el backend.
+- Autenticación y autorización de usuarios.
+- Respuesta eficiente y rápida a las solicitudes del cliente.
+
+El backend ha sido desplegado en **Render**, una plataforma que facilita la gestión y escalabilidad de APIs de forma eficiente.
+
+*Captura de la interfaz o documentación de la API backend:*
+
+![Captura Backend](assets/desp-back1.jpg)
+
+![Captura Backend](assets/desp-back2.jpg)
+
+![Captura Backend](assets/desp-back3.jpg)
+
+
 ## 8.3.4. To-Be Validation Interviews
 
 ### Objetivo de las Entrevistas
