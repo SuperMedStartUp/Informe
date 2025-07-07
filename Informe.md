@@ -6805,8 +6805,7 @@ Datos del entrevistado:
 Edad: 28 años
 Distrito: La Victoria
 
-Link de la Entrevista:
-Ver entrevista
+Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212112_upc_edu_pe/EfDj_1ktdblDvhFq_JqKbYIBV3UoGM7lV3Y0P9vSKz63VQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=FQJYUv 
 Minuto de Inicio: 00:00
 Minuto de Fin: 03:42
 
